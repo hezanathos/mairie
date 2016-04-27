@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-25462-01" codeInsee="25462" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Hôtel de police de Pontarlier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 rocade Georges-Pompidou</Ligne>
+      <CodePostal>25304</CodePostal>
+      <NomCommune>Pontarlier</NomCommune>
+      <Localisation>
+         <Latitude>46.9012148</Latitude>
+         <Longitude>6.3538029</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 38 51 10</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

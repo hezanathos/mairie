@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-08409-01" codeInsee="08409" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sedan</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42 boulevard Chanzy</Ligne>
+      <Ligne>Caserne Capitaine Delpal</Ligne>
+      <CodePostal>08200</CodePostal>
+      <NomCommune>Sedan</NomCommune>
+      <Localisation>
+         <Latitude>49.7042425</Latitude>
+         <Longitude>4.9329116</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 22 45 00</Téléphone>
+      <Télécopie>+33 3 24 22 45 48</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

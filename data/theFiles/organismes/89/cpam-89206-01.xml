@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-89206-01" codeInsee="89206" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de l'Yonne - accueil de Joigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>2 quai du 1er-Dragon</Ligne>
+      <CodePostal>89300</CodePostal>
+      <NomCommune>Joigny</NomCommune>
+      <Localisation>
+         <Latitude>47.981432</Latitude>
+         <Longitude>3.398961</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>12 rue du Clos</Ligne>
+      <Ligne>BP 80087</Ligne>
+      <Ligne>Caisse d'allocations familiales de l'Yonne</Ligne>
+      <CodePostal>89024</CodePostal>
+      <NomCommune>Auxerre Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil uniquement sur rendez-vous. Pour prendre rendez-vous, contactez la CPAM par mail (rdvaccueil@cpam-auxerre.cnamts.fr), ou en écrivant un courrier à la CPAM  en mentionnant "Demande de rendez-vous" dans l'adresse. Accès à notre point d'accueil par la cour de la mairie. Accueil téléphonique du lundi et vendredi de 8h30 à 16h30.</Commentaire>
+</Organisme>

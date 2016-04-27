@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-30146-01" codeInsee="30146" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lédignan</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>257 chemin de Mas-Oliviers</Ligne>
+      <CodePostal>30350</CodePostal>
+      <NomCommune>Lédignan</NomCommune>
+      <Localisation>
+         <Latitude>43.9911597</Latitude>
+         <Longitude>4.112653</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 83 40 07</Téléphone>
+      <Télécopie>+33 4 66 83 25 82</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

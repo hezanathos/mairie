@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-54431-01" codeInsee="54431" dateMiseAJour="2015-07-02" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Pont-à-Mousson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 30229</Ligne>
+      <Ligne>16 rue Raugraff</Ligne>
+      <CodePostal>54701</CodePostal>
+      <NomCommune>Pont-à-Mousson Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.9034875</Latitude>
+         <Longitude>6.0503481</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 81 05 74</Téléphone>
+      <Email>sip-sie.pont-a-mousson@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-52121-01" codeInsee="52121" dateMiseAJour="2016-01-04"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Champagne-Ardenne - accueil de Haute-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>BP 2063</Ligne>
+      <Ligne>4 place Aristide-Briand</Ligne>
+      <CodePostal>52000</CodePostal>
+      <NomCommune>Chaumont</NomCommune>
+      <Localisation>
+         <Latitude>48.1161116</Latitude>
+         <Longitude>5.1422091</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 60001</Ligne>
+      <Ligne>Urssaf de Haute-Marne</Ligne>
+      <Ligne>202 rue des Capucins</Ligne>
+      <CodePostal>51089</CodePostal>
+      <NomCommune>Reims Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.champagneardenne.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Uniquement sur rendez-vous, par téléphone au 3957, par messagerie www.contact.urssaf.fr</Commentaire>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-48162-01" codeInsee="48162" dateMiseAJour="2015-01-06"
+           pivotLocal="epci">
+   <Nom>Communauté de communes  Cévenoles Tarnon Mimente</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>48400</CodePostal>
+      <NomCommune>Saint-Julien-d'Arpaon</NomCommune>
+      <Localisation>
+         <Latitude>44.3042299</Latitude>
+         <Longitude>3.6217802</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 94 05 08</Téléphone>
+      <Email>http://www.tarnon-mimente.fr/pub_contact_fr.html</Email>
+      <Url>http://www.tarnon-mimente.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

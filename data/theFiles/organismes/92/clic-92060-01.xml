@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-92060-01" codeInsee="92060" dateMiseAJour="2015-10-12"
+           pivotLocal="clic"
+           idPresta="Clic-1227">
+   <Nom>Point d'information local dédié aux personnes âgées - Le-Plessis-Robinson</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Coordination gérontologique de Le-Plessis-Robinson</Ligne>
+      <Ligne>3 place de la Mairie</Ligne>
+      <Ligne>Hôtel de ville</Ligne>
+      <CodePostal>92350</CodePostal>
+      <NomCommune>Le-Plessis-Robinson</NomCommune>
+      <Localisation>
+         <Latitude>48.782325</Latitude>
+         <Longitude>2.262225</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+ 33 1 46 01 43 21</Téléphone>
+      <Url>http://www.hauts-de-seine.fr/solidarites/personnes-agees/maintien-a-domicile/adresses-des-clic-et-coordinations-gerontologiques/</Url>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

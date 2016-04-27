@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-09032-01" codeInsee="09032" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Ax-les-Thermes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 chemin du Couloubret</Ligne>
+      <CodePostal>09110</CodePostal>
+      <NomCommune>Ax-les-Thermes</NomCommune>
+      <Localisation>
+         <Latitude>49.5329409</Latitude>
+         <Longitude>4.2534344</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 64 20 17</Téléphone>
+      <Télécopie>+33 5 61 64 73 70</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

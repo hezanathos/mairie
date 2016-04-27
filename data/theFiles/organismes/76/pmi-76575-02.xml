@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-76575-02" codeInsee="76575" dateMiseAJour="2015-08-17" pivotLocal="pmi">
+   <Nom>Centre médico-social de Saint-Étienne-du-Rouvray</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Georges-Méliès</Ligne>
+      <CodePostal>76800</CodePostal>
+      <NomCommune>Saint-Étienne-du-Rouvray</NomCommune>
+      <Localisation>
+         <Latitude>49.397664</Latitude>
+         <Longitude>1.072302</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 66 49 95</Téléphone>
+      <Télécopie>+33 2 35 65 02 45</Télécopie>
+      <Url>http://www.seinemaritime.net</Url>
+   </CoordonnéesNum>
+</Organisme>

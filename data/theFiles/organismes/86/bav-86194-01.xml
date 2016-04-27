@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="86194" dateMiseAJour="2013-10-29" id="bav-86194-01" idPresta="51b08cdcb473e4147800133a" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Poitiers</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 place Alphonse Lepetit</Ligne>
+        <Ligne>CS 30527</Ligne>
+        <CodePostal>86020</CodePostal>
+        <NomCommune>POITIERS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.583279</Latitude>
+            <Longitude>0.341662</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 49 50 22 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-15122-01" codeInsee="15122" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Maurs</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25 route de Quézac</Ligne>
+      <CodePostal>15600</CodePostal>
+      <NomCommune>Maurs</NomCommune>
+      <Localisation>
+         <Latitude>44.7161323</Latitude>
+         <Longitude>2.1952784</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 49 00 08</Téléphone>
+      <Télécopie>+33 4 71 49 79 34</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

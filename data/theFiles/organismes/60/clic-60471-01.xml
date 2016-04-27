@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-60471-01" codeInsee="60471" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-528">
+   <Nom>Point d'information local dédié aux personnes âgées - Noyon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 avenue de la Gare</Ligne>
+      <Ligne>Antenne Maison Départementale de la Solidarité de Noyon</Ligne>
+      <CodePostal>60400</CodePostal>
+      <NomCommune>Noyon</NomCommune>
+      <Localisation>
+         <Latitude>49.578441</Latitude>
+         <Longitude>3.011219</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 10 71 80</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

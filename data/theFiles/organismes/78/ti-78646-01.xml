@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="78646" dateMiseAJour="2014-01-28" id="ti-78646-01" idPresta="4cac9e6a293594648a00180f" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Versailles</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>5 place André Mignot</Ligne>
+        <Ligne>R.P. 1109</Ligne>
+        <CodePostal>78011</CodePostal>
+        <NomCommune>VERSAILLES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.80352</Latitude>
+            <Longitude>2.131783</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 39 07 39 40</Téléphone>
+        <Télécopie>+33 1 39 07 39 50</Télécopie>
+        <Email>mailto:accueil.ti-versailles@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

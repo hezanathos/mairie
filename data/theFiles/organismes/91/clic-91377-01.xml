@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-91377-01" codeInsee="91377" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-819">
+   <Nom>Point d'information local dédié aux personnes âgées - Massy</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue de Rome</Ligne>
+      <Ligne>Centre local d'information et de coordination La HARPE</Ligne>
+      <CodePostal>91300</CodePostal>
+      <NomCommune>Massy</NomCommune>
+      <Localisation>
+         <Latitude>48.730191</Latitude>
+         <Longitude>2.284766</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 13 52 30</Téléphone>
+      <Email>contact@harpe.asso.fr</Email>
+      <Url>http://www.harpe.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

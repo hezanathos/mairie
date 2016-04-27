@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-2A065-01" codeInsee="2A065" dateMiseAJour="2015-08-13"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Deux Sevi</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Colonel-Fieschi-la-Radica</Ligne>
+      <CodePostal>20130</CodePostal>
+      <NomCommune>Cargèse</NomCommune>
+      <Localisation>
+         <Latitude>42.134855</Latitude>
+         <Longitude>8.595838</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 26 41 01</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

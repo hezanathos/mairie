@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-35238-02" codeInsee="35238" dateMiseAJour="2016-03-09"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Rennes - Ouest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZAC Atalante Champeaux</Ligne>
+      <Ligne>5 rue Pierre-Joseph-Colin</Ligne>
+      <Ligne>CS 41128</Ligne>
+      <CodePostal>35011</CodePostal>
+      <NomCommune>Rennes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.1117611</Latitude>
+         <Longitude>-1.6802654</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accueil libre sans rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Accueil uniquement sur rendez-vous : lundi, mardi, mercredi : de 12h30 à 16h30 et le vendredi : de 12h30 à 15h30</Commentaire>
+</Organisme>

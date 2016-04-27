@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-67437-01" codeInsee="67437" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Alsace - accueil de Saverne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Cour du Cinéma Cubic</Ligne>
+      <Ligne>Le Patio</Ligne>
+      <Ligne>133 Grand-Rue</Ligne>
+      <CodePostal>67700</CodePostal>
+      <NomCommune>Saverne</NomCommune>
+      <Localisation>
+         <Latitude>48.741963</Latitude>
+         <Longitude>7.361647</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>9 rue de Guebwiller</Ligne>
+      <Ligne>MSA d'Alsace</Ligne>
+      <CodePostal>68023</CodePostal>
+      <NomCommune>Colmar Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 20 78 68</Téléphone>
+      <Télécopie>+33 3 89 20 79 00</Télécopie>
+      <Email>http://www.msa-alsace.fr/lfr/contact-particulier</Email>
+      <Url>http://www.msa-alsace.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Fermeture exceptionnelle en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

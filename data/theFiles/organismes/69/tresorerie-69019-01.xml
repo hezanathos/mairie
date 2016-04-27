@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-69019-01" codeInsee="69019" dateMiseAJour="2015-01-14"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Belleville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de l'Église</Ligne>
+      <Ligne>BP 191</Ligne>
+      <CodePostal>69823</CodePostal>
+      <NomCommune>Belleville Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.1079514</Latitude>
+         <Longitude>4.7502884</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 66 05 54</Téléphone>
+      <Télécopie>+33 4 74 66 31 48</Télécopie>
+      <Email>t069048@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-81309-01" codeInsee="81309" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vaour</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>81140</CodePostal>
+      <NomCommune>Vaour</NomCommune>
+      <Localisation>
+         <Latitude>44.07285</Latitude>
+         <Longitude>1.801892</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 56 48 30</Téléphone>
+      <Télécopie>+33 5 63 56 48 34</Télécopie>
+      <Email>cob.cordes-sur-ciel@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

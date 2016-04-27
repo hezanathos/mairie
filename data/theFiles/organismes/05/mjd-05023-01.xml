@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="05023" dateMiseAJour="2011-03-01" id="mjd-05023-01" idPresta="51b08cd1b473e414780010ca" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit de Briançon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>23 rue de la République</Ligne>
+        <CodePostal>05100</CodePostal>
+        <NomCommune>BRIANCON</NomCommune>
+        <Localisation>
+            <Latitude>44.898402</Latitude>
+            <Longitude>6.639377</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Url>http://www.justice.gouv.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="43157" dateMiseAJour="2015-11-03" id="civi-43157-01" idPresta="4cac9e70293594648a002271" pivotLocal="civi">
+    <Nom>Commission d&#39;indemnisation des victimes d&#39;infractions de Le Puy En Velay</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>place Breuil</Ligne>
+        <CodePostal>43000</CodePostal>
+        <NomCommune>LE PUY EN VELAY</NomCommune>
+        <Localisation>
+            <Latitude>45.0420584</Latitude>
+            <Longitude>3.8838852</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 71 09 05 70</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93005" dateMiseAJour="2015-11-03" id="permanence_juridique-93005-01" idPresta="4cac9e61293594648a000549" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit d&#39;Aulnay-Sous-Bois</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Plate-forme d&#39;Insertion Multiservices</Ligne>
+        <Ligne>119 Galerie Surcouf</Ligne>
+        <Ligne>Le Galion Rose des Vents</Ligne>
+        <CodePostal>93600</CodePostal>
+        <NomCommune>AULNAY SOUS BOIS</NomCommune>
+        <Localisation>
+            <Latitude>48.954777</Latitude>
+            <Longitude>2.499432</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 48 79 83 18</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

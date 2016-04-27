@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-25434-01" codeInsee="25434" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Ornans</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue Édouard-Bastide</Ligne>
+      <CodePostal>25290</CodePostal>
+      <NomCommune>Ornans</NomCommune>
+      <Localisation>
+         <Latitude>47.1025491</Latitude>
+         <Longitude>6.1551501</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 62 21 17</Téléphone>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

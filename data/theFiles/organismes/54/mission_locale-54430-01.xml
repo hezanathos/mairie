@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-54430-01" codeInsee="54430" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Val-de-Lorraine-Laxou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue des Aciéries</Ligne>
+      <CodePostal>54340</CodePostal>
+      <NomCommune>Pompey</NomCommune>
+      <Localisation>
+         <Latitude>48.7738149</Latitude>
+         <Longitude>6.10728599999993</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 24 30 72</Téléphone>
+      <Télécopie>+33 3 83 49 03 19</Télécopie>
+      <Email>mlvdlpompey@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

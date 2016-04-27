@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="02408" dateMiseAJour="2015-11-03" id="permanence_juridique-02408-01" idPresta="4cd18fb22935940531010982" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre social du quartier Champagne</Ligne>
+        <Ligne>rue Pierre Curtil</Ligne>
+        <CodePostal>02000</CodePostal>
+        <NomCommune>LAON</NomCommune>
+        <Localisation>
+            <Latitude>49.566796</Latitude>
+            <Longitude>3.644134</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 23 23 16 09</Téléphone>
+        <Email>mailto:cdad-aisne@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

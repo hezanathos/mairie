@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-57712-01" codeInsee="57712" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vic-sur-Seille</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue Pierre Saffroy</Ligne>
+      <CodePostal>57630</CodePostal>
+      <NomCommune>Vic-sur-Seille</NomCommune>
+      <Localisation>
+         <Latitude>48.7785117</Latitude>
+         <Longitude>6.5349658</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 01 10 08</Téléphone>
+      <Email>cob.chateau-salins@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

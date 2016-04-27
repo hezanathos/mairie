@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-83062-01" codeInsee="83062" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de La Garde</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Jacques-Duclos</Ligne>
+      <CodePostal>83130</CodePostal>
+      <NomCommune>La Garde</NomCommune>
+      <Localisation>
+         <Latitude>43.119492</Latitude>
+         <Longitude>6.0078823</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 75 88 88</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

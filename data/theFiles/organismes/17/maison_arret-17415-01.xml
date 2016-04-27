@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="17415" dateMiseAJour="2014-01-28" id="maison_arret-17415-01" idPresta="4eb263322935944ef50001b1" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Saintes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>59 Bis rue de l&#39;Arc de Triomphe</Ligne>
+        <Ligne>BP 311</Ligne>
+        <CodePostal>17107</CodePostal>
+        <NomCommune>SAINTES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.745637</Latitude>
+            <Longitude>-0.625713</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 46 92 18 04</Téléphone>
+        <Télécopie>+33 5 46 92 21 76</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-40296-01" codeInsee="40296" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Seignosse</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Charles-de-Gaulle</Ligne>
+      <CodePostal>40510</CodePostal>
+      <NomCommune>Seignosse</NomCommune>
+      <Localisation>
+         <Latitude>43.6892032</Latitude>
+         <Longitude>-1.3653693</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 49 87 10</Téléphone>
+      <Télécopie>+33 5 58 72 87 14</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

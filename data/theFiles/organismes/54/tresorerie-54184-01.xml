@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-54184-01" codeInsee="54184" dateMiseAJour="2015-07-02"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie d'Essey-lès-Nancy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <Ligne>CS 50040</Ligne>
+      <CodePostal>54271</CodePostal>
+      <NomCommune>Essey-lès-Nancy</NomCommune>
+      <Localisation>
+         <Latitude>48.7052017</Latitude>
+         <Longitude>6.2223704</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 29 10 22</Téléphone>
+      <Email>t054003@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

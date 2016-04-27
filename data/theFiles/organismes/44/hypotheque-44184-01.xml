@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-44184-01" codeInsee="44184" dateMiseAJour="2015-01-15"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-conservation des hypothèques) de Saint-Nazaire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1-3, rue Francis-de-Pressensé</Ligne>
+      <Ligne>CS 40289</Ligne>
+      <CodePostal>44616</CodePostal>
+      <NomCommune>Saint-Nazaire Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.2744846</Latitude>
+         <Longitude>-2.2226902</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 00 29 30</Téléphone>
+      <Télécopie>+33 2 40 00 29 68</Télécopie>
+      <Email>spf.saint-nazaire1@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

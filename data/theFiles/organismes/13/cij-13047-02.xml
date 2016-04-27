@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13047-02" codeInsee="13047" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Istres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace pluriel jeunes</Ligne>
+      <Ligne>Place Champollion</Ligne>
+      <CodePostal>13800</CodePostal>
+      <NomCommune>Istres</NomCommune>
+      <Localisation>
+         <Latitude>43.4696901</Latitude>
+         <Longitude>5.015318</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 56 25 19</Téléphone>
+      <Télécopie>+33 4 42 56 24 98</Télécopie>
+      <Email>epj@wanadoo.fr</Email>
+      <Url>http://www.epj.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="18:30:00"/>
+         <Note>Fermeture le samedi de juin à août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="85194" dateMiseAJour="2012-06-21" id="bav-85194-01" idPresta="4d5e5bec2935941fe9000024" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance des Sables d&#39;Olonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du palais de justice</Ligne>
+        <Ligne>bp 10365</Ligne>
+        <CodePostal>85109</CodePostal>
+        <NomCommune>LES SABLES D OLONNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.4950214</Latitude>
+            <Longitude>-1.7886753</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 51 23 77 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

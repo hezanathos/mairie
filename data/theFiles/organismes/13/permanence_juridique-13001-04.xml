@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13001" dateMiseAJour="2015-11-03" id="permanence_juridique-13001-04" idPresta="4cd18fb329359405310109d0" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice - Ordre des Avocats</Ligne>
+        <Ligne>place de Verdun</Ligne>
+        <CodePostal>13100</CodePostal>
+        <NomCommune>AIX EN PROVENCE</NomCommune>
+        <Localisation>
+            <Latitude>43.5284302125</Latitude>
+            <Longitude>5.45067593121</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 21 72 49</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

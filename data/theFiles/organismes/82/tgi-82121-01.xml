@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="82121" dateMiseAJour="2014-10-27" id="tgi-82121-01" idPresta="4cac9e61293594648a0005fa" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Montauban</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du Coq</Ligne>
+        <CodePostal>82013</CodePostal>
+        <NomCommune>MONTAUBAN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.016847</Latitude>
+            <Longitude>1.353339</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 63 21 40 00</Téléphone>
+        <Télécopie>+33 5 63 66 34 52</Télécopie>
+        <Email>mailto:tgi-montauban@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

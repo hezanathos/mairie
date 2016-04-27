@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-25284-01" codeInsee="25284" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Grand-Charmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue de Sochaux</Ligne>
+      <CodePostal>25200</CodePostal>
+      <NomCommune>Grand-Charmont</NomCommune>
+      <Localisation>
+         <Latitude>47.5262985229</Latitude>
+         <Longitude>6.82682991028</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 32 19 17</Téléphone>
+      <Télécopie>+33 3 81 32 11 48</Télécopie>
+      <Email>ijgrandcharmont@jeunes-fc.com</Email>
+      <Url>http://www.grand-charmont.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

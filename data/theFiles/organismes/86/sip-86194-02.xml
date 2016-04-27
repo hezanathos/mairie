@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-86194-02" codeInsee="86194" dateMiseAJour="2016-02-09" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Poitiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue de Slovénie</Ligne>
+      <Ligne>BP 565</Ligne>
+      <CodePostal>86021</CodePostal>
+      <NomCommune>Poitiers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.5876157</Latitude>
+         <Longitude>0.3607292</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 38 24 00</Téléphone>
+      <Télécopie>+33 5 49 38 24 87</Télécopie>
+      <Email>sip.poitiers@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+         <PlageH début="13:15:00" fin="15:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

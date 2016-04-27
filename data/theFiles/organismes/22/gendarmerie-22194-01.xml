@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-22194-01" codeInsee="22194" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Plestin-les-Grèves</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du 19-Mars-1962</Ligne>
+      <CodePostal>22310</CodePostal>
+      <NomCommune>Plestin-les-Grèves</NomCommune>
+      <Localisation>
+         <Latitude>48.654085</Latitude>
+         <Longitude>-3.630768</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 35 62 18</Téléphone>
+      <Télécopie>+33 2 96 35 67 79</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

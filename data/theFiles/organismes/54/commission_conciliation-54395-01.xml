@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commission_conciliation-54395-01" codeInsee="54395"
+           dateMiseAJour="2014-04-03"
+           pivotLocal="commission_conciliation">
+   <Nom>Commission départementale de conciliation - Meurthe-et-Moselle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 70708</Ligne>
+      <Ligne>4, rue du Général-Drouot</Ligne>
+      <Ligne>Direction départementale de la cohésion sociale</Ligne>
+      <CodePostal>54064</CodePostal>
+      <NomCommune>Nancy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6877472</Latitude>
+         <Longitude>6.1852573</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 54 84 47 17</Téléphone>
+      <Télécopie>+33 3 83 48 42 42</Télécopie>
+      <Url>http://www.meurthe-et-moselle.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-21277-01" codeInsee="21277" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Fontaine-Française</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Dominique Guérin</Ligne>
+      <CodePostal>21610</CodePostal>
+      <NomCommune>Fontaine-Française</NomCommune>
+      <Localisation>
+         <Latitude>47.5257943</Latitude>
+         <Longitude>5.3700373</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 75 82 10</Téléphone>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

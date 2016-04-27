@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-73065-01" codeInsee="73065" dateMiseAJour="2015-01-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Chambéry</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Woehrlé 28, rue de Sonnaz</Ligne>
+      <CodePostal>73000</CodePostal>
+      <NomCommune>Chambéry</NomCommune>
+      <Localisation>
+         <Latitude>45.601574</Latitude>
+         <Longitude>5.914708</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 71 82 00</Téléphone>
+      <Télécopie>+33 4 79 71 83 38</Télécopie>
+      <Email>bta.chambery@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

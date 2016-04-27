@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="draf-97105-01" codeInsee="97105" dateMiseAJour="2016-01-12"
+           pivotLocal="draf">
+   <Nom>Direction de l'alimentation, de l'agriculture et de la forêt - Guadeloupe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Jardin Botanique</Ligne>
+      <CodePostal>97100</CodePostal>
+      <NomCommune>Basse-Terre</NomCommune>
+      <Localisation>
+         <Latitude>45.3500859</Latitude>
+         <Longitude>-0.9311392</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 90 99 09 09</Téléphone>
+      <Télécopie>+33 5 90 99 09 10</Télécopie>
+      <Email>daaf971@agriculture.gouv.fr</Email>
+      <Url>http://daaf971.agriculture.gouv.fr</Url>
+      <Sve>http://agriculture.gouv.fr/contactfaq</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

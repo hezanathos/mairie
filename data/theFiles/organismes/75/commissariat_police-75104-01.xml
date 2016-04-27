@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-75104-01" codeInsee="75104" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat central de police de Paris 4e arrondissement</Nom>
+   <EditeurSource>Préfecture de police de Paris</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27 boulevard Bourdon</Ligne>
+      <CodePostal>75004</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8511053</Latitude>
+         <Longitude>2.3672236</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 40 29 22 00</Téléphone>
+      <Url>http://www.prefecturedepolice.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

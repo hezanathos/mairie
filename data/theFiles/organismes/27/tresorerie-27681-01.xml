@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-27681-01" codeInsee="27681" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Vernon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 rue du Parc</Ligne>
+      <Ligne>BP 907</Ligne>
+      <CodePostal>27207</CodePostal>
+      <NomCommune>Vernon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.0891062</Latitude>
+         <Longitude>1.4791121</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 51 04 45</Téléphone>
+      <Email>t027015@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

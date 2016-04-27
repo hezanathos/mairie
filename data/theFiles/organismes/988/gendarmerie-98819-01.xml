@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-98819-01" codeInsee="98819" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Ouégoa</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village Voie Urbaine 12</Ligne>
+      <CodePostal>98821</CodePostal>
+      <NomCommune>Ouegoa</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+687 35 64 17</Téléphone>
+      <Télécopie>+681 35 64 17</Télécopie>
+      <Email>bta.ouegoa@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

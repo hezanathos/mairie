@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97413-02" codeInsee="97413" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Leu</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>363, rue du Général-Lambert</Ligne>
+      <CodePostal>97436</CodePostal>
+      <NomCommune>Saint-Leu</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 34 80 01</Téléphone>
+      <Télécopie>+262 2 62 34 23 39</Télécopie>
+      <Email>cob.st-leu@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

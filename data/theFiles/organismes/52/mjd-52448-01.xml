@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="52448" dateMiseAJour="2015-09-10" id="mjd-52448-01" idPresta="56092c8bb473e45041ae99fe" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit de St Dizier</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité administrative</Ligne>
+        <Ligne>rue de la Commune de Paris</Ligne>
+        <CodePostal>52100</CodePostal>
+        <NomCommune>ST DIZIER</NomCommune>
+        <Localisation>
+            <Latitude>48.635902</Latitude>
+            <Longitude>4.947962</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

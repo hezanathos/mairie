@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-98724-01" codeInsee="98724" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Huahine</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Île de Huahine Zone de Faré Îles-Sous-le Vent</Ligne>
+      <CodePostal>98731</CodePostal>
+      <NomCommune>Huahine</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+689 60 62 05</Téléphone>
+      <Télécopie>+681 60 62 07</Télécopie>
+      <Email>bta.huahine@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

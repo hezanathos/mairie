@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-36192-01" codeInsee="36192" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Gaultier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 place du Champ-de-Foire</Ligne>
+      <CodePostal>36800</CodePostal>
+      <NomCommune>Saint-Gaultier</NomCommune>
+      <Localisation>
+         <Latitude>46.6343695</Latitude>
+         <Longitude>1.4184337</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 24 67 20</Téléphone>
+      <Télécopie>+33 2 54 24 67 24</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

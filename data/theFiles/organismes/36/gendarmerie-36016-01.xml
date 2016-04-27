@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-36016-01" codeInsee="36016" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bélâbre</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 rue Gambetta</Ligne>
+      <CodePostal>36370</CodePostal>
+      <NomCommune>Bélâbre</NomCommune>
+      <Localisation>
+         <Latitude>46.5525872</Latitude>
+         <Longitude>1.1600143</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 28 44 70</Téléphone>
+      <Télécopie>+33 2 54 28 44 74</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

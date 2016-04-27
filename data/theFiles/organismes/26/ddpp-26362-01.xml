@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddpp-26362-01" codeInsee="26362" dateMiseAJour="2012-12-03"
+           pivotLocal="ddpp">
+   <Nom>Direction départementale de la protection des populations (DDPP) - Drôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 96</Ligne>
+      <Ligne>33, avenue de Romans</Ligne>
+      <CodePostal>26904</CodePostal>
+      <NomCommune>Valence Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>44.9330949</Latitude>
+         <Longitude>4.9005503</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 26 52 21 61</Téléphone>
+      <Télécopie>+33 4 26 52 21 62</Télécopie>
+      <Email>ddpp@drome.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

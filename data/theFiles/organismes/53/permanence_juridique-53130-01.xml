@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="53130" dateMiseAJour="2015-11-03" id="permanence_juridique-53130-01" idPresta="4cac9e5f293594648a000307" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit Laval - Quartier Saint Nicolas</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des Services publics de Saint Nicolas</Ligne>
+        <Ligne>104 boulevard Brune</Ligne>
+        <CodePostal>53000</CodePostal>
+        <NomCommune>LAVAL</NomCommune>
+        <Localisation>
+            <Latitude>48.0572506</Latitude>
+            <Longitude>-0.7450923</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 59 09 80</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-42207-01" codeInsee="42207" dateMiseAJour="2016-02-09"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Saint-Chamond</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>64 boulevard Waldeck-Rousseau</Ligne>
+      <CodePostal>42400</CodePostal>
+      <NomCommune>Saint-Chamond</NomCommune>
+      <Localisation>
+         <Latitude>45.4750224</Latitude>
+         <Longitude>4.5050303</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 27 40 21 21</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-10003-01" codeInsee="10003" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-69">
+   <Nom>Point d'information local dédié aux personnes âgées - Aix-en-Othe</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue du Maréchal Foch</Ligne>
+      <Ligne>Unité Personnes âgées</Ligne>
+      <Ligne>Personnes handicapées du Pays d'Othe</Ligne>
+      <CodePostal>10160</CodePostal>
+      <NomCommune>Aix-en-Othe</NomCommune>
+      <Localisation>
+         <Latitude>48.222376</Latitude>
+         <Longitude>3.729466</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 46 22 25</Téléphone>
+      <Email>circo.aix-chaource@cg10.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-85156-01" codeInsee="85156" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays Moutierrois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Chemin-de-Fer</Ligne>
+      <CodePostal>85540</CodePostal>
+      <NomCommune>Moutiers-les-Mauxfaits</NomCommune>
+      <Localisation>
+         <Latitude>46.493366</Latitude>
+         <Longitude>-1.425192</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 98 93 26</Téléphone>
+      <Télécopie>+33 2 51 98 92 10</Télécopie>
+      <Email>contact@paysmoutierrois.fr</Email>
+      <Url>http://www.paysmoutierrois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

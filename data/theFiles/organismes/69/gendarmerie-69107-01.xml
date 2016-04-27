@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-69107-01" codeInsee="69107" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Lamure-sur-Azergues</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>69870</CodePostal>
+      <NomCommune>Lamure-sur-Azergues</NomCommune>
+      <Localisation>
+         <Latitude>46.0639951</Latitude>
+         <Longitude>4.4935948</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 03 05 59</Téléphone>
+      <Télécopie>+33 4 74 03 08 58</Télécopie>
+      <Email>bta.lamure-sur-azergues@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

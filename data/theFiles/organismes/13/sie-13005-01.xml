@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-13005-01" codeInsee="13005" dateMiseAJour="2016-02-12" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques d'Aubagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>avenue Marcel Paul</Ligne>
+      <Ligne>CS 70820</Ligne>
+      <CodePostal>13677</CodePostal>
+      <NomCommune>Aubagne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.303419</Latitude>
+         <Longitude>5.574445</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 18 03 43</Téléphone>
+      <Email>sie.aubagne@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous. Fermé le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

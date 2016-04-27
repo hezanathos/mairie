@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-86194-02" codeInsee="86194" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-765">
+   <Nom>Point d'information local dédié aux personnes âgées - Poitiers</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Mutualité de la Vienne</Ligne>
+      <Ligne>BP 209</Ligne>
+      <Ligne>60 et 68 rue Carnot</Ligne>
+      <CodePostal>86000</CodePostal>
+      <NomCommune>Poitiers</NomCommune>
+      <Localisation>
+         <Latitude>46.578326</Latitude>
+         <Longitude>0.337375</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 30 80 70</Téléphone>
+      <Email>clic-mutualite@fr.oleane.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

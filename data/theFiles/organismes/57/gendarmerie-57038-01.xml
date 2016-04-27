@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-57038-01" codeInsee="57038" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Audun-le-Tiche</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>258, rue Georges-Clemenceau</Ligne>
+      <CodePostal>57390</CodePostal>
+      <NomCommune>Audun-le-Tiche</NomCommune>
+      <Localisation>
+         <Latitude>49.4710454</Latitude>
+         <Longitude>5.9537465</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 59 48 30</Téléphone>
+      <Email>cob.audun-le-tiche@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

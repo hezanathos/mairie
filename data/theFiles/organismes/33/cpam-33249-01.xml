@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-33249-01" codeInsee="33249" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Gironde - accueil de Lormont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>14 rue de la Bachellerie</Ligne>
+      <CodePostal>33310</CodePostal>
+      <NomCommune>Lormont</NomCommune>
+      <Localisation>
+         <Latitude>44.8804859</Latitude>
+         <Longitude>-0.5212913</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de Gironde</Ligne>
+      <CodePostal>33085</CodePostal>
+      <NomCommune>Bordeaux Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-66164-01" codeInsee="66164" dateMiseAJour="2015-03-05"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Rivesaltes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 place de la République</Ligne>
+      <Ligne>BP 101</Ligne>
+      <CodePostal>66601</CodePostal>
+      <NomCommune>Rivesaltes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>42.7692595</Latitude>
+         <Longitude>2.8735144</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 64 06 29</Téléphone>
+      <Télécopie>+33 4 68 64 33 43</Télécopie>
+      <Email>t066019@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

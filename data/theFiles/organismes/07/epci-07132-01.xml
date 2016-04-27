@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-07132-01" codeInsee="07132" dateMiseAJour="2015-08-18"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Val de Ligne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 avenue de la République</Ligne>
+      <CodePostal>07110</CodePostal>
+      <NomCommune>Largentière</NomCommune>
+      <Localisation>
+         <Latitude>44.5399246</Latitude>
+         <Longitude>4.2917378</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 89 28 35</Téléphone>
+      <Télécopie>+33 4 75 36 95 85</Télécopie>
+      <Email>secretariat@cc-valdeligne.fr</Email>
+      <Url>http://www.cc-valdeligne.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

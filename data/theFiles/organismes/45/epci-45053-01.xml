@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-45053-01" codeInsee="45053" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Briare</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42, rue des Prés-Gris</Ligne>
+      <CodePostal>45250</CodePostal>
+      <NomCommune>Briare</NomCommune>
+      <Localisation>
+         <Latitude>47.6417972</Latitude>
+         <Longitude>2.7319546</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 37 03 84</Téléphone>
+      <Télécopie>+33 2 38 31 26 11</Télécopie>
+      <Email>cccbriare@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

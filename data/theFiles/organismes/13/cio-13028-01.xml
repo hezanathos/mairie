@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cio-13028-01" codeInsee="13028" dateMiseAJour="2015-01-15" pivotLocal="cio">
+   <Nom>Centre d'information et d'orientation (CIO) de La Ciotat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30, boulevard Guérin</Ligne>
+      <CodePostal>13600</CodePostal>
+      <NomCommune>La Ciotat</NomCommune>
+      <Localisation>
+         <Latitude>43.1748008728</Latitude>
+         <Longitude>5.60542011261</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 08 43 17</Téléphone>
+      <Télécopie>+33 4 42 83 64 80</Télécopie>
+      <Email>ce.0130185f@ac-aix-marseille.fr</Email>
+      <Url>http://www.education.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+         <Note>Accueil ouvert de 9h à 12h et de 13h à 16h30 pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

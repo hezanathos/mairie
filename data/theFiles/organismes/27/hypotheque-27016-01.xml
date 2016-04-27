@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-27016-01" codeInsee="27016" dateMiseAJour="2015-01-15"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-conservation des hypothèques) des Andelys</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue Sellenick</Ligne>
+      <CodePostal>27700</CodePostal>
+      <NomCommune>Les Andelys</NomCommune>
+      <Localisation>
+         <Latitude>49.2464166</Latitude>
+         <Longitude>1.4162486</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 54 76 16</Téléphone>
+      <Télécopie>+33 2 32 54 76 15</Télécopie>
+      <Email>spf.les-andelys@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

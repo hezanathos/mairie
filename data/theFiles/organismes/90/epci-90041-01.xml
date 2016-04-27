@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-90041-01" codeInsee="90041" dateMiseAJour="2015-08-18"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays Sous-Vosgien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 bis Grande rue</Ligne>
+      <CodePostal>90170</CodePostal>
+      <NomCommune>Étueffont</NomCommune>
+      <Localisation>
+         <Latitude>47.7164197</Latitude>
+         <Longitude>6.9227245</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 54 70 80</Téléphone>
+      <Télécopie>+33 3 84 54 66 54</Télécopie>
+      <Email>http://www.cc-pays-sous-vosgien.fr/contact.htm</Email>
+      <Url>http://www.cc-pays-sous-vosgien.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

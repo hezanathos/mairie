@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-30217-01" codeInsee="30217" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Rochefort-du-Gard</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>115 rue Monticelli</Ligne>
+      <CodePostal>30650</CodePostal>
+      <NomCommune>Rochefort-du-Gard</NomCommune>
+      <Localisation>
+         <Latitude>43.9769426</Latitude>
+         <Longitude>4.6795809</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 25 56 17</Téléphone>
+      <Télécopie>+33 4 90 25 99 87</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-54039-01" codeInsee="54039" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Vallées du Cristal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue du Port</Ligne>
+      <CodePostal>54120</CodePostal>
+      <NomCommune>Baccarat</NomCommune>
+      <Localisation>
+         <Latitude>48.4487846</Latitude>
+         <Longitude>6.7399736</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 72 02 21</Téléphone>
+      <Télécopie>+33 3 83 42 02 11</Télécopie>
+      <Email>codecom@ccvc54.fr</Email>
+      <Url>http://www.ccvc54.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

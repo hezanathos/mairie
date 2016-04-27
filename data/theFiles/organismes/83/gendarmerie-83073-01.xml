@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-83073-01" codeInsee="83073" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du Luc</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Les Retraches, route de Toulon</Ligne>
+      <CodePostal>83340</CodePostal>
+      <NomCommune>Luc</NomCommune>
+      <Localisation>
+         <Latitude>43.394509</Latitude>
+         <Longitude>6.3132339</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 50 05 00</Téléphone>
+      <Télécopie>+33 4 94 50 05 01</Télécopie>
+      <Email>cob.le-luc@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

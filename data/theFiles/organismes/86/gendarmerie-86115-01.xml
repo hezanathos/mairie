@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-86115-01" codeInsee="86115" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Jaunay-Clan</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Grémont</Ligne>
+      <CodePostal>86130</CodePostal>
+      <NomCommune>Jaunay-Clan</NomCommune>
+      <Localisation>
+         <Latitude>46.675257</Latitude>
+         <Longitude>0.366248</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 61 65 28</Téléphone>
+      <Télécopie>+33 5 49 61 65 31</Télécopie>
+      <Email>bta.jaunay-clan@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

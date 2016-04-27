@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="26362" dateMiseAJour="2014-12-08" id="spip-26362-01" idPresta="4d257c822935941b0b00d21d" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de la Drôme</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>50 rue Denis Papin</Ligne>
+        <CodePostal>26000</CodePostal>
+        <NomCommune>VALENCE</NomCommune>
+        <Localisation>
+            <Latitude>44.928</Latitude>
+            <Longitude>4.892799</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 75 81 76 00</Téléphone>
+        <Télécopie>+33 4 75 81 76 10</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

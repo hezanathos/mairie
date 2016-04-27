@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-04088-01" codeInsee="04088" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Forcalquier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Claude-Delorme</Ligne>
+      <CodePostal>04300</CodePostal>
+      <NomCommune>Forcalquier</NomCommune>
+      <Localisation>
+         <Latitude>43.9626997</Latitude>
+         <Longitude>5.7893995</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 75 00 19</Téléphone>
+      <Télécopie>+33 4 92 75 47 12</Télécopie>
+      <Email>cob.forcalquier@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

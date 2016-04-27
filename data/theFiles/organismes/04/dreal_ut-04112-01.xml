@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-04112-01" codeInsee="04112" dateMiseAJour="2014-07-18"
+           pivotLocal="dreal_ut">
+   <Nom>Unité territoriale - Direction régionale de l'environnement, de l'aménagement et du logement - Alpes-du-Sud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZI Saint-Joseph</Ligne>
+      <Ligne>Rue des Artisans</Ligne>
+      <CodePostal>04100</CodePostal>
+      <NomCommune>Manosque</NomCommune>
+      <Localisation>
+         <Latitude>43.8222</Latitude>
+         <Longitude>5.79257</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 71 74 00</Téléphone>
+      <Url>http://www.paca.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

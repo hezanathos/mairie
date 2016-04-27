@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-05017-01" codeInsee="05017" dateMiseAJour="2013-05-15"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de La Bâtie-Neuve</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33, rue de la Lauzière</Ligne>
+      <Ligne>Communauté de communes de la Vallée de l'Avance</Ligne>
+      <CodePostal>05230</CodePostal>
+      <NomCommune>La Bâtie-Neuve</NomCommune>
+      <Localisation>
+         <Latitude>44.5631941</Latitude>
+         <Longitude>6.2087836</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 50 20 50</Téléphone>
+      <Télécopie>+33 4 92 50 21 65</Télécopie>
+      <Email>info@mj-05.org</Email>
+      <Url>http://www.mj-05.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

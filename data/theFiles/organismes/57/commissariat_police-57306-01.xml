@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-57306-01" codeInsee="57306" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Hayange</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de la Fontaine</Ligne>
+      <CodePostal>57700</CodePostal>
+      <NomCommune>Hayange</NomCommune>
+      <Localisation>
+         <Latitude>49.3287073</Latitude>
+         <Longitude>6.0650155</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 86 40 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

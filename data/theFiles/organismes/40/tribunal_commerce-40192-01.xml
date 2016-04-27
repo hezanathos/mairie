@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="40192" dateMiseAJour="2016-02-03" id="tribunal_commerce-40192-01" idPresta="4eb2632a2935944ef500013b" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Mont-de-Marsan</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>7 place Planté</Ligne>
+        <CodePostal>40000</CodePostal>
+        <NomCommune>MONT DE MARSAN</NomCommune>
+        <Localisation>
+            <Latitude>43.887211</Latitude>
+            <Longitude>-0.502345</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 58 46 60 70</Téléphone>
+        <Télécopie>+33 5 58 75 42 67</Télécopie>
+        <Email>mailto:gtc-mdm@greffe-tc.net</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

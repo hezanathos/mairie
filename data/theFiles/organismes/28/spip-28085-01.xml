@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="28085" dateMiseAJour="2014-12-08" id="spip-28085-01" idPresta="4d2575682935941a9200008c" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de l&#39;Eure-et-Loir</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>15 rue de la Couronne</Ligne>
+        <CodePostal>28000</CodePostal>
+        <NomCommune>CHARTRES</NomCommune>
+        <Localisation>
+            <Latitude>48.44807</Latitude>
+            <Longitude>1.483604</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 37 18 33 60</Téléphone>
+        <Télécopie>+33 2 37 21 90 09</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-39124-01" codeInsee="39124" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Bresse Revermont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>39140</CodePostal>
+      <NomCommune>Bletterans</NomCommune>
+      <Localisation>
+         <Latitude>46.74712</Latitude>
+         <Longitude>5.45233200000007</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 44 46 80</Téléphone>
+      <Télécopie>+33 3 84 44 46 81</Télécopie>
+      <Email>accueil@bresse-revermont.com</Email>
+      <Url>http://www.jura-bresse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

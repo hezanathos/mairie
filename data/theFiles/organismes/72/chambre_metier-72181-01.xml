@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-72181-01" codeInsee="72181" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Sarthe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 81630</Ligne>
+      <Ligne>5 cour Étienne-Jules-Marey</Ligne>
+      <CodePostal>72016</CodePostal>
+      <NomCommune>Le Mans Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>48.0056991577</Latitude>
+         <Longitude>0.201563000679</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 74 53 53</Téléphone>
+      <Télécopie>+33 2 43 74 53 67</Télécopie>
+      <Email>accueil@cma-72.fr</Email>
+      <Url>http://www.cma-72.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

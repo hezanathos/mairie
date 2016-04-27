@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-76108-01" codeInsee="76108" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Bois-Guillaume-Bihorel</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Angle Rue-Herbeuse et rue Darnetal</Ligne>
+      <CodePostal>76230</CodePostal>
+      <NomCommune>Bois-Guillaume-Bihorel</NomCommune>
+      <Localisation>
+         <Latitude>49.4689354</Latitude>
+         <Longitude>1.1271747</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

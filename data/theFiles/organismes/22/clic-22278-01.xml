@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-22278-01" codeInsee="22278" dateMiseAJour="2015-09-21"
+           pivotLocal="clic"
+           idPresta="clic-169">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Brieuc</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Saint-Brieuc Terres et Mer</Ligne>
+      <Ligne>76 B rue de Quintin</Ligne>
+      <CodePostal>22000</CodePostal>
+      <NomCommune>Saint-Brieuc</NomCommune>
+      <Localisation>
+         <Latitude>48.509958</Latitude>
+         <Longitude>-2.770126</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 77 68 68</Téléphone>
+      <Email>clic-stbc-terresetmer@cotesdarmor.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

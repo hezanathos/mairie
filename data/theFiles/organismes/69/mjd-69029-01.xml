@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="69029" dateMiseAJour="2007-04-03" id="mjd-69029-01" idPresta="51b08cdbb473e41478001306" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Bron</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3/5 rue Carnot</Ligne>
+        <CodePostal>69500</CodePostal>
+        <NomCommune>BRON</NomCommune>
+        <Localisation>
+            <Latitude>45.7335423</Latitude>
+            <Longitude>4.9066095</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 78 26 49 39</Téléphone>
+        <Télécopie>+33 4 78 26 45 27</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="mardi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

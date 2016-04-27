@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="35288" dateMiseAJour="2014-01-28" id="te-35288-01" idPresta="4cac9e6a293594648a00176e" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Saint-Malo</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 place Saint-Aaron</Ligne>
+        <Ligne>CS 51731</Ligne>
+        <CodePostal>35417</CodePostal>
+        <NomCommune>ST MALO CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.6481785</Latitude>
+            <Longitude>-2.0260898</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 99 20 20 85</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

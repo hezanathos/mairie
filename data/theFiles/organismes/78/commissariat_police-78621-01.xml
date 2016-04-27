@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-78621-01" codeInsee="78621" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Trappes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Merisiers</Ligne>
+      <CodePostal>78190</CodePostal>
+      <NomCommune>Trappes</NomCommune>
+      <Localisation>
+         <Latitude>48.7764373</Latitude>
+         <Longitude>1.9851766</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 50 72 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

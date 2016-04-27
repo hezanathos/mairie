@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13040" dateMiseAJour="2015-11-03" id="permanence_juridique-13040-01" idPresta="4cac9e5e293594648a00012a" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Bureau de l&#39;emploi</Ligne>
+        <Ligne>26 boulevard Emile Loubet</Ligne>
+        <CodePostal>13710</CodePostal>
+        <NomCommune>FUVEAU</NomCommune>
+        <Localisation>
+            <Latitude>43.4537722</Latitude>
+            <Longitude>5.5614722</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 65 65 55</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

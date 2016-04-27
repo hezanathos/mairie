@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69220-01" codeInsee="69220" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-639">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Laurent-de-Chamousset</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin de l'hôpital</Ligne>
+      <Ligne>Maison du Rhône du Canton de Saint-Laurent-de-Chamousset</Ligne>
+      <CodePostal>69930</CodePostal>
+      <NomCommune>Saint-Laurent-de-Chamousset</NomCommune>
+      <Localisation>
+         <Latitude>45.740572</Latitude>
+         <Longitude>4.466571</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 70 52 20</Téléphone>
+      <Email>mdr.st-laurent-chamousset@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

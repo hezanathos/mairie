@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-34172-05" codeInsee="34172" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Centre information jeunesse du Languedoc-Roussillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue Chaptal</Ligne>
+      <CodePostal>34000</CodePostal>
+      <NomCommune>MONTPELLIER</NomCommune>
+      <Localisation>
+         <Latitude>43.6049995422</Latitude>
+         <Longitude>3.87004995346</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 99 74 24 30</Téléphone>
+      <Email>lagerbe@numericable.fr</Email>
+      <Url>http://www.lagerbe.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

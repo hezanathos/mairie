@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-51217-01" codeInsee="51217" dateMiseAJour="2015-05-26"
+           pivotLocal="clic"
+           idPresta="clic-398">
+   <Nom>Point d'information local dédié aux personnes âgées - Dormans</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Paysages de Champagne</Ligne>
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>51700</CodePostal>
+      <NomCommune>Dormans</NomCommune>
+      <Localisation>
+         <Latitude>49.074507</Latitude>
+         <Longitude>3.638344</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 53 91 36</Téléphone>
+      <Email>clic.paysagesdechampagne@dormans.fr</Email>
+      <Url>http://www.dormans.fr/Le-CLIC-Centre-local-d-Information</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

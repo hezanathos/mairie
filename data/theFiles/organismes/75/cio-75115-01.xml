@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cio-75115-01" codeInsee="75115" dateMiseAJour="2014-04-03" pivotLocal="cio">
+   <Nom>Centre d’information et d’orientation (CIO) de Paris - 7e et 15e arrondissements</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Falguière</Ligne>
+      <Ligne>99, rue d'Alleray</Ligne>
+      <CodePostal>75015</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8362733</Latitude>
+         <Longitude>2.310153</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 56 08 50 80</Téléphone>
+      <Email>ce.cio15@ac-paris.fr</Email>
+      <Url>http://www.ac-paris.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="10:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-41159-01" codeInsee="41159" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Loir-et-Cher - accueil de Neung-sur-Beuvron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>7 rue Henry-de-Geoffre</Ligne>
+      <Ligne>Relais de services publics de la Communauté de communes de la Sologne-des-Étangs</Ligne>
+      <CodePostal>41210</CodePostal>
+      <NomCommune>Neung-sur-Beuvron</NomCommune>
+      <Localisation>
+         <Latitude>47.5346474</Latitude>
+         <Longitude>1.8048348</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Loir-et-Cher</Ligne>
+      <Ligne>6 rue Louis-Armand</Ligne>
+      <CodePostal>41015</CodePostal>
+      <NomCommune>Blois Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 41 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Avec la borne interactive, un conseiller Caf vous accueille à distance de 11h à 12h. Accueil téléphonique du lundi au vendredi 9h à 16h.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Avec la borne interactive et sur rendez-vous, un conseiller Caf vous accueille à distance de 10h à 12h - renseignements auprès de l'accueil du Relais de services publics au 02 54 76 84 47.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

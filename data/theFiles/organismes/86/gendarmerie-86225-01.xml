@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-86225-01" codeInsee="86225" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Jean-de-Sauves</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, route de Renoue</Ligne>
+      <CodePostal>86330</CodePostal>
+      <NomCommune>Saint-Jean-de-Sauves</NomCommune>
+      <Localisation>
+         <Latitude>46.8442768</Latitude>
+         <Longitude>0.0943857</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 50 80 52</Téléphone>
+      <Télécopie>+33 5 49 50 15 57</Télécopie>
+      <Email>cob.st-jean-de-sauves@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

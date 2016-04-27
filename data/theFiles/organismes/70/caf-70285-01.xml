@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-70285-01" codeInsee="70285" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Haute-Saône - accueil de Héricourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre médico-social</Ligne>
+      <Ligne>2 rue des Frères-Lumières</Ligne>
+      <CodePostal>70400</CodePostal>
+      <NomCommune>Héricourt</NomCommune>
+      <Localisation>
+         <Latitude>47.5824735</Latitude>
+         <Longitude>6.7637353</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>13 boulevard des Alliés</Ligne>
+      <Ligne>Caisse d'allocations familiales de Haute-Saône</Ligne>
+      <Ligne>BP 90249</Ligne>
+      <CodePostal>70005</CodePostal>
+      <NomCommune>Vesoul Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6171186</Latitude>
+         <Longitude>6.1564818</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 70 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Borne accessible 24h/24 et 7j/7.</Commentaire>
+</Organisme>

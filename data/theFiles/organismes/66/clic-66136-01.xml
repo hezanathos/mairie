@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-66136-01" codeInsee="66136" dateMiseAJour="2015-07-10"
+           pivotLocal="clic"
+           idPresta="clic-571">
+   <Nom>Point d'information local dédié aux personnes âgées - Perpignan</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison Sociale de Proximité</Ligne>
+      <Ligne>32, rue Maréchal-Foch</Ligne>
+      <CodePostal>66000</CodePostal>
+      <NomCommune>Perpignan</NomCommune>
+      <Localisation>
+         <Latitude>42.696098</Latitude>
+         <Longitude>2.890835</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 86 69 07</Téléphone>
+      <Email>clicperpignan@cd66.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

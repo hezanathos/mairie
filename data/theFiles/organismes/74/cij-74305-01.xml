@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-74305-01" codeInsee="74305" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Ville-la-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <Ligne>Place du Passage-à-l'an-2000</Ligne>
+      <CodePostal>74100</CodePostal>
+      <NomCommune>Ville-la-Grand</NomCommune>
+      <Localisation>
+         <Latitude>46.2016149</Latitude>
+         <Longitude>6.2471439</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 84 34 82</Téléphone>
+      <Télécopie>+33 4 50 38 49 89</Télécopie>
+      <Email>pij@vlg.fr</Email>
+      <Url>http://www.vlg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="13:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="13:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

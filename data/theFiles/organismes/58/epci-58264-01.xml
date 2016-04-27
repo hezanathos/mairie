@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-58264-01" codeInsee="58264" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Nivernais-Bourbonnais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33, place de l'Église</Ligne>
+      <Ligne>BP 25</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>58240</CodePostal>
+      <NomCommune>Saint-Pierre-le-Moûtier</NomCommune>
+      <Localisation>
+         <Latitude>46.7898674</Latitude>
+         <Longitude>3.1171163</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 90 80 76</Téléphone>
+      <Email>developpementccnb@nivernais-bourbonnais.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

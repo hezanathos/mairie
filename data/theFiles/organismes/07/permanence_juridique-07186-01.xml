@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="07186" dateMiseAJour="2015-11-03" id="permanence_juridique-07186-01" idPresta="4cac9e5e293594648a0000a7" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Privas</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison de l&#39;Avocat</Ligne>
+        <Ligne>8 cours du Palais - BP 716</Ligne>
+        <CodePostal>07000</CodePostal>
+        <NomCommune>PRIVAS</NomCommune>
+        <Localisation>
+            <Latitude>44.723201</Latitude>
+            <Longitude>4.593796</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

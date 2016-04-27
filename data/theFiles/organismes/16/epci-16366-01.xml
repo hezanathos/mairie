@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-16366-01" codeInsee="16366" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Grande Champagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Pierre-Frapin</Ligne>
+      <Ligne>BP 45</Ligne>
+      <CodePostal>16130</CodePostal>
+      <NomCommune>Segonzac</NomCommune>
+      <Localisation>
+         <Latitude>45.6171029</Latitude>
+         <Longitude>-0.2185532</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 83 47 99</Téléphone>
+      <Télécopie>+33 5 45 83 33 31</Télécopie>
+      <Email>cdcgc@cdcgc.fr</Email>
+      <Url>http://www.cc-grandechampagne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

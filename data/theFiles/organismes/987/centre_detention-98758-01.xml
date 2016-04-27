@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98758" dateMiseAJour="2015-09-03" id="centre_detention-98758-01" idPresta="55fc0781b473e44911d7517f" pivotLocal="centre_detention">
+    <Nom>Centre de détention d&#39;Uturoa</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Iles sous le vent</Ligne>
+        <Ligne>Polynésie Française</Ligne>
+        <CodePostal>98735</CodePostal>
+        <NomCommune>UTUROA</NomCommune>
+        <Localisation>
+            <Latitude>-16.723889</Latitude>
+            <Longitude>-151.450556</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+689 662 610</Téléphone>
+        <Télécopie>+689 663 226</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

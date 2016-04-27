@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-24534-01" codeInsee="24534" dateMiseAJour="2015-05-13"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Coteaux de Sigoules</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZAE du Roc-de-la-Peyre</Ligne>
+      <CodePostal>24240</CodePostal>
+      <NomCommune>Sigoules</NomCommune>
+      <Localisation>
+         <Latitude>44.7567136</Latitude>
+         <Longitude>0.4211645</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 63 59 10</Téléphone>
+      <Télécopie>+33 5 53 24 38 13</Télécopie>
+      <Email>cccs@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="12:45:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

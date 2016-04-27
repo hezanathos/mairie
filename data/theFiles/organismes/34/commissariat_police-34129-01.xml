@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-34129-01" codeInsee="34129" dateMiseAJour="2015-08-06"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Lattes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue de l'Agau</Ligne>
+      <CodePostal>34000</CodePostal>
+      <NomCommune>Lattes</NomCommune>
+      <Localisation>
+         <Latitude>43.5811173</Latitude>
+         <Longitude>3.9084978</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 33 79 67 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

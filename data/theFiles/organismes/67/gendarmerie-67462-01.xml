@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67462-01" codeInsee="67462" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sélestat</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Lieutenant Castaing 1, rue de la Paix</Ligne>
+      <CodePostal>67600</CodePostal>
+      <NomCommune>Sélestat</NomCommune>
+      <Localisation>
+         <Latitude>48.2619098</Latitude>
+         <Longitude>7.447779</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 58 45 50</Téléphone>
+      <Télécopie>+33 3 88 58 45 55</Télécopie>
+      <Email>cob.selestat@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

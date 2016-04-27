@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-22278-01" codeInsee="22278" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Hôtel de police de Saint-Brieuc</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Boulevard Waldeck-Rousseau</Ligne>
+      <CodePostal>22022</CodePostal>
+      <NomCommune>Saint-Brieuc</NomCommune>
+      <Localisation>
+         <Latitude>48.5095185</Latitude>
+         <Longitude>-2.7573509</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 77 29 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

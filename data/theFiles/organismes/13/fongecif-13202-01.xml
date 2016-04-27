@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fongecif-13202-01" codeInsee="13202" dateMiseAJour="2011-10-11"
+           pivotLocal="fongecif">
+   <Nom>Fongecif Provence-Alpes-Côte d'Azur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Les Docks-Atrium 10.6</Ligne>
+      <Ligne>10 place de la Joliette</Ligne>
+      <CodePostal>13002</CodePostal>
+      <NomCommune>MARSEILLE</NomCommune>
+      <Localisation>
+         <Latitude>43.305256</Latitude>
+         <Longitude>5.366006</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 13 93 80</Téléphone>
+      <Télécopie>+33 4 91 13 93 81</Télécopie>
+      <Url>http://www.fongecif-paca.com</Url>
+   </CoordonnéesNum>
+</Organisme>

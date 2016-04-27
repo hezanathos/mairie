@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-21461-01" codeInsee="21461" dateMiseAJour="2015-05-12"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Nolay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 avenue Lazare-Carnot</Ligne>
+      <Ligne>BP 15</Ligne>
+      <CodePostal>21340</CodePostal>
+      <NomCommune>Nolay</NomCommune>
+      <Localisation>
+         <Latitude>46.9511523</Latitude>
+         <Longitude>4.6352688</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 21 70 67</Téléphone>
+      <Email>t021055@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

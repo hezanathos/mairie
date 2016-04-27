@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-42218-02" codeInsee="42218" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Saint-Étienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, allée Giuseppe-Verdi</Ligne>
+      <Ligne>Montreynaud</Ligne>
+      <Ligne>Centre social AGEP</Ligne>
+      <CodePostal>42000</CodePostal>
+      <NomCommune>Saint-Étienne</NomCommune>
+      <Localisation>
+         <Latitude>45.4715003967</Latitude>
+         <Longitude>4.40224981308</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 92 96 17</Téléphone>
+      <Télécopie>+33 4 77 92 96 12</Télécopie>
+      <Email>pij.ensemble.forum@wanadoo.fr</Email>
+      <Url>http://www.j-net.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-03118-01" codeInsee="03118" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Gannat</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Jules Massenet</Ligne>
+      <CodePostal>03800</CodePostal>
+      <NomCommune>Gannat</NomCommune>
+      <Localisation>
+         <Latitude>46.0871272</Latitude>
+         <Longitude>3.1997606</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 90 87 09</Téléphone>
+      <Télécopie>+33 4 70 90 87 05</Télécopie>
+      <Email>cob.gannat@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

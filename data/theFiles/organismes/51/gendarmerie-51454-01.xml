@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-51454-01" codeInsee="51454" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Reims</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2A rue Bertrand de Mun</Ligne>
+      <CodePostal>51100</CodePostal>
+      <NomCommune>Reims</NomCommune>
+      <Localisation>
+         <Latitude>49.2518066</Latitude>
+         <Longitude>4.061463</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 61 08 00</Téléphone>
+      <Télécopie>+33 3 26 61 08 10</Télécopie>
+      <Email>bta.reims@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

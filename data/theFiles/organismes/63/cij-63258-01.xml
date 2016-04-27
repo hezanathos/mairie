@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-63258-01" codeInsee="63258" dateMiseAJour="2013-01-10" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Olliergues</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, avenue du Maréchal-de-Lattre-de-Tassigny</Ligne>
+      <CodePostal>63880</CodePostal>
+      <NomCommune>Olliergues</NomCommune>
+      <Localisation>
+         <Latitude>45.6771011353</Latitude>
+         <Longitude>3.63437008858</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 95 59 54</Téléphone>
+      <Télécopie>+33 4 73 95 59 58</Télécopie>
+      <Email>pij.ccpo@wanadoo.fr</Email>
+      <Url>http://www.paysdolliergues.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

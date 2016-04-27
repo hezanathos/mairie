@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93008" dateMiseAJour="2014-01-28" id="tgi-93008-01" idPresta="4cac9e6a293594648a0017bf" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Bobigny</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>173 Av Paul Vaillant Couturier</Ligne>
+        <CodePostal>93008</CodePostal>
+        <NomCommune>BOBIGNY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.908821</Latitude>
+            <Longitude>2.450397</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 48 95 13 93</Téléphone>
+        <Télécopie>+33 1 48 95 15 85</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

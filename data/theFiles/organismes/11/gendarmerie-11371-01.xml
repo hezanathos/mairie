@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-11371-01" codeInsee="11371" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Salles-sur-L'Hers</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lieu-dit Pégoutel</Ligne>
+      <Ligne>4 chemin de La Coume</Ligne>
+      <CodePostal>11410</CodePostal>
+      <NomCommune>Salles-sur-l'Hers</NomCommune>
+      <Localisation>
+         <Latitude>43.292904</Latitude>
+         <Longitude>1.779763</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 60 30 17</Téléphone>
+      <Télécopie>+33 4 68 60 74 12</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

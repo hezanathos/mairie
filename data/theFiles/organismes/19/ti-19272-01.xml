@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="19272" dateMiseAJour="2014-01-28" id="ti-19272-01" idPresta="4cac9e6a293594648a0017da" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Tulle</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>quai Gabriel Péri</Ligne>
+        <CodePostal>19012</CodePostal>
+        <NomCommune>TULLE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.263366</Latitude>
+            <Longitude>1.767924</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 26 71 16</Téléphone>
+        <Télécopie>+33 5 55 26 32 22</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

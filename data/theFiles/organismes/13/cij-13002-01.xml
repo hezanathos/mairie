@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13002-01" codeInsee="13002" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse d'Allauch</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin des Cigales</Ligne>
+      <Ligne>Complexe sportif Jacques-Gaillard</Ligne>
+      <Ligne>Club-house</Ligne>
+      <Ligne>Quartier de Pié-d'Autry</Ligne>
+      <CodePostal>13190</CodePostal>
+      <NomCommune>Allauch</NomCommune>
+      <Localisation>
+         <Latitude>43.3431276</Latitude>
+         <Longitude>5.4786204</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 86 67 46 10</Téléphone>
+      <Télécopie>+33 4 86 67 46 21</Télécopie>
+      <Email>jeune@allauch.com</Email>
+      <Url>http://www.generation13190.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

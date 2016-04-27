@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-95680-01" codeInsee="95680" dateMiseAJour="2016-01-29"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Villiers-le-Bel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41 rue Gambetta</Ligne>
+      <CodePostal>95400</CodePostal>
+      <NomCommune>Villiers-le-Bel</NomCommune>
+      <Localisation>
+         <Latitude>49.007155</Latitude>
+         <Longitude>2.392477</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 19 50 93</Téléphone>
+      <Email>t095111@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+         <Note>Fermé le mercredi et le jeudi après-midi</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

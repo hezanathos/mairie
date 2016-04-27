@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="11262" dateMiseAJour="2015-11-27" id="bav-11262-01" idPresta="51b08cadb473e41478000903" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Narbonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>19 Bld du Général de Gaulle</Ligne>
+        <CodePostal>11100</CodePostal>
+        <NomCommune>NARBONNE</NomCommune>
+        <Localisation>
+            <Latitude>43.186013</Latitude>
+            <Longitude>3.009269</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 34 44 60 60</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

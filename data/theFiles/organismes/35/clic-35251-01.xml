@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-35251-01" codeInsee="35251" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-287">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Aubin-d'Aubigné</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de l'Ille et de l'Illet</Ligne>
+      <Ligne>14 rue de Chasné</Ligne>
+      <CodePostal>35250</CodePostal>
+      <NomCommune>Saint-Aubin-d'Aubigné</NomCommune>
+      <Localisation>
+         <Latitude>48.26173</Latitude>
+         <Longitude>-1.604439</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 23 37 13 99</Téléphone>
+      <Email>clic-ille-illet@orange.fr</Email>
+      <Url>http://www.clic-ille-illet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

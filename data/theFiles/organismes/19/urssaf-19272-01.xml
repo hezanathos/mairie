@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-19272-01" codeInsee="19272" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Limousin - accueil de Corrèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38 quai de Rigny</Ligne>
+      <CodePostal>19018</CodePostal>
+      <NomCommune>Tulle Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.26304</Latitude>
+         <Longitude>1.75998</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Télécopie>+33 5 55 41 29 01</Télécopie>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.limousin.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="17:15:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

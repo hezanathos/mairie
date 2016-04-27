@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="agefiph-34172-01" codeInsee="34172" dateMiseAJour="2015-09-09"
+           pivotLocal="agefiph">
+   <Nom>Agefiph - Languedoc-Roussillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="postale">
+      <Ligne>119 avenue Jacques-Cartier</Ligne>
+      <Ligne>ZAC Antigone - Immeuble Antalya - 1e étage</Ligne>
+      <Ligne>CS 19008</Ligne>
+      <CodePostal>34967</CodePostal>
+      <NomCommune>Montpellier Cedex 2</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro vert : appel et service gratuits depuis un fixe ou un mobile.">0800 11 10 09</Téléphone>
+      <Télécopie>+33 4 99 13 73 25</Télécopie>
+      <Email>languedoc-roussillon@agefiph.asso.fr</Email>
+      <Url>http://www.agefiph.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+         <Note>Accueil téléphonique uniquement. Mise en relation avec la délégation locale de 9h à 12h et de 14h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

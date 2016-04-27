@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-34108-01" codeInsee="34108" dateMiseAJour="2015-01-06"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération Thau agglo</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, avenue d’Aigues</Ligne>
+      <Ligne>BP 600</Ligne>
+      <CodePostal>34110</CodePostal>
+      <NomCommune>Frontignan Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.4352299</Latitude>
+         <Longitude>3.7034141</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 46 47 48</Téléphone>
+      <Télécopie>+33 4 67 46 47 47</Télécopie>
+      <Email>webredac@thau-agglo.fr</Email>
+      <Url>http://www.thau-agglo.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

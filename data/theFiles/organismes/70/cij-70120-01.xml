@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-70120-01" codeInsee="70120" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Point information jeunesse de Champagney</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général de Gaulle</Ligne>
+      <CodePostal>70290</CodePostal>
+      <NomCommune>CHAMPAGNEY</NomCommune>
+      <Localisation>
+         <Latitude>47.7049865723</Latitude>
+         <Longitude>6.68239116669</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 23 13 14</Téléphone>
+      <Url>http://www.jeunes-fc.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="12:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="12:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

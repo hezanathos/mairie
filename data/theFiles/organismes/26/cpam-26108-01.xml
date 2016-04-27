@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-26108-01" codeInsee="26108" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Drôme - accueil de Crest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Cours Joubernon</Ligne>
+      <CodePostal>26400</CodePostal>
+      <NomCommune>Crest</NomCommune>
+      <Localisation>
+         <Latitude>44.7285003662</Latitude>
+         <Longitude>5.02623987198</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de la Drôme</Ligne>
+      <Ligne>BP 1000</Ligne>
+      <CodePostal>26024</CodePostal>
+      <NomCommune>Valence Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

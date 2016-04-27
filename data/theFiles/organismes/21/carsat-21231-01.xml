@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="carsat-21231-01" codeInsee="21231" dateMiseAJour="2015-09-09"
+           pivotLocal="carsat">
+   <Nom>Caisse d'assurance retraite et de la santé au travail (Carsat) - Bourgogne - Franche-Comté</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38 rue de Cracovie</Ligne>
+      <CodePostal>21044</CodePostal>
+      <NomCommune>Dijon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.3418364</Latitude>
+         <Longitude>5.0772579</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="6 centimes d’euro par minute plus le prix de l’appel.">3960</Téléphone>
+      <Url>http://www.carsat-bfc.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous.</Commentaire>
+</Organisme>

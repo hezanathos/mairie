@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-14118-01" codeInsee="14118" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Basse-Normandie - siège du Calvados</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 60001</Ligne>
+      <Ligne>22 rue d'Isigny</Ligne>
+      <CodePostal>14045</CodePostal>
+      <NomCommune>Caen Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>49.19043</Latitude>
+         <Longitude>-0.40054</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.bassenormandie.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

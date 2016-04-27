@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdapp-06088-01" codeInsee="06088" dateMiseAJour="2014-10-08"
+           pivotLocal="fdapp">
+   <Nom>Fédération départementale pour la pêche et la protection du milieu aquatique - Alpes-Maritimes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Quadra</Ligne>
+      <Ligne>455, promenade des Anglais</Ligne>
+      <CodePostal>06200</CodePostal>
+      <NomCommune>Nice</NomCommune>
+      <Localisation>
+         <Latitude>43.6674789</Latitude>
+         <Longitude>7.2137702</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 72 06 04</Téléphone>
+      <Télécopie>+33 4 93 72 55 56</Télécopie>
+      <Email>contact@peche-cote-azur.com</Email>
+      <Url>http://www.peche-cote-azur.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

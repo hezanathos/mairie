@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-02691-01" codeInsee="02691" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-10">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint -Quentin</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Saint-Quentin</Ligne>
+      <Ligne>44 rue d'Isle</Ligne>
+      <CodePostal>02100</CodePostal>
+      <NomCommune>Saint-Quentin</NomCommune>
+      <Localisation>
+         <Latitude>49.844123</Latitude>
+         <Longitude>3.291283</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 06 12 60</Téléphone>
+      <Email>clic.saint-quentin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-13207-01" codeInsee="13207" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Aix-Marseille - Secteur arts, lettres, langues, sciences humaines, droits, économie, gestion</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 avenue Robert-Schumann</Ligne>
+      <CodePostal>13628</CodePostal>
+      <NomCommune>Aix-en-Provence Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>43.5191514</Latitude>
+         <Longitude>5.4476824</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 86 91 43 51</Téléphone>
+      <Télécopie>+33 4 86 91 43 05</Télécopie>
+      <Email>suio-aix@univ-amu.fr</Email>
+      <Url>http://www.suio.univ-amu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

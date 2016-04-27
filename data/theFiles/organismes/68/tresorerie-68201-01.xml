@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-68201-01" codeInsee="68201" dateMiseAJour="2015-01-14"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Masevaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 A fossé des Flagellants</Ligne>
+      <Ligne>BP 21</Ligne>
+      <CodePostal>68290</CodePostal>
+      <NomCommune>Masevaux</NomCommune>
+      <Localisation>
+         <Latitude>47.774558</Latitude>
+         <Longitude>6.996478</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 82 41 21</Téléphone>
+      <Email>t068027@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

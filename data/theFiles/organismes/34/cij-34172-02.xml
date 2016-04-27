@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-34172-02" codeInsee="34172" dateMiseAJour="2006-05-09" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Montpellier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 avenue de Maurin</Ligne>
+      <CodePostal>34000</CodePostal>
+      <NomCommune>MONTPELLIER</NomCommune>
+      <Localisation>
+         <Latitude>43.6016998291</Latitude>
+         <Longitude>3.87513995171</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 99 13 30 50</Téléphone>
+      <Url>http://www.crij.montpellier.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

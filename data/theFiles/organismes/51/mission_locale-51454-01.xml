@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-51454-01" codeInsee="51454" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Reims</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34-36 rue de Trianon</Ligne>
+      <Ligne>BP 34</Ligne>
+      <CodePostal>51052</CodePostal>
+      <NomCommune>Reims Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.2566986084</Latitude>
+         <Longitude>4.02044010162</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 40 30 34</Téléphone>
+      <Télécopie>+33 3 26 88 69 31</Télécopie>
+      <Email>missionlocale@miloreims.com</Email>
+      <Url>http://mission-locale-reims.jeunes-ca.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

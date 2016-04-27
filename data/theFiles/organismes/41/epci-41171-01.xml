@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-41171-01" codeInsee="41171" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Beauce et Forêt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de la Salle</Ligne>
+      <CodePostal>41290</CodePostal>
+      <NomCommune>Oucques</NomCommune>
+      <Localisation>
+         <Latitude>47.8230444</Latitude>
+         <Longitude>1.2937486</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 23 24 24</Téléphone>
+      <Télécopie>+33 2 54 23 05 26</Télécopie>
+      <Email>contact@beauceetforet.fr</Email>
+      <Url>http://www.beauceetforet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

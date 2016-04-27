@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-11262-01" codeInsee="11262"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-863">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Narbonne</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du pont-de-l'avenir</Ligne>
+      <Ligne>Association Auxilia</Ligne>
+      <CodePostal>11100</CodePostal>
+      <NomCommune>Narbonne</NomCommune>
+      <Localisation>
+         <Latitude>43.179891</Latitude>
+         <Longitude>3.015316</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 32 52 68</Téléphone>
+      <Email>auxilia489@orange.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

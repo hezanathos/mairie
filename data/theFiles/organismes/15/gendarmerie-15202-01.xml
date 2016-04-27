@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-15202-01" codeInsee="15202" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Martin-Valmeroux</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>15140</CodePostal>
+      <NomCommune>Saint-Martin-Valmeroux</NomCommune>
+      <Localisation>
+         <Latitude>45.085471</Latitude>
+         <Longitude>2.5274087</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 69 20 03</Téléphone>
+      <Télécopie>+33 4 71 69 49 64</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

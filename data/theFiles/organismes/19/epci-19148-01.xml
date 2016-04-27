@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-19148-01" codeInsee="19148" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Gorges de la Haute Dordogne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>47 rue du Petit-Paris</Ligne>
+      <CodePostal>19160</CodePostal>
+      <NomCommune>Neuvic</NomCommune>
+      <Localisation>
+         <Latitude>48.8855041</Latitude>
+         <Longitude>2.38534349999998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 95 85 88</Téléphone>
+      <Télécopie>+33 5 55 95 85 00</Télécopie>
+      <Email>contact@cc-gorges-haute-dordogne.fr</Email>
+      <Url>http://www.cc-gorges-haute-dordogne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

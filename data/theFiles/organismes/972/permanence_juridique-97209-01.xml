@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="97209" dateMiseAJour="2015-11-03" id="permanence_juridique-97209-01" idPresta="4cd18fb22935940531010946" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Union Départementale des Associations Familiales (UDAF)</Ligne>
+        <Ligne>rue de la grande Famille_route des Religieuses</Ligne>
+        <CodePostal>97200</CodePostal>
+        <NomCommune>FORT DE FRANCE</NomCommune>
+        <Localisation>
+            <Latitude>14.637392</Latitude>
+            <Longitude>-61.069045</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 96 48 42 44</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

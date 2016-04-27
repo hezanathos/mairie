@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-19028-01" codeInsee="19028" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bort-les-Orgues</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1175 boulevard Jean-Jaurès</Ligne>
+      <CodePostal>19110</CodePostal>
+      <NomCommune>Bort-les-Orgues</NomCommune>
+      <Localisation>
+         <Latitude>45.3932417</Latitude>
+         <Longitude>2.4935706</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 96 00 17</Téléphone>
+      <Télécopie>+33 5 55 96 71 94</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

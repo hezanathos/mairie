@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-01232-01" codeInsee="01232" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Coligny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <Ligne>319 avenue de Bourgogne</Ligne>
+      <CodePostal>01851</CodePostal>
+      <NomCommune>Marboz</NomCommune>
+      <Localisation>
+         <Latitude>46.343411</Latitude>
+         <Longitude>5.25757539999995</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 42 04 76</Téléphone>
+      <Télécopie>+33 4 74 42 04 77</Télécopie>
+      <Email>cccantondecoligny@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

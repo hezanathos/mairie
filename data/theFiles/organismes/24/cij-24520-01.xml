@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-24520-01" codeInsee="24520" dateMiseAJour="2015-08-10" pivotLocal="cij">
+   <Nom>Point information jeunesse de Sarlat-la-Canéda</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace Jeunes</Ligne>
+      <Ligne>Le Colombier</Ligne>
+      <CodePostal>24200</CodePostal>
+      <NomCommune>Sarlat-la-Canéda</NomCommune>
+      <Localisation>
+         <Latitude>44.8925574</Latitude>
+         <Longitude>1.2140107</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 31 19 11</Téléphone>
+      <Url>http://www.info-jeune.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

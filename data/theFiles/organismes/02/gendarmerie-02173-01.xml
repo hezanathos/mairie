@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02173-01" codeInsee="02173" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Chauny</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>66 rue André-Ternynck</Ligne>
+      <CodePostal>02300</CodePostal>
+      <NomCommune>Chauny</NomCommune>
+      <Localisation>
+         <Latitude>49.6230824</Latitude>
+         <Longitude>3.2137067</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 39 18 17</Téléphone>
+      <Télécopie>+33 3 23 39 18 19</Télécopie>
+      <Email>cob.chauny@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

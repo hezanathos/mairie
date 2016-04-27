@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-51535-01" codeInsee="51535" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Coteaux Sézannais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>51120</CodePostal>
+      <NomCommune>Sézanne</NomCommune>
+      <Localisation>
+         <Latitude>48.7240422</Latitude>
+         <Longitude>3.7206477</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 80 59 01</Téléphone>
+      <Télécopie>+33 3 26 80 72 91</Télécopie>
+      <Email>villedesezanne.a.aubes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

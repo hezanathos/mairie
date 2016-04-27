@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-71512-01" codeInsee="71512" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Sennecey-le-Grand</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Gendarmerie La Saule</Ligne>
+      <CodePostal>71240</CodePostal>
+      <NomCommune>Sennecey-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>46.633697</Latitude>
+         <Longitude>4.875193</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 44 81 35</Téléphone>
+      <Télécopie>+33 3 85 44 60 90</Télécopie>
+      <Email>bta.sennecey-le-grand@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

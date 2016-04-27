@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-89025-01" codeInsee="89025" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de l'espace famille de l'Avallonnais-Tonnerrois d'Avallon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 avenue Victor-Hugo</Ligne>
+      <CodePostal>89200</CodePostal>
+      <NomCommune>Avallon</NomCommune>
+      <Localisation>
+         <Latitude>47.4911088</Latitude>
+         <Longitude>3.8965056</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="0820, 0821 : 0,12 euro la minute depuis un réseau fixe">+33 8 20 31 27 56</Téléphone>
+      <Télécopie>+33 3 86 34 95 71</Télécopie>
+      <Email>pifavallon.cafauxerre@caf.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil téléphonique uniquement le mercredi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

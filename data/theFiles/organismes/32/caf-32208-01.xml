@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-32208-01" codeInsee="32208" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Gers - accueil de Lectoure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Maison des services du Lectourois</Ligne>
+      <Ligne>2 cours Gambetta</Ligne>
+      <CodePostal>32700</CodePostal>
+      <NomCommune>Lectoure</NomCommune>
+      <Localisation>
+         <Latitude>43.933646</Latitude>
+         <Longitude>0.6270039</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Gers</Ligne>
+      <Ligne>11 rue de Châteaudun</Ligne>
+      <CodePostal>32013</CodePostal>
+      <NomCommune>Auch Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 32 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Permanence du technicien conseil le vendredi de 9h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

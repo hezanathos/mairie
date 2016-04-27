@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="80561" dateMiseAJour="2015-11-03" id="permanence_juridique-80561-01" idPresta="4cac9e61293594648a0004c6" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Montdidier</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>place du Général de Gaulle</Ligne>
+        <CodePostal>80500</CodePostal>
+        <NomCommune>MONTDIDIER</NomCommune>
+        <Localisation>
+            <Latitude>49.6468756</Latitude>
+            <Longitude>2.5672972</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 22 78 75 71</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

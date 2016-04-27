@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-93001-01" codeInsee="93001" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-837">
+   <Nom>Point d'information local dédié aux personnes âgées - Aubervilliers</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination</Ligne>
+      <Ligne>5 rue du Docteur Pesqué</Ligne>
+      <CodePostal>93300</CodePostal>
+      <NomCommune>Aubervilliers</NomCommune>
+      <Localisation>
+         <Latitude>48.914034</Latitude>
+         <Longitude>2.383014</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 11 21 92</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

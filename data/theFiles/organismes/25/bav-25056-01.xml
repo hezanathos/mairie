@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="25056" dateMiseAJour="2012-06-14" id="bav-25056-01" idPresta="51b08cc9b473e41478000f1a" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Besançon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 rue Mégevand</Ligne>
+        <Ligne>BP 459</Ligne>
+        <CodePostal>25019</CodePostal>
+        <NomCommune>BESANCON CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.236415</Latitude>
+            <Longitude>6.022926</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 81 61 60 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

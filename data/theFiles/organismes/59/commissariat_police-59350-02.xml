@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-59350-02" codeInsee="59350" dateMiseAJour="2015-07-09"
+           pivotLocal="commissariat_police">
+   <Nom>Hôtel de police de Lille</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue de Marquillies</Ligne>
+      <CodePostal>59000</CodePostal>
+      <NomCommune>Lille</NomCommune>
+      <Localisation>
+         <Latitude>50.6153087</Latitude>
+         <Longitude>3.0496346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 62 59 80 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-65405-01" codeInsee="65405" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Baronnies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des Baronnies</Ligne>
+      <CodePostal>65130</CodePostal>
+      <NomCommune>Sarlabous</NomCommune>
+      <Localisation>
+         <Latitude>43.075127</Latitude>
+         <Longitude>0.279068</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 05 14</Téléphone>
+      <Télécopie>+33 5 62 40 93 00</Télécopie>
+      <Email>maison.baronnies@orange.fr</Email>
+      <Url>http://www.moulindesbaronnies.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

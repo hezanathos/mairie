@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-83104-01" codeInsee="83104" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Rians</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin de la Garde</Ligne>
+      <Ligne>Maison Solaire</Ligne>
+      <CodePostal>83560</CodePostal>
+      <NomCommune>Rians</NomCommune>
+      <Localisation>
+         <Latitude>43.6068725586</Latitude>
+         <Longitude>5.75691080093</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 72 60 57</Téléphone>
+      <Télécopie>+33 4 94 72 60 58</Télécopie>
+      <Email>pij.rians@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>2 semaines avant chaque vacances scolaires le point information jeunesse est ouvert du lundi au vendredi de 9h à 12h30 et 14h à 18h sauf les vacances de Noël.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

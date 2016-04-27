@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-54395-02" codeInsee="54395" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Nancy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace Laurent-Bonnevay</Ligne>
+      <Ligne>Haut du Lièvre</Ligne>
+      <CodePostal>54000</CodePostal>
+      <NomCommune>Nancy</NomCommune>
+      <Localisation>
+         <Latitude>48.7046317</Latitude>
+         <Longitude>6.1663077</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 98 57 77</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

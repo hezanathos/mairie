@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="33243" dateMiseAJour="2015-06-19" id="bav-33243-01" idPresta="51b08c8cb473e414780001e7" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Libourne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>22 rue Thiers</Ligne>
+        <Ligne>CS 60202</Ligne>
+        <CodePostal>33509</CodePostal>
+        <NomCommune>LIBOURNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.913838</Latitude>
+            <Longitude>-0.244498</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 57 55 36 80</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

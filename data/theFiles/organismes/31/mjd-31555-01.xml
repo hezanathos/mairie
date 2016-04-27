@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="31555" dateMiseAJour="2010-02-03" id="mjd-31555-01" idPresta="51b08ca2b473e414780006a3" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Toulouse-Nord</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>217 route de Fronton</Ligne>
+        <CodePostal>31200</CodePostal>
+        <NomCommune>TOULOUSE</NomCommune>
+        <Localisation>
+            <Latitude>43.6617</Latitude>
+            <Longitude>1.431538</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 34 42 29 50</Téléphone>
+        <Télécopie>+33 5 34 42 29 51</Télécopie>
+        <Email>mailto:mjd-toulouse-lalande@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

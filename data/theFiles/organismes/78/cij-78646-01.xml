@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-78646-01" codeInsee="78646" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Centre information jeunesse de Versailles - Yvelines Information Jeunesse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place Charost</Ligne>
+      <CodePostal>78000</CodePostal>
+      <NomCommune>Versailles</NomCommune>
+      <Localisation>
+         <Latitude>48.8039016724</Latitude>
+         <Longitude>2.13216996193</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 50 22 52</Téléphone>
+      <Télécopie>+33 1 39 51 00 96</Télécopie>
+      <Email>information@yij78.org</Email>
+      <Url>http://www.yij78.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+         <Note>Prise de rendez vous possible le matin de 10h à 12h30.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+         <Note>Prise de rendez vous possible le matin de 10h à 12h30.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="12:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Prise de rendez vous possible le matin de 10h à 12h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

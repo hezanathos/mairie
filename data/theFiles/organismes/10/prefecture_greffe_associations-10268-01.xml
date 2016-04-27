@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-10268-01" codeInsee="10268"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Nogent-sur-Seine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, avenue du Maréchal-De-Lattre-de-Tassigny</Ligne>
+      <Ligne>Bureau des associations</Ligne>
+      <Ligne>Sous-préfecture de Nogent-sur-Seine</Ligne>
+      <Ligne>5, avenue Jean-Casimir-Perier</Ligne>
+      <CodePostal>10401</CodePostal>
+      <NomCommune>Nogent-sur-Seine</NomCommune>
+      <Localisation>
+         <Latitude>48.4960114</Latitude>
+         <Longitude>3.4965183</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 39 47 78</Téléphone>
+      <Télécopie>+33 3 25 39 06 57</Télécopie>
+      <Email>sp-nogent-sur-seine@aube.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

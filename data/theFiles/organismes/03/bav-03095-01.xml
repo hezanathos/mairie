@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="03095" dateMiseAJour="2012-05-11" id="bav-03095-01" idPresta="51b08c99b473e4147800048e" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Cusset</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue du Drapeau</Ligne>
+        <CodePostal>03306</CodePostal>
+        <NomCommune>CUSSET CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.133343</Latitude>
+            <Longitude>3.456536</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 70 30 98 30</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

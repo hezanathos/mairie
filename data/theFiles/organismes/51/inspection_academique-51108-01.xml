@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="inspection_academique-51108-01" codeInsee="51108"
+           dateMiseAJour="2016-03-10"
+           pivotLocal="inspection_academique">
+   <Nom>Direction des services départementaux de l'Éducation nationale, ex-Inspection académique - Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de la Charrière</Ligne>
+      <Ligne>Cité administrative Tirlet</Ligne>
+      <CodePostal>51036</CodePostal>
+      <NomCommune>Châlons-en-Champagne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.9578018188</Latitude>
+         <Longitude>4.37234020233</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 68 61 26</Téléphone>
+      <Télécopie>+33 3 26 21 25 39</Télécopie>
+      <Email>ce.sgdsden51@ac-reims.fr</Email>
+      <Url>http://www.ac-reims.fria51</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

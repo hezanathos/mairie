@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="74012" dateMiseAJour="2014-01-28" id="ti-74012-01" idPresta="4cac9e87293594648a004ced" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance d&#39;Annemasse</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>20 rue Léandre Vaillat</Ligne>
+        <CodePostal>74100</CodePostal>
+        <NomCommune>ANNEMASSE</NomCommune>
+        <Localisation>
+            <Latitude>46.189611</Latitude>
+            <Longitude>6.237425</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 50 84 05 50</Téléphone>
+        <Télécopie>+33 4 50 38 90 56</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

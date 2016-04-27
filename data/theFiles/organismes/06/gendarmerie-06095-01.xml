@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06095-01" codeInsee="06095" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Peymeinade</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 chemin de la Montagne</Ligne>
+      <CodePostal>06530</CodePostal>
+      <NomCommune>Peymeinade</NomCommune>
+      <Localisation>
+         <Latitude>43.648014</Latitude>
+         <Longitude>6.882257</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 66 60 60</Téléphone>
+      <Télécopie>+33 4 93 66 60 68</Télécopie>
+      <Email>cob.peymeinade@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-17299-01" codeInsee="17299" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Rochefort</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>57 avenue Bernadotte</Ligne>
+      <CodePostal>17300</CodePostal>
+      <NomCommune>Rochefort</NomCommune>
+      <Localisation>
+         <Latitude>45.9583592</Latitude>
+         <Longitude>-0.9676124</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 5 46 83 60 40</Télécopie>
+      <Url>http://www.poitou-charentes.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-83069-01" codeInsee="83069" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Hyères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Forum du Casino</Ligne>
+      <Ligne>Avenue Ambroise-Thomas</Ligne>
+      <CodePostal>83400</CodePostal>
+      <NomCommune>Hyères</NomCommune>
+      <Localisation>
+         <Latitude>43.12032</Latitude>
+         <Longitude>6.1317564</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Mairie de Hyères</Ligne>
+      <Ligne>12, avenue Joseph-Clotis</Ligne>
+      <Ligne>BP 709</Ligne>
+      <Ligne>Service jeunesse</Ligne>
+      <CodePostal>83412</CodePostal>
+      <NomCommune>Hyères Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.1200819</Latitude>
+         <Longitude>6.1301793</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 00 79 13</Téléphone>
+      <Email>jeunesse@mairie-hyeres.com</Email>
+      <Url>http://www.ville-hyeres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

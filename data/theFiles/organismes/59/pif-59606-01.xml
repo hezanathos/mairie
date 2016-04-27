@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-59606-01" codeInsee="59606" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de l'arrondissement de Valenciennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 bis rue Claudin-Lejeune</Ligne>
+      <Ligne>Maison de la famille du Valenciennois</Ligne>
+      <CodePostal>59300</CodePostal>
+      <NomCommune>Valenciennes</NomCommune>
+      <Localisation>
+         <Latitude>50.3577223</Latitude>
+         <Longitude>3.5232713</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 42 67 37</Téléphone>
+      <Télécopie>+33 3 27 16 19 67</Télécopie>
+      <Email>maisondelafamillevalenciennes@wanadoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

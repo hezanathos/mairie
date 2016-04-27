@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59580-01" codeInsee="59580" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Steenvoorde</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du 6 Septembre 1944</Ligne>
+      <CodePostal>59114</CodePostal>
+      <NomCommune>Steenvoorde</NomCommune>
+      <Localisation>
+         <Latitude>50.8033236</Latitude>
+         <Longitude>2.5857281</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 43 30 90</Téléphone>
+      <Télécopie>+33 3 28 43 93 81</Télécopie>
+      <Email>cob.steenvoorde@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

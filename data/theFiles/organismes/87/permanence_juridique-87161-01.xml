@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="87161" dateMiseAJour="2015-11-03" id="permanence_juridique-87161-01" idPresta="4cac9e61293594648a000515" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit dédié aux plus démunis</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Secours populaire</Ligne>
+        <Ligne>place de la Collégiale</Ligne>
+        <CodePostal>87400</CodePostal>
+        <NomCommune>ST LEONARD DE NOBLAT</NomCommune>
+        <Localisation>
+            <Latitude>45.8374332</Latitude>
+            <Longitude>1.4891015</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 10 53 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-27275-01" codeInsee="27275" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Gaillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Yves-Montand</Ligne>
+      <Ligne>BP28</Ligne>
+      <CodePostal>27607</CodePostal>
+      <NomCommune>Gaillon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.1613706</Latitude>
+         <Longitude>1.3328581</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 53 05 60</Téléphone>
+      <Email>t027028@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

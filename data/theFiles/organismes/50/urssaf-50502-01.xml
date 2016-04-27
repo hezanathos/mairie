@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-50502-01" codeInsee="50502" dateMiseAJour="2015-10-23"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Basse-Normandie - accueil de la Manche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>1 rue de la Laitière-Normande</Ligne>
+      <CodePostal>50000</CodePostal>
+      <NomCommune>Saint-Lô</NomCommune>
+      <Localisation>
+         <Latitude>49.11625</Latitude>
+         <Longitude>-1.08963</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 60001</Ligne>
+      <CodePostal>14045</CodePostal>
+      <NomCommune>Caen Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.bassenormandie.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

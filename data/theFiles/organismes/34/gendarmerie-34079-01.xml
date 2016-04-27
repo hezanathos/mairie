@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-34079-01" codeInsee="34079" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Clermont-l'Hérault</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue Jean--Moulin</Ligne>
+      <CodePostal>34800</CodePostal>
+      <NomCommune>Clermont-l'Hérault</NomCommune>
+      <Localisation>
+         <Latitude>43.6327778</Latitude>
+         <Longitude>3.4362493</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 96 00 32</Téléphone>
+      <Télécopie>+33 4 67 96 99 53</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

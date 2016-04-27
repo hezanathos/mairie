@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-86140-01" codeInsee="86140" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Lussacois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 avenue de l'Europe</Ligne>
+      <CodePostal>86320</CodePostal>
+      <NomCommune>Lussac-les-Châteaux</NomCommune>
+      <Localisation>
+         <Latitude>46.3975982666</Latitude>
+         <Longitude>0.720156013966</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 48 74 15</Téléphone>
+      <Télécopie>+33 5 49 84 97 97</Télécopie>
+      <Email>cc-lussacois@cg86.fr</Email>
+      <Url>http://www.cc-lussacois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

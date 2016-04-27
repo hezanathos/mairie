@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdc-92012-02" codeInsee="92012" dateMiseAJour="2009-07-27" pivotLocal="fdc">
+   <Nom>Fédération Départementale des Chasseurs de Paris</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>58, avenue du Général Leclercq</Ligne>
+      <CodePostal>92100</CodePostal>
+      <NomCommune>BOULOGNE BILLANCOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.8321764</Latitude>
+         <Longitude>2.2385701</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 55 60 18 70</Téléphone>
+      <Télécopie>+33 1 55 60 07 15</Télécopie>
+      <Email>fdc75@chasseurdefrance.com</Email>
+      <Url>http://www.chasseursdeparis.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

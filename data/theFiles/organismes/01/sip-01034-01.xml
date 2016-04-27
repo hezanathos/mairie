@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-01034-01" codeInsee="01034" dateMiseAJour="2015-02-05" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Belley</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Lieutenant André-Argenton</Ligne>
+      <Ligne>CS 70141</Ligne>
+      <CodePostal>01306</CodePostal>
+      <NomCommune>Belley Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.756435</Latitude>
+         <Longitude>5.6833023</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 81 65 40</Téléphone>
+      <Email>sip-sie.belley@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-78165-01" codeInsee="78165" dateMiseAJour="2013-03-05" pivotLocal="cij">
+   <Nom>Bureau information jeunesse des Clayes-sous-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace jeunes</Ligne>
+      <Ligne>Place Charles-de-Gaulle</Ligne>
+      <CodePostal>78340</CodePostal>
+      <NomCommune>Les Clayes-sous-Bois</NomCommune>
+      <Localisation>
+         <Latitude>48.8230018616</Latitude>
+         <Longitude>1.99030005932</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 56 40 80</Téléphone>
+      <Télécopie>+33 1 30 56 40 87</Télécopie>
+      <Email>espace.jeunes@lesclayessousbois.fr</Email>
+      <Url>http://www.ville-lesclayes78.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

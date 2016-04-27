@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-91021-01" codeInsee="91021" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de l'Arpajonnais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue de Saint-Arnoult</Ligne>
+      <CodePostal>91340</CodePostal>
+      <NomCommune>Ollainville</NomCommune>
+      <Localisation>
+         <Latitude>48.5891475</Latitude>
+         <Longitude>2.2315757</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 26 18 60</Téléphone>
+      <Télécopie>+33 1 69 26 18 70</Télécopie>
+      <Email>contact@cc-arpajonnais.fr</Email>
+      <Url>http://www.cc-arpajonnais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

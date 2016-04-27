@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-39300-01" codeInsee="39300" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lons-le-Saunier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Bouffez</Ligne>
+      <Ligne>51 avenue Camille-Prost</Ligne>
+      <CodePostal>39000</CodePostal>
+      <NomCommune>Lons-le-Saunier</NomCommune>
+      <Localisation>
+         <Latitude>46.6712622</Latitude>
+         <Longitude>5.5689994</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 35 86 00</Téléphone>
+      <Télécopie>+33 3 84 35 86 51</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

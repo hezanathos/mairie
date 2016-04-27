@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-57716-01" codeInsee="57716" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Vigy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Église</Ligne>
+      <CodePostal>57640</CodePostal>
+      <NomCommune>Vigy</NomCommune>
+      <Localisation>
+         <Latitude>49.2033149</Latitude>
+         <Longitude>6.2961779</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 77 91 23</Téléphone>
+      <Email>t057057@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

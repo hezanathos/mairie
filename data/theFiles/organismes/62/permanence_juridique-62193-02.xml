@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="62193" dateMiseAJour="2015-11-03" id="permanence_juridique-62193-02" idPresta="4cd18fb42935940531010acc" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Espace de Conciliation et d&#39;Accès au Droit</Ligne>
+        <Ligne>56 rue du Général Chanzy</Ligne>
+        <CodePostal>62100</CodePostal>
+        <NomCommune>CALAIS</NomCommune>
+        <Localisation>
+            <Latitude>50.9490351</Latitude>
+            <Longitude>1.8587377</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 21 19 04 80</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

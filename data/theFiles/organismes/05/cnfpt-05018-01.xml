@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cnfpt-05018-01" codeInsee="05018" dateMiseAJour="2014-04-18"
+           pivotLocal="cnfpt">
+   <Nom>Centre national de la fonction publique territoriale (CNFPT) - délégation des Hautes-Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue des Marronniers</Ligne>
+      <Ligne>Immeuble Les Fauvettes II</Ligne>
+      <CodePostal>05000</CodePostal>
+      <NomCommune>Gap</NomCommune>
+      <Localisation>
+         <Latitude>44.5443346</Latitude>
+         <Longitude>6.0634828</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 53 29 10</Téléphone>
+      <Télécopie>+33 4 92 53 29 11</Télécopie>
+      <Url>http://www.cdg05.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

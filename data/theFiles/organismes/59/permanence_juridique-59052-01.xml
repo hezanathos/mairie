@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59052" dateMiseAJour="2015-11-03" id="permanence_juridique-59052-01" idPresta="4cac9e60293594648a00034e" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Bauvin</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>rue Ghesquières</Ligne>
+        <CodePostal>59221</CodePostal>
+        <NomCommune>BAUVIN</NomCommune>
+        <Localisation>
+            <Latitude>50.516381</Latitude>
+            <Longitude>2.8941165</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

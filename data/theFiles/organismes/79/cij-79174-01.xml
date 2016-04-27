@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-79174-01" codeInsee="79174" dateMiseAJour="2006-03-14" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Melle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 Place René Groussard</Ligne>
+      <Ligne>BP 38</Ligne>
+      <CodePostal>79500</CodePostal>
+      <NomCommune>MELLE</NomCommune>
+      <Localisation>
+         <Latitude>46.2220001221</Latitude>
+         <Longitude>-0.14343200624</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 29 04 05</Téléphone>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

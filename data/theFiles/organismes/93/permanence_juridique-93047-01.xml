@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93047" dateMiseAJour="2015-11-03" id="permanence_juridique-93047-01" idPresta="4cac9e61293594648a000553" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Montfermeil</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des Services Publics</Ligne>
+        <Ligne>26 rue Utrillo</Ligne>
+        <CodePostal>93370</CodePostal>
+        <NomCommune>MONTFERMEIL</NomCommune>
+        <Localisation>
+            <Latitude>48.9020161</Latitude>
+            <Longitude>2.5560315</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 41 70 74 70</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

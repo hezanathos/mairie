@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-86290-01" codeInsee="86290" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Villedieu-du-Clain</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, impasse  de la Gendarmerie</Ligne>
+      <CodePostal>86340</CodePostal>
+      <NomCommune>La Villedieu-du-Clain</NomCommune>
+      <Localisation>
+         <Latitude>46.4557829</Latitude>
+         <Longitude>0.367687</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 42 51 07</Téléphone>
+      <Télécopie>+33 5 49 42 10 80</Télécopie>
+      <Email>cob.la-villedieu-du-clain@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

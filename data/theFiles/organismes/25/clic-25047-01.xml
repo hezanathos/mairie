@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-25047-01" codeInsee="25047" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-187">
+   <Nom>Point d'information local dédié aux personnes âgées - Baume-les-Dames</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue Barbier</Ligne>
+      <Ligne>Centre local d'information et de coordination du Pays Doubs Central</Ligne>
+      <Ligne>EspaceSeniors</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>Baume-les-Dames</NomCommune>
+      <Localisation>
+         <Latitude>47.354306</Latitude>
+         <Longitude>6.362056</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 38 78</Téléphone>
+      <Email>contact@clic25.info</Email>
+      <Url>http://clic25.info</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

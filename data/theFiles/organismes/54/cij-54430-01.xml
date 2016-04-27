@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-54430-01" codeInsee="54430" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Pompey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue des Aciéries</Ligne>
+      <Ligne>Mission Locale</Ligne>
+      <CodePostal>54340</CodePostal>
+      <NomCommune>POMPEY</NomCommune>
+      <Localisation>
+         <Latitude>48.7668965</Latitude>
+         <Longitude>6.1294868</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 24 30 72</Téléphone>
+      <Télécopie>+33 3 83 49 03 19</Télécopie>
+      <Email>mlvdlpompey@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Exclusivement le 2ème et 4ème mercredi du mois</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

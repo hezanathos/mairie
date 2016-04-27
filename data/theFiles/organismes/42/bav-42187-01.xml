@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="42187" dateMiseAJour="2012-10-31" id="bav-42187-01" idPresta="51b08cc5b473e41478000e13" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Roanne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>5 bis place Georges Clémenceau</Ligne>
+        <Ligne>BP 515</Ligne>
+        <CodePostal>42328</CodePostal>
+        <NomCommune>ROANNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.040049</Latitude>
+            <Longitude>4.072897</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 77 44 48 00</Téléphone>
+        <Télécopie>+33 4 77 44 48 35</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

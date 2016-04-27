@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-77305-01" codeInsee="77305" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Seine-et-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 avenue du Général-Leclerc</Ligne>
+      <CodePostal>77008</CodePostal>
+      <NomCommune>Melun Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.5268977</Latitude>
+         <Longitude>2.6532969</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 79 26 00</Téléphone>
+      <Télécopie>+33 1 64 79 26 01</Télécopie>
+      <Email>antenne.melun@cma77.fr</Email>
+      <Url>http://www.cma77.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

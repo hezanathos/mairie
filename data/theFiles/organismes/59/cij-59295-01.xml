@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-59295-01" codeInsee="59295" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Hazebrouck</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Degroote</Ligne>
+      <CodePostal>59190</CodePostal>
+      <NomCommune>Hazebrouck</NomCommune>
+      <Localisation>
+         <Latitude>50.7208851</Latitude>
+         <Longitude>2.5354953</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 49 51 30</Téléphone>
+      <Télécopie>+33 3 28 49 55 45</Télécopie>
+      <Email>celine@csehazebrouck.fr</Email>
+      <Url>http://www.csehazebrouck.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

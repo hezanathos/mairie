@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97360-01" codeInsee="97360" dateMiseAJour="2014-08-21"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Apatou</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Allée du Gendarme6Boudet</Ligne>
+      <CodePostal>97317</CodePostal>
+      <NomCommune>Apatou</NomCommune>
+      <Localisation>
+         <Latitude>5.1539002</Latitude>
+         <Longitude>-54.3398834</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 34 91 16</Téléphone>
+      <Télécopie>+594 5 94 34 92 46</Télécopie>
+      <Email>bta.apatou@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

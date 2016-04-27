@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-29042-01" codeInsee="29042" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-213">
+   <Nom>Point d'information local dédié aux personnes âgées - Crozon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Crozon</Ligne>
+      <Ligne>BP 9</Ligne>
+      <Ligne>4 rue Théodore-Botrel</Ligne>
+      <CodePostal>29160</CodePostal>
+      <NomCommune>Crozon</NomCommune>
+      <Localisation>
+         <Latitude>48.246389</Latitude>
+         <Longitude>-4.485886</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 26 28 04</Téléphone>
+      <Email>assistante.sociale@hopital-crozon.fr</Email>
+      <Url>http://www.clic-prequiledecrozon.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-38133-01" codeInsee="38133" dateMiseAJour="2015-09-21"
+           pivotLocal="clic"
+           idPresta="clic-313">
+   <Nom>Point d'information local dédié aux personnes âgées - Coublevie</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>785 route de Saint-Jean</Ligne>
+      <Ligne>Voironnais Chartreuse</Ligne>
+      <Ligne>Service Autonomie</Ligne>
+      <CodePostal>38500</CodePostal>
+      <NomCommune>Coublevie</NomCommune>
+      <Localisation>
+         <Latitude>45.350911</Latitude>
+         <Longitude>5.604173</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 05 75 65</Téléphone>
+      <Email>sce.autonomie@cg38.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

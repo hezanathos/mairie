@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38386-01" codeInsee="38386" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Geoire-en-Valdaine</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>50 rue Dode-de-la-Brunerie</Ligne>
+      <CodePostal>38620</CodePostal>
+      <NomCommune>Saint-Geoire-en-Valdaine</NomCommune>
+      <Localisation>
+         <Latitude>45.456129</Latitude>
+         <Longitude>5.6360599</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 07 50 17</Téléphone>
+      <Télécopie>+33 4 76 07 65 93</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

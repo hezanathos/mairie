@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-67397-01" codeInsee="67397" dateMiseAJour="2014-05-05"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Rhin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>67860</CodePostal>
+      <NomCommune>Rhinau</NomCommune>
+      <Localisation>
+         <Latitude>48.3174295</Latitude>
+         <Longitude>7.7050619</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 58 51 11</Téléphone>
+      <Télécopie>+33 3 88 58 51 53</Télécopie>
+      <Email>contact@cc-rhin.fr</Email>
+      <Url>http://www.cc-rhin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

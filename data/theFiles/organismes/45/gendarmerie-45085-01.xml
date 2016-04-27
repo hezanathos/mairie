@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-45085-01" codeInsee="45085" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Châtillon-Coligny</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de l'Avenir - Sainte-Geneviève</Ligne>
+      <CodePostal>45230</CodePostal>
+      <NomCommune>Châtillon-Coligny</NomCommune>
+      <Localisation>
+         <Latitude>47.8193035</Latitude>
+         <Longitude>2.8402995</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 96 88 45</Téléphone>
+      <Télécopie>+33 2 38 96 88 49</Télécopie>
+      <Email>bta.chatillon-coligny@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

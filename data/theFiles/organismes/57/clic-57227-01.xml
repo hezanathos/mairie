@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-57227-01" codeInsee="57227" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-457">
+   <Nom>Point d'information local dédié aux personnes âgées - Forbach</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Moselle Forbach</Ligne>
+      <Ligne>18 avenue de Spicheren</Ligne>
+      <CodePostal>57600</CodePostal>
+      <NomCommune>Forbach</NomCommune>
+      <Localisation>
+         <Latitude>49.186609</Latitude>
+         <Longitude>6.903383</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 21 53 92</Téléphone>
+      <Email>clicmoselleforbach@cg57.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-34276-01" codeInsee="34276" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Mission locale de Saint-Mathieu-de-Tréviers - Garrigue et Cévennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 22</Ligne>
+      <Ligne>120, allée Eugène-Saumade</Ligne>
+      <Ligne>Résidence Les Jardins de Silène</Ligne>
+      <Ligne>Bâtiment A</Ligne>
+      <CodePostal>34270</CodePostal>
+      <NomCommune>Saint-Mathieu-de-Tréviers</NomCommune>
+      <Localisation>
+         <Latitude>43.7688872</Latitude>
+         <Longitude>3.8651255</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 55 17 80</Téléphone>
+      <Télécopie>+33 4 67 55 17 81</Télécopie>
+      <Email>mlgc.stmathieu@orange.fr</Email>
+      <Url>http://ml.gc.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Accueil téléphonique le vendredi après-midi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

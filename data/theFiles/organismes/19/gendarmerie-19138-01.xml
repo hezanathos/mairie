@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-19138-01" codeInsee="19138" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Meyssac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>19500</CodePostal>
+      <NomCommune>Meyssac</NomCommune>
+      <Localisation>
+         <Latitude>45.077972</Latitude>
+         <Longitude>1.695371</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 25 40 03</Téléphone>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

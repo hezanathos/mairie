@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-37189-01" codeInsee="37189" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Preuilly-sur-Claise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 11</Ligne>
+      <Ligne>3 rue Saint-Pierre</Ligne>
+      <CodePostal>37290</CodePostal>
+      <NomCommune>Preuilly-sur-Claise</NomCommune>
+      <Localisation>
+         <Latitude>46.8548003</Latitude>
+         <Longitude>0.9297522</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 94 50 46</Téléphone>
+      <Email>t037030@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

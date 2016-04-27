@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-78646-01" codeInsee="78646" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Versailles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 bis impasse des Gendarmes</Ligne>
+      <CodePostal>78000</CodePostal>
+      <NomCommune>Versailles</NomCommune>
+      <Localisation>
+         <Latitude>48.8011354</Latitude>
+         <Longitude>2.1314244</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 50 30 49</Téléphone>
+      <Télécopie>+33 1 39 51 36 36</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

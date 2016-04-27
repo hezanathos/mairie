@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-57414-01" codeInsee="57414" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Deux Sarres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>44 bis rue du Général-de-Gaulle</Ligne>
+      <CodePostal>57790</CodePostal>
+      <NomCommune>Lorquin</NomCommune>
+      <Localisation>
+         <Latitude>48.6739735</Latitude>
+         <Longitude>7.0074687</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 24 92 75</Téléphone>
+      <Télécopie>+33 3 87 24 97 75</Télécopie>
+      <Email>communaute-2-sarres@wanadoo.fr</Email>
+      <Url>http://www.cc-2sarres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

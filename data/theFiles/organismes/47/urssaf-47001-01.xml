@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-47001-01" codeInsee="47001" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Aquitaine - accueil de Lot-et-Garonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 rue des Colonels-Lacuée</Ligne>
+      <CodePostal>47917</CodePostal>
+      <NomCommune>Agen Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>44.2019344</Latitude>
+         <Longitude>0.6162356</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.aquitaine.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>L'après-midi uniquement sur rendez-vous à prendre sur contact.urssaf.fr ou mon.urssaf.fr, accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

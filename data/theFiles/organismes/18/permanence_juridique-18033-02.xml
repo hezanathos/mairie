@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18033" dateMiseAJour="2015-11-03" id="permanence_juridique-18033-02" idPresta="4cd18fb329359405310109aa" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie de Bourges_Annexe d&#39;Asnières les Bourges</Ligne>
+        <Ligne>7 rue Danton</Ligne>
+        <CodePostal>18000</CodePostal>
+        <NomCommune>BOURGES</NomCommune>
+        <Localisation>
+            <Latitude>47.1218875163</Latitude>
+            <Longitude>2.40827212632</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 48 68 33 83</Téléphone>
+        <Télécopie>+33 2 48 68 34 95</Télécopie>
+        <Email>mailto:cdad@cdad18.fr</Email>
+        <Url>http://www.cdad18.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

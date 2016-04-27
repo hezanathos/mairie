@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-56010-01" codeInsee="56010" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Baud</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 rue du Maréchal-Leclerc</Ligne>
+      <CodePostal>56150</CodePostal>
+      <NomCommune>Baud</NomCommune>
+      <Localisation>
+         <Latitude>47.8806577</Latitude>
+         <Longitude>-3.0186385</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 51 03 07</Téléphone>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

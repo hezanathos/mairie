@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-91691-01" codeInsee="91691" dateMiseAJour="2014-07-30" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) d’Yerres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue du Clos-des-Abbesses</Ligne>
+      <CodePostal>91330</CodePostal>
+      <NomCommune>Yerres</NomCommune>
+      <Localisation>
+         <Latitude>48.7097106</Latitude>
+         <Longitude>2.499005</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 47 89 39</Téléphone>
+      <Télécopie>+33 1 69 49 50 93</Télécopie>
+      <Email>pmiyerres@cg91.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

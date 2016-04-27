@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-65059-01" codeInsee="65059" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Bagnères-de-Bigorre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison départementale de solidarité du Haut-Adour</Ligne>
+      <Ligne>13 rue Caubous</Ligne>
+      <CodePostal>65200</CodePostal>
+      <NomCommune>Bagnères-de-Bigorre</NomCommune>
+      <Localisation>
+         <Latitude>43.0662002563</Latitude>
+         <Longitude>0.150523006916</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 95 23 21</Téléphone>
+      <Télécopie>+33 5 62 95 86 80</Télécopie>
+      <Email>mds.hautadour@ha-py.fr</Email>
+      <Url>http://www.cg65.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

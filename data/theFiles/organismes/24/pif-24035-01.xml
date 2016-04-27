@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-24035-01" codeInsee="24035" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du point public de Belvès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Liberté</Ligne>
+      <Ligne>Maison des services</Ligne>
+      <Ligne>Centre intercommunal d'action sociale</Ligne>
+      <CodePostal>24170</CodePostal>
+      <NomCommune>Belvès</NomCommune>
+      <Localisation>
+         <Latitude>44.8456219</Latitude>
+         <Longitude>0.9095726</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 31 44 81</Téléphone>
+      <Télécopie>+33 5 53 31 44 86</Télécopie>
+      <Email>pointpublic-belves@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil sur rendez-vous l'après-midi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

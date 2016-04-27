@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-23165-01" codeInsee="23165" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Royère-de-Vassivière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Alfred-Auphelle</Ligne>
+      <Ligne>BP 2</Ligne>
+      <CodePostal>23460</CodePostal>
+      <NomCommune>Royère-de-Vassivière</NomCommune>
+      <Localisation>
+         <Latitude>45.8412968</Latitude>
+         <Longitude>1.9101665</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 64 70 99</Téléphone>
+      <Email>t023015@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

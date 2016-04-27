@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97357-01" codeInsee="97357" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Grand-Santi</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>97340</CodePostal>
+      <NomCommune>Grand-Santi</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 37 42 02</Téléphone>
+      <Email>bta.grand-santi@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

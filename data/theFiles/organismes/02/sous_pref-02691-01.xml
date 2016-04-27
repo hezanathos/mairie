@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sous_pref-02691-01" codeInsee="02691" dateMiseAJour="2012-12-19"
+           pivotLocal="sous_pref">
+   <Nom>Sous-préfecture de Saint-Quentin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22-24, rue de la Sous-préfecture</Ligne>
+      <Ligne>BP 615</Ligne>
+      <CodePostal>02100</CodePostal>
+      <NomCommune>Saint-Quentin</NomCommune>
+      <Localisation>
+         <Latitude>49.8462982178</Latitude>
+         <Longitude>3.29169011116</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 06 61 11</Téléphone>
+      <Télécopie>+33 3 23 06 61 21</Télécopie>
+      <Email>sp-saint-quentin@aisne.gouv.fr</Email>
+      <Url>http://www.aisne.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+         <Note>Attention : le service Carte grise joignable le matin au 03 23 06 61 15, le service Permis de conduire joignable le matin au 03 23 06 61 19, le service Carte de séjour, le service Naturalisation joignable le matin au 03 23 06 61 28. L'accueil physique des usagers aux guichets des cartes grises a lieu uniquement les lundi, mercredi et vendredi de 8h45 à 12h et de 13h30 à 16h15, les mardi et jeudi de 8h45 à 12h. Les permis de conduire sont ouverts lundi, mercredi et vendredi après-midi de 13h30 à 16h15.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

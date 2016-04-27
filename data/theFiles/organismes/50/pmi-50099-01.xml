@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-50099-01" codeInsee="50099" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Carentan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre médico-social</Ligne>
+      <Ligne>28 rue du 101e-Airborne</Ligne>
+      <CodePostal>50500</CodePostal>
+      <NomCommune>Carentan</NomCommune>
+      <Localisation>
+         <Latitude>49.3037</Latitude>
+         <Longitude>-1.24668</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 71 63 63</Téléphone>
+      <Télécopie>+33 2 33 42 44 64</Télécopie>
+      <Url>http://www.manche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

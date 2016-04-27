@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-29046-01" codeInsee="29046"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-886">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Douarnenez</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>EHPAD</Ligne>
+      <Ligne>21 rue Monte-au-ciel</Ligne>
+      <Ligne>Les Jardins du Clos</Ligne>
+      <Ligne>Centre Hospitalier</Ligne>
+      <CodePostal>29100</CodePostal>
+      <NomCommune>Douarnenez</NomCommune>
+      <Localisation>
+         <Latitude>48.092023</Latitude>
+         <Longitude>-4.325752</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 75 15 05</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

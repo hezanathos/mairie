@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-76263-01" codeInsee="76263" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de La Feuillie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue du Tronquay</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>76220</CodePostal>
+      <NomCommune>La Feuillie</NomCommune>
+      <Localisation>
+         <Latitude>49.4520988464</Latitude>
+         <Longitude>1.50882995129</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 90 80 70</Téléphone>
+      <Télécopie>+33 2 32 89 00 08</Télécopie>
+      <Url>http://www.seinemaritime.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture des différents services.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture des différents services.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

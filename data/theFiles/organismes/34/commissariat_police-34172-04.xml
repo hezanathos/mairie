@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-34172-04" codeInsee="34172" dateMiseAJour="2015-08-06"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Montpellier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Comédie</Ligne>
+      <CodePostal>34000</CodePostal>
+      <NomCommune>Montpellier</NomCommune>
+      <Localisation>
+         <Latitude>43.6084015</Latitude>
+         <Longitude>3.8793138</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 99 74 26 68</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

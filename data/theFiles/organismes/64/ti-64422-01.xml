@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="64422" dateMiseAJour="2014-01-28" id="ti-64422-01" idPresta="4cac9ed7293594648a00ee4f" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance d&#39;Oloron-Sainte-Marie</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Mendiondou</Ligne>
+        <CodePostal>64400</CodePostal>
+        <NomCommune>OLORON STE MARIE</NomCommune>
+        <Localisation>
+            <Latitude>43.192283</Latitude>
+            <Longitude>-0.607396</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 59 39 11 56</Téléphone>
+        <Télécopie>+33 5 59 39 00 75</Télécopie>
+        <Url>http://www.ca-pau.justice.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

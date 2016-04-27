@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-43020-01" codeInsee="43020" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bas-en-Basset</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Pré-du-Milieu</Ligne>
+      <CodePostal>43210</CodePostal>
+      <NomCommune>Bas-en-Basset</NomCommune>
+      <Localisation>
+         <Latitude>45.305846</Latitude>
+         <Longitude>4.109558</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 66 70 12</Téléphone>
+      <Télécopie>+33 4 71 66 99 21</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-67482-05" codeInsee="67482" dateMiseAJour="2016-04-04"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie d'Illkirch Collectivités</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 50263</Ligne>
+      <Ligne>12 rue du Rhône</Ligne>
+      <CodePostal>67089</CodePostal>
+      <NomCommune>Strasbourg Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.549513</Latitude>
+         <Longitude>7.739651</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 90 40 65 00</Téléphone>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

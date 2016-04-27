@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-79049-01" codeInsee="79049" dateMiseAJour="2015-10-20" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Bressuire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>124, boulevard de Poitiers</Ligne>
+      <Ligne>BP 290</Ligne>
+      <CodePostal>79308</CodePostal>
+      <NomCommune>Bressuire Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.8364616</Latitude>
+         <Longitude>-0.4779121</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 81 58 00</Téléphone>
+      <Email>sip-sie.bressuire@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+         <Note>Accueil également sur rendez-vous. Fermé le mercredi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

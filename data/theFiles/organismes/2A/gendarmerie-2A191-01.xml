@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-2A191-01" codeInsee="2A191" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Olmiccia</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Fenaggio</Ligne>
+      <CodePostal>20112</CodePostal>
+      <NomCommune>Olmiccia</NomCommune>
+      <Localisation>
+         <Latitude>41.6907524</Latitude>
+         <Longitude>9.0588471</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 78 80 17</Téléphone>
+      <Télécopie>+33 4 95 78 00 55</Télécopie>
+      <Email>cob.levie@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

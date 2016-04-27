@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-15014-01" codeInsee="15014" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Cantal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 avenue Gambetta</Ligne>
+      <CodePostal>15015</CodePostal>
+      <NomCommune>Aurillac Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.9272346497</Latitude>
+         <Longitude>2.44605588913</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 46 20 20</Téléphone>
+      <Télécopie>+33 4 71 46 21 42</Télécopie>
+      <Email>ccantuel@cg15.fr</Email>
+      <Url>http://www.cantal.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-59599-03" codeInsee="59599" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Tourcoing - Neuville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 boulevard de l'Égalité</Ligne>
+      <CodePostal>59200</CodePostal>
+      <NomCommune>Tourcoing</NomCommune>
+      <Localisation>
+         <Latitude>50.7282027</Latitude>
+         <Longitude>3.1674391</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 59 73 04 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

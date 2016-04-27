@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13056" dateMiseAJour="2010-02-03" id="mjd-13056-01" idPresta="51b08ccdb473e41478000ff0" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Martigues</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Pays Martégal</Ligne>
+        <Ligne>place Paradis Saint Roch</Ligne>
+        <CodePostal>13500</CodePostal>
+        <NomCommune>MARTIGUES</NomCommune>
+        <Localisation>
+            <Latitude>43.408129</Latitude>
+            <Longitude>5.038172</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 41 32 20</Téléphone>
+        <Télécopie>+33 4 42 41 32 40</Télécopie>
+        <Email>mailto:mjd-martigues@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

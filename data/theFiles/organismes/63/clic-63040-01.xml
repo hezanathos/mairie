@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-63040-01" codeInsee="63040" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-553">
+   <Nom>Point d'information local dédié aux personnes âgées - Billom</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue Saint-Loup</Ligne>
+      <Ligne>Centre local d'information et de coordination Solidarité et Coordination Gérontologique</Ligne>
+      <CodePostal>63160</CodePostal>
+      <NomCommune>Billom</NomCommune>
+      <Localisation>
+         <Latitude>45.7215</Latitude>
+         <Longitude>3.343236</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 60 48 85</Téléphone>
+      <Email>clic.billom@wanadoo.fr</Email>
+      <Url>http://www.clic-billom.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="12:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

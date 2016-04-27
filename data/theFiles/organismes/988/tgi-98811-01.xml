@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98811" dateMiseAJour="2015-04-10" id="tgi-98811-01" idPresta="4cac9e6a293594648a00183e" pivotLocal="tgi">
+    <Nom>Section Détachée du Tribunal de Première Instance à Koné</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>30 rue Lucien ALLARD</Ligne>
+        <CodePostal>98859</CodePostal>
+        <NomCommune>KONE</NomCommune>
+        <Localisation>
+            <Latitude>-21.060339</Latitude>
+            <Longitude>164.865749</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+687 355 513</Téléphone>
+        <Télécopie>+687 472 521</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

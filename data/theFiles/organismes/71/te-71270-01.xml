@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="71270" dateMiseAJour="2014-01-28" id="te-71270-01" idPresta="4cac9ed7293594648a00edd9" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Mâcon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>8 rue de la Préfecture</Ligne>
+        <Ligne>CS 90317</Ligne>
+        <CodePostal>71017</CodePostal>
+        <NomCommune>MACON CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.307665</Latitude>
+            <Longitude>4.832432</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 85 39 92 00</Téléphone>
+        <Télécopie>+33 3 85 38 20 37</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

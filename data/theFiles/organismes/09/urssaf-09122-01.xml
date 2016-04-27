@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-09122-01" codeInsee="09122" dateMiseAJour="2015-12-07"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Midi-Pyrénées - accueil de l'Ariège</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Victor-Hugo</Ligne>
+      <Ligne>Peysales</Ligne>
+      <CodePostal>09000</CodePostal>
+      <NomCommune>Foix</NomCommune>
+      <Localisation>
+         <Latitude>42.9468433</Latitude>
+         <Longitude>1.6249391</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.midipyrenees.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 17h. Sur rendez-vous au 3957</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

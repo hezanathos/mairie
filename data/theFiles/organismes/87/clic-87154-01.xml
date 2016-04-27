@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-87154-01" codeInsee="87154" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-780">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Junien</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du département</Ligne>
+      <Ligne>20 route du Dérot</Ligne>
+      <CodePostal>87200</CodePostal>
+      <NomCommune>Saint-Junien</NomCommune>
+      <Localisation>
+         <Latitude>45.896605</Latitude>
+         <Longitude>0.911902</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 71 99 82</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

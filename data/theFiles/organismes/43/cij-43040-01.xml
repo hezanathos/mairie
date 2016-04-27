@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-43040-01" codeInsee="43040" dateMiseAJour="2009-09-11" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Brioude</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mission Locale</Ligne>
+      <Ligne>4 Avenue Victor Hugo</Ligne>
+      <CodePostal>43100</CodePostal>
+      <NomCommune>BRIOUDE</NomCommune>
+      <Localisation>
+         <Latitude>45.2965011597</Latitude>
+         <Longitude>3.38080000877</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 74 97 24</Téléphone>
+      <Url>http://www.espaceinfojeunes.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

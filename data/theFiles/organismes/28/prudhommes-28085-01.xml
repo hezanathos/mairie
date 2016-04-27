@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="28085" dateMiseAJour="2014-01-28" id="prudhommes-28085-01" idPresta="4cac9e5f293594648a000238" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Chartres</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 rue des Bouchers</Ligne>
+        <Ligne>CS 40292</Ligne>
+        <CodePostal>28008</CodePostal>
+        <NomCommune>CHARTRES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.443028</Latitude>
+            <Longitude>1.487379</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 37 36 57 84</Téléphone>
+        <Télécopie>+33 2 37 21 52 99</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

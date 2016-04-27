@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-66008-01" codeInsee="66008" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Argelès-sur-Mer</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>92, avenue de la Libération</Ligne>
+      <CodePostal>66700</CodePostal>
+      <NomCommune>Argelès-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>42.5480042</Latitude>
+         <Longitude>3.0287198</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 81 03 96</Téléphone>
+      <Télécopie>+33 4 68 81 84 07</Télécopie>
+      <Email>bta.argeles-sur-mer@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

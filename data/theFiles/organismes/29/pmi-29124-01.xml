@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-29124-01" codeInsee="29124" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Lesneven</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 boulevard des Frères-Lumière</Ligne>
+      <CodePostal>29260</CodePostal>
+      <NomCommune>Lesneven</NomCommune>
+      <Localisation>
+         <Latitude>48.5746002197</Latitude>
+         <Longitude>-4.3169798851</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 83 23 66</Téléphone>
+      <Télécopie>+33 2 98 21 07 81</Télécopie>
+      <Url>http://www.cg29.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil avant de se déplacer.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

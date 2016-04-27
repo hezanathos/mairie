@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-43137-01" codeInsee="43137" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Les Marches du Velay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZA La Borie</Ligne>
+      <Ligne>BP 70060</Ligne>
+      <CodePostal>43120</CodePostal>
+      <NomCommune>Monistrol-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>45.2806322</Latitude>
+         <Longitude>4.1903991</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 61 74 34</Téléphone>
+      <Télécopie>+33 4 71 61 74 38</Télécopie>
+      <Email>contact@lesmarchesduvelay.fr</Email>
+      <Url>http://www.lesmarchesduvelay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

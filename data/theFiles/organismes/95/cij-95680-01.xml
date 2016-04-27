@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-95680-01" codeInsee="95680" dateMiseAJour="2006-06-21" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Villiers le Bel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>44 avenue Pierre Sémard</Ligne>
+      <CodePostal>95400</CodePostal>
+      <NomCommune>VILLIERS LE BEL</NomCommune>
+      <Localisation>
+         <Latitude>49.0012016296</Latitude>
+         <Longitude>2.40767002106</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 94 07 55</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

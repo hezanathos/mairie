@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="51108" dateMiseAJour="2014-01-28" id="tgi-51108-01" idPresta="4cac9ed7293594648a00ee0f" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Châlons-en-Champagne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 quai Eugène Perrier</Ligne>
+        <CodePostal>51036</CodePostal>
+        <NomCommune>CHALONS EN CHAMPAGNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.9589712</Latitude>
+            <Longitude>4.3615452</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 26 69 27 27</Téléphone>
+        <Télécopie>+33 3 26 65 52 11</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

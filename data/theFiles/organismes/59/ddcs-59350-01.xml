@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcs-59350-01" codeInsee="59350" dateMiseAJour="2014-03-03"
+           pivotLocal="ddcs">
+   <Nom>Direction départementale de la cohésion sociale (DDCS) - Nord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>175, rue Gustave-Delory</Ligne>
+      <Ligne>CS 12008</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <CodePostal>59013</CodePostal>
+      <NomCommune>Lille Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.633596</Latitude>
+         <Longitude>3.0703871</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 18 33 33</Téléphone>
+      <Télécopie>+33 3 20 18 34 70</Télécopie>
+      <Email>ddcs59@nord.gouv.fr</Email>
+      <Url>http://www.nord.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

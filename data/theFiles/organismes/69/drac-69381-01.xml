@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="drac-69381-01" codeInsee="69381" dateMiseAJour="2015-12-21"
+           pivotLocal="drac">
+   <Nom>Direction régionale des affaires culturelles - Auvergne Rhône-Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Grenier d'Abondance</Ligne>
+      <Ligne>6 quai Saint-Vincent</Ligne>
+      <CodePostal>69283</CodePostal>
+      <NomCommune>Lyon Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>45.7687014</Latitude>
+         <Longitude>4.815078</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 00 44 00</Téléphone>
+      <Télécopie>+33 4 72 00 43 30</Télécopie>
+      <Email>drac.rhone-alpes@culture.gouv.fr</Email>
+      <Url>http://www.culturecommunication.gouv.fr/regions/drac-rhone-alpes</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

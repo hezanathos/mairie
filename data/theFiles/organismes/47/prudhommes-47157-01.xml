@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="47157" dateMiseAJour="2014-01-28" id="prudhommes-47157-01" idPresta="4cac9e61293594648a0005cb" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Marmande</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 place des Droits de l&#39;Homme</Ligne>
+        <CodePostal>47200</CodePostal>
+        <NomCommune>MARMANDE</NomCommune>
+        <Localisation>
+            <Latitude>44.4997929</Latitude>
+            <Longitude>0.1616627</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 53 20 39 28</Téléphone>
+        <Télécopie>+33 5 53 20 39 29</Télécopie>
+        <Url>http://www.ca-agen.justice.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

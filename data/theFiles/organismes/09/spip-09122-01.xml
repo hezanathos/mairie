@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="09122" dateMiseAJour="2014-12-08" id="spip-09122-01" idPresta="4d257cb52935941b0b010b9c" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de l&#39;Ariège</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 cours Irénée Cros</Ligne>
+        <CodePostal>09000</CodePostal>
+        <NomCommune>FOIX</NomCommune>
+        <Localisation>
+            <Latitude>42.967078</Latitude>
+            <Longitude>1.608755</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 34 09 88 20</Téléphone>
+        <Télécopie>+33 5 34 09 02 73</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

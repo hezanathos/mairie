@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-78646-01" codeInsee="78646" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Yvelines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 ter, rue Édouard-Lefebvre</Ligne>
+      <Ligne>Caserne d'Artois</Ligne>
+      <CodePostal>78000</CodePostal>
+      <NomCommune>Versailles</NomCommune>
+      <Localisation>
+         <Latitude>48.7992364</Latitude>
+         <Longitude>2.133157</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 97 55 80</Téléphone>
+      <Télécopie>+33 1 39 02 28 22</Télécopie>
+      <Email>sd78@onacvg.fr</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="16:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

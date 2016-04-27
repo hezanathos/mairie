@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-76709-01" codeInsee="76709" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Seine-Maritime - accueil du Trait</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place du 11-Novembre</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>76580</CodePostal>
+      <NomCommune>Le Trait</NomCommune>
+      <Localisation>
+         <Latitude>49.4866283</Latitude>
+         <Longitude>0.803705</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de Seine-Maritime</Ligne>
+      <Ligne>4 rue des Forgettes</Ligne>
+      <Ligne>CS 86017</Ligne>
+      <CodePostal>76017</CodePostal>
+      <NomCommune>Rouen Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.4483985901</Latitude>
+         <Longitude>1.08126997948</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 76 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

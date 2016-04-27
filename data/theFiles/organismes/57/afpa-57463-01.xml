@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-57463-01" codeInsee="57463" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Metz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 50020</Ligne>
+      <Ligne>6 rue Pierre-Boileau</Ligne>
+      <CodePostal>57063</CodePostal>
+      <NomCommune>Metz</NomCommune>
+      <Localisation>
+         <Latitude>49.1431865</Latitude>
+         <Longitude>6.1705505</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 3 87 31 73 01</Télécopie>
+      <Url>http://lorraine.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

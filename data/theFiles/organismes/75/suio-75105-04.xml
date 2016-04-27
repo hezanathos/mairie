@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-75105-04" codeInsee="75105" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Paris 7 - Paris Diderot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rez-de-chaussée Accès C</Ligne>
+      <Ligne>10 esplanade Pierre-Vidal-Naquet</Ligne>
+      <Ligne>Bâtiment Grands Moulins</Ligne>
+      <CodePostal>75251</CodePostal>
+      <NomCommune>Paris Cedex 5</NomCommune>
+      <Localisation>
+         <Latitude>48.8292796</Latitude>
+         <Longitude>2.3806802</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 57 27 71 31</Téléphone>
+      <Email>saoip@univ-paris-diderot.fr</Email>
+      <Url>http://www.univ-paris7.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

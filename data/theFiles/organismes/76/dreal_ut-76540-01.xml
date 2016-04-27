@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-76540-01" codeInsee="76540" dateMiseAJour="2015-01-20"
+           pivotLocal="dreal_ut">
+   <Nom>Unité territoriale - Direction régionale de l'environnement, de l'aménagement et du logement - Seine-Maritime-Rouen-Dieppe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Dufay</Ligne>
+      <CodePostal>76100</CodePostal>
+      <NomCommune>Rouen</NomCommune>
+      <Localisation>
+         <Latitude>49.4221916</Latitude>
+         <Longitude>1.0792515000000549</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 91 97 60</Téléphone>
+      <Télécopie>+33 2 32 91 97 97</Télécopie>
+      <Email>utrd.dreal-hnormandie@developpement-durable.gouv.fr</Email>
+      <Url>http://www.haute-normandie.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

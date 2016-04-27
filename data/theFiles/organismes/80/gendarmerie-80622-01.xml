@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-80622-01" codeInsee="80622" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Picquigny</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>351, rue Jean Choquet</Ligne>
+      <CodePostal>80310</CodePostal>
+      <NomCommune>Picquigny</NomCommune>
+      <Localisation>
+         <Latitude>49.9395186</Latitude>
+         <Longitude>2.1388897</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 39 40 17</Téléphone>
+      <Télécopie>+33 3 22 39 40 19</Télécopie>
+      <Email>cob.villers-bocage@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

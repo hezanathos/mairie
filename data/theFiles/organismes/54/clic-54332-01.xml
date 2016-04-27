@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-54332-01" codeInsee="54332" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-409">
+   <Nom>Point d'information local dédié aux personnes âgées - Maidières</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Val de Lorraine</Ligne>
+      <Ligne>9200 route de Blénod</Ligne>
+      <Ligne>PAIS</Ligne>
+      <CodePostal>54700</CodePostal>
+      <NomCommune>Maidières</NomCommune>
+      <Localisation>
+         <Latitude>48.893897</Latitude>
+         <Longitude>6.046616</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 80 02 38</Téléphone>
+      <Email>paphvdl@cg54.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

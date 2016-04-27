@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-31033-01" codeInsee="31033" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Vallée de l'Ariège</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route Départementale 820</Ligne>
+      <Ligne>ZI Robert-Lavigne</Ligne>
+      <CodePostal>31190</CodePostal>
+      <NomCommune>Auterive</NomCommune>
+      <Localisation>
+         <Latitude>43.352627</Latitude>
+         <Longitude>1.4775069</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 50 99 00</Téléphone>
+      <Télécopie>+33 5 61 50 99 02</Télécopie>
+      <Email>cc-vallee-ariege@orange.fr</Email>
+      <Url>http://www.cc-vallee-ariege.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

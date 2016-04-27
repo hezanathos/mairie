@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="01033" dateMiseAJour="2015-11-03" id="permanence_juridique-01033-01" idPresta="4cac9e5e293594648a000052" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>34 rue de la République</Ligne>
+        <CodePostal>01200</CodePostal>
+        <NomCommune>BELLEGARDE SUR VALSERINE</NomCommune>
+        <Localisation>
+            <Latitude>46.1075404</Latitude>
+            <Longitude>5.8261263</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 07 12 96 34</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

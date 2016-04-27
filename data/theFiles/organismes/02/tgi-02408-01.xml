@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="02408" dateMiseAJour="2014-01-28" id="tgi-02408-01" idPresta="4cac9ed7293594648a00edf4" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Laon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Aubry</Ligne>
+        <CodePostal>02001</CodePostal>
+        <NomCommune>LAON CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.564965</Latitude>
+            <Longitude>3.625177</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 23 26 29 00</Téléphone>
+        <Télécopie>+33 3 23 26 29 31</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

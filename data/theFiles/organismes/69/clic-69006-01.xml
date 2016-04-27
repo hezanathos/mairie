@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69006-01" codeInsee="69006" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-629">
+   <Nom>Point d'information local dédié aux personnes âgées - Amplepuis</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de l'Hôtel-de-Ville</Ligne>
+      <Ligne>Maison du Rhône du Canton d'Amplepuis</Ligne>
+      <CodePostal>69550</CodePostal>
+      <NomCommune>Amplepuis</NomCommune>
+      <Localisation>
+         <Latitude>45.973161</Latitude>
+         <Longitude>4.332012</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 89 09 09</Téléphone>
+      <Email>mdr.amplepuis@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-85194-01" codeInsee="85194" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-751">
+   <Nom>Point d'information local dédié aux personnes âgées - Les Sables-d'Olonne</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Littoral</Ligne>
+      <Ligne>44 boulevard Pasteur</Ligne>
+      <CodePostal>85100</CodePostal>
+      <NomCommune>Les Sables-d'Olonne</NomCommune>
+      <Localisation>
+         <Latitude>46.491556</Latitude>
+         <Longitude>-1.769167</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 21 49 10</Téléphone>
+      <Email>clicdulittoral@wanadoo.fr</Email>
+      <Url>http://www.clicdulittoral.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

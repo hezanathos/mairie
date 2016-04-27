@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-80039-01" codeInsee="80039" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Ault</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>66, avenue du Maréchal-Leclerc</Ligne>
+      <CodePostal>80460</CodePostal>
+      <NomCommune>Ault</NomCommune>
+      <Localisation>
+         <Latitude>50.101557</Latitude>
+         <Longitude>1.447391</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 60 11 17</Téléphone>
+      <Télécopie>+33 3 22 60 11 19</Télécopie>
+      <Email>cob.friville-escarbotin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

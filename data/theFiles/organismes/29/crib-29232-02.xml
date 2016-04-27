@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-29232-02" codeInsee="29232" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Espace associatif la maison des associations de Quimper</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>53 impasse de l'Odet</Ligne>
+      <CodePostal>29000</CodePostal>
+      <NomCommune>Quimper</NomCommune>
+      <Localisation>
+         <Latitude>47.9950404</Latitude>
+         <Longitude>-4.0888958</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 52 33 00</Téléphone>
+      <Télécopie>+33 2 98 52 14 44</Télécopie>
+      <Email>mda@espace29.asso.fr</Email>
+      <Url>http://www.espace29.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

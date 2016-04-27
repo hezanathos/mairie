@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-18118-01" codeInsee="18118" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Jouet-sur-l'Aubois</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de Berry</Ligne>
+      <CodePostal>18320</CodePostal>
+      <NomCommune>Jouet-sur-l'Aubois</NomCommune>
+      <Localisation>
+         <Latitude>47.0439349</Latitude>
+         <Longitude>2.991152</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 77 53 60</Téléphone>
+      <Télécopie>+33 2 48 77 53 63</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

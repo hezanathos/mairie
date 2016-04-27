@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-86194-01" codeInsee="86194" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Poitou-Charentes - siège de la Vienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 avenue de la Révolution</Ligne>
+      <CodePostal>86046</CodePostal>
+      <NomCommune>Poitiers Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>46.58633</Latitude>
+         <Longitude>0.38068</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.poitoucharentes.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Accueil physique sur rendez-vous de 12h30 à 17h, le vendredi jusqu'à 16h. Accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

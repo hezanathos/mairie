@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-92002-01" codeInsee="92002" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) des Hauts-de-Seine - accueil d'Antony</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>6 rue des Champs</Ligne>
+      <CodePostal>92160</CodePostal>
+      <NomCommune>Antony</NomCommune>
+      <Localisation>
+         <Latitude>48.7528506</Latitude>
+         <Longitude>2.2959998</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie des Hauts-de-Seine</Ligne>
+      <CodePostal>92026</CodePostal>
+      <NomCommune>Nanterre Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h30 à 17h30. Borne multiservices en façade.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="01034" dateMiseAJour="2015-11-03" id="permanence_juridique-01034-01" idPresta="4cac9e5e293594648a000053" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal d&#39;instance</Ligne>
+        <Ligne>boulevard du Mail</Ligne>
+        <CodePostal>01300</CodePostal>
+        <NomCommune>BELLEY</NomCommune>
+        <Localisation>
+            <Latitude>45.7604844</Latitude>
+            <Longitude>5.6884768</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 07 12 96 34</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

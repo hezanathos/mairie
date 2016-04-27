@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-22137-01" codeInsee="22137" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Maël-Carhaix</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 rue de Paule</Ligne>
+      <CodePostal>22340</CodePostal>
+      <NomCommune>Maël-Carhaix</NomCommune>
+      <Localisation>
+         <Latitude>48.2812107</Latitude>
+         <Longitude>-3.4285386</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 24 62 57</Téléphone>
+      <Télécopie>+33 2 96 24 73 28</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

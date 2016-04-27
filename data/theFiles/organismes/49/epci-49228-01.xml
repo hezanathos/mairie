@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49228-01" codeInsee="49228" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Noyant</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue d'Anjou</Ligne>
+      <Ligne>BP 20</Ligne>
+      <CodePostal>49490</CodePostal>
+      <NomCommune>Noyant</NomCommune>
+      <Localisation>
+         <Latitude>47.5125631031</Latitude>
+         <Longitude>0.114498138428</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 89 51 14</Téléphone>
+      <Télécopie>+33 2 41 89 32 01</Télécopie>
+      <Email>accueil.cccn@wanadoo.fr</Email>
+      <Url>http://www.cc-canton-noyant.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

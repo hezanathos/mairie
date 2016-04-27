@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-57306-01" codeInsee="57306" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération du Val de Fensch</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 20176</Ligne>
+      <Ligne>1 rue de Wendel</Ligne>
+      <Ligne>Hôtel de communauté</Ligne>
+      <CodePostal>57705</CodePostal>
+      <NomCommune>Hayange Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.3298426</Latitude>
+         <Longitude>6.0604251</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 86 81 81</Téléphone>
+      <Télécopie>+33 3 82 86 81 82</Télécopie>
+      <Email>info@agglo-valdefensch.fr</Email>
+      <Url>http://www.agglo-valdefensch.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

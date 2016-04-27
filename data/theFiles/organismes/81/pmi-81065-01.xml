@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-81065-01" codeInsee="81065" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Castres 1</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 40206</Ligne>
+      <Ligne>Maison du département 1er Mai</Ligne>
+      <CodePostal>81104</CodePostal>
+      <NomCommune>Castres Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6100997925</Latitude>
+         <Longitude>2.23781991005</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 62 62 00</Téléphone>
+      <Email>maison-6castres1-6ds@tarn.fr</Email>
+      <Url>http://www.cg81.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

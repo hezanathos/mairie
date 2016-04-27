@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88372-01" codeInsee="88372" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Raon-L'Étape</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, avenue du 21ème BCP</Ligne>
+      <CodePostal>88110</CodePostal>
+      <NomCommune>Raon-l'Étape</NomCommune>
+      <Localisation>
+         <Latitude>48.4072699</Latitude>
+         <Longitude>6.843762</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 41 40 17</Téléphone>
+      <Télécopie>+33 3 29 41 38 75</Télécopie>
+      <Email>cob.raon-l-etape@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

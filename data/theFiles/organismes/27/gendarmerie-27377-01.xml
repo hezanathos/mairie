@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-27377-01" codeInsee="27377" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lyons-la-Forêt</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue du Four-à-Chaux</Ligne>
+      <CodePostal>27480</CodePostal>
+      <NomCommune>Lyons-la-Forêt</NomCommune>
+      <Localisation>
+         <Latitude>49.4002571</Latitude>
+         <Longitude>1.4822426</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 49 60 17</Téléphone>
+      <Télécopie>+33 2 32 49 96 53</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

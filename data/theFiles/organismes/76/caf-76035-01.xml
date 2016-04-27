@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-76035-01" codeInsee="76035" dateMiseAJour="2015-04-19" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Seine-Maritime - accueil d'Aumale</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue du Baillage</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>76390</CodePostal>
+      <NomCommune>Aumale</NomCommune>
+      <Localisation>
+         <Latitude>49.7704147</Latitude>
+         <Longitude>1.749577</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 86017</Ligne>
+      <Ligne>Caisse d'allocations familiales de Seine-Maritime</Ligne>
+      <Ligne>4 rue des Forgettes</Ligne>
+      <CodePostal>76017</CodePostal>
+      <NomCommune>Rouen Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.4485252</Latitude>
+         <Longitude>1.0809814</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0810 25 76 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+         <Note>Accueil ouvert uniquement le 2e et le 4e jeudi du mois et fermé pendant toutes les vacances scolaires</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

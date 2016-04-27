@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-84106-01" codeInsee="84106" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sainte-Cécile-les-Vignes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Jean Jaurès</Ligne>
+      <CodePostal>84290</CodePostal>
+      <NomCommune>Sainte-Cécile-les-Vignes</NomCommune>
+      <Localisation>
+         <Latitude>44.2392056</Latitude>
+         <Longitude>4.8837443</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 30 70 33</Téléphone>
+      <Télécopie>+33 4 90 30 63 53</Télécopie>
+      <Email>cob.orange@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

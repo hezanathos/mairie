@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-43137-01" codeInsee="43137" dateMiseAJour="2015-12-08"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Monistrol-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier des Roches</Ligne>
+      <Ligne>CS 90008</Ligne>
+      <CodePostal>43120</CodePostal>
+      <NomCommune>Monistrol-sur-Loire Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.2948042</Latitude>
+         <Longitude>4.1727385</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 66 51 38</Téléphone>
+      <Télécopie>+33 4 71 66 38 60</Télécopie>
+      <Email>t043016@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

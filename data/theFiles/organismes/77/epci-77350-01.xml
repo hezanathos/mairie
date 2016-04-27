@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-77350-01" codeInsee="77350" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Portes Briardes entre Villes et Forêts</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>45 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>77834</CodePostal>
+      <NomCommune>Ozoir-la-Ferrière Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7625624</Latitude>
+         <Longitude>2.6718572</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 43 35 35</Téléphone>
+      <Télécopie>+33 1 64 43 35 41</Télécopie>
+      <Email>contact@mairie-ozoir-la-ferriere.fr</Email>
+      <Url>http://www.mairie-ozoir-la-ferriere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Accueil téléphonique uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

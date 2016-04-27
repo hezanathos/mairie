@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="60612" dateMiseAJour="2014-01-28" id="ti-60612-01" idPresta="4cac9e62293594648a000665" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Senlis</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>26 allée des Soupirs</Ligne>
+        <CodePostal>60300</CodePostal>
+        <NomCommune>SENLIS</NomCommune>
+        <Localisation>
+            <Latitude>49.209362</Latitude>
+            <Longitude>2.579447</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 44 53 91 00</Téléphone>
+        <Télécopie>+33 3 44 53 91 69</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="17:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

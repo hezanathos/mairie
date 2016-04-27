@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-89119-01" codeInsee="89119" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Coulanges-sur-Yonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Communauté de commune de Coulanges-sur-Yonne</Ligne>
+      <Ligne>21 rue du Port</Ligne>
+      <CodePostal>89480</CodePostal>
+      <NomCommune>Coulanges-sur-Yonne</NomCommune>
+      <Localisation>
+         <Latitude>47.5252344</Latitude>
+         <Longitude>3.544297</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Email>ccpcy.pims@wanadoo.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

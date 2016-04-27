@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-84031-01" codeInsee="84031" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Hôtel de police de Carpentras</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Boulevard Albin-Durand</Ligne>
+      <CodePostal>84200</CodePostal>
+      <NomCommune>Carprentras</NomCommune>
+      <Localisation>
+         <Latitude>44.0531975</Latitude>
+         <Longitude>5.0455949</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 67 62 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

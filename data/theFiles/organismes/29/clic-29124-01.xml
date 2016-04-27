@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-29124-01" codeInsee="29124" dateMiseAJour="2015-11-16"
+           pivotLocal="clic"
+           idPresta="clic-214">
+   <Nom>Point d'information local dédié aux personnes âgées - Lesneven</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre hospitalier</Ligne>
+      <Ligne>Centre local d'information et de coordination Lesneven et du pays des Abers</Ligne>
+      <Ligne>Rue Barbier-de-Lescoat</Ligne>
+      <CodePostal>29260</CodePostal>
+      <NomCommune>Lesneven</NomCommune>
+      <Localisation>
+         <Latitude>48.571144</Latitude>
+         <Longitude>-4.319554</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 21 02 02</Téléphone>
+      <Email>clic-lesneven@orange.fr</Email>
+      <Url>http://www.clic-lesneven-abers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

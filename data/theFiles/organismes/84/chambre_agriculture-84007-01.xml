@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-84007-01" codeInsee="84007" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d'agriculture - Vaucluse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>TSA 58432</Ligne>
+      <Ligne>Site Agroparc</Ligne>
+      <CodePostal>84912</CodePostal>
+      <NomCommune>Avignon Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.9486126</Latitude>
+         <Longitude>4.8059666</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 23 65 65</Téléphone>
+      <Télécopie>+33 4 90 23 65 40</Télécopie>
+      <Email>http://www.agriculture84.fr/la-chambre-d-agriculture/contact.html</Email>
+      <Url>http://www.agriculture84.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-83115-01" codeInsee="83115" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Sainte-Maxime</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Jules Conforti, rue du Gendarme Conforti</Ligne>
+      <CodePostal>83120</CodePostal>
+      <NomCommune>Sainte-Maxime</NomCommune>
+      <Localisation>
+         <Latitude>43.310184</Latitude>
+         <Longitude>6.640482</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 96 00 35</Téléphone>
+      <Télécopie>+33 4 94 56 74 00</Télécopie>
+      <Email>bta.ste-maxime@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

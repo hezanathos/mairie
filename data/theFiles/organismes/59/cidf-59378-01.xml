@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cidf-59378-01" codeInsee="59378" dateMiseAJour="2014-02-11"
+           pivotLocal="cidf">
+   <Nom>Centre d'information sur les droits des femmes et des familles (CIDFF) - Nord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>174, rue Gabriel-Péri</Ligne>
+      <CodePostal>59700</CodePostal>
+      <NomCommune>Marcq-en-Baroeul</NomCommune>
+      <Localisation>
+         <Latitude>50.6700298</Latitude>
+         <Longitude>3.0789765</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 15 85 34</Téléphone>
+      <Télécopie>+33 3 20 89 77 76</Télécopie>
+      <Email>cidff59marcq@orange.fr</Email>
+      <Url>http://www.infofemmes.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

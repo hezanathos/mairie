@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-87014-01" codeInsee="87014" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Porte d'Occitanie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Jean-Moulin</Ligne>
+      <CodePostal>87250</CodePostal>
+      <NomCommune>Bessines-sur-Gartempe</NomCommune>
+      <Localisation>
+         <Latitude>46.1071005</Latitude>
+         <Longitude>1.3666495</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 76 29 36</Téléphone>
+      <Télécopie>+33 5 55 60 07 36</Télécopie>
+      <Email>cc87portedoc@wanadoo.fr</Email>
+      <Url>http://www.cc87portedoc.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

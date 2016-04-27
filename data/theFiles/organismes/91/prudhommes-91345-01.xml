@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="91345" dateMiseAJour="2014-01-28" id="prudhommes-91345-01" idPresta="4cac9ed6293594648a00ed7f" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Longjumeau</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>20 avenue du Maréchal Leclerc</Ligne>
+        <Ligne>BP 58</Ligne>
+        <CodePostal>91160</CodePostal>
+        <NomCommune>LONGJUMEAU</NomCommune>
+        <Localisation>
+            <Latitude>48.698458</Latitude>
+            <Longitude>2.29219</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 64 48 80 40</Téléphone>
+        <Télécopie>+33 1 64 48 07 33</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="09:00:00" fin="16:00:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="16:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

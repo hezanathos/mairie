@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33484-01" codeInsee="33484" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Symphorien</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 avenue Jean--Jaurès</Ligne>
+      <CodePostal>33113</CodePostal>
+      <NomCommune>Saint-Symphorien</NomCommune>
+      <Localisation>
+         <Latitude>44.4291394</Latitude>
+         <Longitude>-0.4831113</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 65 72 10</Téléphone>
+      <Télécopie>+33 5 56 65 72 13</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-14366-01" codeInsee="14366" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Lintercom Lisieux Pays d'Auge Normandie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue d'Alençon</Ligne>
+      <Ligne>BP 26020</Ligne>
+      <CodePostal>14106</CodePostal>
+      <NomCommune>Lisieux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.1426239</Latitude>
+         <Longitude>0.2271622</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 61 66 00</Téléphone>
+      <Télécopie>+33 2 31 61 66 01</Télécopie>
+      <Email>secretariat@lintercom.fr</Email>
+      <Url>http://www.lintercom.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

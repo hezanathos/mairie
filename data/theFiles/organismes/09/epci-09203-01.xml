@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-09203-01" codeInsee="09203" dateMiseAJour="2015-08-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Seronnais 117</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Ferme d'Icart</Ligne>
+      <CodePostal>09240</CodePostal>
+      <NomCommune>Montels</NomCommune>
+      <Localisation>
+         <Latitude>43.007535</Latitude>
+         <Longitude>1.460445</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 64 51 25</Téléphone>
+      <Email>comcomseronais@wanadoo.fr</Email>
+      <Url>http://www.pyrenees-seronais.com</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="21231" dateMiseAJour="2014-01-28" id="ti-21231-01" idPresta="4cac9e61293594648a000629" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Dijon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité Judiciaire</Ligne>
+        <Ligne>13 Bld Clémenceau BP 51</Ligne>
+        <CodePostal>21072</CodePostal>
+        <NomCommune>DIJON CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.323411</Latitude>
+            <Longitude>5.045469</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 80 70 45 25</Téléphone>
+        <Télécopie>+33 3 80 70 45 63</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="11:45:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-58218-01" codeInsee="58218" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Prémery</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Varzy</Ligne>
+      <CodePostal>58700</CodePostal>
+      <NomCommune>Prémery</NomCommune>
+      <Localisation>
+         <Latitude>47.179796</Latitude>
+         <Longitude>3.34086</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 68 12 32</Téléphone>
+      <Télécopie>+33 3 86 68 19 57</Télécopie>
+      <Email>cob.la-charite-sur-loire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

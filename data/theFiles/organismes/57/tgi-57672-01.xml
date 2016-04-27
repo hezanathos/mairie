@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="57672" dateMiseAJour="2014-06-09" id="tgi-57672-01" idPresta="4cac9e6a293594648a0017ac" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Thionville</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>quai Pierre Marchal</Ligne>
+        <Ligne>BP 80348</Ligne>
+        <CodePostal>57125</CodePostal>
+        <NomCommune>THIONVILLE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.357654</Latitude>
+            <Longitude>6.169112</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 82 82 43 50</Téléphone>
+        <Télécopie>+33 3 82 82 49 65</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="11:45:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+            <Note>également les services du tribunal d&#39;instance : greffe civil - tutelles - saisies-arrêts - police</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

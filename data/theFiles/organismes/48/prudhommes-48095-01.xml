@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="48095" dateMiseAJour="2014-01-28" id="prudhommes-48095-01" idPresta="4cac9e5f293594648a000271" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Mende</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>boulevard Henri Bourillon</Ligne>
+        <CodePostal>48000</CodePostal>
+        <NomCommune>MENDE</NomCommune>
+        <Localisation>
+            <Latitude>44.516188</Latitude>
+            <Longitude>3.49822</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 66 65 35 95</Téléphone>
+        <Télécopie>+33 4 66 49 36 80</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

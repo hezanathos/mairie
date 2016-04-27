@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13213" dateMiseAJour="2015-11-03" id="permanence_juridique-13213-01" idPresta="4cd18fb32935940531010a53" pivotLocal="permanence_juridique">
+    <Nom>Antenne juridique et de médiation Val Plan Bégude</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>77 avenue de la Croix Rouge</Ligne>
+        <CodePostal>13013</CodePostal>
+        <NomCommune>MARSEILLE</NomCommune>
+        <Localisation>
+            <Latitude>43.332007</Latitude>
+            <Longitude>5.434287</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 91 70 13 39</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

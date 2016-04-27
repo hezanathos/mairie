@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-67095-01" codeInsee="67095" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes d'Alsace Bossue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de Weyer</Ligne>
+      <CodePostal>67320</CodePostal>
+      <NomCommune>Drulingen</NomCommune>
+      <Localisation>
+         <Latitude>48.8639172</Latitude>
+         <Longitude>7.18600470000001</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 01 21 00</Téléphone>
+      <Télécopie>+33 3 88 01 21 09</Télécopie>
+      <Email>ccab@cc-alsace-bossue.net</Email>
+      <Url>http://cc-alsace-bossue.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

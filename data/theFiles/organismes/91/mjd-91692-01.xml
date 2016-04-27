@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="91692" dateMiseAJour="2007-04-03" id="mjd-91692-01" idPresta="51b08ca4b473e414780006fe" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  des Ulis</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue des Bergeres</Ligne>
+        <Ligne>Groupe scolaire des Bergeres</Ligne>
+        <CodePostal>91940</CodePostal>
+        <NomCommune>LES ULIS</NomCommune>
+        <Localisation>
+            <Latitude>48.68487</Latitude>
+            <Longitude>2.16744</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 64 86 14 05</Téléphone>
+        <Télécopie>+33 1 60 92 02 28</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="18:45:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="16:15:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

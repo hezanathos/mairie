@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93061" dateMiseAJour="2015-11-03" id="permanence_juridique-93061-01" idPresta="4cac9e61293594648a000558" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Le Pré Saint-Gervais</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des Associations</Ligne>
+        <Ligne>3 place Anatole France</Ligne>
+        <CodePostal>93310</CodePostal>
+        <NomCommune>LE PRE ST GERVAIS</NomCommune>
+        <Localisation>
+            <Latitude>48.883554</Latitude>
+            <Longitude>2.4029789</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 49 42 70 29</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

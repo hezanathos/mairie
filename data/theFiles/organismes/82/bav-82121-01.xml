@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="82121" dateMiseAJour="2012-06-21" id="bav-82121-01" idPresta="51b08cbfb473e41478000cd2" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Montauban</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du coq</Ligne>
+        <CodePostal>82013</CodePostal>
+        <NomCommune>MONTAUBAN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.01675</Latitude>
+            <Longitude>1.353454</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 63 21 40 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

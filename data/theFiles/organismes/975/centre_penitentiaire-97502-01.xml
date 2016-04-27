@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="97502" dateMiseAJour="2014-06-09" id="centre_penitentiaire-97502-01" idPresta="4eb263342935944ef50001d8" pivotLocal="centre_penitentiaire">
+    <Nom>Centre pénitentiaire de Saint Pierre et Miquelon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue abbe Pierre gervain</Ligne>
+        <Ligne>BP 270</Ligne>
+        <CodePostal>97500</CodePostal>
+        <NomCommune>ST PIERRE ET MIQUELON</NomCommune>
+        <Localisation>
+            <Latitude>46.7809031806</Latitude>
+            <Longitude>-56.1705094795</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 08 41 27 55</Téléphone>
+        <Télécopie>+33 5 08 41 29 41</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

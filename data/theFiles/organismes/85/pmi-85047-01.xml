@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-85047-01" codeInsee="85047" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Challans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre médico-social</Ligne>
+      <Ligne>Boulevard René-Bazin</Ligne>
+      <CodePostal>85300</CodePostal>
+      <NomCommune>Challans</NomCommune>
+      <Localisation>
+         <Latitude>46.8438987732</Latitude>
+         <Longitude>-1.88305997849</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 93 24 75</Téléphone>
+      <Télécopie>+33 2 51 68 37 63</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

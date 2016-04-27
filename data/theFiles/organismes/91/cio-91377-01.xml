@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cio-91377-01" codeInsee="91377" dateMiseAJour="2015-01-15" pivotLocal="cio">
+   <Nom>Centre d’information et d’orientation (CIO) de Massy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de la formation et de l'emploi</Ligne>
+      <Ligne>10, avenue du Noyer-Lambert</Ligne>
+      <CodePostal>91300</CodePostal>
+      <NomCommune>Massy</NomCommune>
+      <Localisation>
+         <Latitude>48.731257</Latitude>
+         <Longitude>2.2910052</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 53 68 75</Téléphone>
+      <Télécopie>+33 1 69 53 09 38</Télécopie>
+      <Email>cio-massy@ac-versailles.fr</Email>
+      <Url>http://www.ac-versailles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <Note>Accueil ouvert uniquement pendant les périodes scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

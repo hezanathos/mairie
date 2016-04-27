@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-97213-01" codeInsee="97213" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Hôtel de police du Lamentin</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Nelson Mandela - Quartier Petit Manoir</Ligne>
+      <CodePostal>97284</CodePostal>
+      <NomCommune>Le Lamentin</NomCommune>
+      <Localisation>
+         <Latitude>14.6156863</Latitude>
+         <Longitude>-61.0257386</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 39 20 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="77284" dateMiseAJour="2015-10-23" id="te-77284-01" idPresta="4cac9e87293594648a004cbb" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Meaux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>44 avenue Salvador Allende</Ligne>
+        <Ligne>BP 230</Ligne>
+        <CodePostal>77109</CodePostal>
+        <NomCommune>MEAUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.9555641</Latitude>
+            <Longitude>2.890683</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 60 09 75 00</Téléphone>
+        <Télécopie>+33 1 60 09 75 30</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

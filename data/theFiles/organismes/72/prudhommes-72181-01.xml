@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="72181" dateMiseAJour="2014-07-21" id="prudhommes-72181-01" idPresta="4cac9e6a293594648a001703" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes du Mans</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité Judiciaire</Ligne>
+        <Ligne>1 avenue P. Mendès-France</Ligne>
+        <CodePostal>72014</CodePostal>
+        <NomCommune>LE MANS CEDEX 2</NomCommune>
+        <Localisation>
+            <Latitude>48.007208</Latitude>
+            <Longitude>0.199507</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 83 77 55</Téléphone>
+        <Télécopie>+33 2 43 83 78 32</Télécopie>
+        <Email>mailto:cph-le-mans@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

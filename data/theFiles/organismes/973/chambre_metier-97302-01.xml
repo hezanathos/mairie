@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-97302-01" codeInsee="97302" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Guyane</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41 ZA Galmot</Ligne>
+      <CodePostal>97300</CodePostal>
+      <NomCommune>Cayenne</NomCommune>
+      <Localisation>
+         <Latitude>4.9227</Latitude>
+         <Longitude>-52.3269</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 25 24 70</Téléphone>
+      <Télécopie>+594 5 94 25 24 73</Télécopie>
+      <Email>amm@cm-guyane.fr</Email>
+      <Url>http://www.cm-guyane.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="07:30:00" fin="13:00:00"/>
+         <PlageH début="14:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="07:30:00" fin="13:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="07:30:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="07:30:00" fin="13:00:00"/>
+         <PlageH début="14:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="07:30:00" fin="14:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

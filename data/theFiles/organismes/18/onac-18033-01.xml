@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-18033-01" codeInsee="18033" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Cher</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Carnot</Ligne>
+      <Ligne>Quartier Auger-Carnot</Ligne>
+      <Ligne>BP 50709</Ligne>
+      <Ligne>Ecoles militaires de Bourges</Ligne>
+      <CodePostal>18016</CodePostal>
+      <NomCommune>Bourges Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.0742196</Latitude>
+         <Longitude>2.4142873</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 46 08 81 76</Téléphone>
+      <Télécopie>+33 2 46 08 81 78</Télécopie>
+      <Email>sec.18@oncvg.fr</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

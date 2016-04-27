@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="44109" dateMiseAJour="2014-01-28" id="centre_penitentiaire-44109-01" idPresta="4eb2632d2935944ef500015b" pivotLocal="centre_penitentiaire">
+    <Nom>Centre pénitentiaire de Nantes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>68 boulevard Albert-Einstein</Ligne>
+        <Ligne>BP 71636</Ligne>
+        <CodePostal>44316</CodePostal>
+        <NomCommune>NANTES CEDEX 3</NomCommune>
+        <Localisation>
+            <Latitude>47.262371</Latitude>
+            <Longitude>-1.566591</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 40 16 45 00</Téléphone>
+        <Télécopie>+33 2 40 16 45 05</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

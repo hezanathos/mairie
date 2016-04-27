@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-26165-01" codeInsee="26165" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Drôme - accueil de Livron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Mairie de Livron</Ligne>
+      <Ligne>90 avenue Joseph-Combier</Ligne>
+      <Ligne>Salle des permanences</Ligne>
+      <CodePostal>26250</CodePostal>
+      <NomCommune>Livron-sur-Drôme</NomCommune>
+      <Localisation>
+         <Latitude>44.7681374</Latitude>
+         <Longitude>4.8407246</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de la Drôme</Ligne>
+      <Ligne>BP 1000</Ligne>
+      <CodePostal>26024</CodePostal>
+      <NomCommune>Valence Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h à 17h. Horaires hors congés scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

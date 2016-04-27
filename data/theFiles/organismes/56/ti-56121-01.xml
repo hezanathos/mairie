@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="56121" dateMiseAJour="2014-01-28" id="ti-56121-01" idPresta="4cac9e6a293594648a0017f4" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Lorient</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre d&#39;affaires la découverte</Ligne>
+        <Ligne>39 rue de la villeneuve</Ligne>
+        <CodePostal>56100</CodePostal>
+        <NomCommune>LORIENT</NomCommune>
+        <Localisation>
+            <Latitude>47.75257</Latitude>
+            <Longitude>-3.378909</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 97 88 28 00</Téléphone>
+        <Télécopie>+33 2 97 88 28 14</Télécopie>
+        <Email>mailto:ti-lorient@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

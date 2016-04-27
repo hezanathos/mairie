@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59178-01" codeInsee="59178" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Douai</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Conroux 240, rue des Wetz</Ligne>
+      <CodePostal>59500</CodePostal>
+      <NomCommune>Douai</NomCommune>
+      <Localisation>
+         <Latitude>50.3742002</Latitude>
+         <Longitude>3.0814958</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 98 50 47</Téléphone>
+      <Télécopie>+33 3 27 98 91 48</Télécopie>
+      <Email>bta.douai@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38547-01" codeInsee="38547" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Villard-Bonnot</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 boulevard Jules-Ferry</Ligne>
+      <CodePostal>38190</CodePostal>
+      <NomCommune>Villard-Bonnot</NomCommune>
+      <Localisation>
+         <Latitude>45.2412459</Latitude>
+         <Longitude>5.8903915</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 71 42 18</Téléphone>
+      <Télécopie>+33 4 76 13 12 98</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

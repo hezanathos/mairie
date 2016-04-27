@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-44109-01" codeInsee="44109" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Loire-Atlantique - siège de Nantes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 rue de Malville</Ligne>
+      <CodePostal>44937</CodePostal>
+      <NomCommune>Nantes Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>47.2333068</Latitude>
+         <Longitude>-1.5818008</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 44 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+         <Note>Accueil possible avec ou sans rendez-vous en langue des signes française Lsf, le mardi de 8h30 à 12h et le jeudi de 13h30 à 16h. accueil téléphonique du lundi au vendredi de 9h à 16h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

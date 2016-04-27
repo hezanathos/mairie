@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-37153-01" codeInsee="37153" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Monnaie</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Lieutenant-Colonel-Bonneville</Ligne>
+      <CodePostal>37380</CodePostal>
+      <NomCommune>Monnaie</NomCommune>
+      <Localisation>
+         <Latitude>47.500918</Latitude>
+         <Longitude>0.785026</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 29 81 50</Téléphone>
+      <Télécopie>+33 2 47 29 81 54</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

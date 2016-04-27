@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-13005-01" codeInsee="13005" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police d'Aubagne</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 avenue Jeanne-d'Arc</Ligne>
+      <CodePostal>13400</CodePostal>
+      <NomCommune>Aubagne</NomCommune>
+      <Localisation>
+         <Latitude>43.2948764</Latitude>
+         <Longitude>5.5669956</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 18 55 55</Téléphone>
+      <Email>ddsp13-csp-aubagne@interieur</Email>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

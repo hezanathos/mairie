@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-63353-01" codeInsee="63353" dateMiseAJour="2009-09-11" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Saint-Germain l'Herm</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de l'Animation</Ligne>
+      <CodePostal>63630</CodePostal>
+      <NomCommune>ST GERMAIN L HERM</NomCommune>
+      <Localisation>
+         <Latitude>45.4599761963</Latitude>
+         <Longitude>3.5439350605</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 72 09 44</Téléphone>
+      <Url>http://www.espaceinfijeunes.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

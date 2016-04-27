@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-49246-01" codeInsee="49246" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Profession sport et loisirs - Maine-et-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue Pierre-de-Coubertin</Ligne>
+      <CodePostal>49136</CodePostal>
+      <NomCommune>Les-Ponts-De-Cé</NomCommune>
+      <Localisation>
+         <Latitude>47.4430549</Latitude>
+         <Longitude>-0.5241242</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 79 49 89</Téléphone>
+      <Email>contact49@profession-sport-loisirs.fr</Email>
+      <Url>http://maine-loire.profession-sport-loisirs.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

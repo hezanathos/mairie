@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="34172" dateMiseAJour="2015-11-03" id="civi-34172-01" idPresta="4cac9e71293594648a0022a0" pivotLocal="civi">
+    <Nom>Commission d&#39;indemnisation des victimes d&#39;infractions de Montpellier</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>place Pierre Flotte</Ligne>
+        <CodePostal>34040</CodePostal>
+        <NomCommune>MONTPELLIER CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>43.6104379</Latitude>
+            <Longitude>3.868906</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 67 12 60 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

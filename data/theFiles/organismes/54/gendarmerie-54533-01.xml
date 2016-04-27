@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-54533-01" codeInsee="54533" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Trieux</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place Jean-Jaurès</Ligne>
+      <CodePostal>54750</CodePostal>
+      <NomCommune>Trieux</NomCommune>
+      <Localisation>
+         <Latitude>49.3248182</Latitude>
+         <Longitude>5.930469</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 20 40 02</Téléphone>
+      <Télécopie>+33 3 82 20 66 42</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

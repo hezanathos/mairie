@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-64533-01" codeInsee="64533" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Tardets-Sorholus</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Mauléon</Ligne>
+      <CodePostal>64470</CodePostal>
+      <NomCommune>Tardets-Sorholus</NomCommune>
+      <Localisation>
+         <Latitude>43.1223337</Latitude>
+         <Longitude>-0.8709132</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 28 67 50</Téléphone>
+      <Télécopie>+33 5 59 28 67 52</Télécopie>
+      <Email>cob.mauleon-licharre@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

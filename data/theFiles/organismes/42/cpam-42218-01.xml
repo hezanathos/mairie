@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-42218-01" codeInsee="42218" dateMiseAJour="2015-04-19"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Loire - accueil de Saint-Étienne - Boivin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>3 avenue Émile-Loubet</Ligne>
+      <CodePostal>42000</CodePostal>
+      <NomCommune>Saint-Étienne</NomCommune>
+      <Localisation>
+         <Latitude>45.4360535</Latitude>
+         <Longitude>4.38427939999997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 72701</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de la Loire</Ligne>
+      <CodePostal>42027</CodePostal>
+      <NomCommune>Saint-Étienne Cedex 1</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant, depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:00:00" fin="16:15:00"/>
+         <Note>Borne multi?services accessible 24h/24 et 7j/7.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="17:30:00"/>
+         <Note>Borne multi?services accessible 24h/24 et 7j/7.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="17:30:00"/>
+         <Note>Borne multi?services accessible 24h/24 et 7j/7.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:15:00"/>
+         <Note>Borne multi?services accessible 24h/24 et 7j/7.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

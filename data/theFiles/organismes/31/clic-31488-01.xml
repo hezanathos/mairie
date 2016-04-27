@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-31488-01" codeInsee="31488" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-249">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Jean</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 chemin du bois de Saget</Ligne>
+      <Ligne>Maison des Solidarités de  Saint-Jean</Ligne>
+      <CodePostal>31240</CodePostal>
+      <NomCommune>Saint-Jean</NomCommune>
+      <Localisation>
+         <Latitude>43.662213</Latitude>
+         <Longitude>1.498258</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 25 50 50</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

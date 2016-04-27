@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="77337" dateMiseAJour="2007-04-03" id="mjd-77337-01" idPresta="51b08ccdb473e41478001020" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Noisiel</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Val Maubuée</Ligne>
+        <Ligne>4 place Gaston Deferre</Ligne>
+        <CodePostal>77186</CodePostal>
+        <NomCommune>NOISIEL</NomCommune>
+        <Localisation>
+            <Latitude>48.843665</Latitude>
+            <Longitude>2.615152</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 60 95 16 90</Téléphone>
+        <Télécopie>+33 1 60 95 16 93</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="09:30:00" fin="13:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="09:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="10:00:00" fin="13:00:00"/>
+            <PlageH début="14:00:00" fin="20:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

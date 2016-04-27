@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="88160" dateMiseAJour="2014-01-28" id="te-88160-01" idPresta="4cac9ed7293594648a00ede2" pivotLocal="te">
+    <Nom>Tribunal pour enfants d&#39;Epinal</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Edmond Henry</Ligne>
+        <Ligne>BP 575</Ligne>
+        <CodePostal>88020</CodePostal>
+        <NomCommune>EPINAL CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.1745814</Latitude>
+            <Longitude>6.4515713</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 29 34 53 53</Téléphone>
+        <Télécopie>+33 3 29 34 07 35</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

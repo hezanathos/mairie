@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-58182-01" codeInsee="58182" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-468">
+   <Nom>Point d'information local dédié aux personnes âgées - Moulins-Engilbert</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Salonyer</Ligne>
+      <Ligne>Site d'Action Médico Sociale</Ligne>
+      <CodePostal>58290</CodePostal>
+      <NomCommune>Moulins-Engilbert</NomCommune>
+      <Localisation>
+         <Latitude>46.987551</Latitude>
+         <Longitude>3.810357</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 93 46 00</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

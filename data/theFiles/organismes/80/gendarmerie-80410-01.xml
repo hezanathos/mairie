@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-80410-01" codeInsee="80410" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Ham</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de Verdun</Ligne>
+      <CodePostal>80400</CodePostal>
+      <NomCommune>Ham</NomCommune>
+      <Localisation>
+         <Latitude>49.7442083</Latitude>
+         <Longitude>3.0761218</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 98 34 17</Téléphone>
+      <Télécopie>+33 3 22 98 34 19</Télécopie>
+      <Email>cob.ham@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

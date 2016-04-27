@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-62548-01" codeInsee="62548" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Marck</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>528, avenue Matisse</Ligne>
+      <CodePostal>62730</CodePostal>
+      <NomCommune>Marck</NomCommune>
+      <Localisation>
+         <Latitude>50.9539791</Latitude>
+         <Longitude>1.9259985</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 19 42 70</Téléphone>
+      <Télécopie>+33 3 21 19 42 74</Télécopie>
+      <Email>bta.marck@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

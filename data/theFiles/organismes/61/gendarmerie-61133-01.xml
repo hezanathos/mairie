@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-61133-01" codeInsee="61133" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Courtomer</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Batrel</Ligne>
+      <CodePostal>61390</CodePostal>
+      <NomCommune>Courtomer</NomCommune>
+      <Localisation>
+         <Latitude>48.6281446</Latitude>
+         <Longitude>0.3546667</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 80 44 40</Téléphone>
+      <Télécopie>+33 2 33 80 44 44</Télécopie>
+      <Email>cob.sees@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

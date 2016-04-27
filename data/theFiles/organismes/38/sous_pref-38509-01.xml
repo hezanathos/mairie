@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sous_pref-38509-01" codeInsee="38509" dateMiseAJour="2013-12-18"
+           pivotLocal="sous_pref">
+   <Nom>Sous-préfecture - La Tour-du-Pin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 30205</Ligne>
+      <Ligne>19 bis, rue Joseph-Savoyat</Ligne>
+      <CodePostal>38354</CodePostal>
+      <NomCommune>La Tour-du-Pin Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.5628738403</Latitude>
+         <Longitude>5.44565105438</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 83 29 99</Téléphone>
+      <Télécopie>+33 4 74 97 18 86</Télécopie>
+      <Url>http://www.isere.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <Note>Attention : l'accueil des demandeurs de titre de séjour se fait uniquement sur rendez-vous. Celui-ci peut être demandé par courriel à  etrangers-sptdp@isere.pref.gouv.fr, par courrier, par téléphone au 04.74.83.72.40 les lundi, mardi, jeudi et vendredi de 10h30 à 12h et le jeudi de 13h45 à 16h15.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

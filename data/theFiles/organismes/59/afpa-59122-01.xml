@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-59122-01" codeInsee="59122" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Cambrai</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1461 avenue du Cateau</Ligne>
+      <Ligne>Park-Service</Ligne>
+      <CodePostal>59400</CodePostal>
+      <NomCommune>Cambrai</NomCommune>
+      <Localisation>
+         <Latitude>50.173538</Latitude>
+         <Longitude>3.236633</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Url>http://nord-pas-de-calais.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

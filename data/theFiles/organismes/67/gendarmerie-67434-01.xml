@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67434-01" codeInsee="67434" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sarre-Union</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue Vincent d'Indy</Ligne>
+      <CodePostal>67260</CodePostal>
+      <NomCommune>Sarre-Union</NomCommune>
+      <Localisation>
+         <Latitude>48.9357138</Latitude>
+         <Longitude>7.090069</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 00 10 20</Téléphone>
+      <Télécopie>+33 3 88 01 17 05</Télécopie>
+      <Email>cob.sarre-union@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-15122-01" codeInsee="15122" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Maurs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du 11-Novembre</Ligne>
+      <CodePostal>15600</CodePostal>
+      <NomCommune>Maurs</NomCommune>
+      <Localisation>
+         <Latitude>44.7101656</Latitude>
+         <Longitude>2.1962008</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 46 77 08</Téléphone>
+      <Télécopie>+33 4 71 46 87 19</Télécopie>
+      <Email>accueil@cc-maurs.fr</Email>
+      <Url>http://www.cc-maurs.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

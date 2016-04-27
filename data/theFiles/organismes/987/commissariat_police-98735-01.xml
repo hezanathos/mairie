@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-98735-01" codeInsee="98735" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Hôtel de police de Papeete</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>52 avenue Pouvana'a A Oopa</Ligne>
+      <CodePostal>98700</CodePostal>
+      <NomCommune>Papeete</NomCommune>
+      <Localisation>
+         <Latitude>-17.5434991</Latitude>
+         <Longitude>-149.5704428</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+689 47 01 47</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

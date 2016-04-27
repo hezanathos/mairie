@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cio-89206-01" codeInsee="89206" dateMiseAJour="2015-01-15" pivotLocal="cio">
+   <Nom>Centre d'information et d'orientation (CIO) de Joigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, avenue de Mayen</Ligne>
+      <CodePostal>89300</CodePostal>
+      <NomCommune>Joigny</NomCommune>
+      <Localisation>
+         <Latitude>47.9803009033</Latitude>
+         <Longitude>3.419080019</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 62 11 90</Téléphone>
+      <Télécopie>+33 3 86 62 28 98</Télécopie>
+      <Email>cio.joigny@ac-dijon.fr</Email>
+      <Url>http://www.ac-dijon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-55351-01" codeInsee="55351" dateMiseAJour="2015-05-20"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Montmédy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 avenue de la Gare</Ligne>
+      <CodePostal>55600</CodePostal>
+      <NomCommune>Montmédy</NomCommune>
+      <Localisation>
+         <Latitude>49.5226457</Latitude>
+         <Longitude>5.3707292</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 80 16 44</Téléphone>
+      <Télécopie>+33 3 29 80 21 03</Télécopie>
+      <Email>http://paysdemontmedy.blogspot.fr/2010/10/nous-situer-et-nous-contacter.html</Email>
+      <Url>http://paysdemontmedy.blogspot.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

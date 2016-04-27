@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-58227-01" codeInsee="58227" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Amand-en-Puisaye</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>58, route de Cosne</Ligne>
+      <CodePostal>58310</CodePostal>
+      <NomCommune>Saint-Amand-en-Puisaye</NomCommune>
+      <Localisation>
+         <Latitude>47.5287321</Latitude>
+         <Longitude>3.0685103</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 39 62 40</Téléphone>
+      <Email>cob.cosne-cours-sur-loire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

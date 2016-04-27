@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-03310-01" codeInsee="03310" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vichy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 avenue de Gérardmer</Ligne>
+      <CodePostal>03200</CodePostal>
+      <NomCommune>Vichy</NomCommune>
+      <Localisation>
+         <Latitude>46.1189608</Latitude>
+         <Longitude>3.4404944</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 30 42 50</Téléphone>
+      <Télécopie>+33 4 70 30 42 87</Télécopie>
+      <Email>cob.vichy@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

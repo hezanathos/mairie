@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="inspection_academique-29232-01" codeInsee="29232"
+           dateMiseAJour="2016-03-10"
+           pivotLocal="inspection_academique">
+   <Nom>Direction des services départementaux de l'Éducation nationale, ex-Inspection académique - Finistère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 boulevard du Finistère</Ligne>
+      <CodePostal>29558</CodePostal>
+      <NomCommune>Quimper Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.0135002136</Latitude>
+         <Longitude>-4.09435987473</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 98 98 98</Téléphone>
+      <Télécopie>+33 2 98 98 98 00</Télécopie>
+      <Email>ce.ia29@ac-rennes.fr</Email>
+      <Url>http://www.ac-rennes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-33032-01" codeInsee="33032" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Bassens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>28 B, rue Paul-Bert</Ligne>
+      <Ligne>Terrasse du Bousquet</Ligne>
+      <CodePostal>33530</CodePostal>
+      <NomCommune>Bassens</NomCommune>
+      <Localisation>
+         <Latitude>44.9000097</Latitude>
+         <Longitude>-0.5144464</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>42, avenue Jean-Jaurès</Ligne>
+      <Ligne>Mairie de Bassens</Ligne>
+      <Ligne>BP 52</Ligne>
+      <CodePostal>33563</CodePostal>
+      <NomCommune>Carbon-Blanc Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.8994292</Latitude>
+         <Longitude>-0.5156684</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 80 11 69</Téléphone>
+      <Télécopie>+33 5 57 80 81 58</Télécopie>
+      <Email>bij@ville-bassens.fr</Email>
+      <Url>http://www.ville-bassens.fr/bassens-vous/enfance-jeunesse/533-bureau-information-jeunesse.html</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

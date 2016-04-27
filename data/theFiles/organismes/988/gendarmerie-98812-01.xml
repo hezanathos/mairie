@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-98812-01" codeInsee="98812" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Koumac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lotissement Municipal, rue Louise Maignan</Ligne>
+      <CodePostal>98850</CodePostal>
+      <NomCommune>Koumac</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+687 47 89 50</Téléphone>
+      <Email>cob.koumac@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

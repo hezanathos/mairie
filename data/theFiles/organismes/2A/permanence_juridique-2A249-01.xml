@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="2A249" dateMiseAJour="2015-11-03" id="permanence_juridique-2A249-01" idPresta="4cac9e5f293594648a000206" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Propriano</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>avenue Napoléon</Ligne>
+        <CodePostal>20110</CodePostal>
+        <NomCommune>PROPRIANO</NomCommune>
+        <Localisation>
+            <Latitude>41.675604</Latitude>
+            <Longitude>8.900991</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 95 76 00 44</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

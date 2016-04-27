@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-69096-01" codeInsee="69096" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Point information jeunesse de Grigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Guy Raffin</Ligne>
+      <CodePostal>69520</CodePostal>
+      <NomCommune>GRIGNY</NomCommune>
+      <Localisation>
+         <Latitude>45.6086997986</Latitude>
+         <Longitude>4.78800010681</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 07 25 05</Téléphone>
+      <Url>http://www.mairie-grigny69.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

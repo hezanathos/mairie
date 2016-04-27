@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-92009-01" codeInsee="92009"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-971">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bois-Colombes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>EHPAD Aulagnier d'Asnières</Ligne>
+      <Ligne>15-17  rue Maurice-Pelletier</Ligne>
+      <Ligne>Accueil de jour Les Camélias</Ligne>
+      <CodePostal>92270</CodePostal>
+      <NomCommune>Bois-Colombes</NomCommune>
+      <Localisation>
+         <Latitude>48.910873</Latitude>
+         <Longitude>2.264875</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 46 52 03 16</Téléphone>
+      <Email>aulagnier.fondation@orange.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

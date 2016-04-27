@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cdg-35334-01" codeInsee="35334" dateMiseAJour="2016-03-10" pivotLocal="cdg">
+   <Nom>Centre de gestion de la fonction publique territoriale - Ille-et-Vilaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 13600</Ligne>
+      <Ligne>Village des collectivités territoriales</Ligne>
+      <Ligne>1 avenue de Tizé</Ligne>
+      <CodePostal>35236</CodePostal>
+      <NomCommune>Thorigné-Fouillard Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.156266</Latitude>
+         <Longitude>-1.5807128</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 23 31 00</Téléphone>
+      <Télécopie>+33 2 99 23 38 00</Télécopie>
+      <Email>contact@cdg35.fr</Email>
+      <Url>http://www.cdg35.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

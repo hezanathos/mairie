@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-63113-01" codeInsee="63113" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Direction régionale Auvergne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>149 rue de la Résistance</Ligne>
+      <CodePostal>63110</CodePostal>
+      <NomCommune>Beaumont</NomCommune>
+      <Localisation>
+         <Latitude>45.7504015</Latitude>
+         <Longitude>3.090154</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 4 73 28 74 49</Télécopie>
+      <Url>http://www.auvergne.afpa.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

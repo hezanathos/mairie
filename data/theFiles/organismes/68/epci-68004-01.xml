@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-68004-01" codeInsee="68004" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes d'Altkirch</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Plessier</Ligne>
+      <Ligne>Bâtiment n°3</Ligne>
+      <Ligne>Avenue du 8e-Régiment-de-Hussards</Ligne>
+      <CodePostal>68131</CodePostal>
+      <NomCommune>Altkirch Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6219010491</Latitude>
+         <Longitude>7.24239349365</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 08 36 20</Téléphone>
+      <Télécopie>+33 3 89 08 36 21</Télécopie>
+      <Email>accueil@cc-altkirch.fr</Email>
+      <Url>http://www.cc-altkirch.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

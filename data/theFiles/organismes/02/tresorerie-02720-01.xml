@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-02720-01" codeInsee="02720" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Sissonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue Laisne</Ligne>
+      <CodePostal>02150</CodePostal>
+      <NomCommune>Sissonne</NomCommune>
+      <Localisation>
+         <Latitude>49.5718097</Latitude>
+         <Longitude>3.8933</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 80 45 93</Téléphone>
+      <Email>t002027@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-19033-01" codeInsee="19033" dateMiseAJour="2016-02-02"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Bugeat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de l'Étang-des-Saules</Ligne>
+      <CodePostal>19170</CodePostal>
+      <NomCommune>Bugeat</NomCommune>
+      <Localisation>
+         <Latitude>45.5988124</Latitude>
+         <Longitude>1.9280015</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 95 50 39</Téléphone>
+      <Télécopie>+33 5 55 95 45 36</Télécopie>
+      <Email>t019003@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture-70550-01" codeInsee="70550" dateMiseAJour="2014-02-17"
+           pivotLocal="prefecture">
+   <Nom>Préfecture - Haute-Saône</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 429</Ligne>
+      <Ligne>1, rue de la Préfecture</Ligne>
+      <CodePostal>70013</CodePostal>
+      <NomCommune>Vesoul Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6231956482</Latitude>
+         <Longitude>6.15336894989</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 77 70 00</Téléphone>
+      <Email>prefecture@haute-saone.pref.gouv.fr</Email>
+      <Url>http://www.haute-saone.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Les horaires ci-dessus sont ceux de l’accueil général. Cartes grises : accueil du public du lundi au vendredi de 9h à 11h30 et de 13h30 à 16h, le jeudi de 9h à 11h30 et de 13h30 à 15h - accueil téléphonique au 03 84 77 70 88 du lundi au vendredi de 9h à 11h30. Permis de conduire : accueil du public du lundi au vendredi de 9h à 11h30 et de 13h30 à 16h, fermé mardi et jeudi après-midi - accueil téléphonique du lundi au vendredi de 9h à 11h30. Pour connaître tous les détails, voir la page : http://www.haute-saone.gouv.fr/Services-de-l-Etat/Prefecture-et-sous-prefecture/Prefecture-de-la-Haute-Saone/L-accueil-du-public-a-la-prefecture/L-acces-les-horaires-d-ouverture-et-les-modalites-de-mise-en-contact-avec-la-prefecture</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

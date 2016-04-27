@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-55029-01" codeInsee="55029" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Bar-le-Duc Sud-Meusien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue Ernest-Bradfer</Ligne>
+      <CodePostal>55000</CodePostal>
+      <NomCommune>Bar-le-Duc</NomCommune>
+      <Localisation>
+         <Latitude>48.7695675</Latitude>
+         <Longitude>5.1709416</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 79 01 13</Téléphone>
+      <Télécopie>+33 3 29 79 37 40</Télécopie>
+      <Email>mission.locale.bld@wanadoo.fr</Email>
+      <Url>http://www.bougeettrouvetonjob.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

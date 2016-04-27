@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-02408-01" codeInsee="02408" dateMiseAJour="2013-03-07"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-Conservation des hypothèques) de Laon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Marcel Bleuet</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <CodePostal>02016</CodePostal>
+      <NomCommune>LAON CEDEX 9</NomCommune>
+      <Localisation>
+         <Latitude>49.5638701</Latitude>
+         <Longitude>3.6288589</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 26 28 48</Téléphone>
+      <Télécopie>+33 3 23 26 28 51</Télécopie>
+      <Email>spf.laon@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-67482-01" codeInsee="67482" dateMiseAJour="2015-09-10"
+           pivotLocal="clic"
+           idPresta="clic-574">
+   <Nom>Point d'information local dédié aux personnes âgées - Strasbourg</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Clic Ouest - Maison des Aînés</Ligne>
+      <Ligne>27 rue Herschel</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>67000</CodePostal>
+      <NomCommune>Strasbourg</NomCommune>
+      <Localisation>
+         <Latitude>48.600452</Latitude>
+         <Longitude>7.714951</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 10 40 40</Téléphone>
+      <Email>daniele.runtz@strasbourg.eu</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

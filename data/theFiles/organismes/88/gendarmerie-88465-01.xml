@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88465-01" codeInsee="88465" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Thaon-les-Vosges</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>89, rue de Lorraine</Ligne>
+      <CodePostal>88150</CodePostal>
+      <NomCommune>Thaon-les-Vosges</NomCommune>
+      <Localisation>
+         <Latitude>48.2552737</Latitude>
+         <Longitude>6.4149665</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 39 20 17</Téléphone>
+      <Télécopie>+33 3 29 39 62 36</Télécopie>
+      <Email>cob.thaon-les-vosges@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

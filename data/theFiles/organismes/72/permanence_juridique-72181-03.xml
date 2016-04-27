@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="72181" dateMiseAJour="2015-11-03" id="permanence_juridique-72181-03" idPresta="4e1d93f5293594569600003a" pivotLocal="permanence_juridique">
+    <Nom>Permanence juridique des notaires</Nom>
+    <EditeurSource>conseil départemental de l&#39;accès au droit de sarthe</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>chambre des notaires de la Sarthe</Ligne>
+        <Ligne>11 place des comtes du Maine</Ligne>
+        <CodePostal>72000</CodePostal>
+        <NomCommune>LE MANS</NomCommune>
+        <Localisation>
+            <Latitude>48.004388</Latitude>
+            <Longitude>0.200288</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 41 25 37 37</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>sur rendez-vous
+un jeudi par mois 14H30 à 16H00</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

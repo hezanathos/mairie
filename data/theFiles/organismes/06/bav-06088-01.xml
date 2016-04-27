@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06088" dateMiseAJour="2014-01-20" id="bav-06088-01" idPresta="4d5e78982935941fe900004c" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Nice</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du Palais</Ligne>
+        <CodePostal>06357</CodePostal>
+        <NomCommune>NICE CEDEX 4</NomCommune>
+        <Localisation>
+            <Latitude>43.696633</Latitude>
+            <Longitude>7.2737625</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 17 70 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

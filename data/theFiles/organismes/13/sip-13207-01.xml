@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-13207-01" codeInsee="13207" dateMiseAJour="2014-09-23" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers (SIP) du centre des finances publiques de Marseille 7e arrondissement</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38, boulevard Baptiste-Bonnet</Ligne>
+      <CodePostal>13417</CodePostal>
+      <NomCommune>Marseille Cedex 08</NomCommune>
+      <Localisation>
+         <Latitude>43.2568235</Latitude>
+         <Longitude>5.3909945</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 23 60 00</Téléphone>
+      <Email>sip.marseille-7e-9e-10e@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous. Fermé le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

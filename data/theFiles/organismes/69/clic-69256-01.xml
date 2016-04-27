@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69256-01" codeInsee="69256" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-604">
+   <Nom>Point d'information local dédié aux personnes âgées - Vaulx-en-Velin</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Rhône du Canton de Vaulx-en-Velin</Ligne>
+      <Ligne>23 rue Condorcet</Ligne>
+      <CodePostal>69120</CodePostal>
+      <NomCommune>Vaulx-en-Velin</NomCommune>
+      <Localisation>
+         <Latitude>45.778153</Latitude>
+         <Longitude>4.918727</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 79 52 40</Téléphone>
+      <Email>mdr.vaulx-en-velin@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

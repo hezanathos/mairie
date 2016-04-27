@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-34270-01" codeInsee="34270" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Saint-Jean-de-Védas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue Jean-Mermoz</Ligne>
+      <CodePostal>34430</CodePostal>
+      <NomCommune>Saint-Jean-de-Védas</NomCommune>
+      <Localisation>
+         <Latitude>43.5644454</Latitude>
+         <Longitude>3.8446425</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 4 67 69 03 31</Télécopie>
+      <Url>http://www.languedoc-roussillon.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

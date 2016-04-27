@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-66149-01" codeInsee="66149" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) des Pyrénées-Orientales - accueil de Prades</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Pôle social</Ligne>
+      <Ligne>32 rue Pasteur</Ligne>
+      <CodePostal>66500</CodePostal>
+      <NomCommune>Prades</NomCommune>
+      <Localisation>
+         <Latitude>42.6175389</Latitude>
+         <Longitude>2.4196485</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>112 rue du Docteur-Henri-Ey</Ligne>
+      <Ligne>BP 49927</Ligne>
+      <Ligne>Caisse d'allocations familiales des Pyrénées-Orientales</Ligne>
+      <CodePostal>66019</CodePostal>
+      <NomCommune>Perpignan Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>42.7015739</Latitude>
+         <Longitude>2.8941503</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 66 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous et accueil téléphonique ouvert uniquement du lundi au vendredi de 9h à 16h. Fermeture en août et dernière semaine de décembre.</Commentaire>
+</Organisme>

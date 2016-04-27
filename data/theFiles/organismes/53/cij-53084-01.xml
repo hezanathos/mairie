@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-53084-01" codeInsee="53084" dateMiseAJour="2009-10-13" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Craon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Maréchal Leclerc</Ligne>
+      <CodePostal>53400</CodePostal>
+      <NomCommune>CRAON</NomCommune>
+      <Localisation>
+         <Latitude>47.848237995</Latitude>
+         <Longitude>-0.948665142059</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 06 04 23</Téléphone>
+      <Télécopie>+33 2 43 06 99 44</Télécopie>
+      <Email>pij.craon@wanadoo.fr</Email>
+      <Url>http://www.infos-jeunes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

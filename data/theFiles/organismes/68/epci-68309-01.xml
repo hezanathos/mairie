@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-68309-01" codeInsee="68309" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Intercommunalité du Pays de Sierentz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>57 rue Rogg-Haas</Ligne>
+      <Ligne>BP 44</Ligne>
+      <CodePostal>68510</CodePostal>
+      <NomCommune>Sierentz</NomCommune>
+      <Localisation>
+         <Latitude>47.6534784839</Latitude>
+         <Longitude>7.45628356934</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 28 54 28</Téléphone>
+      <Télécopie>+33 3 89 81 60 49</Télécopie>
+      <Email>accueil@ccpsierentz.fr</Email>
+      <Url>http://www.pays-sierentz.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

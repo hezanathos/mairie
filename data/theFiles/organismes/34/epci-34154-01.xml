@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-34154-01" codeInsee="34154" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Pays de l'Or Agglomération</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre administratif</Ligne>
+      <Ligne>BP 40</Ligne>
+      <CodePostal>34132</CodePostal>
+      <NomCommune>Mauguio Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6161431</Latitude>
+         <Longitude>4.0094261</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 12 35 00</Téléphone>
+      <Télécopie>+33 4 67 12 35 18</Télécopie>
+      <Email>secretariat@paysdelor.fr</Email>
+      <Url>http://www.paysdelor.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

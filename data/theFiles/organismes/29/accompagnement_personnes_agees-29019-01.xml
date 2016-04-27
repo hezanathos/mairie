@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-29019-01" codeInsee="29019"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-887">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Brest</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue Lanredec</Ligne>
+      <Ligne>Les Amitiés d'Armor</Ligne>
+      <CodePostal>29200</CodePostal>
+      <NomCommune>Brest</NomCommune>
+      <Localisation>
+         <Latitude>48.399916</Latitude>
+         <Longitude>-4.495786</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 03 06 77</Téléphone>
+      <Email>amities@amities-armor.asso.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

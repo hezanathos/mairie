@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ofii-51454-01" codeInsee="51454" dateMiseAJour="2015-05-12"
+           pivotLocal="ofii">
+   <Nom>Office français de l'immigration et de l'intégration (Ofii) - Direction territoriale de Reims</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26-28 rue Buirette</Ligne>
+      <CodePostal>51100</CodePostal>
+      <NomCommune>Reims</NomCommune>
+      <Localisation>
+         <Latitude>49.2546854</Latitude>
+         <Longitude>4.0257748</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">ascenseur mais quelques marches à l'entrée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 36 97 29</Téléphone>
+      <Télécopie>+33 3 26 36 97 38</Télécopie>
+      <Email>reims@ofii.fr</Email>
+      <Url>http://www.ofii.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

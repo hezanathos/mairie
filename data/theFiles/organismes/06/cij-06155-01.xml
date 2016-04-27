@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-06155-01" codeInsee="06155" dateMiseAJour="2009-09-08" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Vallauris</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jacques Cavasse</Ligne>
+      <CodePostal>06220</CodePostal>
+      <NomCommune>VALLAURIS</NomCommune>
+      <Localisation>
+         <Latitude>43.5794984</Latitude>
+         <Longitude>7.0529705</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 64 31 04</Téléphone>
+      <Url>http://www.vallauris.ijca.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

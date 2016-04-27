@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-11115-01" codeInsee="11115" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Cuxac-Cabardès</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 boulevard de la Préfecture</Ligne>
+      <CodePostal>11390</CodePostal>
+      <NomCommune>Cuxac-Cabardès</NomCommune>
+      <Localisation>
+         <Latitude>43.3615848</Latitude>
+         <Longitude>2.2689823</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 26 50 17</Téléphone>
+      <Télécopie>+33 4 68 26 47 02</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-94018-01" codeInsee="94018" dateMiseAJour="2006-06-23" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Charenton le Pont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 quai de Bercy</Ligne>
+      <CodePostal>94220</CodePostal>
+      <NomCommune>CHARENTON LE PONT</NomCommune>
+      <Localisation>
+         <Latitude>48.8223991394</Latitude>
+         <Longitude>2.39807009697</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 18 32 65</Téléphone>
+      <Url>http://www.aliaj.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

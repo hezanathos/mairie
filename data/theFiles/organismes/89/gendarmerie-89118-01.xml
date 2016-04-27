@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-89118-01" codeInsee="89118" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Coulanges-la-Vineuse</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de Vincelles</Ligne>
+      <CodePostal>89580</CodePostal>
+      <NomCommune>Coulanges-la-Vineuse</NomCommune>
+      <Localisation>
+         <Latitude>47.6765209</Latitude>
+         <Longitude>3.5885248</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 42 20 17</Téléphone>
+      <Email>cob.coulanges-la-vineuse@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

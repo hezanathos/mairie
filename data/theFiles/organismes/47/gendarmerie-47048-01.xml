@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-47048-01" codeInsee="47048" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Cancon</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lotissement Bibignie</Ligne>
+      <Ligne>Rue Fernand-Pouillon</Ligne>
+      <CodePostal>47290</CodePostal>
+      <NomCommune>Cancon</NomCommune>
+      <Localisation>
+         <Latitude>44.533706</Latitude>
+         <Longitude>0.627302</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 49 60 70</Téléphone>
+      <Télécopie>+33 5 53 49 60 72</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

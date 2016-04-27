@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-80606-01" codeInsee="80606" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Oisemont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de la Commanderie</Ligne>
+      <CodePostal>80140</CodePostal>
+      <NomCommune>OISEMONT</NomCommune>
+      <Localisation>
+         <Latitude>49.9558982849</Latitude>
+         <Longitude>1.7644200325</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 25 27 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

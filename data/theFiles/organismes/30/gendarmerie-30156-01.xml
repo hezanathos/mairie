@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-30156-01" codeInsee="30156" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Marguerittes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>310 allée Jacques Cartier</Ligne>
+      <CodePostal>30320</CodePostal>
+      <NomCommune>Marguerittes</NomCommune>
+      <Localisation>
+         <Latitude>43.8691391</Latitude>
+         <Longitude>4.4461297</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 75 39 40</Téléphone>
+      <Télécopie>+33 4 66 75 68 11</Télécopie>
+      <Email>bta.marguerittes@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

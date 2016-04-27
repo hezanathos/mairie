@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crous-74011-01" codeInsee="74011" dateMiseAJour="2016-03-10"
+           pivotLocal="crous">
+   <Nom>Centre local des oeuvres universitaires et scolaires (Clous) - Annecy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 chemin de Bellevue</Ligne>
+      <Ligne>Restaurant universitaire</Ligne>
+      <CodePostal>74940</CodePostal>
+      <NomCommune>Annecy-le-Vieux</NomCommune>
+      <Localisation>
+         <Latitude>45.9201011658</Latitude>
+         <Longitude>6.16136980057</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 66 39 44</Téléphone>
+      <Télécopie>+33 4 50 66 53 79</Télécopie>
+      <Email>marie-agnes.millet@crous-grenoble.fr</Email>
+      <Url>http://www.crous-grenoble.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+         <Note>Pas de permanence physique assurée pendant ces horaires.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="15:00:00"/>
+         <Note>Pas de permanence physique assurée pendant ces horaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

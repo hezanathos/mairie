@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="56260" dateMiseAJour="2014-01-28" id="te-56260-01" idPresta="4cac9ed7293594648a00edc8" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Vannes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>22 place de la République</Ligne>
+        <Ligne>BP 503</Ligne>
+        <CodePostal>56019</CodePostal>
+        <NomCommune>VANNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.656336</Latitude>
+            <Longitude>-2.761394</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 97 43 77 09</Téléphone>
+        <Télécopie>+33 2 97 42 53 16</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

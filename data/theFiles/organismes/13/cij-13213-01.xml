@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13213-01" codeInsee="13213" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Marseille - 13e arrondissement</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>53, avenue de Frais-Vallon</Ligne>
+      <Ligne>Centre socio-culturel Frais-Vallon</Ligne>
+      <Ligne>Bâtiment N</Ligne>
+      <CodePostal>13013</CodePostal>
+      <NomCommune>Marseille</NomCommune>
+      <Localisation>
+         <Latitude>43.3190409</Latitude>
+         <Longitude>5.4081411</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 66 79 35</Téléphone>
+      <Email>centresocialfraisvallon@wanadoo.fr</Email>
+      <Url>http://www.crijpa.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

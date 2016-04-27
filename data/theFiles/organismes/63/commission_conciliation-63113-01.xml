@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commission_conciliation-63113-01" codeInsee="63113"
+           dateMiseAJour="2014-04-03"
+           pivotLocal="commission_conciliation">
+   <Nom>Commission départementale de conciliation - Puy-de-Dôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Service des baux d'habitation</Ligne>
+      <Ligne>60, avenue de l'Union-Soviétique</Ligne>
+      <Ligne>Direction départementale de la cohésion sociale</Ligne>
+      <CodePostal>63058</CodePostal>
+      <NomCommune>Clermont-Ferrand Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>45.7796933</Latitude>
+         <Longitude>3.1012367</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 14 76 16</Téléphone>
+      <Télécopie>+33 4 73 14 76 01</Télécopie>
+      <Url>http://www.puy-de-dome.gouv.fr/litiges-proprietaires-locataires-r1237.html</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

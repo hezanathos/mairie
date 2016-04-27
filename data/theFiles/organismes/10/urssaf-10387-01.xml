@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-10387-01" codeInsee="10387" dateMiseAJour="2016-01-04"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Champagne-Ardenne - accueil de l'Aube</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>26 rue Courtalon</Ligne>
+      <CodePostal>10000</CodePostal>
+      <NomCommune>Troyes</NomCommune>
+      <Localisation>
+         <Latitude>48.2925909</Latitude>
+         <Longitude>4.0643467</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 60001</Ligne>
+      <Ligne>202 rue des Capucins</Ligne>
+      <Ligne>Urssaf Champagne-Ardenne</Ligne>
+      <CodePostal>51089</CodePostal>
+      <NomCommune>Reims Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.champagneardenne.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Uniquement sur rendez-vous, par téléphone au 3957, par courriel www.contact.urssaf.fr</Commentaire>
+</Organisme>

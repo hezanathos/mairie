@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-70310-01" codeInsee="70310" dateMiseAJour="2014-08-06"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Lure - Luxeuil-les-Bains - Champagney</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Parmentier</Ligne>
+      <CodePostal>70200</CodePostal>
+      <NomCommune>Lure</NomCommune>
+      <Localisation>
+         <Latitude>47.6861991882</Latitude>
+         <Longitude>6.49982976913</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 89 00 33</Téléphone>
+      <Télécopie>+33 3 84 89 00 43</Télécopie>
+      <Email>espacejeunes.lure@ejfc.org</Email>
+      <Url>http://www.mlej-lure.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

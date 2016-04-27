@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97109-01" codeInsee="97109" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Gourbeyre</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>195, rue des Caramboliers</Ligne>
+      <CodePostal>97113</CodePostal>
+      <NomCommune>Gourbeyre</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 92 45 30</Téléphone>
+      <Télécopie>+590 5 90 92 45 33</Télécopie>
+      <Email>cob.gourbeyre@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

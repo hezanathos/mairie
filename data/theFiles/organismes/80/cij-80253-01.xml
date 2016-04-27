@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-80253-01" codeInsee="80253" dateMiseAJour="2006-02-27" pivotLocal="cij">
+   <Nom>Centre d'Information Jeunesse - Point d'information jeunesse de Doullens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue catherine garcin</Ligne>
+      <Ligne>maison pour tous</Ligne>
+      <CodePostal>80600</CodePostal>
+      <NomCommune>DOULLENS</NomCommune>
+      <Localisation>
+         <Latitude>50.157699585</Latitude>
+         <Longitude>2.34088993073</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 77 35 57</Téléphone>
+      <Email>maisonpourtous.doullens@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

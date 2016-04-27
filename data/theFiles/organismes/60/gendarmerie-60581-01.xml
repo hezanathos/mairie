@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-60581-01" codeInsee="60581" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Just-en-Chaussée</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25, rue Tailbouis</Ligne>
+      <CodePostal>60130</CodePostal>
+      <NomCommune>Saint-Just-en-Chaussée</NomCommune>
+      <Localisation>
+         <Latitude>49.5100235</Latitude>
+         <Longitude>2.4306475</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 19 45 17</Téléphone>
+      <Télécopie>+33 3 44 19 45 19</Télécopie>
+      <Email>cob.st-just-en-chaussee@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

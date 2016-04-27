@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-58303-01" codeInsee="58303" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Varennes-Vauzelles</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22, rue André Malraux</Ligne>
+      <CodePostal>58640</CodePostal>
+      <NomCommune>Varennes-Vauzelles</NomCommune>
+      <Localisation>
+         <Latitude>47.0128003</Latitude>
+         <Longitude>3.148266</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 93 92 60</Téléphone>
+      <Télécopie>+33 3 86 93 92 69</Télécopie>
+      <Email>cob.varennes-vauzelles@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69009-01" codeInsee="69009" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-626">
+   <Nom>Point d'information local dédié aux personnes âgées - Anse</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 avenue Général-Leclerc</Ligne>
+      <Ligne>Maison du Rhône du Canton d'Anse</Ligne>
+      <CodePostal>69480</CodePostal>
+      <NomCommune>Anse</NomCommune>
+      <Localisation>
+         <Latitude>45.940323</Latitude>
+         <Longitude>4.716913</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 09 95 80</Téléphone>
+      <Email>mdr.anse@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

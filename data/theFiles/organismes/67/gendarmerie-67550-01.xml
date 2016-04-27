@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67550-01" codeInsee="67550" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Wœrth</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, rue des Turcos</Ligne>
+      <CodePostal>67360</CodePostal>
+      <NomCommune>Wœrth</NomCommune>
+      <Localisation>
+         <Latitude>48.943171</Latitude>
+         <Longitude>7.7420656</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 09 30 08</Téléphone>
+      <Télécopie>+33 3 88 05 70 65</Télécopie>
+      <Email>cob.woerth@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-14228-01" codeInsee="14228" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Douvres-la-Délivrande</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 avenue des Hautes-Devises</Ligne>
+      <CodePostal>14440</CodePostal>
+      <NomCommune>Douvres-la-Délivrande</NomCommune>
+      <Localisation>
+         <Latitude>49.295238</Latitude>
+         <Longitude>-0.376078</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 08 35 73</Téléphone>
+      <Télécopie>+33 2 31 08 35 75</Télécopie>
+      <Email>bta.douvres-la-delivrande@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

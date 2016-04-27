@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-52550-01" codeInsee="52550" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération Saint Dizier, Der &amp; Blaise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Aristide-Briand</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>52115</CodePostal>
+      <NomCommune>Saint-Dizier Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.499508</Latitude>
+         <Longitude>4.948753</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 07 31 32</Téléphone>
+      <Télécopie>+33 3 25 06 96 99</Télécopie>
+      <Email>codecom@mairie-saintdizier.fr</Email>
+      <Url>http://www.saintdizierderetblaise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

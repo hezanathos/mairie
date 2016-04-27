@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-66136-01" codeInsee="66136" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Languedoc-Roussillon - accueil des Pyrénées-Orientales</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>26 rue Petite-la-Monnaie</Ligne>
+      <CodePostal>66000</CodePostal>
+      <NomCommune>Perpignan</NomCommune>
+      <Localisation>
+         <Latitude>42.69637</Latitude>
+         <Longitude>2.89422</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>35 rue de la Haye</Ligne>
+      <CodePostal>34937</CodePostal>
+      <NomCommune>Montpellier Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Télécopie>+33 4 68 35 75 01</Télécopie>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.languedocroussillon.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-34032-02" codeInsee="34032" dateMiseAJour="2011-08-29" pivotLocal="cij">
+   <Nom>Point information jeunesse du service municipal jeunesse de Béziers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 boulevard Duguesclin</Ligne>
+      <Ligne>AGORA</Ligne>
+      <CodePostal>34500</CodePostal>
+      <NomCommune>BEZIERS</NomCommune>
+      <Localisation>
+         <Latitude>43.3465584</Latitude>
+         <Longitude>3.2231566</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 30 42 56</Téléphone>
+      <Télécopie>+33 4 67 30 54 13</Télécopie>
+      <Url>http://www.crij-montpellier.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

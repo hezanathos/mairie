@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-69220-01" codeInsee="69220" dateMiseAJour="2011-01-06" pivotLocal="pif">
+   <Nom>Point Info Famille CSC Le Grand Jardin</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>Espace juge pascal</Ligne>
+      <CodePostal>69930</CodePostal>
+      <NomCommune>ST LAURENT DE CHAMOUSSET</NomCommune>
+      <Localisation>
+         <Latitude>45.7383766174</Latitude>
+         <Longitude>4.46426391602</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 70 55 90</Téléphone>
+      <Télécopie>+33 4 74 70 58 91</Télécopie>
+      <Email>miredu.csslc@free.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

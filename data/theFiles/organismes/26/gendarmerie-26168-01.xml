@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-26168-01" codeInsee="26168" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Lus-la-Croix-Haute</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>26620</CodePostal>
+      <NomCommune>Lus-la-Croix-Haute</NomCommune>
+      <Localisation>
+         <Latitude>44.6653621</Latitude>
+         <Longitude>5.7066693</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>04 92 58 50 02</Téléphone>
+      <Télécopie>04 92 58 30 73</Télécopie>
+      <Email>bta.lus-la-croix-haute@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

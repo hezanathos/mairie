@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="paris_ppp_antenne_cni_passeport-75108-01" codeInsee="75108"
+           dateMiseAJour="2015-07-28"
+           pivotLocal="paris_ppp_antenne_cni_passeport">
+   <Nom>Antenne de la préfecture de police de Paris du 8e arrondissement (carte d’identité, passeport)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie du 8e arrondissement</Ligne>
+      <Ligne>3 rue de Lisbonne</Ligne>
+      <CodePostal>75008</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.877862</Latitude>
+         <Longitude>2.317804</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 58 80 80 80</Téléphone>
+      <Email>https://www.rdv-ppol.interieur.gouv.fr</Email>
+      <Url>http://www.prefecturedepolice.interieur.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="19:00:00"/>
+         <Note>En période estivale -de fin juillet à fin août- pas de réception en nocturne, fermeture à 16h30. Pour connaître les dates, consulter le site de la Préfecture de police de Paris.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+         <Note>Pour prendre un rendez-vous, utiliser le formulaire https://www.rdv-ppol.interieur.gouv.fr ou téléphoner du lundi au vendredi de 9h à 16h. Pour obtenir un renseignement, téléphoner du lundi au vendredi de 14h à 16h.</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>L’antenne est fermée le samedi matin. Les démarches se font au 12 quai de Gesvres, Paris 4e uniquement sur rendez-vous pour les dépôts de demande de passeport et de carte nationale d'identité.</Commentaire>
+</Organisme>

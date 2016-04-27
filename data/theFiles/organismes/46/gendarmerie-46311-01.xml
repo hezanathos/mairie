@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-46311-01" codeInsee="46311" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sousceyrac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>46190</CodePostal>
+      <NomCommune>Sousceyrac</NomCommune>
+      <Localisation>
+         <Latitude>44.918616</Latitude>
+         <Longitude>1.954252</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 33 02 17</Téléphone>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

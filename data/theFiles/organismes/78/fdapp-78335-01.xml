@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdapp-78335-01" codeInsee="78335" dateMiseAJour="2014-10-08"
+           pivotLocal="fdapp">
+   <Nom>Fédération départementale pour la pêche et la protection du milieu aquatique - Yvelines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19, rue du Docteur-Roux</Ligne>
+      <CodePostal>78520</CodePostal>
+      <NomCommune>Limay</NomCommune>
+      <Localisation>
+         <Latitude>48.9889984131</Latitude>
+         <Longitude>1.73801004887</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 77 58 90</Téléphone>
+      <Télécopie>+33 1 34 78 55 72</Télécopie>
+      <Email>peche.yvelines@wanadoo.fr</Email>
+      <Url>http://www.federationpeche78.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

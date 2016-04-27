@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-08373-01" codeInsee="08373" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Rumigny</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Laon</Ligne>
+      <CodePostal>08290</CodePostal>
+      <NomCommune>Rumigny</NomCommune>
+      <Localisation>
+         <Latitude>49.7666126</Latitude>
+         <Longitude>4.3374927</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 35 51 03</Téléphone>
+      <Télécopie>+33 3 24 35 58 63</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

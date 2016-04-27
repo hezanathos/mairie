@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-26281-01" codeInsee="26281" dateMiseAJour="2016-03-08"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Romans-sur-Isère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Auguste-Perret</Ligne>
+      <Ligne>CS 90229</Ligne>
+      <CodePostal>26105</CodePostal>
+      <NomCommune>Romans-sur-Isère Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.044236</Latitude>
+         <Longitude>5.05273499999998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Sur rendez-vous du lundi au jeudi de 12h30 à 16h15</Commentaire>
+</Organisme>

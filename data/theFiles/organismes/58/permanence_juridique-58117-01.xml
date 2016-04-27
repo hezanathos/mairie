@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="58117" dateMiseAJour="2015-11-03" id="permanence_juridique-58117-01" idPresta="4cac9e60293594648a00033b" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de FOURCHAMBAULT</Nom>
+    <EditeurSource>CDAD 58</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre social</Ligne>
+        <Ligne>Espace Marie Curie</Ligne>
+        <Ligne>avenue Jean Jaurès</Ligne>
+        <CodePostal>58600</CodePostal>
+        <NomCommune>FOURCHAMBAULT</NomCommune>
+        <Localisation>
+            <Latitude>47.018781</Latitude>
+            <Longitude>3.084714</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 86 90 90 00</Téléphone>
+        <Email>mailto:cdad-nievre@justice.fr</Email>
+        <Url>http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html#cmq_path=liste&amp;cmq_territory=58%20NIEVRE&amp;cmq_submit=Submit</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

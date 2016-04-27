@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-62119-01" codeInsee="62119" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-549">
+   <Nom>Point d'information local dédié aux personnes âgées - Béthune</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de l'Artois</Ligne>
+      <Ligne>Rue de l'Université</Ligne>
+      <CodePostal>62400</CodePostal>
+      <NomCommune>Béthune</NomCommune>
+      <Localisation>
+         <Latitude>50.519888</Latitude>
+         <Longitude>2.655472</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 59 80 11 00</Téléphone>
+      <Email>maison.autonomie.artois@cg62.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

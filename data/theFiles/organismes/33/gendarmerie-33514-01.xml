@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33514-01" codeInsee="33514" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Soulac-sur-Mer</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Olivier Guinet</Ligne>
+      <CodePostal>33780</CodePostal>
+      <NomCommune>Soulac-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>45.5075428</Latitude>
+         <Longitude>-1.1209733</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 73 33 90</Téléphone>
+      <Télécopie>+33 5 56 73 33 93</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

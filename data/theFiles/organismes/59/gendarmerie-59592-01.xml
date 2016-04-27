@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59592-01" codeInsee="59592" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Thumeries</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Jules Guesde</Ligne>
+      <CodePostal>59239</CodePostal>
+      <NomCommune>Thumeries</NomCommune>
+      <Localisation>
+         <Latitude>50.4789449</Latitude>
+         <Longitude>3.0555274</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 86 57 17</Téléphone>
+      <Télécopie>+33 3 20 86 84 81</Télécopie>
+      <Email>bta.thumeries@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

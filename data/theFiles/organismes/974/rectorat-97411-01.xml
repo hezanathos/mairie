@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="rectorat-97411-01" codeInsee="97411" dateMiseAJour="2015-12-15"
+           pivotLocal="rectorat">
+   <Nom>Rectorat - Académie de la Réunion</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, avenue Georges-Brassens</Ligne>
+      <Ligne>CS 71003</Ligne>
+      <CodePostal>97743</CodePostal>
+      <NomCommune>Saint-Denis Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>-20.9029275</Latitude>
+         <Longitude>55.4880289</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 48 10 10</Téléphone>
+      <Télécopie>+262 2 62 28 69 48</Télécopie>
+      <Email>http://www.ac-reunion.fr/outils/infos-pratiques/contact.html</Email>
+      <Url>http://www.ac-reunion.fr</Url>
+      <Sve>https://www.ac-reunion.fr/formulaire-contact.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <Note>Horaires d'ouverture durant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Horaires d'ouverture hors vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

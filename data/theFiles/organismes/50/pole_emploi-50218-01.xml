@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-50218-01" codeInsee="50218" dateMiseAJour="2015-09-09"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Granville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 20105</Ligne>
+      <Ligne>204 rue Paul-de-Gibon</Ligne>
+      <CodePostal>50400</CodePostal>
+      <NomCommune>Granville</NomCommune>
+      <Localisation>
+         <Latitude>48.8345615</Latitude>
+         <Longitude>-1.56558730000006</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

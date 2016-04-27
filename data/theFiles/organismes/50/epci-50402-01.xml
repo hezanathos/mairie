@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-50402-01" codeInsee="50402" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Pieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>31 route de Flamanville</Ligne>
+      <Ligne>BP 21</Ligne>
+      <CodePostal>50340</CodePostal>
+      <NomCommune>Les Pieux</NomCommune>
+      <Localisation>
+         <Latitude>49.513507033</Latitude>
+         <Longitude>-1.81016921997</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 87 68 00</Téléphone>
+      <Télécopie>+33 2 33 52 93 66</Télécopie>
+      <Email>ccdp@cc-lespieux.com</Email>
+      <Url>http://www.cc-lespieux.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

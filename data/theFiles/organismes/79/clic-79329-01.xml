@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-79329-01" codeInsee="79329" dateMiseAJour="2015-07-06"
+           pivotLocal="clic"
+           idPresta="clic-719">
+   <Nom>Point d'information local dédié aux personnes âgées - Thouars</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Gambetta</Ligne>
+      <Ligne>Centre local d'information et de coordination du Pays Thouarsais</Ligne>
+      <CodePostal>79100</CodePostal>
+      <NomCommune>Thouars</NomCommune>
+      <Localisation>
+         <Latitude>46.979171</Latitude>
+         <Longitude>-0.210952</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 06 63 63</Téléphone>
+      <Email>clicdupaysthouarsais@cg79.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="65440" dateMiseAJour="2014-01-28" id="tribunal_commerce-65440-01" idPresta="4eb263342935944ef50001d4" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Tarbes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>Square Maurice Trélut</Ligne>
+        <CodePostal>65013</CodePostal>
+        <NomCommune>TARBES CEDEX 9</NomCommune>
+        <Localisation>
+            <Latitude>43.234037</Latitude>
+            <Longitude>0.069242</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 51 77 77</Téléphone>
+        <Télécopie>+33 5 62 51 77 87</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-57556-01" codeInsee="57556" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Puttelange-aux-Lacs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2P rue Jean-XXVIII</Ligne>
+      <CodePostal>57510</CodePostal>
+      <NomCommune>Puttelange-aux-Lacs</NomCommune>
+      <Localisation>
+         <Latitude>49.0379801</Latitude>
+         <Longitude>6.9368781</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 09 60 20</Téléphone>
+      <Email>t057111@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

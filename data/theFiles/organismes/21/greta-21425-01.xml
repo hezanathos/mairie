@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-21425-01" codeInsee="21425" dateMiseAJour="2011-11-08"
+           pivotLocal="greta">
+   <Nom>Greta 21 - antenne de Montbard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 avenue Maréchal de Lattre de Tassigny</Ligne>
+      <Ligne>Lycée Eugène Guillaume</Ligne>
+      <CodePostal>21500</CodePostal>
+      <NomCommune>MONTBARD</NomCommune>
+      <Localisation>
+         <Latitude>47.624329</Latitude>
+         <Longitude>4.337495</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Email>ce.greta21@ac-dijon.fr</Email>
+      <Url>http://www.bourgogne.greta.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-22005-01" codeInsee="22005" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Belle Isle en Terre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue Crech-Ugen</Ligne>
+      <CodePostal>22810</CodePostal>
+      <NomCommune>Belle-Isle-en-Terre</NomCommune>
+      <Localisation>
+         <Latitude>48.5451739</Latitude>
+         <Longitude>-3.3962397</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 43 35 08</Téléphone>
+      <Télécopie>+33 2 96 43 31 00</Télécopie>
+      <Email>secretariat@cc-belle-isle-en-terre.fr</Email>
+      <Url>http://www.cc-belle-isle-en-terre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

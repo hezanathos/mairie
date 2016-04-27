@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-38034-01" codeInsee="38034" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-308">
+   <Nom>Point d'information local dédié aux personnes âgées - Beaurepaire</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Service Autonomie</Ligne>
+      <Ligne>Bièvre Valloire</Ligne>
+      <Ligne>Rue de la Guillotière</Ligne>
+      <CodePostal>38270</CodePostal>
+      <NomCommune>Beaurepaire</NomCommune>
+      <Localisation>
+         <Latitude>45.338107</Latitude>
+         <Longitude>5.051211</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 37 02 25 18</Téléphone>
+      <Email>sce.aut05@cg38.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

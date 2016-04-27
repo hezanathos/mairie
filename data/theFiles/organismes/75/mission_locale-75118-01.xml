@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-75118-01" codeInsee="75118" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Paris - 18e arrondissement</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>51 rue Ganneron</Ligne>
+      <CodePostal>75018</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.888737</Latitude>
+         <Longitude>2.3277614999999514</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 44 85 01 18</Téléphone>
+      <Télécopie>+33 1 44 85 03 18</Télécopie>
+      <Email>r.ferkioui@missionlocaledeparis.fr</Email>
+      <Url>http://www.missionlocalede</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

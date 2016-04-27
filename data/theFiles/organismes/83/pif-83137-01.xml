@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-83137-01" codeInsee="83137" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de la maison des parents de Toulon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Rodeilhac</Ligne>
+      <Ligne>94 A rue Laurent-Mongin</Ligne>
+      <CodePostal>83200</CodePostal>
+      <NomCommune>Toulon</NomCommune>
+      <Localisation>
+         <Latitude>43.124228</Latitude>
+         <Longitude>5.928</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 24 09 66</Téléphone>
+      <Email>maison.parents.axis@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

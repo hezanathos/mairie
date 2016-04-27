@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-88160-01" codeInsee="88160" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille des Vosges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 quartier de la Magdeleine</Ligne>
+      <Ligne>Union départementale des associations familiales des Vosges</Ligne>
+      <CodePostal>88025</CodePostal>
+      <NomCommune>Épinal Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.1885490417</Latitude>
+         <Longitude>6.44002723694</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 35 16 16</Téléphone>
+      <Email>infofamille@udaf88.unaf.fr</Email>
+      <Url>http://www.social-sante.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

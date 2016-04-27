@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="34032" dateMiseAJour="2014-06-16" id="ti-34032-01" idPresta="4cac9e62293594648a00063d" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Béziers</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place de la Révolution</Ligne>
+        <Ligne>CS 604</Ligne>
+        <CodePostal>34535</CodePostal>
+        <NomCommune>BEZIERS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.34146</Latitude>
+            <Longitude>3.210654</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 67 49 60 00</Téléphone>
+        <Télécopie>+33 4 67 49 60 98</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

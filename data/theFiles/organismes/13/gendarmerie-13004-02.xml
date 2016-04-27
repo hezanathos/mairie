@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-13004-02" codeInsee="13004" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Arles-Salin-de-Girau</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 rue Fernand-Benoît</Ligne>
+      <CodePostal>13200</CodePostal>
+      <NomCommune>Arles</NomCommune>
+      <Localisation>
+         <Latitude>43.4120097</Latitude>
+         <Longitude>4.7288251</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 86 82 11</Téléphone>
+      <Télécopie>+33 4 42 11 74 59</Télécopie>
+      <Email>bta.arles-salin-de-girau@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-76351-01" codeInsee="76351" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du Havre</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>186, boulevard de Strasbourg</Ligne>
+      <CodePostal>76600</CodePostal>
+      <NomCommune>Havre</NomCommune>
+      <Localisation>
+         <Latitude>49.4924124</Latitude>
+         <Longitude>0.1197737</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 42 25 35</Téléphone>
+      <Télécopie>+33 2 35 42 27 26</Télécopie>
+      <Email>cob.epouville@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

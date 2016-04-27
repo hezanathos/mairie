@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-13071-01" codeInsee="13071" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale des Pennes-Mirabeau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue François-Mitterrand</Ligne>
+      <Ligne>Mairie annexe de la Gavotte</Ligne>
+      <Ligne>Place Victorin-Isnard</Ligne>
+      <CodePostal>13170</CodePostal>
+      <NomCommune>Les Pennes-Mirabeau</NomCommune>
+      <Localisation>
+         <Latitude>43.410272</Latitude>
+         <Longitude>5.308921999999939</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 67 17 88</Téléphone>
+      <Télécopie>+33 4 91 67 16 93</Télécopie>
+      <Email>pennes@ml-pa.org</Email>
+      <Url>http://www.ml-pa.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

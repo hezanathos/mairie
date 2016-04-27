@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-58079-01" codeInsee="58079" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Clamecy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du 8-Mai-1945</Ligne>
+      <CodePostal>58500</CodePostal>
+      <NomCommune>Clamecy</NomCommune>
+      <Localisation>
+         <Latitude>47.455785</Latitude>
+         <Longitude>3.513534</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 27 02 34</Téléphone>
+      <Télécopie>+33 3 86 27 59 87</Télécopie>
+      <Email>cob.clamecy@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

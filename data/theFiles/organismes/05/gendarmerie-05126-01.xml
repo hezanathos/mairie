@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-05126-01" codeInsee="05126" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Rosans</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier La Boule d'Or</Ligne>
+      <Ligne>Le Village</Ligne>
+      <CodePostal>05150</CodePostal>
+      <NomCommune>Rosans</NomCommune>
+      <Localisation>
+         <Latitude>44.391882</Latitude>
+         <Longitude>5.469992</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 66 60 01</Téléphone>
+      <Télécopie>+33 4 92 66 70 40</Télécopie>
+      <Email>cob.serres@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

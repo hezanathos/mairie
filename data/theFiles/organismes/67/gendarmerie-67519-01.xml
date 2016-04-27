@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67519-01" codeInsee="67519" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de La Wantzenau</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, rue des Jonquilles</Ligne>
+      <CodePostal>67610</CodePostal>
+      <NomCommune>La Wantzenau</NomCommune>
+      <Localisation>
+         <Latitude>48.6641014</Latitude>
+         <Longitude>7.8313421</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 96 28 48</Téléphone>
+      <Télécopie>+33 3 88 59 23 25</Télécopie>
+      <Email>bta.la-wantzenau@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

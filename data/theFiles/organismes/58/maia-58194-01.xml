@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="maia-58194-01" codeInsee="58194" dateMiseAJour="2013-11-26"
+           pivotLocal="maia">
+   <Nom>Mission d'accueil et d'information des associations (Maia) - Nièvre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue du Ravelin</Ligne>
+      <Ligne>BP 54</Ligne>
+      <Ligne>Direction départementale de la cohésion sociale et de la protection des populations</Ligne>
+      <CodePostal>58020</CodePostal>
+      <NomCommune>Nevers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.9878803</Latitude>
+         <Longitude>3.1652267</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 58 07 20 24</Téléphone>
+      <Télécopie>+33 3 58 07 20 47</Télécopie>
+      <Email>rodolphe.legendre@nievre.gouv.fr</Email>
+      <Url>http://www.associations.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

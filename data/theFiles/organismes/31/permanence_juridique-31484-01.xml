@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="31484" dateMiseAJour="2015-11-03" id="permanence_juridique-31484-01" idPresta="4cac9e5f293594648a000248" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Saint-Geniès-Bellevue</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>25 rue Principale</Ligne>
+        <CodePostal>31180</CodePostal>
+        <NomCommune>ST GENIES BELLEVUE</NomCommune>
+        <Localisation>
+            <Latitude>43.6842225</Latitude>
+            <Longitude>1.4859816</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 89 00 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

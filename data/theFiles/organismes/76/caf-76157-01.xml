@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-76157-01" codeInsee="76157" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Seine-Maritime - accueil de Canteleu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Maison des services publics</Ligne>
+      <Ligne>Place d'Armes</Ligne>
+      <CodePostal>76380</CodePostal>
+      <NomCommune>Canteleu</NomCommune>
+      <Localisation>
+         <Latitude>49.4509989</Latitude>
+         <Longitude>1.0352609</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 86017</Ligne>
+      <Ligne>4 rue des Forgettes</Ligne>
+      <Ligne>Caisse d'allocations familiales de Seine-Maritime</Ligne>
+      <CodePostal>76017</CodePostal>
+      <NomCommune>Rouen Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.4485403</Latitude>
+         <Longitude>1.0809624</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 76 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil fermé pendant toutes les vacances scolaires. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

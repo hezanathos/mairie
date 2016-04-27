@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-27413-01" codeInsee="27413" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Montfort-sur-Risle</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de Fontainecourt</Ligne>
+      <CodePostal>27290</CodePostal>
+      <NomCommune>Montfort-sur-Risle</NomCommune>
+      <Localisation>
+         <Latitude>49.2879365</Latitude>
+         <Longitude>0.6694584</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 56 10 17</Téléphone>
+      <Télécopie>+33 2 32 56 76 08</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

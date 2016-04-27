@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-77327-01" codeInsee="77327" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Brie Nangissienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 place du Pont-Perrot</Ligne>
+      <CodePostal>77370</CodePostal>
+      <NomCommune>Nangis</NomCommune>
+      <Localisation>
+         <Latitude>48.55672</Latitude>
+         <Longitude>3.0111653</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 01 13 82</Téléphone>
+      <Télécopie>+33 1 64 01 23 80</Télécopie>
+      <Email>contact@brienangissienne.fr</Email>
+      <Url>http://www.brienangissienne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

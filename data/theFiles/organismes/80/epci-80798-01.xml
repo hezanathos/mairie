@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-80798-01" codeInsee="80798" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Bocage Hallue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Montonvillers</Ligne>
+      <CodePostal>80260</CodePostal>
+      <NomCommune>Villers-Bocage</NomCommune>
+      <Localisation>
+         <Latitude>49.997449</Latitude>
+         <Longitude>2.30824000000007</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 93 40 80</Téléphone>
+      <Télécopie>+33 3 22 93 32 22</Télécopie>
+      <Email>contact@bocage-hallue.fr</Email>
+      <Url>http://www.bocagehallue.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

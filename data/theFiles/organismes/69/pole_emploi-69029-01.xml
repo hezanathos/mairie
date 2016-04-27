@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-69029-01" codeInsee="69029" dateMiseAJour="2015-09-09"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Bron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 avenue du 8-Mai-1945</Ligne>
+      <Ligne>CS 22309</Ligne>
+      <CodePostal>69675</CodePostal>
+      <NomCommune>Bron Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.7268734</Latitude>
+         <Longitude>4.9236011</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

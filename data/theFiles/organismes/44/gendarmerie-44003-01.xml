@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-44003-01" codeInsee="44003" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Ancenis</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>570 rue René Urien</Ligne>
+      <CodePostal>44150</CodePostal>
+      <NomCommune>Ancenis</NomCommune>
+      <Localisation>
+         <Latitude>47.3707513</Latitude>
+         <Longitude>-1.1870298</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 83 00 17</Téléphone>
+      <Télécopie>+33 2 40 83 83 73</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

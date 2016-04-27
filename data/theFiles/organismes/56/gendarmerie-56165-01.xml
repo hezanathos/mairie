@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-56165-01" codeInsee="56165" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Ploërmel</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Mississipi</Ligne>
+      <Ligne>Caserne Guillo</Ligne>
+      <CodePostal>56800</CodePostal>
+      <NomCommune>Ploërmel</NomCommune>
+      <Localisation>
+         <Latitude>47.93349</Latitude>
+         <Longitude>-2.387992</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 74 06 14</Téléphone>
+      <Télécopie>+33 2 97 74 34 64</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

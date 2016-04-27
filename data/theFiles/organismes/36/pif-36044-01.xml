@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-36044-01" codeInsee="36044" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du CIDFF de Châteauroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 allée Buffon</Ligne>
+      <CodePostal>36000</CodePostal>
+      <NomCommune>Châteauroux</NomCommune>
+      <Localisation>
+         <Latitude>46.8044926</Latitude>
+         <Longitude>46.8044926</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 34 48 71</Téléphone>
+      <Email>cidfbaie-36@wanadoo.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

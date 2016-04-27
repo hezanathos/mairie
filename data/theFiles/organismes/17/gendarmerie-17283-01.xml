@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-17283-01" codeInsee="17283" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Pons</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>97 avenue Gambetta</Ligne>
+      <CodePostal>17800</CodePostal>
+      <NomCommune>Pons</NomCommune>
+      <Localisation>
+         <Latitude>45.587212</Latitude>
+         <Longitude>-0.5473326</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 94 00 07</Téléphone>
+      <Télécopie>+33 5 46 94 79 61</Télécopie>
+      <Email>bta.pons@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="61001" dateMiseAJour="2014-10-20" id="bav-61001-01" idPresta="51b08cdeb473e414780013a7" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance d&#39;Alençon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du Maréchal Foch</Ligne>
+        <Ligne>CS 70355</Ligne>
+        <CodePostal>61014</CodePostal>
+        <NomCommune>ALENCON CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.429769</Latitude>
+            <Longitude>0.08329</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 33 82 25 00</Téléphone>
+        <Télécopie>+33 2 33 32 94 64</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

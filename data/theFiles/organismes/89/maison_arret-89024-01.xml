@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="89024" dateMiseAJour="2014-01-28" id="maison_arret-89024-01" idPresta="4eb262cf2935944ef50000d7" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt d&#39;Auxerre</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>13 avenue Charles de Gaulle</Ligne>
+        <Ligne>BP 23</Ligne>
+        <CodePostal>89010</CodePostal>
+        <NomCommune>AUXERRE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.803293</Latitude>
+            <Longitude>3.566736</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 86 94 28 28</Téléphone>
+        <Télécopie>+33 3 86 94 28 27</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

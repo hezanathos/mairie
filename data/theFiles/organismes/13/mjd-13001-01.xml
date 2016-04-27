@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13001" dateMiseAJour="2012-02-28" id="mjd-13001-01" idPresta="51b08cb4b473e41478000a86" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  d&#39;Aix-en-Provence</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue Raoul Follereau</Ligne>
+        <Ligne>Logirem Bat 12</Ligne>
+        <CodePostal>13090</CodePostal>
+        <NomCommune>AIX EN PROVENCE</NomCommune>
+        <Localisation>
+            <Latitude>43.525733</Latitude>
+            <Longitude>5.413387</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 20 90 32</Téléphone>
+        <Télécopie>+33 4 42 20 41 50</Télécopie>
+        <Email>mailto:mjd-aix-en-provence@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

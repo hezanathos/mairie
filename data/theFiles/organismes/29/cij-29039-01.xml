@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-29039-01" codeInsee="29039" dateMiseAJour="2009-09-10" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Concarneau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>116 avenue de la Gare</Ligne>
+      <CodePostal>29900</CodePostal>
+      <NomCommune>CONCARNEAU</NomCommune>
+      <Localisation>
+         <Latitude>47.879699707</Latitude>
+         <Longitude>-3.9197499752</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 60 40 40</Téléphone>
+      <Email>pij@concarneau.fr</Email>
+      <Url>http://www.ville-concarneau.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

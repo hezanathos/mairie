@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97222-01" codeInsee="97222" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du Robert</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Victor-Schoelcher</Ligne>
+      <CodePostal>97231</CodePostal>
+      <NomCommune>Robert</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 65 01 46</Téléphone>
+      <Télécopie>+596 5 96 65 73 83</Télécopie>
+      <Email>cob.le-robert@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

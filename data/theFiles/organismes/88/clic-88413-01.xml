@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-88413-01" codeInsee="88413" dateMiseAJour="2016-03-22"
+           pivotLocal="clic"
+           idPresta="clic-801">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Dié-des-Vosges</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>67 rue de la Prairie</Ligne>
+      <Ligne>Centre local d'information et de coordination de la Déodatie</Ligne>
+      <CodePostal>88100</CodePostal>
+      <NomCommune>Saint-Dié-des-Vosges</NomCommune>
+      <Localisation>
+         <Latitude>48.283379</Latitude>
+         <Longitude>6.954879</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 56 42 88</Téléphone>
+      <Email>clicdeodatie@vosges.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

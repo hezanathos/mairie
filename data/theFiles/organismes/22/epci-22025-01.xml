@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-22025-01" codeInsee="22025" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Callac Argoat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parc d'activités de Kerguiniou</Ligne>
+      <CodePostal>22160</CodePostal>
+      <NomCommune>Callac</NomCommune>
+      <Localisation>
+         <Latitude>48.2020471</Latitude>
+         <Longitude>-2.9326435</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 45 90 29</Téléphone>
+      <Télécopie>+33 2 96 45 90 00</Télécopie>
+      <Email>cdc-callac@wanadoo.fr</Email>
+      <Url>http://www.callac-argoat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

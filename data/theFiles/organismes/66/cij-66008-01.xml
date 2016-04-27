@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-66008-01" codeInsee="66008" dateMiseAJour="2013-01-10" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Argelès-sur-Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du 11-Novembre</Ligne>
+      <CodePostal>66700</CodePostal>
+      <NomCommune>Argelès-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>42.5458971</Latitude>
+         <Longitude>3.0172087</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 81 59 81</Téléphone>
+      <Télécopie>+33 4 68 95 80 38</Télécopie>
+      <Email>pij.cdc.alberes@wanadoo.fr</Email>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

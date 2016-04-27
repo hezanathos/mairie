@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-87085-01" codeInsee="87085" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Haute-Vienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 83112</Ligne>
+      <Ligne>11 rue François-Chénieux</Ligne>
+      <CodePostal>87031</CodePostal>
+      <NomCommune>Limoges Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>45.8285215</Latitude>
+         <Longitude>1.261746</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 45 10 10</Téléphone>
+      <Télécopie>+33 5 55 79 57 81</Télécopie>
+      <Email>president@haute-vienne.fr</Email>
+      <Url>http://www.haute-vienne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

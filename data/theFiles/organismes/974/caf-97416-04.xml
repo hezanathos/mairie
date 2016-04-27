@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-97416-04" codeInsee="97416" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de La Réunion - accueil Sud - Montvert-les-Bas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Mairie annexe de Mont Vert les Bas</Ligne>
+      <CodePostal>97410</CodePostal>
+      <NomCommune>Saint-Pierre</NomCommune>
+      <Localisation>
+         <Latitude>-21.3306278</Latitude>
+         <Longitude>55.5246157</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 61038</Ligne>
+      <Ligne>Caisse d'allocations familiales de La Réunion</Ligne>
+      <Ligne>412 rue Fleur-de-Jade</Ligne>
+      <CodePostal>97833</CodePostal>
+      <NomCommune>Sainte-Marie Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-20.9200265</Latitude>
+         <Longitude>55.5296352</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 97 40</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="15:30:00"/>
+         <Note>Accueil fermé en janvier 2016.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

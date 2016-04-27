@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-65025-01" codeInsee="65025" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-569">
+   <Nom>Point d'information local dédié aux personnes âgées - Argelès-Gazost</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Pays des Gaves Gérontologie</Ligne>
+      <Ligne>1 rue Saint-Orens</Ligne>
+      <CodePostal>65400</CodePostal>
+      <NomCommune>Argelès-Gazost</NomCommune>
+      <Localisation>
+         <Latitude>43.004</Latitude>
+         <Longitude>-0.103125</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 90 39 85</Téléphone>
+      <Email>clic.pays.des.gaves.gerontologie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

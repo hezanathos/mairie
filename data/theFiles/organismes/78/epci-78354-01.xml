@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-78354-01" codeInsee="78354" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération de Mantes en Yvelines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Pierrettes</Ligne>
+      <CodePostal>78200</CodePostal>
+      <NomCommune>Magnanville</NomCommune>
+      <Localisation>
+         <Latitude>48.9692873092</Latitude>
+         <Longitude>1.68485641479</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 98 78 00</Téléphone>
+      <Télécopie>+33 1 30 98 78 01</Télécopie>
+      <Email>contact@camy-info.fr</Email>
+      <Url>http://www.camy-info.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

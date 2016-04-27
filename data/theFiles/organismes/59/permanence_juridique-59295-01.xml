@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59295" dateMiseAJour="2015-11-03" id="permanence_juridique-59295-01" idPresta="4cac9e60293594648a00035a" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Hazebrouck</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison du Département</Ligne>
+        <Ligne>rue Donckèle</Ligne>
+        <CodePostal>59190</CodePostal>
+        <NomCommune>HAZEBROUCK</NomCommune>
+        <Localisation>
+            <Latitude>50.7243719</Latitude>
+            <Longitude>2.5386958</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

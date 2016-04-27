@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-63113-02" codeInsee="63113" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Clermont-Ferrand</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Lagarlaye</Ligne>
+      <Ligne>Quartier Jaude</Ligne>
+      <CodePostal>63000</CodePostal>
+      <NomCommune>Clermont-Ferrand</NomCommune>
+      <Localisation>
+         <Latitude>45.7737496</Latitude>
+         <Longitude>3.0843444</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 93 37 26</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

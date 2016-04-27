@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-60157-01" codeInsee="60157" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Clermont</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne gendarme auxiliaire Christ</Ligne>
+      <Ligne>49, avenue Gambetta</Ligne>
+      <CodePostal>60600</CodePostal>
+      <NomCommune>Clermont</NomCommune>
+      <Localisation>
+         <Latitude>49.3846145</Latitude>
+         <Longitude>2.3961057</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 50 02 21</Téléphone>
+      <Télécopie>+33 3 44 50 91 69</Télécopie>
+      <Email>bta.clermont@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

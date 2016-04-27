@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-06064-01" codeInsee="06064" dateMiseAJour="2013-03-05" pivotLocal="cij">
+   <Nom>Point information jeunesse de Carros</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 bis, rue du Bosquet</Ligne>
+      <Ligne>Association Parimix'cité</Ligne>
+      <CodePostal>06510</CodePostal>
+      <NomCommune>Carros</NomCommune>
+      <Localisation>
+         <Latitude>43.7751235</Latitude>
+         <Longitude>7.1927121</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 08 78 03</Téléphone>
+      <Télécopie>+33 4 93 29 14 87</Télécopie>
+      <Email>lapasserelle-parimixcite@orange.fr</Email>
+      <Url>http://www.parimixcite.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

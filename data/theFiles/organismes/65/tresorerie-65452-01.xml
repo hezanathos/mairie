@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-65452-01" codeInsee="65452" dateMiseAJour="2015-10-20"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Trie-sur-Baïse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>31 place de la Mairie</Ligne>
+      <CodePostal>65220</CodePostal>
+      <NomCommune>Trie-sur-Baïse</NomCommune>
+      <Localisation>
+         <Latitude>43.3205133</Latitude>
+         <Longitude>0.370939</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 35 50 14</Téléphone>
+      <Télécopie>+33 5 62 35 61 59</Télécopie>
+      <Email>t065031@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

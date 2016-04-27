@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-05006-01" codeInsee="05006" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-31">
+   <Nom>Point d'information local dédié aux personnes âgées - Vigneaux</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des solidarités</Ligne>
+      <Ligne>Place Pierre-Auguste-Giraud</Ligne>
+      <CodePostal>05120</CodePostal>
+      <NomCommune>Vigneaux</NomCommune>
+      <Localisation>
+         <Latitude>44.79472</Latitude>
+         <Longitude>6.561922</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 23 05 77</Téléphone>
+      <Url>http://www.cg05.fr/5103-le-centre-local-d-information-et-de-coordination-clic-.htm</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

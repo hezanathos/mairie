@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-08362-01" codeInsee="08362" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Rethel - Acy-Romance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Trois-Châteaux</Ligne>
+      <CodePostal>08300</CodePostal>
+      <NomCommune>Rethel</NomCommune>
+      <Localisation>
+         <Latitude>49.500172</Latitude>
+         <Longitude>4.3459604</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 3 24 39 60 88</Télécopie>
+      <Url>http://www.champagne-ardenne.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

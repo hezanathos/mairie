@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-75106-01" codeInsee="75106" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Paris 2 - Panthéon-Assas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>92 rue d'Assas</Ligne>
+      <Ligne>Bureau 118</Ligne>
+      <Ligne>1er étage</Ligne>
+      <CodePostal>75006</CodePostal>
+      <NomCommune>Paris Cedex 6</NomCommune>
+      <Localisation>
+         <Latitude>48.842492</Latitude>
+         <Longitude>2.331805</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 44 41 58 75</Téléphone>
+      <Télécopie>+33 1 44 41 58 84</Télécopie>
+      <Email>questions_cio@u-paris2.fr</Email>
+      <Url>http://www.u-paris2.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

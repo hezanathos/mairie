@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-35125-01" codeInsee="35125" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Guerche-de-Bretagne</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du 11-Novembre</Ligne>
+      <CodePostal>35130</CodePostal>
+      <NomCommune>La Guerche-de-Bretagne</NomCommune>
+      <Localisation>
+         <Latitude>47.9412137</Latitude>
+         <Longitude>-1.2335866</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 96 22 26</Téléphone>
+      <Télécopie>+33 2 99 96 19 26</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-65258-01" codeInsee="65258" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-568">
+   <Nom>Point d'information local dédié aux personnes âgées - Lannemezan</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Association Regain</Ligne>
+      <Ligne>522 rue Georges Clémenceau</Ligne>
+      <CodePostal>65300</CodePostal>
+      <NomCommune>Lannemezan</NomCommune>
+      <Localisation>
+         <Latitude>43.123246</Latitude>
+         <Longitude>0.37929</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 40 25 59</Téléphone>
+      <Email>regain7@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

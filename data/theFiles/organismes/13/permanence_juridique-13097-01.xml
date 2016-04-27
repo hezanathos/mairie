@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13097" dateMiseAJour="2015-11-03" id="permanence_juridique-13097-01" idPresta="4cac9e5e293594648a00014b" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats et notaires</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison du Citoyen</Ligne>
+        <Ligne>avenue César Bernaudon</Ligne>
+        <CodePostal>13310</CodePostal>
+        <NomCommune>ST MARTIN DE CRAU</NomCommune>
+        <Localisation>
+            <Latitude>43.639941</Latitude>
+            <Longitude>4.813664</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 47 17 29</Téléphone>
+        <Télécopie>+33 4 90 47 34 52</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

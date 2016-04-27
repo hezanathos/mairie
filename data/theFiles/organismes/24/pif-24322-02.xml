@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-24322-02" codeInsee="24322" dateMiseAJour="2015-01-15" pivotLocal="pif">
+   <Nom>Point info famille (PIF) de Périgueux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, square Jean-Jaurès</Ligne>
+      <CodePostal>24000</CodePostal>
+      <NomCommune>Périgueux</NomCommune>
+      <Localisation>
+         <Latitude>45.1847372</Latitude>
+         <Longitude>0.7158631</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 54 49 52</Téléphone>
+      <Email>pif-perigueux@wanadoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

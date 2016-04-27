@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-56007-01" codeInsee="56007" dateMiseAJour="2015-02-17"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Auray Quiberon Terre-Atlantique</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace tertiaire Porte Océane 2</Ligne>
+      <Ligne>BP 70447</Ligne>
+      <Ligne>Rue du Danemark</Ligne>
+      <CodePostal>56504</CodePostal>
+      <NomCommune>Auray</NomCommune>
+      <Localisation>
+         <Latitude>47.6674285</Latitude>
+         <Longitude>-3.0096078</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 29 18 69</Téléphone>
+      <Télécopie>+33 2 97 29 18 68</Télécopie>
+      <Email>accueil@auray-quiberon.fr</Email>
+      <Url>http://auray-quiberon.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

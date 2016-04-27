@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-14726-01" codeInsee="14726" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vassy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 avenue Charles-de-Gaulle</Ligne>
+      <CodePostal>14410</CodePostal>
+      <NomCommune>Vassy</NomCommune>
+      <Localisation>
+         <Latitude>48.8522377</Latitude>
+         <Longitude>-0.6827</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 66 36 20</Téléphone>
+      <Télécopie>+33 2 31 66 36 22</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

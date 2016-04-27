@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="11069" dateMiseAJour="2015-11-03" id="permanence_juridique-11069-01" idPresta="4cac9e5e293594648a00010d" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Carcassonne</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal de grande instance</Ligne>
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>28 boulevard Jean Jaurès</Ligne>
+        <CodePostal>11000</CodePostal>
+        <NomCommune>CARCASSONNE</NomCommune>
+        <Localisation>
+            <Latitude>43.227974</Latitude>
+            <Longitude>2.383188</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 68 47 00 00</Téléphone>
+        <Email>mailto:cdad-aude@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

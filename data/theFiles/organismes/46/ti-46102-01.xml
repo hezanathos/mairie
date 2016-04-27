@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="46102" dateMiseAJour="2014-01-28" id="ti-46102-01" idPresta="4cac9e62293594648a000646" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Figeac</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 boulevard Juskiewenski</Ligne>
+        <Ligne>BP 216</Ligne>
+        <CodePostal>46100</CodePostal>
+        <NomCommune>FIGEAC</NomCommune>
+        <Localisation>
+            <Latitude>44.607417</Latitude>
+            <Longitude>2.031046</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 65 50 03 20</Téléphone>
+        <Télécopie>+33 5 65 34 24 94</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

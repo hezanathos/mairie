@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-13086-01" codeInsee="13086" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Roquevaire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 quartier Le Clauvier</Ligne>
+      <CodePostal>13360</CodePostal>
+      <NomCommune>Roquevaire</NomCommune>
+      <Localisation>
+         <Latitude>43.349537</Latitude>
+         <Longitude>5.603996</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 04 20 20</Téléphone>
+      <Télécopie>+33 4 42 36 08 19</Télécopie>
+      <Email>bta.roquevaire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

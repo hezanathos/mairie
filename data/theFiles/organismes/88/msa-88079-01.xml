@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-88079-01" codeInsee="88079" dateMiseAJour="2011-10-13" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) des Vosges &#150; antenne de Bulgnéville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>118 rue Gustave Déléris</Ligne>
+      <CodePostal>88140</CodePostal>
+      <NomCommune>BULGNEVILLE</NomCommune>
+      <Localisation>
+         <Latitude>48.2090472</Latitude>
+         <Longitude>5.8340223</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>15 avenue Paul Doumer</Ligne>
+      <Ligne>Siège social de la Mutualité sociale agricole de Lorraine</Ligne>
+      <CodePostal>54507</CodePostal>
+      <NomCommune>VANDOEUVRE LES NANCY CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>48.6754208</Latitude>
+         <Longitude>6.1884889</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 09 26 40</Téléphone>
+      <Télécopie>+33 3 29 09 26 44</Télécopie>
+      <Email>contact@lorraine.msa.fr</Email>
+      <Url>http://www.msalorraine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

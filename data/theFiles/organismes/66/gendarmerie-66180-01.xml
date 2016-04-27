@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-66180-01" codeInsee="66180" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saint-Laurent-de-la-Salanque</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>200, allée Méditerranée</Ligne>
+      <CodePostal>66250</CodePostal>
+      <NomCommune>Saint-Laurent-de-la-Salanque</NomCommune>
+      <Localisation>
+         <Latitude>42.7728206</Latitude>
+         <Longitude>3.0100106</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 28 30 19</Téléphone>
+      <Télécopie>+33 4 68 28 75 27</Télécopie>
+      <Email>bta.st-laurent-de-la-salanque@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

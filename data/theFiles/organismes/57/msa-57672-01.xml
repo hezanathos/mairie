@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-57672-01" codeInsee="57672" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Lorraine - accueil d'Yutz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Espace Cormontaigne</Ligne>
+      <Ligne>2 avenue Gabriel-Lippmann</Ligne>
+      <CodePostal>57970</CodePostal>
+      <NomCommune>Yutz</NomCommune>
+      <Localisation>
+         <Latitude>49.3608093</Latitude>
+         <Longitude>6.1700501</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>15 avenue Paul-Doumer</Ligne>
+      <Ligne>MSA Lorraine</Ligne>
+      <CodePostal>54507</CodePostal>
+      <NomCommune>Vandœuvre-lès-Nancy Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 54 82 40</Téléphone>
+      <Télécopie>+33 3 82 54 82 43</Télécopie>
+      <Email>http://www.msalorraine.fr/lfr/contact-particulier</Email>
+      <Url>http://www.msalorraine.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous.</Commentaire>
+</Organisme>

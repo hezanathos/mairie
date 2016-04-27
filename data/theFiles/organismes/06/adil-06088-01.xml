@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="adil-06088-01" codeInsee="06088" dateMiseAJour="2016-03-10"
+           pivotLocal="adil">
+   <Nom>Agence départementale d'information sur le logement (Adil) - Alpes-Maritimes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue du Congrès</Ligne>
+      <CodePostal>06000</CodePostal>
+      <NomCommune>Nice</NomCommune>
+      <Localisation>
+         <Latitude>43.7122</Latitude>
+         <Longitude>7.2603</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 98 77 57</Téléphone>
+      <Télécopie>+33 4 92 09 19 22</Télécopie>
+      <Email>nice@adil06.org</Email>
+      <Url>http://www.adil06.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

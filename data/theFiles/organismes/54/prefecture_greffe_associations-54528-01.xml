@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-54528-01" codeInsee="54528"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Toul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue Firmin-Gouvion</Ligne>
+      <Ligne>Sous-préfecture de Toul</Ligne>
+      <Ligne>BP 80323</Ligne>
+      <CodePostal>54201</CodePostal>
+      <NomCommune>Toul Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6730085</Latitude>
+         <Longitude>5.89014910000003</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 65 35 35</Téléphone>
+      <Télécopie>+33 3 83 65 35 51</Télécopie>
+      <Email>sp-toul@meurthe-et-moselle.gouv.fr</Email>
+      <Url>http://www.meurthe-et-moselle.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

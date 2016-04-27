@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-59350-07" codeInsee="59350" dateMiseAJour="2015-12-03"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Lille</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>88 rue de Lannoy</Ligne>
+      <Ligne>Lille Fives</Ligne>
+      <CodePostal>59000</CodePostal>
+      <NomCommune>Lille</NomCommune>
+      <Localisation>
+         <Latitude>50.6339092</Latitude>
+         <Longitude>3.0943187</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 33 78 60</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

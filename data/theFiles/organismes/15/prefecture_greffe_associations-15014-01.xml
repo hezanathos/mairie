@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-15014-01" codeInsee="15014"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations d'Aurillac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Préfecture du Cantal</Ligne>
+      <Ligne>Cours Monthyon</Ligne>
+      <Ligne>BP 529</Ligne>
+      <CodePostal>15005</CodePostal>
+      <NomCommune>Aurillac Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.9285464</Latitude>
+         <Longitude>2.4471413</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 46 23 00</Téléphone>
+      <Télécopie>+33 4 71 64 88 01</Télécopie>
+      <Email>courrier@cantal.pref.gouv.fr</Email>
+      <Url>http://www.cantal.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

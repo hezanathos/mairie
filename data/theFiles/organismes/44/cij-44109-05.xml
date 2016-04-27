@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-44109-05" codeInsee="44109" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Point information jeunesse de Nantes - antenne Nord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 rue Saint Léonard</Ligne>
+      <Ligne>Centre régional d'informations jeunesse</Ligne>
+      <CodePostal>44000</CodePostal>
+      <NomCommune>NANTES</NomCommune>
+      <Localisation>
+         <Latitude>47.2589639</Latitude>
+         <Longitude>-1.5784715</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 76 50 52</Téléphone>
+      <Télécopie>+33 2 40 20 16 88</Télécopie>
+      <Email>crij@infos-jeunes.fr</Email>
+      <Url>http://www.infos-jeunes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-64057-01" codeInsee="64057" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Arthez-de-Béarn</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, chemin Poumata</Ligne>
+      <CodePostal>64370</CodePostal>
+      <NomCommune>Arthez-de-Béarn</NomCommune>
+      <Localisation>
+         <Latitude>43.4652188</Latitude>
+         <Longitude>-0.6261912</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 67 45 68</Téléphone>
+      <Télécopie>+33 5 59 67 45 72</Télécopie>
+      <Email>cob.mourenx@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

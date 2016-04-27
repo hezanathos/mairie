@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-13004-01" codeInsee="13004" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-96">
+   <Nom>Point d'information local dédié aux personnes âgées - Arles</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Aristide-Briand</Ligne>
+      <Ligne>Centre local d'information et de coordination d'Arles</Ligne>
+      <CodePostal>13200</CodePostal>
+      <NomCommune>Arles</NomCommune>
+      <Localisation>
+         <Latitude>43.678694</Latitude>
+         <Longitude>4.629316</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 18 46 75</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-35219-01" codeInsee="35219" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Pipriac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 rue du Général-de-Gaulle</Ligne>
+      <CodePostal>35550</CodePostal>
+      <NomCommune>Pipriac</NomCommune>
+      <Localisation>
+         <Latitude>47.8109498</Latitude>
+         <Longitude>-1.9442142</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 34 40 89</Téléphone>
+      <Télécopie>+33 2 99 34 48 99</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

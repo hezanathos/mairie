@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69019-01" codeInsee="69019" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-614">
+   <Nom>Point d'information local dédié aux personnes âgées - Belleville</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Rhône du Canton de Belleville</Ligne>
+      <Ligne>11A rue du 14-juillet</Ligne>
+      <CodePostal>69220</CodePostal>
+      <NomCommune>Belleville</NomCommune>
+      <Localisation>
+         <Latitude>46.107066</Latitude>
+         <Longitude>4.738416</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 06 19 90</Téléphone>
+      <Email>mdr.belleville@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

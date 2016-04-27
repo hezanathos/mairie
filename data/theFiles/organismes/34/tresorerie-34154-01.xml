@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-34154-01" codeInsee="34154" dateMiseAJour="2015-03-18"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Mauguio</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 10100</Ligne>
+      <Ligne>Place Pierre-Mendes-France</Ligne>
+      <CodePostal>34130</CodePostal>
+      <NomCommune>Mauguio Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6072758</Latitude>
+         <Longitude>3.9180705</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 29 30 03</Téléphone>
+      <Email>t034017@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="15:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

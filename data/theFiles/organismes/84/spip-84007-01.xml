@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="84007" dateMiseAJour="2014-12-08" id="spip-84007-01" idPresta="4d2575682935941a92000091" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation du Vaucluse</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>82 route de Montfavet</Ligne>
+        <Ligne>BP 37</Ligne>
+        <CodePostal>84005</CodePostal>
+        <NomCommune>AVIGNON CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>43.940686</Latitude>
+            <Longitude>4.827629</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 13 38 60</Téléphone>
+        <Télécopie>+33 4 90 87 26 38</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

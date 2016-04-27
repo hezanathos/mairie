@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="anah-82121-01" codeInsee="82121" dateMiseAJour="2016-03-10"
+           pivotLocal="anah">
+   <Nom>Agence nationale de l'habitat (Anah) - Tarn-et-Garonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 quai de Verdun</Ligne>
+      <Ligne>BP 775</Ligne>
+      <CodePostal>82013</CodePostal>
+      <NomCommune>Montauban Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.0199245</Latitude>
+         <Longitude>1.3502553</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 22 25 68</Téléphone>
+      <Télécopie>+33 5 63 22 23 23</Télécopie>
+      <Email>ddt-suhru-brufl@tarn-et-garonne.gouv.fr</Email>
+      <Url>http://www.anah.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

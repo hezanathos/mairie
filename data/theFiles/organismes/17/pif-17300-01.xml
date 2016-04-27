@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-17300-01" codeInsee="17300" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de la mission locale de La Rochelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>90 rue de Bel-Air</Ligne>
+      <CodePostal>17000</CodePostal>
+      <NomCommune>La Rochelle</NomCommune>
+      <Localisation>
+         <Latitude>46.1677017212</Latitude>
+         <Longitude>-1.16692304611</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 27 65 20</Téléphone>
+      <Télécopie>+33 5 46 42 30 70</Télécopie>
+      <Email>contact@missionlocale.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

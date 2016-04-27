@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-62040-01" codeInsee="62040" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) d'Arques</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25 avenue du Général-de-Gaulle</Ligne>
+      <Ligne>BP 70032</Ligne>
+      <Ligne>Maison départementale de solidarité</Ligne>
+      <CodePostal>62507</CodePostal>
+      <NomCommune>Arques Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.7257003784</Latitude>
+         <Longitude>2.30807995796</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 38 11 25</Téléphone>
+      <Télécopie>+33 3 21 60 91 58</Télécopie>
+      <Url>http://www.pasdecalais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

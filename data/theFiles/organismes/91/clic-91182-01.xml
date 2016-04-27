@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-91182-01" codeInsee="91182" dateMiseAJour="2015-11-12"
+           pivotLocal="clic"
+           idPresta="clic-814">
+   <Nom>Point d'information local dédié aux personnes âgées - Courcouronnes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Cœur Essonne</Ligne>
+      <Ligne>128 allée des Champs-Elysées</Ligne>
+      <CodePostal>91080</CodePostal>
+      <NomCommune>Courcouronnes</NomCommune>
+      <Localisation>
+         <Latitude>48.630508</Latitude>
+         <Longitude>2.423582</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 78 01 01</Téléphone>
+      <Email>cliccoeurdelessonne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-78646-02" codeInsee="78646" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Versailles - Territoire d'action sociale</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>50 rue Remilly</Ligne>
+      <CodePostal>78000</CodePostal>
+      <NomCommune>Versailles</NomCommune>
+      <Localisation>
+         <Latitude>48.8112552</Latitude>
+         <Longitude>2.1418323</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 83 14 00</Téléphone>
+      <Télécopie>+33 1 39 24 06 01</Télécopie>
+      <Url>http://www.cg78.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-26108-01" codeInsee="26108" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Crest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Cuiretteries</Ligne>
+      <Ligne>BP 309</Ligne>
+      <CodePostal>26401</CodePostal>
+      <NomCommune>Crest Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.7280006409</Latitude>
+         <Longitude>5.02243995667</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 76 70 67</Téléphone>
+      <Télécopie>+33 4 75 76 85 47</Télécopie>
+      <Email>crest@mlvalleedrome.org</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="38185" dateMiseAJour="2014-01-28" id="csl-38185-01" idPresta="4def338a29359407cd00117c" pivotLocal="csl">
+    <Nom>Centre de semi-liberté de Grenoble</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>51 rue de l&#39;Abbé Grégoire</Ligne>
+        <CodePostal>38000</CodePostal>
+        <NomCommune>GRENOBLE</NomCommune>
+        <Localisation>
+            <Latitude>45.184549</Latitude>
+            <Longitude>5.71192</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 76 21 51 91</Téléphone>
+        <Télécopie>+33 4 76 49 42 69</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

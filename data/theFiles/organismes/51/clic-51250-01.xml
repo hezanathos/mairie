@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-51250-01" codeInsee="51250" dateMiseAJour="2015-05-26"
+           pivotLocal="clic"
+           idPresta="clic-395">
+   <Nom>Point d'information local dédié aux personnes âgées - Fismes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12bis rue des Chailleaux</Ligne>
+      <Ligne>Centre local d'information et de coordination L'Ardre Vivre</Ligne>
+      <CodePostal>51170</CodePostal>
+      <NomCommune>Fismes</NomCommune>
+      <Localisation>
+         <Latitude>49.30585</Latitude>
+         <Longitude>3.679334</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 48 95 86</Téléphone>
+      <Email>ibarba@hl-fismes.fr</Email>
+      <Url>sclic@hl-fismes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

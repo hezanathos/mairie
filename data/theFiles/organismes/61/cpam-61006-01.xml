@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-61006-01" codeInsee="61006" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de l'Orne - accueil d'Argentan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue des Vieilles-Halles</Ligne>
+      <CodePostal>61200</CodePostal>
+      <NomCommune>Argentan</NomCommune>
+      <Localisation>
+         <Latitude>48.7458000183</Latitude>
+         <Longitude>-0.0179660003632</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>34 place du Général-Bonet</Ligne>
+      <Ligne>CS 30020</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de l'Orne</Ligne>
+      <CodePostal>61012</CodePostal>
+      <NomCommune>Alençon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.431777</Latitude>
+         <Longitude>0.0947682</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Accueil uniquement sur rendez-vous le mardi et le jeudi. Accueil téléphonique du lundi au vendredi de 8h à 18h.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Accueil fermé tous les 1ers vendredis matins du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

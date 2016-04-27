@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-40227-01" codeInsee="40227" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Pissos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>409 route de Daugnague</Ligne>
+      <CodePostal>40410</CodePostal>
+      <NomCommune>Pissos</NomCommune>
+      <Localisation>
+         <Latitude>44.3048533</Latitude>
+         <Longitude>-0.7821687</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 08 91 36</Téléphone>
+      <Email>t040013@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

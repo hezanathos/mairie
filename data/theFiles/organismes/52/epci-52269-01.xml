@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-52269-01" codeInsee="52269" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Grand Langres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>46 avenue Turenne</Ligne>
+      <Ligne>BP 142</Ligne>
+      <CodePostal>52206</CodePostal>
+      <NomCommune>Langres Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.8653497758</Latitude>
+         <Longitude>5.33540725708</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 87 32 21</Téléphone>
+      <Télécopie>+33 3 25 87 07 04</Télécopie>
+      <Email>secretariat@grand-langres.fr</Email>
+      <Url>http://www.grand-langres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-84039-01" codeInsee="84039" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-746">
+   <Nom>Point d'information local dédié aux personnes âgées - Courthézon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Cadran solaire</Ligne>
+      <Ligne>Rue Colonieu</Ligne>
+      <Ligne>Centre local d'information et de coordination Riv'Âge</Ligne>
+      <CodePostal>84350</CodePostal>
+      <NomCommune>Courthézon</NomCommune>
+      <Localisation>
+         <Latitude>44.085829</Latitude>
+         <Longitude>4.884791</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 70 20 55</Téléphone>
+      <Email>rivage84@orange.fr</Email>
+      <Url>http://www.rivage84.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

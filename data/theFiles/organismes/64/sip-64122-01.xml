@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-64122-01" codeInsee="64122" dateMiseAJour="2014-05-15" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Biarritz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17, avenue Charles-Floquet</Ligne>
+      <Ligne>BP 17</Ligne>
+      <CodePostal>64201</CodePostal>
+      <NomCommune>Biarritz Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.4787427</Latitude>
+         <Longitude>-1.5548073</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 41 37 00</Téléphone>
+      <Email>sip.biarritz@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

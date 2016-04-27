@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crous-60159-01" codeInsee="60159" dateMiseAJour="2011-09-02"
+           pivotLocal="crous">
+   <Nom>Centre régional des oeuvres universitaires et scolaires (Crous) - antenne de Compiègne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Résidence Roberval</Ligne>
+      <Ligne>6 bis rue Winston Churchill</Ligne>
+      <CodePostal>60200</CodePostal>
+      <NomCommune>Compiègne</NomCommune>
+      <Localisation>
+         <Latitude>49.4117012024</Latitude>
+         <Longitude>2.81412005425</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 20 36 28</Téléphone>
+      <Télécopie>+33 3 44 86 10 98</Télécopie>
+      <Url>http://www.crous-amiens.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

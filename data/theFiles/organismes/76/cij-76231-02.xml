@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-76231-02" codeInsee="76231" dateMiseAJour="2006-02-06" pivotLocal="cij">
+   <Nom>Centre d'information Jeunesse - Point information jeunesse de Elbeuf Parc Saint Cyr</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>chateau du parc saint cyr</Ligne>
+      <CodePostal>76500</CodePostal>
+      <NomCommune>ELBEUF</NomCommune>
+      <Localisation>
+         <Latitude>49.2870826721</Latitude>
+         <Longitude>1.00915205479</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 10331</Ligne>
+      <Ligne>1 rue jacques prevert</Ligne>
+      <Ligne>anim'elbeuf</Ligne>
+      <CodePostal>76503</CodePostal>
+      <NomCommune>ELBEUF CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>49.2859992981</Latitude>
+         <Longitude>1.00503003597</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 81 81 90</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

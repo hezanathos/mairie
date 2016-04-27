@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-59375-01" codeInsee="59375" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-505">
+   <Nom>Point d'information local dédié aux personnes âgées - Marchiennes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Pévèle et de l'Ostrevent</Ligne>
+      <Ligne>2 route d'Orchies</Ligne>
+      <CodePostal>59870</CodePostal>
+      <NomCommune>Marchiennes</NomCommune>
+      <Localisation>
+         <Latitude>50.41177</Latitude>
+         <Longitude>3.27316</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 98 74 70</Téléphone>
+      <Email>clic.peveleostrevent@orange.fr</Email>
+      <Url>http://www.clic-arrondissementdouai.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

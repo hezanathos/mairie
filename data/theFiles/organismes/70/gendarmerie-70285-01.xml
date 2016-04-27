@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-70285-01" codeInsee="70285" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Héricourt</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 Faubourg de Besançon</Ligne>
+      <CodePostal>70400</CodePostal>
+      <NomCommune>Héricourt</NomCommune>
+      <Localisation>
+         <Latitude>47.5732368</Latitude>
+         <Longitude>6.751088</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 46 09 32</Téléphone>
+      <Télécopie>+33 3 84 46 41 70</Télécopie>
+      <Email>cob.hericourt@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

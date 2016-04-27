@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-89309-01" codeInsee="89309" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Yonne Nord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14-18 rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>89140</CodePostal>
+      <NomCommune>Pont-sur-Yonne</NomCommune>
+      <Localisation>
+         <Latitude>48.2876871</Latitude>
+         <Longitude>3.204279</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 96 09 22</Téléphone>
+      <Télécopie>+33 3 86 96 30 73</Télécopie>
+      <Email>ccyn@ccyn.fr</Email>
+      <Url>http://www.cc-yonne-nord.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

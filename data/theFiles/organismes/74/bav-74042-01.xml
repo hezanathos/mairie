@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="74042" dateMiseAJour="2016-01-22" id="bav-74042-01" idPresta="4d5e5fb82935941fe9000030" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Bonneville</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>quai du parquet</Ligne>
+        <Ligne>BP 136</Ligne>
+        <CodePostal>74136</CodePostal>
+        <NomCommune>BONNEVILLE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.0790376</Latitude>
+            <Longitude>6.4045304</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 50 25 48 00</Téléphone>
+        <Email>mailto:victimes.tgi-bonneville@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>Permanences du lundi au vendredi</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

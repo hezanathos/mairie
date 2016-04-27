@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-37226-01" codeInsee="37226" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sainte-Maure-de-Touraine</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 route des Archambault</Ligne>
+      <CodePostal>37800</CodePostal>
+      <NomCommune>Sainte-Maure-de-Touraine</NomCommune>
+      <Localisation>
+         <Latitude>47.1133219</Latitude>
+         <Longitude>0.622078</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 72 35 60</Téléphone>
+      <Télécopie>+33 2 47 72 35 64</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="2A004" dateMiseAJour="2012-06-21" id="bav-2A004-01" idPresta="51b08cddb473e4147800137f" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance d&#39;Ajaccio</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>4 boulevard Masseria</Ligne>
+        <Ligne>BP 47</Ligne>
+        <CodePostal>20181</CodePostal>
+        <NomCommune>AJACCIO CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>41.925771</Latitude>
+            <Longitude>8.73706</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 95 29 06 06</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

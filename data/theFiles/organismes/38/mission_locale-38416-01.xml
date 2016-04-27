@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-38416-01" codeInsee="38416" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Pays du Sud-Grésivaudan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue du Colombier</Ligne>
+      <Ligne>Maison de l'économie</Ligne>
+      <Ligne>BP 63</Ligne>
+      <CodePostal>38162</CodePostal>
+      <NomCommune>Saint-Marcellin Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.1493988037</Latitude>
+         <Longitude>5.3213801384</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 38 83 42</Téléphone>
+      <Télécopie>+33 4 76 38 04 94</Télécopie>
+      <Email>missionlocale@pays-saint-marcellin.fr</Email>
+      <Url>http://www.missionlocale.sud-gresivaudan.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

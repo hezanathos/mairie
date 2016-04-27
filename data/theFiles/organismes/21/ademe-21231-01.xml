@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ademe-21231-01" codeInsee="21231" dateMiseAJour="2016-03-10"
+           pivotLocal="ademe">
+   <Nom>Agence de l'environnement et de la maîtrise de l'énergie (Ademe) - Bourgogne-Franche-Comté</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Site Dijon</Ligne>
+      <Ligne>Tour Élithis</Ligne>
+      <Ligne>1 C boulevard de Champagne</Ligne>
+      <CodePostal>21000</CodePostal>
+      <NomCommune>Dijon</NomCommune>
+      <Localisation>
+         <Latitude>45.297768</Latitude>
+         <Longitude>2.513761</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 25 50 00</Téléphone>
+      <Télécopie>+33 3 80 76 89 70</Télécopie>
+      <Email>ademe.bourgognefranchecomte@ademe.fr</Email>
+      <Url>http://www.bourgogne.ademe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:30:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

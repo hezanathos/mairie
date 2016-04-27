@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="80001" dateMiseAJour="2014-01-28" id="ti-80001-01" idPresta="4cac9ed7293594648a00ee59" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance d&#39;Abbeville</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>79 rue du Maréchal Foch</Ligne>
+        <Ligne>BP 330</Ligne>
+        <CodePostal>80103</CodePostal>
+        <NomCommune>ABBEVILLE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>50.103733</Latitude>
+            <Longitude>1.837252</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 22 25 37 30</Téléphone>
+        <Télécopie>+33 3 22 25 37 69</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:45:00" fin="16:45:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

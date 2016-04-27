@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-76462-01" codeInsee="76462" dateMiseAJour="2016-03-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de gendarmerie autonome de Neufchâtel-en-Bray</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de la Gendarmerie</Ligne>
+      <CodePostal>76270</CodePostal>
+      <NomCommune>Neufchâtel-en-Bray</NomCommune>
+      <Localisation>
+         <Latitude>49.734528</Latitude>
+         <Longitude>1.448677</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 93 00 17</Téléphone>
+      <Télécopie>+33 2 35 93 22 34</Télécopie>
+      <Email>cob.neufchatel-en-bray@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

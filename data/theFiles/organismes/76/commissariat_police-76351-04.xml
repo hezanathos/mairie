@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-76351-04" codeInsee="76351" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Hôtel de police du Havre</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>196 boulevard de Strasbourg</Ligne>
+      <CodePostal>76600</CodePostal>
+      <NomCommune>Le Havre</NomCommune>
+      <Localisation>
+         <Latitude>49.4923907</Latitude>
+         <Longitude>0.1201614</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 74 37 00</Téléphone>
+      <Télécopie>+33 2 32 74 37 30</Télécopie>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

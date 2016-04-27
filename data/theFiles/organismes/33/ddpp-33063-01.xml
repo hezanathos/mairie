@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddpp-33063-01" codeInsee="33063" dateMiseAJour="2012-12-03"
+           pivotLocal="ddpp">
+   <Nom>Direction départementale de la protection des populations (DDPP) - Gironde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bruges</Ligne>
+      <Ligne>CS 60074</Ligne>
+      <Ligne>5, boulevard Jacques-Chaban-Delmas</Ligne>
+      <CodePostal>33070</CodePostal>
+      <NomCommune>Bordeaux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.879364</Latitude>
+         <Longitude>-0.5827805</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 69 27 27</Téléphone>
+      <Télécopie>+33 5 56 69 27 28</Télécopie>
+      <Email>ddpp@gironde.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

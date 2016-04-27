@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="50502" dateMiseAJour="2013-05-28" id="mjd-50502-01" idPresta="51b6d3b3b473e41c1e000c4f" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit de St Lo</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>32 rue Croix-Canuet</Ligne>
+        <CodePostal>50000</CodePostal>
+        <NomCommune>ST LO</NomCommune>
+        <Localisation>
+            <Latitude>49.1107090231</Latitude>
+            <Longitude>-1.09832761111</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 33 72 87 20</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

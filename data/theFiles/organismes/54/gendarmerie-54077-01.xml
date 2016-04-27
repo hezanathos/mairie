@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-54077-01" codeInsee="54077" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Blâmont</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Victor-Pierre</Ligne>
+      <CodePostal>54450</CodePostal>
+      <NomCommune>Blâmont</NomCommune>
+      <Localisation>
+         <Latitude>48.5867768</Latitude>
+         <Longitude>6.8376644</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 42 30 23</Téléphone>
+      <Télécopie>+33 3 83 76 81 99</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

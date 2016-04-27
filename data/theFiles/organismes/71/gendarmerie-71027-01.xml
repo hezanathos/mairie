@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-71027-01" codeInsee="71027" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Beaurepaire-en-Bresse</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>130, route de la Bresse</Ligne>
+      <CodePostal>71580</CodePostal>
+      <NomCommune>Beaurepaire-en-Bresse</NomCommune>
+      <Localisation>
+         <Latitude>46.669378</Latitude>
+         <Longitude>5.389571</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 60 38 60</Téléphone>
+      <Télécopie>+33 3 85 60 38 63</Télécopie>
+      <Email>cob.louhans@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

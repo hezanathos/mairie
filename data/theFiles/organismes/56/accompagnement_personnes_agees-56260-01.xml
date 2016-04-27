@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-56260-01" codeInsee="56260"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-918">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vannes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>EHPAD Beaupré-Lalande</Ligne>
+      <Ligne>26 rue du RICM</Ligne>
+      <CodePostal>56000</CodePostal>
+      <NomCommune>Vannes</NomCommune>
+      <Localisation>
+         <Latitude>47.658948</Latitude>
+         <Longitude>-2.736239</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 01 37 30</Téléphone>
+      <Email>beauprelalande@mutualite56.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

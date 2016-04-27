@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-57382-01" codeInsee="57382" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de l'Étang du Stock</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue du Général-de-Gaulle</Ligne>
+      <Ligne>Mairie de Langatte</Ligne>
+      <CodePostal>57400</CodePostal>
+      <NomCommune>Langatte</NomCommune>
+      <Localisation>
+         <Latitude>48.7573863</Latitude>
+         <Longitude>6.9802434</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 03 13 03</Téléphone>
+      <Télécopie>+33 3 87 03 41 02</Télécopie>
+      <Email>mairie.de.langatte@wanadoo.fr</Email>
+      <Url>http://www.etang-stock.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

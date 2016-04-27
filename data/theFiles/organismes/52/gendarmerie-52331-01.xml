@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-52331-01" codeInsee="52331" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Montier-en-Der</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>52 avenue de Champagne</Ligne>
+      <CodePostal>52220</CodePostal>
+      <NomCommune>Montier-en-Der</NomCommune>
+      <Localisation>
+         <Latitude>48.4853537</Latitude>
+         <Longitude>4.7607441</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 04 20 17</Téléphone>
+      <Télécopie>+33 3 25 04 39 84</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

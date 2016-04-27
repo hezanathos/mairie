@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-60223-01" codeInsee="60223" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-518">
+   <Nom>Point d'information local dédié aux personnes âgées - Estrées Saint Denis</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue Guynemer</Ligne>
+      <Ligne>Antenne Départementale de la Solidarité de Estrées Saint Denis</Ligne>
+      <CodePostal>60190</CodePostal>
+      <NomCommune>Estrées-Saint-Denis</NomCommune>
+      <Localisation>
+         <Latitude>49.427871</Latitude>
+         <Longitude>2.641256</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 10 45 25</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

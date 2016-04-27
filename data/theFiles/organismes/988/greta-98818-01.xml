@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-98818-01" codeInsee="98818" dateMiseAJour="2011-10-04"
+           pivotLocal="greta">
+   <Nom>Greta interprovinciale de Nouvelle-Calédonie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP K2</Ligne>
+      <Ligne>Lycée Pétro Attiti</Ligne>
+      <CodePostal>98849</CodePostal>
+      <NomCommune>NOUMEA CEDEX</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>(687) 41 50 39</Téléphone>
+      <Télécopie>(687) 41.61.31</Télécopie>
+      <Email>greta.noumea@ac-noumea.nc</Email>
+      <Url>http://www.ac-noumea.nc/sitevr/spip.php?rubrique60</Url>
+   </CoordonnéesNum>
+</Organisme>

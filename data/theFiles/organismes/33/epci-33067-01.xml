@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-33067-01" codeInsee="33067" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Bourg en Gironde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 au Mas</Ligne>
+      <CodePostal>33710</CodePostal>
+      <NomCommune>Bourg-sur-Gironde</NomCommune>
+      <Localisation>
+         <Latitude>45.0419519</Latitude>
+         <Longitude>-0.5598706</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 94 06 80</Téléphone>
+      <Télécopie>+33 5 57 94 06 14</Télécopie>
+      <Email>info@bourg-en-gironde.fr</Email>
+      <Url>http://www.bourg-en-gironde.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

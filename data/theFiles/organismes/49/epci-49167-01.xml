@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49167-01" codeInsee="49167" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Loire Aubance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parc d'activités de Lanserre</Ligne>
+      <Ligne>15 rue de la Fuye</Ligne>
+      <Ligne>BP 20027</Ligne>
+      <CodePostal>49610</CodePostal>
+      <NomCommune>Juigné-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.3893393</Latitude>
+         <Longitude>-0.5039773</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 44 64 44</Téléphone>
+      <Télécopie>+33 2 41 44 69 84</Télécopie>
+      <Email>secretariat@loire-aubance.fr</Email>
+      <Url>http://www.loire-aubance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

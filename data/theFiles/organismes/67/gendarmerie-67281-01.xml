@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67281-01" codeInsee="67281" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Marckolsheim</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23, rue du Maréchal Foch</Ligne>
+      <CodePostal>67390</CodePostal>
+      <NomCommune>Marckolsheim</NomCommune>
+      <Localisation>
+         <Latitude>48.163894</Latitude>
+         <Longitude>7.543985</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 58 29 80</Téléphone>
+      <Télécopie>+33 3 88 58 29 85</Télécopie>
+      <Email>cob.marckolsheim@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

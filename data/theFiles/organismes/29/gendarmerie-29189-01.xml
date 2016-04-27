@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-29189-01" codeInsee="29189" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Plougastel-Daoulas</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Château-d'Eau</Ligne>
+      <CodePostal>29470</CodePostal>
+      <NomCommune>Plougastel-Daoulas</NomCommune>
+      <Localisation>
+         <Latitude>48.3769523</Latitude>
+         <Longitude>-4.3750352</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 40 37 99</Téléphone>
+      <Télécopie>+33 2 98 40 09 92</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

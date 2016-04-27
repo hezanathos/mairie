@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-63315-01" codeInsee="63315" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Les Cheires</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Parc</Ligne>
+      <CodePostal>63450</CodePostal>
+      <NomCommune>Saint-Amant-Tallende</NomCommune>
+      <Localisation>
+         <Latitude>45.669036</Latitude>
+         <Longitude>3.1050574</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 39 61 50</Téléphone>
+      <Télécopie>+33 4 73 39 61 51</Télécopie>
+      <Email>contact@les-cheires.com</Email>
+      <Url>http://www.les-cheires.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

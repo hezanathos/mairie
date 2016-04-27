@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cicas-26362-01" codeInsee="26362" dateMiseAJour="2015-09-09"
+           pivotLocal="cicas">
+   <Nom>Centre d'information de conseil et d’accueil des salariés (Cicas) - Drôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>497 avenue Victor-Hugo</Ligne>
+      <Ligne>Immeuble Le Sud - Bâtiment B - Rez-de-chaussée</Ligne>
+      <Ligne>CS 50434</Ligne>
+      <CodePostal>26004</CodePostal>
+      <NomCommune>Valence</NomCommune>
+      <Localisation>
+         <Latitude>44.9103821</Latitude>
+         <Longitude>4.8842344</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0820 200 189</Téléphone>
+      <Télécopie>+33 4 75 81 60 59</Télécopie>
+      <Email>cicasinfo26@agirc-arrco.fr</Email>
+      <Url>http://www.agirc-arrco.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Accueil uniquement sur rendez-vous.</Commentaire>
+</Organisme>

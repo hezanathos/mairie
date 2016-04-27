@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-92071-01" codeInsee="92071" dateMiseAJour="2015-10-12"
+           pivotLocal="clic"
+           idPresta="Clic-1235">
+   <Nom>Point d'information local aux personnes âgées - Sceaux</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Coordination gérontologique de Sceaux</Ligne>
+      <Ligne>CCAS - Hôtel de ville</Ligne>
+      <Ligne>122 rue Houdan</Ligne>
+      <CodePostal>92330</CodePostal>
+      <NomCommune>Sceaux</NomCommune>
+      <Localisation>
+         <Latitude>48.779197</Latitude>
+         <Longitude>2.288514</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 46 60 35 38</Téléphone>
+      <Email>veronique.simonaud@sceaux.fr</Email>
+      <Url>http://www.hauts-de-seine.fr/solidarites/personnes-agees/maintien-a-domicile/adresses-des-clic-et-coordinations-gerontologiques/</Url>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

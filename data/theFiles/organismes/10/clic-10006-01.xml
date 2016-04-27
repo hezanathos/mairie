@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-10006-01" codeInsee="10006" dateMiseAJour="2015-10-12"
+           pivotLocal="clic"
+           idPresta="clic-72">
+   <Nom>Point d'information local dédié aux personnes âgées - Arcis-sur-Aube</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Unité Personnes âgées/ Personnes handicapées de l'Est Aubois</Ligne>
+      <Ligne>5bis rue de la Marine</Ligne>
+      <Ligne>Personnes handicapées de l'Est Aubois</Ligne>
+      <CodePostal>10700</CodePostal>
+      <NomCommune>Arcis-sur-Aube</NomCommune>
+      <Localisation>
+         <Latitude>48.537653</Latitude>
+         <Longitude>4.140327</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 47 33 17</Téléphone>
+      <Email>circo.arcis-brienne@cg10.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

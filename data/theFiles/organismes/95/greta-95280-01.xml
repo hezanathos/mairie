@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-95280-01" codeInsee="95280" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta - Val-de-France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26, avenue Jacques-Anquetil</Ligne>
+      <CodePostal>95696</CodePostal>
+      <NomCommune>Goussainville</NomCommune>
+      <Localisation>
+         <Latitude>49.0238618</Latitude>
+         <Longitude>2.4599454</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 33 82 10</Téléphone>
+      <Télécopie>+33 1 39 33 82 50</Télécopie>
+      <Email>greta.valdefrance.95@ac-versailles.fr</Email>
+      <Url>http://www.greta-95-valdefrance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

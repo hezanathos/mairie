@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-84031-02" codeInsee="84031" dateMiseAJour="2015-07-07"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie Carpentras Établissements hospitaliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 rond-point de l’Amitié</Ligne>
+      <Ligne>CS 90161</Ligne>
+      <Ligne>Pôle santé</Ligne>
+      <CodePostal>84205</CodePostal>
+      <NomCommune>Carpentras Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.0461983</Latitude>
+         <Longitude>5.0291661</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

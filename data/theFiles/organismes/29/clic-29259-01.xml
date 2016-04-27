@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-29259-01" codeInsee="29259" dateMiseAJour="2015-05-26"
+           pivotLocal="clic"
+           idPresta="clic-212">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Pol-de-Leon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Cleder</Ligne>
+      <Ligne>Rue des Carmes</Ligne>
+      <Ligne>Saint-Pol-de-Leon</Ligne>
+      <CodePostal>29250</CodePostal>
+      <NomCommune>Saint-Pol-de-Léon</NomCommune>
+      <Localisation>
+         <Latitude>48.682527</Latitude>
+         <Longitude>-3.993343</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 62 38 00</Téléphone>
+      <Email>accueil@ggpm.fr/antennecliccoordinatrice@yahoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

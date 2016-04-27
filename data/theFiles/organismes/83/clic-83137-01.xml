@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-83137-01" codeInsee="83137" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-734">
+   <Nom>Point d'information local dédié aux personnes âgées - Toulon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Toulon</Ligne>
+      <Ligne>BP 813</Ligne>
+      <Ligne>100 rue des Ramparts</Ligne>
+      <CodePostal>83000</CodePostal>
+      <NomCommune>Toulon</NomCommune>
+      <Localisation>
+         <Latitude>43.122614</Latitude>
+         <Longitude>5.936327</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 24 65 25</Téléphone>
+      <Email>ml.hachet-casez@ccas-toulon.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

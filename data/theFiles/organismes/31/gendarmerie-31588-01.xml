@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-31588-01" codeInsee="31588" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Villeneuve-Tolosane</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>31270</CodePostal>
+      <NomCommune>Villeneuve-Tolosane</NomCommune>
+      <Localisation>
+         <Latitude>43.5068967</Latitude>
+         <Longitude>1.3887306</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 87 10 60</Téléphone>
+      <Télécopie>+33 5 62 87 10 68</Télécopie>
+      <Email>cob.cugnaux@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

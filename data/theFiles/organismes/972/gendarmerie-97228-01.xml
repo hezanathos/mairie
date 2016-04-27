@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97228-01" codeInsee="97228" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Sainte-Marie</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZAC Belle-Etoile</Ligne>
+      <CodePostal>97230</CodePostal>
+      <NomCommune>Sainte-Marie</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 69 54 20</Téléphone>
+      <Télécopie>+596 5 96 69 56 88</Télécopie>
+      <Email>bta.ste-marie@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

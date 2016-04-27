@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-12164-01" codeInsee="12164" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Mur-de-Barrez</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Carladez</Ligne>
+      <CodePostal>12600</CodePostal>
+      <NomCommune>Mur-de-Barrez</NomCommune>
+      <Localisation>
+         <Latitude>44.8394859</Latitude>
+         <Longitude>2.6625244</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 66 63 05</Téléphone>
+      <Télécopie>+33 5 65 66 63 09</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

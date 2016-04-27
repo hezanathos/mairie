@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-73065-01" codeInsee="73065" dateMiseAJour="2011-10-11"
+           pivotLocal="suio">
+   <Nom>Université de Savoie - Service universitaire d'information et d'orientation (SUIO)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>378 rue de la République</Ligne>
+      <Ligne>BP 1104</Ligne>
+      <CodePostal>73011</CodePostal>
+      <NomCommune>CHAMBERY CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>45.5635854</Latitude>
+         <Longitude>5.9271223</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 75 38 38</Téléphone>
+      <Email>scuio@univ-savoie.fr</Email>
+      <Url>http://www.univ-savoie.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

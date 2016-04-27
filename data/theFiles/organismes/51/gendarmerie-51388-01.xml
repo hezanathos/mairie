@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-51388-01" codeInsee="51388" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Mourmelon-le-Grand</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>999 quartier Geisberg</Ligne>
+      <CodePostal>51400</CodePostal>
+      <NomCommune>Mourmelon-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>49.132029</Latitude>
+         <Longitude>4.360991</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 66 10 33</Téléphone>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

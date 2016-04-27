@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-65389-01" codeInsee="65389" dateMiseAJour="2015-05-21"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Saint-Laurent-de-Neste</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>65150</CodePostal>
+      <NomCommune>Saint-Laurent-de-Neste</NomCommune>
+      <Localisation>
+         <Latitude>43.0771707</Latitude>
+         <Longitude>0.4827029</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 74 34</Téléphone>
+      <Télécopie>+33 5 62 39 75 63</Télécopie>
+      <Email>ccstlaurent@gmail.com</Email>
+      <Url>http://www.neste-nistos.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

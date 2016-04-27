@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-36044-02" codeInsee="36044" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Châteauroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>134 rue de Vaugirard</Ligne>
+      <CodePostal>36000</CodePostal>
+      <NomCommune>Châteauroux</NomCommune>
+      <Localisation>
+         <Latitude>46.8285146</Latitude>
+         <Longitude>1.6843318</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 2 54 61 45 01</Télécopie>
+      <Url>http://www.centre.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

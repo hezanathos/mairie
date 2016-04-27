@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-97407-02" codeInsee="97407" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Centre information jeunesse du Port</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace jeunes Rivières des Galets</Ligne>
+      <Ligne>7 rue Maurice</Ligne>
+      <CodePostal>97420</CodePostal>
+      <NomCommune>LE PORT</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 43 10 42</Téléphone>
+      <Email>mio.rdg@mio.re</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

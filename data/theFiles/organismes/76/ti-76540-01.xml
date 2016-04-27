@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76540" dateMiseAJour="2015-12-04" id="ti-76540-01" idPresta="4cac9e6a293594648a001808" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Rouen</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>20-22 rue de Crosne</Ligne>
+        <Ligne>CS 41421</Ligne>
+        <CodePostal>76037</CodePostal>
+        <NomCommune>ROUEN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.442034</Latitude>
+            <Longitude>1.092297</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 76 27 85 60</Téléphone>
+        <Télécopie>+33 2 76 27 86 00</Télécopie>
+        <Email>mailto:ti-rouen@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

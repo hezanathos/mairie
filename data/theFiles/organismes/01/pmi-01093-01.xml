@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-01093-01" codeInsee="01093" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Châtillon-sur-Chalaronne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>289 B avenue Dubanchet</Ligne>
+      <Ligne>Maison départementale de la solidarité</Ligne>
+      <CodePostal>01400</CodePostal>
+      <NomCommune>Châtillon-sur-Chalaronne</NomCommune>
+      <Localisation>
+         <Latitude>46.1233631</Latitude>
+         <Longitude>4.9540295</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 55 38 80</Téléphone>
+      <Télécopie>+33 4 74 55 20 35</Télécopie>
+      <Url>http://www.ain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

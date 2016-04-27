@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97122-01" codeInsee="97122" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Port-Louis</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Rodrigue</Ligne>
+      <CodePostal>97117</CodePostal>
+      <NomCommune>Port-Louis</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 22 44 80</Téléphone>
+      <Email>bta.port-louis@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

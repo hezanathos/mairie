@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-68066-01" codeInsee="68066" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Colmar</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>11 avenue de la République</Ligne>
+      <Ligne>Préfecture du Haut-Rhin</Ligne>
+      <CodePostal>68000</CodePostal>
+      <NomCommune>Colmar</NomCommune>
+      <Localisation>
+         <Latitude>48.0738661</Latitude>
+         <Longitude>7.3510509</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>100 avenue d'Alsace</Ligne>
+      <Ligne>BP 20351</Ligne>
+      <Ligne>Hôtel du département</Ligne>
+      <CodePostal>68006</CodePostal>
+      <NomCommune>Colmar Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 30 67 00</Téléphone>
+      <Télécopie>+33 3 89 21 64 43</Télécopie>
+      <Email>pmips@cg68.fr</Email>
+      <Url>http://www.cg68.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Permanence téléphonique uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

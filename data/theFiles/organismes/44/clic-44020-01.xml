@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-44020-01" codeInsee="44020" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-340">
+   <Nom>Point d'information local dédié aux personnes âgées - Bouguenais</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue de la Grande Ouche</Ligne>
+      <Ligne>Centre local d'information et de coordination Loire-Acheneau</Ligne>
+      <Ligne>BP 41109</Ligne>
+      <CodePostal>44340</CodePostal>
+      <NomCommune>Bouguenais</NomCommune>
+      <Localisation>
+         <Latitude>47.180408</Latitude>
+         <Longitude>-1.581139</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 69 41 10</Téléphone>
+      <Email>clicloireacheneau@ville-bouguenais.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

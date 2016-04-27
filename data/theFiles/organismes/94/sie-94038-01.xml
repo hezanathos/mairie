@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-94038-01" codeInsee="94038" dateMiseAJour="2015-02-16" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de L'Haÿ-Les-Roses</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Dispan</Ligne>
+      <CodePostal>94246</CodePostal>
+      <NomCommune>L'Haÿ-Les-Roses Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7791734</Latitude>
+         <Longitude>2.3387691</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 49 08 88 15</Téléphone>
+      <Email>sie.lhay-les-roses@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

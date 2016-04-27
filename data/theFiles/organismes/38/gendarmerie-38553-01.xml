@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38553-01" codeInsee="38553" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Villefontaine</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue Montgolfier</Ligne>
+      <CodePostal>38090</CodePostal>
+      <NomCommune>Villefontaine</NomCommune>
+      <Localisation>
+         <Latitude>45.6185226</Latitude>
+         <Longitude>5.1416634</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 95 60 17</Téléphone>
+      <Télécopie>+33 4 74 95 99 58</Télécopie>
+      <Email>bta.villefontaine@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

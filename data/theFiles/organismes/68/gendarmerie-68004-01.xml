@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-68004-01" codeInsee="68004" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Altkirch</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Gilardoni 7, rue de Hirtzbach</Ligne>
+      <CodePostal>68130</CodePostal>
+      <NomCommune>Altkirch</NomCommune>
+      <Localisation>
+         <Latitude>47.6150047</Latitude>
+         <Longitude>7.234707</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 40 96 39</Téléphone>
+      <Télécopie>+33 3 89 08 31 85</Télécopie>
+      <Email>cob.altkirch@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

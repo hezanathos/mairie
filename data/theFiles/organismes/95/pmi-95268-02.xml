@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-95268-02" codeInsee="95268" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Garges-lès-Gonesse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue du Colonel-Fabien</Ligne>
+      <CodePostal>95140</CodePostal>
+      <NomCommune>Garges-lès-Gonesse</NomCommune>
+      <Localisation>
+         <Latitude>48.9727724</Latitude>
+         <Longitude>2.3889857</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 11 13 68</Téléphone>
+      <Télécopie>+33 1 39 93 61 44</Télécopie>
+      <Email>dameblanche@valdoise.fr</Email>
+      <Url>http://www.valdoise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

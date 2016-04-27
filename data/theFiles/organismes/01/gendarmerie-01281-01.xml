@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-01281-01" codeInsee="01281" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Ornex</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>100 rue de la Gendarmerie</Ligne>
+      <CodePostal>01210</CodePostal>
+      <NomCommune>Ornex</NomCommune>
+      <Localisation>
+         <Latitude>46.2630341</Latitude>
+         <Longitude>6.1027801</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 40 59 30</Téléphone>
+      <Email>bta.ornex@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

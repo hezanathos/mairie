@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="57672" dateMiseAJour="2015-05-07" id="ti-57672-01" idPresta="4cac9e6a293594648a0017f7" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Thionville</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>12 allée Raymond Poincaré</Ligne>
+        <Ligne>BP 50550</Ligne>
+        <CodePostal>57109</CodePostal>
+        <NomCommune>THIONVILLE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.356793</Latitude>
+            <Longitude>6.16298</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 55 84 30 20</Téléphone>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="11:45:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+            <Note>Les différents services : Nationalité, Pacs, Associations, Registre du commerce, Livre foncier, Successions, Civil, Tutelles, Saisies-arrêts, Police, Injonctions de payer, Exécution forcée immobilère</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

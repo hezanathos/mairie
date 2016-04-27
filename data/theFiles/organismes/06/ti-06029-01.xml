@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06029" dateMiseAJour="2014-01-28" id="ti-06029-01" idPresta="4cac9e6a293594648a0017cd" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Cannes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>19 boulevard Carnot</Ligne>
+        <Ligne>CS 40016</Ligne>
+        <CodePostal>06414</CodePostal>
+        <NomCommune>CANNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.556002</Latitude>
+            <Longitude>7.016974</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 99 64 50</Téléphone>
+        <Télécopie>+33 4 93 99 45 84</Télécopie>
+        <Email>mailto:ti-cannes@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

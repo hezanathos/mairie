@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-06149-01" codeInsee="06149" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de La Trinité</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>106, boulevard du Général-de-Gaulle</Ligne>
+      <CodePostal>06340</CodePostal>
+      <NomCommune>La Trinité</NomCommune>
+      <Localisation>
+         <Latitude>43.7433401</Latitude>
+         <Longitude>7.3134423</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 27 64 40</Téléphone>
+      <Email>bijtrinite@hotmail.fr</Email>
+      <Url>http://www.latrinite.ijca.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

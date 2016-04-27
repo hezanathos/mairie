@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="68334" dateMiseAJour="2014-01-28" id="ti-68334-01" idPresta="4cac9e62293594648a00066f" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Thann</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>41 pl Mal de Lattre de Tassigny</Ligne>
+        <Ligne>CS 40070</Ligne>
+        <CodePostal>68802</CodePostal>
+        <NomCommune>THANN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.816083</Latitude>
+            <Longitude>7.099853</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 89 37 08 48</Téléphone>
+        <Télécopie>+33 3 89 37 52 79</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

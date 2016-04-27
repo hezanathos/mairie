@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-62045-01" codeInsee="62045" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Aubigny-en-Artois</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, impasse  de la Gendarmerie</Ligne>
+      <CodePostal>62690</CodePostal>
+      <NomCommune>Aubigny-en-Artois</NomCommune>
+      <Localisation>
+         <Latitude>50.3552575</Latitude>
+         <Longitude>2.5897938</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 22 00 17</Téléphone>
+      <Email>cob.aubigny-en-artois@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

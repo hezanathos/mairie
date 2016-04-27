@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-88160-03" codeInsee="88160" dateMiseAJour="2016-01-22"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie Office Public Habitat Agglomération Epinal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue Antoine Hurault</Ligne>
+      <Ligne>BP 71074</Ligne>
+      <CodePostal>88051</CodePostal>
+      <NomCommune>Epinal Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.172684</Latitude>
+         <Longitude>6.443941</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 29 64 40 71</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+         <Note>Mêmes horaires pour le standard téléphonique</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

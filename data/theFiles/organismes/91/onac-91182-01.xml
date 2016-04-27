@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-91182-01" codeInsee="91182" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Essonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Immeuble Europe 1</Ligne>
+      <Ligne>5 rue François Truffaut</Ligne>
+      <CodePostal>91080</CodePostal>
+      <NomCommune>COURCOURONNES</NomCommune>
+      <Localisation>
+         <Latitude>48.6219412</Latitude>
+         <Longitude>2.4030726</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 79 25 11</Téléphone>
+      <Télécopie>+33 1 69 36 46 38</Télécopie>
+      <Email>sd91@onacvg.fr</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

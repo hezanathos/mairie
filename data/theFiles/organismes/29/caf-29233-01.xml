@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-29233-01" codeInsee="29233" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Finistère - accueil de Quimperlé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Espace Kerjégu</Ligne>
+      <Ligne>Place Saint-Michel</Ligne>
+      <CodePostal>29300</CodePostal>
+      <NomCommune>Quimperlé</NomCommune>
+      <Localisation>
+         <Latitude>47.8708574</Latitude>
+         <Longitude>-3.5487116</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>1 rue Portzmoguer</Ligne>
+      <Ligne>Caisse d'allocations familiales du Finistère</Ligne>
+      <CodePostal>29602</CodePostal>
+      <NomCommune>Brest Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>47.9803288</Latitude>
+         <Longitude>-4.072782</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 29 30</Téléphone>
+      <Email>http://www.caf.fr/ma-caf/caf-du-finistere/contacter-ma-caf</Email>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

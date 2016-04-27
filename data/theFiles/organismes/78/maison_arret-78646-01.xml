@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="78646" dateMiseAJour="2014-01-28" id="maison_arret-78646-01" idPresta="4eb262982935944ef50000c5" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Versailles</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>28 avenue de Paris</Ligne>
+        <Ligne>BP 1103</Ligne>
+        <CodePostal>78011</CodePostal>
+        <NomCommune>VERSAILLES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.797944</Latitude>
+            <Longitude>2.150256</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 30 83 13 60</Téléphone>
+        <Télécopie>+33 1 30 83 13 63</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

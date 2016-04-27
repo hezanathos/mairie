@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="draf-35238-01" codeInsee="35238" dateMiseAJour="2016-01-12"
+           pivotLocal="draf">
+   <Nom>Direction régionale de l'alimentation, de l'agriculture et de la forêt - Bretagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 avenue de Cucillé</Ligne>
+      <CodePostal>35047</CodePostal>
+      <NomCommune>Rennes Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.128214</Latitude>
+         <Longitude>-1.70074039999997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 28 21 00</Téléphone>
+      <Télécopie>+33 2 99 28 20 55</Télécopie>
+      <Email>draaf-bretagne@agriculture.gouv.fr</Email>
+      <Url>http://www.draaf.bretagne.agriculture.gouv.fr/</Url>
+      <Sve>http://www.draaf.bretagne.agriculture.gouv.fr/Contacts</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:30:00"/>
+         <PlageH début="13:45:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:30:00"/>
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

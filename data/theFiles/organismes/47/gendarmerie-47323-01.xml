@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-47323-01" codeInsee="47323" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Villeneuve-sur-Lot</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 boulevard Danton</Ligne>
+      <Ligne>Caserne Belzunce</Ligne>
+      <CodePostal>47300</CodePostal>
+      <NomCommune>Villeneuve-sur-Lot</NomCommune>
+      <Localisation>
+         <Latitude>44.4065553</Latitude>
+         <Longitude>0.6989601</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 49 75 00</Téléphone>
+      <Télécopie>+33 5 53 49 75 19</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

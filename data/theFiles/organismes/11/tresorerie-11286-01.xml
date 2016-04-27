@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-11286-01" codeInsee="11286" dateMiseAJour="2015-01-14"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Peyriac-Minervois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 chemin de Sainte-Marie</Ligne>
+      <CodePostal>11160</CodePostal>
+      <NomCommune>Peyriac-Minervois</NomCommune>
+      <Localisation>
+         <Latitude>43.2863062</Latitude>
+         <Longitude>2.5708215</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 78 11 26</Téléphone>
+      <Télécopie>+33 4 68 78 31 70</Télécopie>
+      <Email>t011030@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

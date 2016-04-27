@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-32319-01" codeInsee="32319" dateMiseAJour="2015-07-28"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Plaisance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'Adour</Ligne>
+      <CodePostal>32160</CodePostal>
+      <NomCommune>Plaisance</NomCommune>
+      <Localisation>
+         <Latitude>43.6048855</Latitude>
+         <Longitude>0.0436261</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 69 14 20</Téléphone>
+      <Télécopie>+33 5 62 69 14 21</Télécopie>
+      <Email>t032027@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

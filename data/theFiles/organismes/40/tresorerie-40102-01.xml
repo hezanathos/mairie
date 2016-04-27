@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-40102-01" codeInsee="40102" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Gabarret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 route de Creon</Ligne>
+      <CodePostal>40310</CodePostal>
+      <NomCommune>Gabarret</NomCommune>
+      <Localisation>
+         <Latitude>43.9863607</Latitude>
+         <Longitude>0.0076116</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 44 32 71</Téléphone>
+      <Email>t040002@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

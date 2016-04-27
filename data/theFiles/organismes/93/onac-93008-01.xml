@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-93008-01" codeInsee="93008" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Seine-Saint-Denis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Immeuble L'Européen - hall B - 6e étage</Ligne>
+      <Ligne>5-7, promenade Jean-Rostand</Ligne>
+      <CodePostal>93000</CodePostal>
+      <NomCommune>Bobigny</NomCommune>
+      <Localisation>
+         <Latitude>48.9064281</Latitude>
+         <Longitude>2.4404611</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>1, esplanade Jean-Moulin</Ligne>
+      <CodePostal>93007</CodePostal>
+      <NomCommune>Bobigny Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.9064292908</Latitude>
+         <Longitude>2.44046092033</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 96 98 74</Téléphone>
+      <Télécopie>+33 1 48 96 74 90</Télécopie>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 12h et de 14h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

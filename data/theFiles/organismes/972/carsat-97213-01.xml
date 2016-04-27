@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="carsat-97213-01" codeInsee="97213" dateMiseAJour="2015-09-09"
+           pivotLocal="carsat">
+   <Nom>Caisse générale de sécurité sociale (CGSS) - Martinique</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place d'Armes</Ligne>
+      <CodePostal>97210</CodePostal>
+      <NomCommune>Le Lamentin Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>14.2856773002</Latitude>
+         <Longitude>-60.8422851562</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0820 22 25 55</Téléphone>
+      <Url>http://www.cgss-martinique.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

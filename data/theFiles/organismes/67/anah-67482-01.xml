@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="anah-67482-01" codeInsee="67482" dateMiseAJour="2015-04-19"
+           pivotLocal="anah">
+   <Nom>Agence nationale de l’habitat (Anah) - Bas-Rhin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue du Maréchal-Juin</Ligne>
+      <Ligne>BP 61003</Ligne>
+      <CodePostal>67070</CodePostal>
+      <NomCommune>Strasbourg Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.5779302</Latitude>
+         <Longitude>7.7622703</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 88 92 33</Téléphone>
+      <Télécopie>+33 3 88 88 92 56</Télécopie>
+      <Email>ddt-slcdru@bas-rhin.gouv.fr</Email>
+      <Url>http://www.anah.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert l'après-midi sur rendez-vous uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

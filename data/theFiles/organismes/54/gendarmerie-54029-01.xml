@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-54029-01" codeInsee="54029" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Audun-le-Roman</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Ambroise-Croizat</Ligne>
+      <CodePostal>54560</CodePostal>
+      <NomCommune>Audun-le-Roman</NomCommune>
+      <Localisation>
+         <Latitude>49.3714421</Latitude>
+         <Longitude>5.8936482</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 21 60 24</Téléphone>
+      <Télécopie>+33 3 82 21 43 85</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

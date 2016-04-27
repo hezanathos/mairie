@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="91549" dateMiseAJour="2015-11-03" id="permanence_juridique-91549-01" idPresta="4fe1dc842935947374000035" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit pénitentiaire de Fleury-Mérogis</Nom>
+    <EditeurSource>Ministère de la Justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison d&#39;arrêt de Fleury-Mérogis</Ligne>
+        <Ligne>7 avenue des Peupliers</Ligne>
+        <CodePostal>91705</CodePostal>
+        <NomCommune>STE GENEVIEVE DES BOIS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.643395</Latitude>
+            <Longitude>2.323591</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 69 72 32 78</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

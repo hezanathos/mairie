@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-97225-01" codeInsee="97225" dateMiseAJour="2006-02-09" pivotLocal="cij">
+   <Nom>Centre d'Information Jeunesse - Point d'information jeunesse du Prêcheur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CLDS - Salle Polyvalente</Ligne>
+      <CodePostal>97250</CodePostal>
+      <NomCommune>ST PIERRE</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 52 92 37</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="07:30:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="07:30:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="07:30:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="07:30:00" fin="14:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

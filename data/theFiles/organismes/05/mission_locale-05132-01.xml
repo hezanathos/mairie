@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-05132-01" codeInsee="05132" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Champsaur-Valgaudemar</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue des Lagerons</Ligne>
+      <CodePostal>05500</CodePostal>
+      <NomCommune>Saint-Bonnet-en-Champsaur</NomCommune>
+      <Localisation>
+         <Latitude>44.68277</Latitude>
+         <Longitude>6.0777349999999615</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 53 00 00</Téléphone>
+      <Email>champsaur@mj-05.org</Email>
+      <Url>http://www.mj-05.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

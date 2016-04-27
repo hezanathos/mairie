@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-61001-02" codeInsee="61001" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de l'Orne - accueil d'Alençon - Perseigne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place de la Paix</Ligne>
+      <CodePostal>61000</CodePostal>
+      <NomCommune>Alençon</NomCommune>
+      <Localisation>
+         <Latitude>48.415385</Latitude>
+         <Longitude>0.095376</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 30020</Ligne>
+      <Ligne>34 place du Général-Bonet</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de l'Orne</Ligne>
+      <CodePostal>61012</CodePostal>
+      <NomCommune>Alençon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.431777</Latitude>
+         <Longitude>0.0947682</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil uniquement sur rendez-vous.</Commentaire>
+</Organisme>

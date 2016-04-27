@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-22162-01" codeInsee="22162" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Paimpol</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Jean-Moulin</Ligne>
+      <CodePostal>22500</CodePostal>
+      <NomCommune>Paimpol</NomCommune>
+      <Localisation>
+         <Latitude>48.772995</Latitude>
+         <Longitude>-3.040566</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 20 80 17</Téléphone>
+      <Télécopie>+33 2 96 20 80 74</Télécopie>
+      <Email>bta.paimpol@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

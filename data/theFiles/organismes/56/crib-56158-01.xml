@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-56158-01" codeInsee="56158" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d’information des bénévoles (Crib) - Profession sport du Morbihan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZA Tréhuinec</Ligne>
+      <Ligne>Local 17</Ligne>
+      <Ligne>Centre commercial Les 3 Soleils</Ligne>
+      <Ligne>Bâtiment B</Ligne>
+      <CodePostal>56890</CodePostal>
+      <NomCommune>Plescop</NomCommune>
+      <Localisation>
+         <Latitude>47.697648</Latitude>
+         <Longitude>-2.805894</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 46 19 60</Téléphone>
+      <Télécopie>+33 2 97 46 14 42</Télécopie>
+      <Email>profession.sport56@wanadoo.fr</Email>
+      <Url>http://www.profession-sport-56.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

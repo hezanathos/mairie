@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="adil-33063-01" codeInsee="33063" dateMiseAJour="2016-03-10"
+           pivotLocal="adil">
+   <Nom>Agence départementale d'information sur le logement (Adil) - Gironde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>105 avenue Émile Counord</Ligne>
+      <CodePostal>33300</CodePostal>
+      <NomCommune>Bordeaux</NomCommune>
+      <Localisation>
+         <Latitude>44.8591003418</Latitude>
+         <Longitude>-0.574949979782</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 10 09 10</Téléphone>
+      <Télécopie>+33 5 56 69 12 24</Télécopie>
+      <Email>adil33@wanadoo.fr</Email>
+      <Url>http://www.adil33.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="12:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

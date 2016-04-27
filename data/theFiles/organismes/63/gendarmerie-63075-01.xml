@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-63075-01" codeInsee="63075" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Chamalières</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, avenue Fontmaure</Ligne>
+      <CodePostal>63400</CodePostal>
+      <NomCommune>Chamalières</NomCommune>
+      <Localisation>
+         <Latitude>45.7768187</Latitude>
+         <Longitude>3.0624519</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 37 88 05</Téléphone>
+      <Télécopie>+33 4 73 37 92 74</Télécopie>
+      <Email>bta.chamalieres@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

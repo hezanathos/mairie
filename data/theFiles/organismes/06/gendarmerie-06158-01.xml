@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06158-01" codeInsee="06158" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Villars-sur-Var</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 place Le Savel</Ligne>
+      <CodePostal>06710</CodePostal>
+      <NomCommune>Villars-sur-Var</NomCommune>
+      <Localisation>
+         <Latitude>43.9353651</Latitude>
+         <Longitude>7.095006</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 05 76 76</Téléphone>
+      <Télécopie>+33 4 93 05 70 28</Télécopie>
+      <Email>cob.puget-theniers@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

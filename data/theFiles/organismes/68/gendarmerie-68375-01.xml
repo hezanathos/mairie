@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-68375-01" codeInsee="68375" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Wittelsheim</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40, rue Jean Mermoz</Ligne>
+      <CodePostal>68310</CodePostal>
+      <NomCommune>Wittelsheim</NomCommune>
+      <Localisation>
+         <Latitude>47.798518</Latitude>
+         <Longitude>7.2341275</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 55 59 79</Téléphone>
+      <Télécopie>+33 3 89 55 59 85</Télécopie>
+      <Email>bta.wittelsheim@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02110-01" codeInsee="02110" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Braine</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 rue Émile-Littré</Ligne>
+      <CodePostal>02220</CodePostal>
+      <NomCommune>Braine</NomCommune>
+      <Localisation>
+         <Latitude>49.3481593</Latitude>
+         <Longitude>3.532486</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 74 35 17</Téléphone>
+      <Télécopie>+33 3 23 74 35 19</Télécopie>
+      <Email>cob.braine@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

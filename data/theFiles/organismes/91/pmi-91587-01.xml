@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-91587-01" codeInsee="91587" dateMiseAJour="2011-08-12" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Saulx-les-Chartreux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>46 rue de la Division Leclerc</Ligne>
+      <CodePostal>91160</CodePostal>
+      <NomCommune>SAULX LES CHARTREUX</NomCommune>
+      <Localisation>
+         <Latitude>48.6902999878</Latitude>
+         <Longitude>2.26331996918</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 48 94 50</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

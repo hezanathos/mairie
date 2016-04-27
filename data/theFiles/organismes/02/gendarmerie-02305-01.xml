@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02305-01" codeInsee="02305" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Fère-en-Tardenois</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Rollequin</Ligne>
+      <CodePostal>02130</CodePostal>
+      <NomCommune>Fère-en-Tardenois</NomCommune>
+      <Localisation>
+         <Latitude>49.2013279</Latitude>
+         <Longitude>3.5029608</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 82 57 17</Téléphone>
+      <Télécopie>+33 3 23 82 57 19</Télécopie>
+      <Email>cob.fere-en-tardenois@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

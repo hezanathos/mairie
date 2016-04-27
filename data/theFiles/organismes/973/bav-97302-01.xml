@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="97302" dateMiseAJour="2014-06-09" id="bav-97302-01" idPresta="51b08cafb473e41478000966" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Cayenne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>9 avenue du Général de Gaulle</Ligne>
+        <CodePostal>97300</CodePostal>
+        <NomCommune>CAYENNE</NomCommune>
+        <Localisation>
+            <Latitude>4.939064</Latitude>
+            <Longitude>-52.330648</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 94 29 76 30</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

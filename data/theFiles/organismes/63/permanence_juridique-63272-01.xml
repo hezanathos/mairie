@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="63272" dateMiseAJour="2015-11-03" id="permanence_juridique-63272-01" idPresta="4cac9e60293594648a0003ab" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Pérignat-Lès-Sarliève</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>rue Aubière</Ligne>
+        <CodePostal>63170</CodePostal>
+        <NomCommune>PERIGNAT LES SARLIEVE</NomCommune>
+        <Localisation>
+            <Latitude>45.736045</Latitude>
+            <Longitude>3.1351983</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 73 79 11 02</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

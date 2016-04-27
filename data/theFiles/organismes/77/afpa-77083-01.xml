@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-77083-01" codeInsee="77083" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Champs-sur-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>67-69 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>77420</CodePostal>
+      <NomCommune>Champs-sur-Marne</NomCommune>
+      <Localisation>
+         <Latitude>48.8505722</Latitude>
+         <Longitude>2.5886069</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 1 64 68 80 57</Télécopie>
+      <Url>http://www.idf.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

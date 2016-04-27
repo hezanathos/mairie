@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-84132-01" codeInsee="84132" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse du Thor</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>20, chemin des Moulins</Ligne>
+      <Ligne>Espace jeunesse City Biou</Ligne>
+      <CodePostal>84250</CodePostal>
+      <NomCommune>Le Thor</NomCommune>
+      <Localisation>
+         <Latitude>43.9300998</Latitude>
+         <Longitude>4.9972116</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Mairie de Thor</Ligne>
+      <Ligne>Cours Gambetta</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>84250</CodePostal>
+      <NomCommune>Le Thor</NomCommune>
+      <Localisation>
+         <Latitude>43.9276542</Latitude>
+         <Longitude>4.9923842</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 02 32 41</Téléphone>
+      <Email>espace-jeunesse@ville-lethor.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

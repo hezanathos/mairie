@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98818" dateMiseAJour="2015-04-10" id="tgi-98818-01" idPresta="4cac9e5e293594648a000085" pivotLocal="tgi">
+    <Nom>Tribunal de Première Instance de Nouméa</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>boulevard Extérieur</Ligne>
+        <Ligne>BP F4</Ligne>
+        <CodePostal>98848</CodePostal>
+        <NomCommune>NOUMEA CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>-22.2758333</Latitude>
+            <Longitude>166.4580556</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+687 279 350</Téléphone>
+        <Télécopie>+687 285 159</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59599" dateMiseAJour="2014-01-28" id="prudhommes-59599-01" idPresta="4cac9e6a293594648a0016fc" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Tourcoing</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>65 rue de Gand</Ligne>
+        <Ligne>BP 134</Ligne>
+        <CodePostal>59333</CodePostal>
+        <NomCommune>TOURCOING CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>50.727771</Latitude>
+            <Longitude>3.158699</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 20 01 40 80</Téléphone>
+        <Télécopie>+33 3 20 01 70 78</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="08:45:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="jeudi">
+            <PlageH début="08:45:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:45:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

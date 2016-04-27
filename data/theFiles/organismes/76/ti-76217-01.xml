@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76217" dateMiseAJour="2014-01-28" id="ti-76217-01" idPresta="4cac9ed7293594648a00ee55" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Dieppe</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice- Square Carnot</Ligne>
+        <Ligne>BP 189</Ligne>
+        <CodePostal>76206</CodePostal>
+        <NomCommune>DIEPPE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.924564</Latitude>
+            <Longitude>1.083359</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 35 84 13 08</Téléphone>
+        <Télécopie>+33 2 32 90 98 27</Télécopie>
+        <Email>mailto:ti-dieppe@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="mercredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="08:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

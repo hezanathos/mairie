@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-38185-04" codeInsee="38185" dateMiseAJour="2015-09-08" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de l'antenne du Service local de solidarité de Grenoble Centre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Vieux-Temple</Ligne>
+      <CodePostal>38000</CodePostal>
+      <NomCommune>Grenoble</NomCommune>
+      <Localisation>
+         <Latitude>45.1932902</Latitude>
+         <Longitude>5.7326219</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 38 24 15 80</Téléphone>
+      <Télécopie>+33 4 76 63 26 59</Télécopie>
+      <Url>http://www.isere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil téléphonique jusqu'à 12h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

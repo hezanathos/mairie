@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="05061" dateMiseAJour="2014-01-28" id="te-05061-01" idPresta="4cac9e86293594648a004ca5" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Gap</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>place Saint-Arnoux</Ligne>
+        <CodePostal>05007</CodePostal>
+        <NomCommune>GAP CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.5574443937</Latitude>
+            <Longitude>6.07748196428</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 40 70 00</Téléphone>
+        <Télécopie>+33 4 92 40 70 29</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

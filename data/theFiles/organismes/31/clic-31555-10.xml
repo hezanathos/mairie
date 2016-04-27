@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-31555-10" codeInsee="31555" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-255">
+   <Nom>Point d'information local dédié aux personnes âgées - Toulouse</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue du Faubourg</Ligne>
+      <Ligne>Maison des Solidarités de Amouroux-Bonnefoy</Ligne>
+      <CodePostal>31500</CodePostal>
+      <NomCommune>Toulouse</NomCommune>
+      <Localisation>
+         <Latitude>43.616365</Latitude>
+         <Longitude>1.453258</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 25 51 00</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

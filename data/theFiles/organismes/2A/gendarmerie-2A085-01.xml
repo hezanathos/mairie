@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-2A085-01" codeInsee="2A085" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Cauro</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Piscia</Ligne>
+      <CodePostal>20117</CodePostal>
+      <NomCommune>Cauro</NomCommune>
+      <Localisation>
+         <Latitude>41.918179</Latitude>
+         <Longitude>8.916</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 28 40 17</Téléphone>
+      <Télécopie>+33 4 95 28 19 29</Télécopie>
+      <Email>cob.pietrosella@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

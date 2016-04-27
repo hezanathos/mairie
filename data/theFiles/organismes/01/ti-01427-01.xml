@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="01427" dateMiseAJour="2014-01-28" id="ti-01427-01" idPresta="4cac9ed7293594648a00ee23" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Trévoux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 rue du Palais</Ligne>
+        <Ligne>BP 602</Ligne>
+        <CodePostal>01606</CodePostal>
+        <NomCommune>TREVOUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.940383</Latitude>
+            <Longitude>4.776414</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 74 08 89 00</Téléphone>
+        <Télécopie>+33 4 74 00 26 20</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

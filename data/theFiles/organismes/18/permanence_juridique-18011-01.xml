@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18011" dateMiseAJour="2015-11-03" id="permanence_juridique-18011-01" idPresta="4cac9e5e293594648a00018c" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice et CDAD du Cher</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>rue Jean Moulin</Ligne>
+        <CodePostal>18410</CodePostal>
+        <NomCommune>ARGENT SUR SAULDRE</NomCommune>
+        <Localisation>
+            <Latitude>47.5592526229</Latitude>
+            <Longitude>2.44454270608</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 07 66 96 43</Téléphone>
+        <Email>mailto:cdad@cdad18.fr</Email>
+        <Url>http://www.cdad18.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

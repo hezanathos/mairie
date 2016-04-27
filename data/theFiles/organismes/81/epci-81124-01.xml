@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-81124-01" codeInsee="81124" dateMiseAJour="2015-05-27"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Monts de Lacaune</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>81230</CodePostal>
+      <NomCommune>Lacaune</NomCommune>
+      <Localisation>
+         <Latitude>43.70736</Latitude>
+         <Longitude>2.691618</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 37 00 18</Téléphone>
+      <Télécopie>+33 5 63 37 15 40</Télécopie>
+      <Email>mairie@lacaune.com</Email>
+      <Url>http://www.lacaune.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

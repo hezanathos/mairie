@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-85222-01" codeInsee="85222" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-762">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Gilles-Croix-de-Vie</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1ter quai Garcie-Ferrande</Ligne>
+      <Ligne>Centre local d'information et de coordination Pays Mer et Vie</Ligne>
+      <CodePostal>85800</CodePostal>
+      <NomCommune>Saint-Gilles-Croix-de-Vie</NomCommune>
+      <Localisation>
+         <Latitude>46.699344</Latitude>
+         <Longitude>-1.932761</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 39 15 96</Téléphone>
+      <Email>clic.paysmeretvie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

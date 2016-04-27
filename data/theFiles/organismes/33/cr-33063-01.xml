@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cr-33063-01" codeInsee="33063" dateMiseAJour="2016-01-06" pivotLocal="cr">
+   <Nom>Conseil régional - Aquitaine Limousin Poitou-Charentes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, rue François-de-Sourdis</Ligne>
+      <Ligne>CS 81383</Ligne>
+      <Ligne>Hôtel de région</Ligne>
+      <CodePostal>33077</CodePostal>
+      <NomCommune>Bordeaux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.8334999084</Latitude>
+         <Longitude>-0.588247001171</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 57 80 00</Téléphone>
+      <Télécopie>+33 5 56 24 72 80</Télécopie>
+      <Email>http://laregion-alpc.fr/contact/</Email>
+      <Url>http://laregion-alpc.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

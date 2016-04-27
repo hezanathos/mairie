@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59068-01" codeInsee="59068" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Berlaimont</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30, rue Neuve</Ligne>
+      <CodePostal>59145</CodePostal>
+      <NomCommune>Berlaimont</NomCommune>
+      <Localisation>
+         <Latitude>50.2046831</Latitude>
+         <Longitude>3.8146411</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 67 34 48</Téléphone>
+      <Télécopie>+33 3 27 68 66 52</Télécopie>
+      <Email>bta.berlaimont@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="banque_de_france-18033-01" codeInsee="18033" dateMiseAJour="2015-02-24"
+           pivotLocal="banque_de_france">
+   <Nom>Banque de France, succursale de Bourges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 bis, avenue Eugène-Brisson</Ligne>
+      <Ligne>CS 90007</Ligne>
+      <CodePostal>18020</CodePostal>
+      <NomCommune>Bourges Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.0816395</Latitude>
+         <Longitude>2.4010571</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.">+33 2 48 21 50 69</Téléphone>
+      <Télécopie>+33 2 48 21 50 87</Télécopie>
+      <Email>infos@banque-france.fr</Email>
+      <Url>http://www.banque-france.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Échange de billets aux mêmes horaires d'ouverture</Commentaire>
+</Organisme>

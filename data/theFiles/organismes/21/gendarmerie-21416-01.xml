@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-21416-01" codeInsee="21416" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Mirebeau-sur-Bèze</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Collège</Ligne>
+      <CodePostal>21310</CodePostal>
+      <NomCommune>Mirebeau-sur-Bèze</NomCommune>
+      <Localisation>
+         <Latitude>47.3987028</Latitude>
+         <Longitude>5.3106632</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 10 08 30</Téléphone>
+      <Télécopie>+33 3 80 10 08 32</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

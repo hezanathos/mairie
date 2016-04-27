@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02018-01" codeInsee="02018" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Anizy-le-Château</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 impasse Sainte-Geneviève</Ligne>
+      <CodePostal>02320</CodePostal>
+      <NomCommune>Anizy-le-Château</NomCommune>
+      <Localisation>
+         <Latitude>49.5044027</Latitude>
+         <Longitude>3.4464139</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 80 09 17</Téléphone>
+      <Télécopie>+33 3 23 80 09 19</Télécopie>
+      <Email>cob.coucy-le-chateau-auffrique@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

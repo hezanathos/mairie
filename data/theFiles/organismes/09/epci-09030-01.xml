@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-09030-01" codeInsee="09030" dateMiseAJour="2015-08-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes d'Auzat et du Vicdessos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>09220</CodePostal>
+      <NomCommune>Auzat</NomCommune>
+      <Localisation>
+         <Latitude>42.767129</Latitude>
+         <Longitude>1.479285</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 03 83 28</Téléphone>
+      <Télécopie>+33 5 61 03 25 08</Télécopie>
+      <Email>http://www.auzat.fr/fr/intercommunalite-contact</Email>
+      <Url>http://www.auzat.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

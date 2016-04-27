@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-28085-01" codeInsee="28085" dateMiseAJour="2015-09-09"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Chartres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>62 rue de Sours</Ligne>
+      <CodePostal>28000</CodePostal>
+      <NomCommune>Chartres</NomCommune>
+      <Localisation>
+         <Latitude>48.4412658</Latitude>
+         <Longitude>1.5058365</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="15:45:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:45:00" fin="16:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="24520" dateMiseAJour="2014-06-09" id="ti-24520-01" idPresta="4cac9ed7293594648a00ee34" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Sarlat-la-Canéda</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place de la Grande Rigaudie</Ligne>
+        <Ligne>BP 170</Ligne>
+        <CodePostal>24205</CodePostal>
+        <NomCommune>SARLAT LA CANEDA CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.887894</Latitude>
+            <Longitude>1.218017</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 53 59 01 73</Téléphone>
+        <Télécopie>+33 5 53 29 85 79</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-17300-01" codeInsee="17300" dateMiseAJour="2015-07-02" pivotLocal="cg">
+   <Nom>Conseil départemental - Charente-Maritime</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>85 boulevard de la République</Ligne>
+      <Ligne>Maison de Charente-Maritime</Ligne>
+      <Ligne>CS 60003</Ligne>
+      <CodePostal>17076</CodePostal>
+      <NomCommune>La Rochelle Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>46.13827</Latitude>
+         <Longitude>-1.1508343</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 31 70 00</Téléphone>
+      <Télécopie>+33 5 46 31 17 17</Télécopie>
+      <Email>info@cg17.fr</Email>
+      <Url>http://charente-maritime.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

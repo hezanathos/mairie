@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-44168-01" codeInsee="44168" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Saint-Joachim</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bibliothèque Louise-Michel</Ligne>
+      <Ligne>77, rue Joliot-Curie</Ligne>
+      <CodePostal>44720</CodePostal>
+      <NomCommune>Saint-Joachim</NomCommune>
+      <Localisation>
+         <Latitude>47.3835392514</Latitude>
+         <Longitude>-2.20045208931</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 91 66 86</Téléphone>
+      <Email>swan.etienne@startair.fr</Email>
+      <Url>http://www.startair.fr/saint_joachim</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+         <Note>Permanence uniquement à la Maison des jeunes 2, rue du 19-Mars-1962.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

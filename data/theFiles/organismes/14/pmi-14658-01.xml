@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-14658-01" codeInsee="14658" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Saint-Sever-Calvados</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de Vire</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>14380</CodePostal>
+      <NomCommune>Saint-Sever-Calvados</NomCommune>
+      <Localisation>
+         <Latitude>48.8399658203</Latitude>
+         <Longitude>-1.04800403118</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 68 80 05</Téléphone>
+      <Télécopie>+33 2 31 66 29 11</Télécopie>
+      <Url>http://www.cg14.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous le 1er vendredi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

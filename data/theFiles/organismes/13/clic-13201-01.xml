@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-13201-01" codeInsee="13201" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-88">
+   <Nom>Point d'information local dédié aux personnes âgées - Marseille</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Marseille Centre</Ligne>
+      <Ligne>64 rue Longue des Capucins</Ligne>
+      <CodePostal>13001</CodePostal>
+      <NomCommune>Marseille</NomCommune>
+      <Localisation>
+         <Latitude>43.299701</Latitude>
+         <Longitude>5.378711</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 90 56 22</Téléphone>
+      <Email>clic.marseillecentre@entraide.asso.fr</Email>
+      <Url>http://www.entraide-bdr.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

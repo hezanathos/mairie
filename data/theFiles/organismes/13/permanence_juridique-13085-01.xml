@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13085" dateMiseAJour="2015-11-03" id="permanence_juridique-13085-01" idPresta="4cac9e5e293594648a00014a" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Médico-Social</Ligne>
+        <Ligne>place de la Libération</Ligne>
+        <CodePostal>13830</CodePostal>
+        <NomCommune>ROQUEFORT LA BEDOULE</NomCommune>
+        <Localisation>
+            <Latitude>43.2475086</Latitude>
+            <Longitude>5.5913379</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 73 21 12</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

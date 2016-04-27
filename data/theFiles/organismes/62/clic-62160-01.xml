@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-62160-01" codeInsee="62160" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-546">
+   <Nom>Point d'information local dédié aux personnes âgées - Boulogne-sur-Mer</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>56 rue Ferdinand Buisson</Ligne>
+      <Ligne>Centre local d'information et de coordination du Boulonnais</Ligne>
+      <CodePostal>62200</CodePostal>
+      <NomCommune>Boulogne-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>50.715644</Latitude>
+         <Longitude>1.608556</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 30 32 48</Téléphone>
+      <Email>clicboulogne62@orange.fr</Email>
+      <Url>http://www.clicboulogne62.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-69081-01" codeInsee="69081" dateMiseAJour="2009-09-11" pivotLocal="cij">
+   <Nom>Bureau Information Jeunesse de Ecully</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 avenue Edouard Aynard</Ligne>
+      <Ligne>Maison de la Rencontre</Ligne>
+      <CodePostal>69130</CodePostal>
+      <NomCommune>ECULLY</NomCommune>
+      <Localisation>
+         <Latitude>45.778301239</Latitude>
+         <Longitude>4.778840065</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 33 83 56</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-21038-01" codeInsee="21038" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Auxonne Val de Saône</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Ruelle de Richebourg</Ligne>
+      <CodePostal>21130</CodePostal>
+      <NomCommune>Auxonne</NomCommune>
+      <Localisation>
+         <Latitude>47.1916697</Latitude>
+         <Longitude>5.3937572</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 27 03 20</Téléphone>
+      <Télécopie>+33 3 80 27 03 21</Télécopie>
+      <Email>cdc.avds@orange.fr</Email>
+      <Url>http://www.cc-auxonnevaldesaone.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

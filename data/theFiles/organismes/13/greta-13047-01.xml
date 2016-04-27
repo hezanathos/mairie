@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-13047-01" codeInsee="13047" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta Ouest 13</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue des Bolles</Ligne>
+      <Ligne>Lycée professionnel Latécoère</Ligne>
+      <CodePostal>13800</CodePostal>
+      <NomCommune>Istres</NomCommune>
+      <Localisation>
+         <Latitude>43.513006</Latitude>
+         <Longitude>4.987968</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 41 19 60</Téléphone>
+      <Télécopie>+33 4 42 56 19 96</Télécopie>
+      <Email>greta.ouest-berre@ac-aix-marseille.fr</Email>
+      <Url>http://www.gretanet.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-04209-01" codeInsee="04209" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-26">
+   <Nom>Point d'information local dédié aux personnes âgées - Sisteron</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Val de Durance</Ligne>
+      <Ligne>2 avenue du Stade</Ligne>
+      <CodePostal>04200</CodePostal>
+      <NomCommune>Sisteron</NomCommune>
+      <Localisation>
+         <Latitude>44.182842</Latitude>
+         <Longitude>5.945396</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 61 53 57</Téléphone>
+      <Email>clicvaldedurance@lesmutuellesdusoleil.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

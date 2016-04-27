@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-31466-01" codeInsee="31466" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes rurales des Coteaux du Savès et de l'Aussonnelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <Ligne>5 rue du 8-Mai-1945</Ligne>
+      <CodePostal>31470</CodePostal>
+      <NomCommune>Saiguède</NomCommune>
+      <Localisation>
+         <Latitude>43.52375</Latitude>
+         <Longitude>1.142565</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 76 73 98</Téléphone>
+      <Télécopie>+33 5 61 76 40 52</Télécopie>
+      <Email>ccrcsa@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

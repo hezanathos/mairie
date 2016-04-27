@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="centre_impots_fonciers-33063-01" codeInsee="33063"
+           dateMiseAJour="2013-10-28"
+           pivotLocal="centre_impots_fonciers">
+   <Nom>Centre des impôts foncier  de Bordeaux 1</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Jules-Ferry</Ligne>
+      <Ligne>11e étage - Tour A</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <CodePostal>33090</CodePostal>
+      <NomCommune>Bordeaux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.842577</Latitude>
+         <Longitude>-0.6048698</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 24 80 58</Téléphone>
+      <Télécopie>+33 5 56 24 86 01</Télécopie>
+      <Email>cdif.bordeaux-1@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

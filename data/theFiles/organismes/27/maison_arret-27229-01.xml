@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="27229" dateMiseAJour="2014-01-28" id="maison_arret-27229-01" idPresta="4eb2632f2935944ef5000178" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt d&#39;Evreux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>92 rue Pierre Sémard</Ligne>
+        <Ligne>BP 3125</Ligne>
+        <CodePostal>27031</CodePostal>
+        <NomCommune>EVREUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.015918</Latitude>
+            <Longitude>1.167594</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 32 39 84 84</Téléphone>
+        <Télécopie>+33 2 32 24 01 89</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

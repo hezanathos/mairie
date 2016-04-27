@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-23096-01" codeInsee="23096" dateMiseAJour="2015-12-22"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Guéret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 avenue de Laure</Ligne>
+      <Ligne>BP 125</Ligne>
+      <CodePostal>23003</CodePostal>
+      <NomCommune>Guéret Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.1610576</Latitude>
+         <Longitude>1.8729317</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 52 42 72</Téléphone>
+      <Télécopie>+33 5 55 81 97 78</Télécopie>
+      <Email>t023011@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>De 13h30 à 16h le lundi, le mercredi et le jeudi. Accueil également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

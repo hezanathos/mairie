@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-65440-01" codeInsee="65440" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Tarbes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>92 rue Alsace-Lorraine</Ligne>
+      <Ligne>Camp de l'Abondance</Ligne>
+      <CodePostal>65000</CodePostal>
+      <NomCommune>Tarbes</NomCommune>
+      <Localisation>
+         <Latitude>43.2519406</Latitude>
+         <Longitude>0.0633543</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 5 62 38 46 20</Télécopie>
+      <Url>http://www.midi-pyrenees.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

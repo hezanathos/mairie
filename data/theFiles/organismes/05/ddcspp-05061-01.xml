@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcspp-05061-01" codeInsee="05061" dateMiseAJour="2015-06-12"
+           pivotLocal="ddcspp">
+   <Nom>Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) des Hautes-Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue des Silos</Ligne>
+      <Ligne>Parc Agroforest</Ligne>
+      <Ligne>CS 16002</Ligne>
+      <CodePostal>05010</CodePostal>
+      <NomCommune>Gap Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.5668792</Latitude>
+         <Longitude>6.089310699999942</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 22 22 30</Téléphone>
+      <Télécopie>+33 4 92 22 23 29</Télécopie>
+      <Email>ddcspp@hautes-alpes.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <Note>Fermé l'après-midi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

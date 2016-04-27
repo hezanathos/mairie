@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-45053-01" codeInsee="45053" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Loiret - accueil de Briare</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue des Grands-Jardins</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>45250</CodePostal>
+      <NomCommune>Briare</NomCommune>
+      <Localisation>
+         <Latitude>47.6374513</Latitude>
+         <Longitude>2.7371902</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>2 place Saint-Charles</Ligne>
+      <Ligne>Caisse d'allocations familiales du Loiret</Ligne>
+      <CodePostal>45946</CodePostal>
+      <NomCommune>Orléans Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 45 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="15:30:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

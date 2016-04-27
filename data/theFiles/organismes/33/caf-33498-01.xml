@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-33498-01" codeInsee="33498" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Gironde - accueil de Salles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>11 allée du Champ-de-Foire</Ligne>
+      <Ligne>Maison de la solidarité</Ligne>
+      <CodePostal>33770</CodePostal>
+      <NomCommune>Salles</NomCommune>
+      <Localisation>
+         <Latitude>44.5505856</Latitude>
+         <Longitude>-0.8683617</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Rue du Docteur-Gabriel-Péry</Ligne>
+      <Ligne>Caisse d'allocations familiales de Gironde</Ligne>
+      <CodePostal>33078</CodePostal>
+      <NomCommune>Bordeaux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.8897554</Latitude>
+         <Longitude>-0.5574969</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 33 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Un agent de la Maison de la solidarité vous donne des informations générales sur la Caf et vous conseille dans vos démarches.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

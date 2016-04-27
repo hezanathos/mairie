@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-77152-01" codeInsee="77152" dateMiseAJour="2006-05-18" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Dammarie-les-Lys</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre de services Albert Schweitzer</Ligne>
+      <Ligne>8 place du 8 mai 1945</Ligne>
+      <CodePostal>77190</CodePostal>
+      <NomCommune>DAMMARIE LES LYS</NomCommune>
+      <Localisation>
+         <Latitude>48.5222015381</Latitude>
+         <Longitude>2.64022994041</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 87 49 00</Téléphone>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

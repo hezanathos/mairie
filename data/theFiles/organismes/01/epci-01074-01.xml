@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-01074-01" codeInsee="01074" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Chalamont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 Grand'rue</Ligne>
+      <CodePostal>01320</CodePostal>
+      <NomCommune>Chalamont</NomCommune>
+      <Localisation>
+         <Latitude>45.9974023</Latitude>
+         <Longitude>5.1692623</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 61 76 76</Téléphone>
+      <Télécopie>+33 4 74 46 90 64</Télécopie>
+      <Email>accueil@cc-chalamont.com</Email>
+      <Url>http://www.cc-chalamont.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

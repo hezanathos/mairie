@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-82121-01" codeInsee="82121" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Midi-Pyrénées - accueil de Tarn-et-Garonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 avenue Gambetta</Ligne>
+      <CodePostal>82000</CodePostal>
+      <NomCommune>Montauban</NomCommune>
+      <Localisation>
+         <Latitude>44.019</Latitude>
+         <Longitude>1.35929</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.midipyrenees.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="12:45:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="12:45:00" fin="15:45:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

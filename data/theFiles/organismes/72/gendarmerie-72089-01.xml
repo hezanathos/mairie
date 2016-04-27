@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72089-01" codeInsee="72089" dateMiseAJour="2015-11-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Conlie</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 rue du Grand Chemin</Ligne>
+      <CodePostal>72240</CodePostal>
+      <NomCommune>Conlie</NomCommune>
+      <Localisation>
+         <Latitude>48.1277415</Latitude>
+         <Longitude>-0.0251562</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 20 50 13</Téléphone>
+      <Email>cob.la-chapelle-st-aubin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

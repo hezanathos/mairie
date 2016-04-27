@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-56257-01" codeInsee="56257" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Porhoët</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue du Point-du-Jour</Ligne>
+      <CodePostal>56490</CodePostal>
+      <NomCommune>La Trinité-Porhoët</NomCommune>
+      <Localisation>
+         <Latitude>48.0968728</Latitude>
+         <Longitude>-2.5368431</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 93 93 69</Téléphone>
+      <Télécopie>+33 2 97 93 97 58</Télécopie>
+      <Email>com.communes@porhoet.fr</Email>
+      <Url>http://www.porhoet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-93072-01" codeInsee="93072" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Stains - Clos Saint-Lazare</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33-37 rue George-Sand</Ligne>
+      <CodePostal>93240</CodePostal>
+      <NomCommune>Stains</NomCommune>
+      <Localisation>
+         <Latitude>48.9541015625</Latitude>
+         <Longitude>2.37439990044</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 26 34 60</Téléphone>
+      <Télécopie>+33 1 48 26 63 37</Télécopie>
+      <Url>http://www.seine-saint-denis.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

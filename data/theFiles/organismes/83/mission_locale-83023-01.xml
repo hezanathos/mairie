@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-83023-01" codeInsee="83023" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Brignoles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Le Plan</Ligne>
+      <CodePostal>83170</CodePostal>
+      <NomCommune>Brignoles</NomCommune>
+      <Localisation>
+         <Latitude>43.4039993286</Latitude>
+         <Longitude>6.06593990326</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 59 03 40</Téléphone>
+      <Télécopie>+33 4 94 69 21 58</Télécopie>
+      <Email>brignoles@missionlocale-ohv.fr</Email>
+      <Url>http://www.missionlocale-ohv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

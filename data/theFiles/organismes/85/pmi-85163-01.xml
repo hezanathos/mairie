@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-85163-01" codeInsee="85163" dateMiseAJour="2014-04-03" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Noirmoutier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, place de la Prée-aux-Ducs</Ligne>
+      <CodePostal>85330</CodePostal>
+      <NomCommune>Noirmoutier-en-l'Île</NomCommune>
+      <Localisation>
+         <Latitude>47.0005378723</Latitude>
+         <Longitude>-2.2414290905</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 39 04 22</Téléphone>
+      <Télécopie>+33 2 51 35 71 16</Télécopie>
+      <Email>cms.noirmoutier@vendee.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

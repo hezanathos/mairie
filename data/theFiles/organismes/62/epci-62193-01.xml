@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-62193-01" codeInsee="62193" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération du Calaisis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 40021</Ligne>
+      <Ligne>76 boulevard Gambetta</Ligne>
+      <CodePostal>62101</CodePostal>
+      <NomCommune>Calais Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.9515060945</Latitude>
+         <Longitude>1.85754776001</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 19 55 00</Téléphone>
+      <Télécopie>+33 3 21 19 55 09</Télécopie>
+      <Email>info@agglo-calaisis.fr</Email>
+      <Url>http://www.agglo-calaisis.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

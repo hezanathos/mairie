@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-21425-01" codeInsee="21425" dateMiseAJour="2015-09-09"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Montbard-Châtillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Passage Georges-Brassens</Ligne>
+      <CodePostal>21500</CodePostal>
+      <NomCommune>Montbard</NomCommune>
+      <Localisation>
+         <Latitude>47.6251724</Latitude>
+         <Longitude>4.3380255</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-43012-01" codeInsee="43012" dateMiseAJour="2014-04-03" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) d’Aurec-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue de la Plaine</Ligne>
+      <Ligne>Centre de santé</Ligne>
+      <CodePostal>43110</CodePostal>
+      <NomCommune>Aurec-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>45.3717002869</Latitude>
+         <Longitude>4.20252990723</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Avenue du Général-Leclerc</Ligne>
+      <CodePostal>43120</CodePostal>
+      <NomCommune>Monistrol-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>45.2915796</Latitude>
+         <Longitude>4.17521569999997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 35 40 93</Téléphone>
+      <Télécopie>+33 4 77 35 28 53</Télécopie>
+      <Url>http://www.cg43.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="15:00:00"/>
+         <Note>Consultations pour les nourrissons le 1er jeudi du mois de 13h30 à 17h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

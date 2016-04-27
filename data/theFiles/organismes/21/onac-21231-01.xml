@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-21231-01" codeInsee="21231" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Côte-d'Or</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Vaillant</Ligne>
+      <Ligne>CS 55180</Ligne>
+      <Ligne>22, avenue Garibaldi</Ligne>
+      <CodePostal>21051</CodePostal>
+      <NomCommune>Dijon cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.3285372</Latitude>
+         <Longitude>5.0438988</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 11 22 00</Téléphone>
+      <Télécopie>+33 3 80 54 82 01</Télécopie>
+      <Email>sd21@onacvg.fr</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

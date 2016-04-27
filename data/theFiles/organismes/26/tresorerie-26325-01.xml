@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-26325-01" codeInsee="26325" dateMiseAJour="2015-01-14"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie d'Albon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place de Bonrepos</Ligne>
+      <CodePostal>26140</CodePostal>
+      <NomCommune>Saint-Rambert-d'Albon</NomCommune>
+      <Localisation>
+         <Latitude>45.300671</Latitude>
+         <Longitude>4.8308329</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 31 01 90</Téléphone>
+      <Télécopie>+33 4 75 31 26 36</Télécopie>
+      <Email>t026001@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin=""/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

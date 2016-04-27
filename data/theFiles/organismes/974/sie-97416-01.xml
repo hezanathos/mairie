@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-97416-01" codeInsee="97416" dateMiseAJour="2015-06-18" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de Saint-Pierre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZAK BANK</Ligne>
+      <Ligne>1, rue du Père-Raimbault</Ligne>
+      <Ligne>CS 97751</Ligne>
+      <CodePostal>97751</CodePostal>
+      <NomCommune>Saint-Pierre Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-21.3343183</Latitude>
+         <Longitude>55.4731695</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 35 98 00</Téléphone>
+      <Email>sie.st-pierre-de-la-reunion@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="07:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="07:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

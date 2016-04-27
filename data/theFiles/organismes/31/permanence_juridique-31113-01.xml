@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="31113" dateMiseAJour="2015-11-03" id="permanence_juridique-31113-01" idPresta="4cac9e5f293594648a00022d" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Castanet- Tolosan</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>68 avenue de Lauragais</Ligne>
+        <CodePostal>31320</CodePostal>
+        <NomCommune>CASTANET TOLOSAN</NomCommune>
+        <Localisation>
+            <Latitude>43.5164027</Latitude>
+            <Longitude>1.4982989</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 71 70 40</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

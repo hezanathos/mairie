@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="paris_ppp_permis_conduire-75118-01" codeInsee="75118"
+           dateMiseAJour="2015-07-09"
+           pivotLocal="paris_ppp_permis_conduire">
+   <Nom>Préfecture de police de Paris - Bureau des permis de conduire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>92 boulevard Ney</Ligne>
+      <CodePostal>75018</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8982942</Latitude>
+         <Longitude>2.3476425</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 58 80 80 80</Téléphone>
+      <Email>pp-dpg-permisdeconduire@interieur.gouv.fr</Email>
+      <Url>http://www.prefecturedepolice.interieur.gouv.fr</Url>
+      <Sve>http://www.prefecturedepolice.interieur.gouv.fr/</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

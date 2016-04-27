@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-70387-01" codeInsee="70387" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre ascension sociale de rioz de Noidans-le-Ferroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Centre</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>70130</CodePostal>
+      <NomCommune>Noidans-le-Ferroux</NomCommune>
+      <Localisation>
+         <Latitude>47.5706002</Latitude>
+         <Longitude>5.9538892</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 78 86 89</Téléphone>
+      <Télécopie>+33 3 84 78 86 55</Télécopie>
+      <Email>mairienoidansleferroux@wanadoo.fr</Email>
+      <Url>http://www.cg70.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Permanence 1 à 2 fois par mois</Commentaire>
+</Organisme>

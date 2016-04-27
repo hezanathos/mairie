@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-02168-01" codeInsee="02168" dateMiseAJour="2011-07-19" pivotLocal="pif">
+   <Nom>Le Point Service Famille de Château-Thierry</Nom>
+   <EditeurSource>Le Point Service Famille de Château-Thierry</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de de Gerbrois</Ligne>
+      <CodePostal>02400</CodePostal>
+      <NomCommune>CHATEAU THIERRY</NomCommune>
+      <Localisation>
+         <Latitude>49.0463829041</Latitude>
+         <Longitude>3.39462590218</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Url>http://www.point-infofamille</Url>
+   </CoordonnéesNum>
+</Organisme>

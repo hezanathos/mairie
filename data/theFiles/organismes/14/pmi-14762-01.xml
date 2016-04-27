@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-14762-01" codeInsee="14762" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Vire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Alfred-Lenouvel</Ligne>
+      <CodePostal>14500</CodePostal>
+      <NomCommune>Vire</NomCommune>
+      <Localisation>
+         <Latitude>48.8404006958</Latitude>
+         <Longitude>-0.892171978951</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 66 27 30</Téléphone>
+      <Télécopie>+33 2 31 66 27 35</Télécopie>
+      <Url>http://www.calvados.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

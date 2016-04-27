@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcs-38185-01" codeInsee="38185" dateMiseAJour="2013-04-25"
+           pivotLocal="ddcs">
+   <Nom>Direction départementale de la cohésion sociale (DDCS) de l'Isère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Joseph-Chanrion</Ligne>
+      <Ligne>CS 20094</Ligne>
+      <Ligne>Bâtiment 2</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <CodePostal>38032</CodePostal>
+      <NomCommune>Grenoble Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>45.189455</Latitude>
+         <Longitude>5.7369554</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 57 38 65 38</Téléphone>
+      <Télécopie>+33 4 76 40 82 14</Télécopie>
+      <Email>ddcs@isere.gouv.fr</Email>
+      <Url>http://www.ddjs-isere.jeunesse-sports.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Le service greffe des associations est ouvert uniquement le matin</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

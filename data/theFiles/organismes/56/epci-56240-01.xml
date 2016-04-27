@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-56240-01" codeInsee="56240" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Presqu'Île de Rhuys</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 70</Ligne>
+      <Ligne>ZA de Kerollaire-Nord</Ligne>
+      <CodePostal>56370</CodePostal>
+      <NomCommune>Sarzeau</NomCommune>
+      <Localisation>
+         <Latitude>47.5206934</Latitude>
+         <Longitude>-2.7834827</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 41 31 28</Téléphone>
+      <Télécopie>+33 2 97 41 90 55</Télécopie>
+      <Email>accueil@ccprhuys.fr</Email>
+      <Url>http://www.ccprhuys.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

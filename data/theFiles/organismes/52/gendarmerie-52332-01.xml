@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-52332-01" codeInsee="52332" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Val-de-Meuse</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 avenue Haute-Meuse</Ligne>
+      <CodePostal>52140</CodePostal>
+      <NomCommune>Val-de-Meuse</NomCommune>
+      <Localisation>
+         <Latitude>48.0060517</Latitude>
+         <Longitude>5.4859346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 90 32 12</Téléphone>
+      <Télécopie>+33 3 25 90 95 27</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

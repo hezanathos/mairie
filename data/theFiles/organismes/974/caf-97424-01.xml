@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-97424-01" codeInsee="97424" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de La Réunion - accueil Sud - Cilaos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>66 rue du Père-Boiteau</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>97413</CodePostal>
+      <NomCommune>Cilaos</NomCommune>
+      <Localisation>
+         <Latitude>-21.1346205</Latitude>
+         <Longitude>55.4710301</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de La Réunion</Ligne>
+      <Ligne>CS 61038</Ligne>
+      <Ligne>412 rue Fleur-de-Jade</Ligne>
+      <CodePostal>97833</CodePostal>
+      <NomCommune>Sainte-Marie Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-20.9200265</Latitude>
+         <Longitude>55.5296352</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 97 40</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="12:45:00" fin="15:00:00"/>
+         <Note>Accueil fermé le 28 janvier 2016.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

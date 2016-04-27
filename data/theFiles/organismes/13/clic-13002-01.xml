@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-13002-01" codeInsee="13002" dateMiseAJour="2015-06-08"
+           pivotLocal="clic"
+           idPresta="clic-95">
+   <Nom>Point d'information local dédié aux personnes âgées - Allauch</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre hospitalier d'Allauch</Ligne>
+      <Ligne>Centre local d'information et de coordination de l'Est Marseillais</Ligne>
+      <Ligne>Antenne Canton Vert</Ligne>
+      <Ligne>Chemin des Milles Ecus</Ligne>
+      <CodePostal>13190</CodePostal>
+      <NomCommune>Allauch</NomCommune>
+      <Localisation>
+         <Latitude>43.33556</Latitude>
+         <Longitude>5.469987</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 10 46 83</Téléphone>
+      <Email>clic.cantonvert@hotmail.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

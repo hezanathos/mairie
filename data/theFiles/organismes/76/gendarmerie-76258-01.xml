@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-76258-01" codeInsee="76258" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Fauville-en-Caux</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Général-de-Gaulle</Ligne>
+      <CodePostal>76640</CodePostal>
+      <NomCommune>Fauville-en-Caux</NomCommune>
+      <Localisation>
+         <Latitude>49.652007</Latitude>
+         <Longitude>0.591646</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 96 76 77</Téléphone>
+      <Télécopie>+33 2 35 96 89 62</Télécopie>
+      <Email>cob.notre-dame-de-gravenchon@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

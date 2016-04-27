@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-71566-01" codeInsee="71566" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Verdun-sur-le-Doubs</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17, avenue du Pont-National</Ligne>
+      <CodePostal>71350</CodePostal>
+      <NomCommune>Verdun-sur-le-Doubs</NomCommune>
+      <Localisation>
+         <Latitude>46.8964569</Latitude>
+         <Longitude>5.0210079</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 91 51 34</Téléphone>
+      <Télécopie>+33 3 85 91 06 10</Télécopie>
+      <Email>cob.st-germain-du-plain@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

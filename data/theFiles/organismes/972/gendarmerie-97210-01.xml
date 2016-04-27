@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97210-01" codeInsee="97210" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du François</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Croix-mission</Ligne>
+      <CodePostal>97240</CodePostal>
+      <NomCommune>François</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 54 82 58</Téléphone>
+      <Télécopie>+596 5 96 54 82 60</Télécopie>
+      <Email>cob.le-francois@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-64233-01" codeInsee="64233" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Garlin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Firmin-Bacarisse</Ligne>
+      <CodePostal>64330</CodePostal>
+      <NomCommune>Garlin</NomCommune>
+      <Localisation>
+         <Latitude>43.5592842102</Latitude>
+         <Longitude>-0.273155987263</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 04 78 64</Téléphone>
+      <Télécopie>+33 5 59 04 74 81</Télécopie>
+      <Email>contact@cc-garlin.fr</Email>
+      <Url>http://www.cc-garlin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

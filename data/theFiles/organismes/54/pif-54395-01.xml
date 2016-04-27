@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-54395-01" codeInsee="54395" dateMiseAJour="2011-01-06" pivotLocal="pif">
+   <Nom>Le Kiosque Fami' Conseil Point Info Famille de Nancy</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>49 rue des ponts</Ligne>
+      <CodePostal>54000</CodePostal>
+      <NomCommune>NANCY</NomCommune>
+      <Localisation>
+         <Latitude>48.687538147</Latitude>
+         <Longitude>6.18249893188</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

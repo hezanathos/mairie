@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-60612-02" codeInsee="60612" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-526">
+   <Nom>Point d'information local dédié aux personnes âgées - Senlis</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 rue Bellon</Ligne>
+      <Ligne>Maison Départementale de la Solidarité de Senlis</Ligne>
+      <CodePostal>60300</CodePostal>
+      <NomCommune>Senlis</NomCommune>
+      <Localisation>
+         <Latitude>49.205509</Latitude>
+         <Longitude>2.588591</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 10 78 90</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

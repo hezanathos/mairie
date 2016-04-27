@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59410" dateMiseAJour="2015-11-03" id="permanence_juridique-59410-01" idPresta="4cac9e60293594648a000365" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Mons-En-Baroeul</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des Jeunes et de la Culture</Ligne>
+        <Ligne>2 boulevard Napoléon 1er</Ligne>
+        <CodePostal>59370</CodePostal>
+        <NomCommune>MONS EN BAROEUL</NomCommune>
+        <Localisation>
+            <Latitude>50.6427719</Latitude>
+            <Longitude>3.1108888</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

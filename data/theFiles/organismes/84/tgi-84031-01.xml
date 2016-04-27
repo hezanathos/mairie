@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="84031" dateMiseAJour="2014-01-28" id="tgi-84031-01" idPresta="4cac9e87293594648a004cd1" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Carpentras</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>52 place Charles de Gaulle</Ligne>
+        <Ligne>CS 80265</Ligne>
+        <CodePostal>84208</CodePostal>
+        <NomCommune>CARPENTRAS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.054518</Latitude>
+            <Longitude>5.047063</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 63 66 00</Téléphone>
+        <Télécopie>+33 4 90 63 57 78</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="11:45:00"/>
+            <PlageH début="14:00:00" fin="16:45:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

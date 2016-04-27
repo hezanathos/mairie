@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13002" dateMiseAJour="2015-11-03" id="permanence_juridique-13002-01" idPresta="4cac9e5e293594648a000115" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Communal d&#39;Action Sociale (CCAS)</Ligne>
+        <Ligne>355 avenue du Général de Gaulle</Ligne>
+        <CodePostal>13190</CodePostal>
+        <NomCommune>ALLAUCH</NomCommune>
+        <Localisation>
+            <Latitude>43.3395607</Latitude>
+            <Longitude>5.4837143</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 91 10 44 30</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

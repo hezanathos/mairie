@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="79191" dateMiseAJour="2014-01-28" id="ti-79191-01" idPresta="4cac9e62293594648a0006a7" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Niort</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>18 rue Marcel Paul-Espace Thémis</Ligne>
+        <Ligne>BP 8820</Ligne>
+        <CodePostal>79028</CodePostal>
+        <NomCommune>NIORT CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.324538</Latitude>
+            <Longitude>-0.470879</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 49 05 45 40</Téléphone>
+        <Télécopie>+33 5 49 05 45 45</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:00:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

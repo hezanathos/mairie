@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-97122-01" codeInsee="97122" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération du Nord Grande Terre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 lot Vallée de Roujol</Ligne>
+      <Ligne>BP 05</Ligne>
+      <CodePostal>97131</CodePostal>
+      <NomCommune>Petit-Canal</NomCommune>
+      <Localisation>
+         <Latitude>16.4166353</Latitude>
+         <Longitude>-61.5308297</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 48 77 80</Téléphone>
+      <Télécopie>+590 5 90 22 95 27</Télécopie>
+      <Email>communaute.cangt-guadeloupe@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+         <PlageH début="14:30:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+         <PlageH début="14:30:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

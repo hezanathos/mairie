@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-57483-01" codeInsee="57483" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Morhange</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue Albert Schweitzer</Ligne>
+      <CodePostal>57340</CodePostal>
+      <NomCommune>Morhange</NomCommune>
+      <Localisation>
+         <Latitude>48.9247736</Latitude>
+         <Longitude>6.6478565</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 86 18 44</Téléphone>
+      <Télécopie>+33 3 87 05 62 57</Télécopie>
+      <Email>cob.morhange@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

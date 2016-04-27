@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-44131-01" codeInsee="44131" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-338">
+   <Nom>Point d'information local dédié aux personnes âgées - Pornic</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination gérontologique de la communauté de communes de Pornic</Ligne>
+      <Ligne>2 rue du Docteur Ange-Guépin</Ligne>
+      <CodePostal>44210</CodePostal>
+      <NomCommune>Pornic</NomCommune>
+      <Localisation>
+         <Latitude>47.110787</Latitude>
+         <Longitude>-2.066359</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro vert : appel et service gratuits depuis un fixe ou un mobile.">0800 307 712</Téléphone>
+      <Email>clic@ccpornic.fr</Email>
+      <Url>http://www.ccpornic.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

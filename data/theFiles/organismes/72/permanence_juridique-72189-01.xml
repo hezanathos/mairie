@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="72189" dateMiseAJour="2015-11-03" id="permanence_juridique-72189-01" idPresta="4e1d84712935945696000031" pivotLocal="permanence_juridique">
+    <Nom>Permanences d&#39;information et d&#39;orientation juridiques</Nom>
+    <EditeurSource>conseil départemental de l&#39;accès au droit de Sarthe</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>15 place de l&#39;église</Ligne>
+        <Ligne>centre social cantonal</Ligne>
+        <CodePostal>72260</CodePostal>
+        <NomCommune>MAROLLES LES BRAULTS</NomCommune>
+        <Localisation>
+            <Latitude>48.25228</Latitude>
+            <Longitude>0.313516</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 54 10 37</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>SANS RENDEZ-VOUS: le 2ème mardi du mois
+de 13H30 à 16H30</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

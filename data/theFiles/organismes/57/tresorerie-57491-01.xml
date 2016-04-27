@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-57491-01" codeInsee="57491" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Moyeuvre-Grande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Maurice-Thorez</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>BP 29</Ligne>
+      <CodePostal>57250</CodePostal>
+      <NomCommune>Moyeuvre-Grande</NomCommune>
+      <Localisation>
+         <Latitude>49.2510247</Latitude>
+         <Longitude>6.0468434</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 58 86 32</Téléphone>
+      <Email>t057034@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

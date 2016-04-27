@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-50539-01" codeInsee="50539" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Pierre-Église</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>123 rue du Général-de-Gaulle</Ligne>
+      <CodePostal>50330</CodePostal>
+      <NomCommune>Saint-Pierre-Église</NomCommune>
+      <Localisation>
+         <Latitude>49.667287</Latitude>
+         <Longitude>-1.4028329</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 88 42 60</Téléphone>
+      <Télécopie>+33 2 33 88 42 62</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="32013" dateMiseAJour="2015-11-03" id="permanence_juridique-32013-01" idPresta="4cac9e5f293594648a000250" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques d&#39;Auch</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal de grande instance</Ligne>
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>allées d&#39;Etigny</Ligne>
+        <CodePostal>32000</CodePostal>
+        <NomCommune>AUCH</NomCommune>
+        <Localisation>
+            <Latitude>43.6476621</Latitude>
+            <Longitude>0.5851595</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 61 67 27</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

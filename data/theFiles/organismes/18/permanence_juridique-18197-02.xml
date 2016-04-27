@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18197" dateMiseAJour="2015-11-03" id="permanence_juridique-18197-02" idPresta="4cd18fb329359405310109b0" pivotLocal="permanence_juridique">
+    <Nom>aide aux victimes</Nom>
+    <EditeurSource>Ministère de la justice et CDAD du Cher</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal d&#39;instance</Ligne>
+        <Ligne>Cours Manuel</Ligne>
+        <CodePostal>18200</CodePostal>
+        <NomCommune>ST AMAND MONTROND</NomCommune>
+        <Localisation>
+            <Latitude>46.7206417</Latitude>
+            <Longitude>2.50673624048</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 48 96 08 48</Téléphone>
+        <Email>mailto:savim@lerelais18.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

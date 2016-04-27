@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-81004-01" codeInsee="81004" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Tarn</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 22340</Ligne>
+      <Ligne>Cunac</Ligne>
+      <Ligne>112 route des Templiers</Ligne>
+      <CodePostal>81020</CodePostal>
+      <NomCommune>Albi Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.9228677</Latitude>
+         <Longitude>2.219504</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 48 43 53</Téléphone>
+      <Télécopie>+33 5 63 38 40 25</Télécopie>
+      <Email>direction@cm-tarn.fr</Email>
+      <Url>http://www.cm-tarn.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

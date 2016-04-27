@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-58102-01" codeInsee="58102" dateMiseAJour="2015-11-02"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Donzy - Châteauneuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue du Général-Leclerc</Ligne>
+      <CodePostal>58220</CodePostal>
+      <NomCommune>Donzy</NomCommune>
+      <Localisation>
+         <Latitude>47.3705328</Latitude>
+         <Longitude>3.1188219</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 39 34 68</Téléphone>
+      <Email>t058010@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

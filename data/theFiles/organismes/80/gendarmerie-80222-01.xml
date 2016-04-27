@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-80222-01" codeInsee="80222" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Crécy-en-Ponthieu</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22, route de, rue</Ligne>
+      <CodePostal>80150</CodePostal>
+      <NomCommune>Crécy-en-Ponthieu</NomCommune>
+      <Localisation>
+         <Latitude>50.2540588</Latitude>
+         <Longitude>1.87766</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 23 77 17</Téléphone>
+      <Télécopie>+33 3 22 23 77 19</Télécopie>
+      <Email>cob.rue@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-71014-01" codeInsee="71014" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-649">
+   <Nom>Point d'information local dédié aux personnes âgées - Autun</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Réseau gérontologique de l'Autunois</Ligne>
+      <Ligne>9 boulevard Frédéric-Latouche</Ligne>
+      <CodePostal>71400</CodePostal>
+      <NomCommune>Autun</NomCommune>
+      <Localisation>
+         <Latitude>46.952138</Latitude>
+         <Longitude>4.302631</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 77 31 05 78</Téléphone>
+      <Email>reseau-geronto-autun@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

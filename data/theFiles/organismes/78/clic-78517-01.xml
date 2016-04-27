@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-78517-01" codeInsee="78517" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-709">
+   <Nom>Point d'information local dédié aux personnes âgées - Rambouillet</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue Pasteur</Ligne>
+      <Ligne>Coordination gérontologique Sud Yvelines</Ligne>
+      <CodePostal>78120</CodePostal>
+      <NomCommune>Rambouillet</NomCommune>
+      <Localisation>
+         <Latitude>48.650362</Latitude>
+         <Longitude>1.826232</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 61 08 66 60</Téléphone>
+      <Email>icsycg@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

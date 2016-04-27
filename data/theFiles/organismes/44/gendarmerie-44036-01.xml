@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-44036-01" codeInsee="44036" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Châteaubriant</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Saint-Aubin-des-Châteaux</Ligne>
+      <CodePostal>44110</CodePostal>
+      <NomCommune>Châteaubriant</NomCommune>
+      <Localisation>
+         <Latitude>47.7112735</Latitude>
+         <Longitude>-1.4054632</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 81 00 17</Téléphone>
+      <Télécopie>+33 2 40 81 89 80</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

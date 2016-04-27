@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-61145-01" codeInsee="61145" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Domfrontais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue Georges-Clemenceau</Ligne>
+      <CodePostal>61700</CodePostal>
+      <NomCommune>Domfront</NomCommune>
+      <Localisation>
+         <Latitude>48.5913729</Latitude>
+         <Longitude>-0.6473541</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 30 18 53</Téléphone>
+      <Télécopie>+33 2 33 37 31 22</Télécopie>
+      <Email>cdcdudomfrontais@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-52250-01" codeInsee="52250" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Joinville</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 rue de la Fontaine du Grand-Jardin</Ligne>
+      <CodePostal>52300</CodePostal>
+      <NomCommune>Joinville</NomCommune>
+      <Localisation>
+         <Latitude>48.4494994</Latitude>
+         <Longitude>5.1411078</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 94 00 17</Téléphone>
+      <Télécopie>+33 3 25 94 95 27</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

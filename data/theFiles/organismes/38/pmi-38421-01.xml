@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-38421-01" codeInsee="38421" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Saint-Martin-d'Hères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 11000</Ligne>
+      <Ligne>10 rue Docteur-Fayollat</Ligne>
+      <CodePostal>38400</CodePostal>
+      <NomCommune>Saint-Martin-d'Hères</NomCommune>
+      <Localisation>
+         <Latitude>45.1767905</Latitude>
+         <Longitude>5.7610019</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 38 37 41 10</Téléphone>
+      <Télécopie>+33 4 38 37 41 11</Télécopie>
+      <Url>http://www.isere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil fermé le mardi après-midi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

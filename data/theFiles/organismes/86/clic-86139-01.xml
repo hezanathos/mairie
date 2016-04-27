@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-86139-01" codeInsee="86139" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-770">
+   <Nom>Point d'information local dédié aux personnes âgées - Lusignan</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 rue de Chypre</Ligne>
+      <Ligne>Centre local d'information et de coordination-Réseau Gérontologique du Val de Vonne</Ligne>
+      <CodePostal>86600</CodePostal>
+      <NomCommune>Lusignan</NomCommune>
+      <Localisation>
+         <Latitude>46.435529</Latitude>
+         <Longitude>0.126431</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 54 38 62</Téléphone>
+      <Email>reseau-gerontologique@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

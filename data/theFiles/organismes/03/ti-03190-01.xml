@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="03190" dateMiseAJour="2014-01-28" id="ti-03190-01" idPresta="4cac9ed7293594648a00ee26" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Moulins</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais d&#39;Ansac</Ligne>
+        <Ligne>16 rue Diderot BP 1837</Ligne>
+        <CodePostal>03018</CodePostal>
+        <NomCommune>MOULINS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.5661042</Latitude>
+            <Longitude>3.3353369</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 70 44 33 84</Téléphone>
+        <Télécopie>+33 4 70 44 89 57</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:45:00" fin="12:00:00"/>
+            <PlageH début="13:45:00" fin="16:45:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

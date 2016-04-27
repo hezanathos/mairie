@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="53130" dateMiseAJour="2014-12-08" id="spip-53130-01" idPresta="4d2575682935941a9200009f" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de la Mayenne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 allée Louis Vincent</Ligne>
+        <Ligne>BP 81034</Ligne>
+        <CodePostal>53010</CodePostal>
+        <NomCommune>LAVAL CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.068707</Latitude>
+            <Longitude>-0.792934</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 56 79 80</Téléphone>
+        <Télécopie>+33 2 43 56 45 97</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-01266-01" codeInsee="01266" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Montrevel-en-Bresse</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue des Poètes</Ligne>
+      <CodePostal>01340</CodePostal>
+      <NomCommune>Montrevel-en-Bresse</NomCommune>
+      <Localisation>
+         <Latitude>46.3345383</Latitude>
+         <Longitude>5.1212295</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 30 83 55</Téléphone>
+      <Télécopie>+33 4 74 25 60 92</Télécopie>
+      <Email>cob.montrevel-en-bresse@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-69202-01" codeInsee="69202" dateMiseAJour="2009-09-11" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Ste Foy-les-Lyon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>55 boulevard des Provinces</Ligne>
+      <CodePostal>69110</CodePostal>
+      <NomCommune>STE FOY LES LYON</NomCommune>
+      <Localisation>
+         <Latitude>45.7473983765</Latitude>
+         <Longitude>4.80005979538</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 25 15 16</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

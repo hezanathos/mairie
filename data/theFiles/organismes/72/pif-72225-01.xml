@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-72225-01" codeInsee="72225" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille d'Oisseau-le-Petit</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social rural du canton de Saint-Paterne</Ligne>
+      <Ligne>15 les Champs-Roux</Ligne>
+      <CodePostal>72610</CodePostal>
+      <NomCommune>Oisseau-le-Petit</NomCommune>
+      <Localisation>
+         <Latitude>48.3507307</Latitude>
+         <Longitude>0.0903671</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 82 19 20</Téléphone>
+      <Télécopie>+33 2 33 82 19 21</Télécopie>
+      <Email>csois-famille@neuf.fr</Email>
+      <Url>http://www.centre-social-oisseau.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-59603-01" codeInsee="59603" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Nord - accueil de Trith-le-Poirier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue Bessemer</Ligne>
+      <Ligne>Mairie annexe</Ligne>
+      <CodePostal>59125</CodePostal>
+      <NomCommune>Trith-le-Poirier</NomCommune>
+      <Localisation>
+         <Latitude>50.3322239</Latitude>
+         <Longitude>3.5049614</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Nord</Ligne>
+      <CodePostal>59863</CodePostal>
+      <NomCommune>Lille Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 59 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="15:30:00"/>
+         <Note>Accueil ouvert les 1er et 3e jeudis du mois et fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

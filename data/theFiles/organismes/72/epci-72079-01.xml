@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-72079-01" codeInsee="72079" dateMiseAJour="2015-01-07"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Portes du Maine Normand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>72610</CodePostal>
+      <NomCommune>Chérisay</NomCommune>
+      <Localisation>
+         <Latitude>48.354437</Latitude>
+         <Longitude>0.113286</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 32 86 82</Téléphone>
+      <Télécopie>+33 2 33 32 86 88</Télécopie>
+      <Email>cc-portes-du-maine-normand@orange.fr</Email>
+      <Url>http://www.cdc-portes-du-maine-normand.com</Url>
+   </CoordonnéesNum>
+</Organisme>

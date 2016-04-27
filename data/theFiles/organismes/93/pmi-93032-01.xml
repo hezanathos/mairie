@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-93032-01" codeInsee="93032" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Gagny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue du 18-Juin</Ligne>
+      <Ligne>Quartier Chesnay</Ligne>
+      <CodePostal>93220</CodePostal>
+      <NomCommune>Gagny</NomCommune>
+      <Localisation>
+         <Latitude>48.8777999878</Latitude>
+         <Longitude>2.55570006371</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 43 32 71 94</Téléphone>
+      <Télécopie>+33 1 43 88 34 90</Télécopie>
+      <Url>http://www.cg93.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

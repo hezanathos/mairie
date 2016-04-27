@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="centre_impots_fonciers-22070-01" codeInsee="22070"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="centre_impots_fonciers">
+   <Nom>Centre des impôts foncier de Guingamp</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 avenue du Président-Kennedy</Ligne>
+      <Ligne>CS 20504</Ligne>
+      <CodePostal>22205</CodePostal>
+      <NomCommune>Guingamp Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.5630989075</Latitude>
+         <Longitude>-3.16086006165</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 13 55 58</Téléphone>
+      <Email>cdif.guingamp@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

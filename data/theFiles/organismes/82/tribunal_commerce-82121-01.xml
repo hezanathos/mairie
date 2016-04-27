@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="82121" dateMiseAJour="2014-01-28" id="tribunal_commerce-82121-01" idPresta="4eb2632e2935944ef5000165" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Montauban</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 place Antoine Bourdelle</Ligne>
+        <CodePostal>82000</CodePostal>
+        <NomCommune>MONTAUBAN</NomCommune>
+        <Localisation>
+            <Latitude>44.017072</Latitude>
+            <Longitude>1.351462</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 63 63 20 88</Téléphone>
+        <Télécopie>+33 5 63 63 20 40</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

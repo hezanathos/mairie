@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-37003-01" codeInsee="37003"
+           dateMiseAJour="2015-07-13"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="CLIC-1137">
+   <Nom>Point d'information local dédié aux personnes âgées - Amboise</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison Départementale de la Solidarité</Ligne>
+      <Ligne>9, rue Grégoire-de-Tours</Ligne>
+      <CodePostal>37400</CodePostal>
+      <NomCommune>Amboise</NomCommune>
+      <Localisation>
+         <Latitude>47.407596</Latitude>
+         <Longitude>0.988439</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 30 48 48</Téléphone>
+      <Url>http://www.touraine-reperage.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

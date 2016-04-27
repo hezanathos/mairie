@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97305-01" codeInsee="97305" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Macouria</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Georges Guéril</Ligne>
+      <CodePostal>97355</CodePostal>
+      <NomCommune>Macouria</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 38 88 68</Téléphone>
+      <Télécopie>+594 5 94 38 70 01</Télécopie>
+      <Email>bta.macouria@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

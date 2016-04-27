@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-83116-01" codeInsee="83116" dateMiseAJour="2013-01-09" pivotLocal="pif">
+   <Nom>Centre social et culturel Martin Bidouré</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place Martin-Bidouré</Ligne>
+      <CodePostal>83470</CodePostal>
+      <NomCommune>Saint-Maximin-la-Sainte-Baume</NomCommune>
+      <Localisation>
+         <Latitude>43.452663</Latitude>
+         <Longitude>5.861778</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 86 58 91</Téléphone>
+      <Email>csc.maximin@orange.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Fermé du 24/12/2012 au 01/01/2013 inclus</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-61474-01" codeInsee="61474" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays du Haras du Pin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61310</CodePostal>
+      <NomCommune>Silly-en-Gouffern</NomCommune>
+      <Localisation>
+         <Latitude>48.754196</Latitude>
+         <Longitude>0.0698209</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 67 56 62</Téléphone>
+      <Télécopie>+33 2 33 67 00 20</Télécopie>
+      <Email>cdcdupaysduharasdupin@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

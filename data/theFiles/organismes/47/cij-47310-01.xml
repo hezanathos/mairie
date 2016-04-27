@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-47310-01" codeInsee="47310" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Tonneins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mission locale de la Moyenne-Garonne</Ligne>
+      <Ligne>3, avenue Charles-de-Gaulle</Ligne>
+      <CodePostal>47400</CodePostal>
+      <NomCommune>Tonneins</NomCommune>
+      <Localisation>
+         <Latitude>44.390347</Latitude>
+         <Longitude>0.3089589</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC">1er étage</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 88 02 79</Téléphone>
+      <Télécopie>+33 5 53 84 48 87</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

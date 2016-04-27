@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="01034" dateMiseAJour="2014-01-28" id="prudhommes-01034-01" idPresta="4cac9e5f293594648a0001e4" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Belley</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>boulevard du Mail</Ligne>
+        <Ligne>BP 124</Ligne>
+        <CodePostal>01306</CodePostal>
+        <NomCommune>BELLEY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.759881</Latitude>
+            <Longitude>5.689915</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 79 81 13 45</Téléphone>
+        <Télécopie>+33 4 79 81 21 55</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

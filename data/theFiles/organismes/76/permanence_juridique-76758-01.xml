@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76758" dateMiseAJour="2015-11-03" id="permanence_juridique-76758-01" idPresta="51ecff1ab473e44c27000006" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit d&#39;Yvetôt</Nom>
+    <EditeurSource>Comarquage.fr</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Espace d&#39;accès au droit et aux services public du plateau de Caux</Ligne>
+        <Ligne>7, rue du Couvent</Ligne>
+        <CodePostal>76190</CodePostal>
+        <NomCommune>YVETOT</NomCommune>
+        <Localisation>
+            <Latitude>49.6164873174</Latitude>
+            <Longitude>0.751481186508</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 64 82 17 18</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

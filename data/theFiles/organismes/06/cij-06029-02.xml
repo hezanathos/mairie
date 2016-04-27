@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-06029-02" codeInsee="06029" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Cannes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Mimont</Ligne>
+      <CodePostal>06400</CodePostal>
+      <NomCommune>Cannes</NomCommune>
+      <Localisation>
+         <Latitude>43.5548136</Latitude>
+         <Longitude>7.0202934</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 99 77 77</Téléphone>
+      <Télécopie>+33 4 92 99 76 15</Télécopie>
+      <Email>contact@logisdesjeunes.asso.fr</Email>
+      <Url>http://www.logisdesjeunes.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

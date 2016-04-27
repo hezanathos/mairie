@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="centre_impots_fonciers-02168-01" codeInsee="02168"
+           dateMiseAJour="2014-05-05"
+           pivotLocal="centre_impots_fonciers">
+   <Nom>Centre des impôts foncier de Château-Thierry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>32, avenue de la République</Ligne>
+      <CodePostal>02400</CodePostal>
+      <NomCommune>Château-Thierry</NomCommune>
+      <Localisation>
+         <Latitude>49.0399613</Latitude>
+         <Longitude>3.4092431</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 84 22 20</Téléphone>
+      <Email>cdif.chateau-thierry@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

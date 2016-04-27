@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-13103-01" codeInsee="13103" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Salon-de-Provence</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Pays Catalan</Ligne>
+      <CodePostal>13300</CodePostal>
+      <NomCommune>Salon-de-Provence</NomCommune>
+      <Localisation>
+         <Latitude>43.654669</Latitude>
+         <Longitude>5.0981471</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 17 04 00</Téléphone>
+      <Email>ddsp13-csp-salon-de-pce@interieur.gouv.fr</Email>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

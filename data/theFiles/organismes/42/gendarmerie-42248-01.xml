@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-42248-01" codeInsee="42248" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Just-en-Chevalet</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 route de Montloup</Ligne>
+      <CodePostal>42430</CodePostal>
+      <NomCommune>Saint-Just-en-Chevalet</NomCommune>
+      <Localisation>
+         <Latitude>45.9189559</Latitude>
+         <Longitude>3.8440834</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 65 00 37</Téléphone>
+      <Télécopie>+33 4 77 65 16 89</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

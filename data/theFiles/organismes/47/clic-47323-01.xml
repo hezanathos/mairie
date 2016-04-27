@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-47323-01" codeInsee="47323" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-363">
+   <Nom>Point d'information local dédié aux personnes âgées - Villeneuve-sur-Lot</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Grand Villeneuvois</Ligne>
+      <Ligne>16bis avenue de la Myre-Mory</Ligne>
+      <CodePostal>47300</CodePostal>
+      <NomCommune>Villeneuve-sur-Lot</NomCommune>
+      <Localisation>
+         <Latitude>44.410435</Latitude>
+         <Longitude>0.711946</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 75 20 20</Téléphone>
+      <Email>clicgv@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

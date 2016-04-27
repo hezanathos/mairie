@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-84129-01" codeInsee="84129" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Sorgues</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>838, route de l'Oiselay</Ligne>
+      <CodePostal>84700</CodePostal>
+      <NomCommune>Sorgues</NomCommune>
+      <Localisation>
+         <Latitude>44.0148036</Latitude>
+         <Longitude>4.8613118</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 39 20 31</Téléphone>
+      <Télécopie>+33 4 90 39 74 68</Télécopie>
+      <Email>bta.sorgues@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

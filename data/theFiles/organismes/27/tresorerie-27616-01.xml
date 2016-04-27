@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-27616-01" codeInsee="27616" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de La Saussaye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 place du Cloître</Ligne>
+      <CodePostal>27370</CodePostal>
+      <NomCommune>La Saussaye</NomCommune>
+      <Localisation>
+         <Latitude>49.2587228</Latitude>
+         <Longitude>0.9822824</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 87 81 33</Téléphone>
+      <Email>t027039@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-50099-01" codeInsee="50099" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Baie du Cotentin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 le Haut-Dick</Ligne>
+      <Ligne>BP 339</Ligne>
+      <CodePostal>50500</CodePostal>
+      <NomCommune>Carentan</NomCommune>
+      <Localisation>
+         <Latitude>49.3114357</Latitude>
+         <Longitude>-1.2394528</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 71 90 90</Téléphone>
+      <Télécopie>+33 2 33 71 90 91</Télécopie>
+      <Email>contact@ccbdc.fr</Email>
+      <Url>http://www.cc-carentan-cotentin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

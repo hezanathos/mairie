@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-84007-03" codeInsee="84007" dateMiseAJour="2015-07-07"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie Avignon Municipale</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du 7e-Génie</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>BP 30344</Ligne>
+      <CodePostal>84025</CodePostal>
+      <NomCommune>Avignon Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>43.9427352</Latitude>
+         <Longitude>4.8074857</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

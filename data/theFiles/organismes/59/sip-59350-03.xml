@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-59350-03" codeInsee="59350" dateMiseAJour="2015-07-06" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Lille Ouest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22, rue Lavoisier</Ligne>
+      <CodePostal>59466</CodePostal>
+      <NomCommune>Lomme Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.6438048</Latitude>
+         <Longitude>3.0240309</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 30 47 47</Téléphone>
+      <Email>sip.lille-ouest@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

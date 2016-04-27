@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cdg-84007-01" codeInsee="84007" dateMiseAJour="2015-04-19" pivotLocal="cdg">
+   <Nom>Centre de gestion de la fonction publique territoriale - Vaucluse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>80 rue Marcel-Demonque</Ligne>
+      <Ligne>Agroparc</Ligne>
+      <Ligne>CS 60508</Ligne>
+      <CodePostal>84908</CodePostal>
+      <NomCommune>Avignon Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.9129981995</Latitude>
+         <Longitude>4.88673019409</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur et rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 32 44 89 30</Téléphone>
+      <Télécopie>+33 4 90 31 32 74</Télécopie>
+      <Email>directiongenerale@cdg84.fr</Email>
+      <Url>http://www.cdg84.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

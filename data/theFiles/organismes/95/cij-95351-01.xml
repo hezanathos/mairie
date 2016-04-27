@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-95351-01" codeInsee="95351" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Louvres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, place de la Gare</Ligne>
+      <CodePostal>95380</CodePostal>
+      <NomCommune>Louvres</NomCommune>
+      <Localisation>
+         <Latitude>49.0496477</Latitude>
+         <Longitude>2.5005919</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 31 31 33</Téléphone>
+      <Télécopie>+33 1 34 31 31 33</Télécopie>
+      <Email>pij@ville-louvres.fr</Email>
+      <Url>http://www.ville-louvres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Horaires pendant les congés scolaires du lundi au vendredi de 14h à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

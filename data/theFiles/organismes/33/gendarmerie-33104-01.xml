@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33104-01" codeInsee="33104" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Castelnau-de-Médoc</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>39 avenue Georges-Mandel</Ligne>
+      <CodePostal>33480</CodePostal>
+      <NomCommune>Castelnau-de-Médoc</NomCommune>
+      <Localisation>
+         <Latitude>45.0250519</Latitude>
+         <Longitude>-0.7920338</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 88 60 40</Téléphone>
+      <Télécopie>+33 5 57 88 60 48</Télécopie>
+      <Email>bta.castelnau-de-medoc@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

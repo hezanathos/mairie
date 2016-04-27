@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-28134-01" codeInsee="28134" dateMiseAJour="2015-03-17"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-conservation des hypothèques) de Dreux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 bis rue des Granges</Ligne>
+      <CodePostal>28109</CodePostal>
+      <NomCommune>Dreux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7407638</Latitude>
+         <Longitude>1.3594244</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 38 06 26</Téléphone>
+      <Télécopie>+33 2 37 38 04 80</Télécopie>
+      <Email>spf.dreux@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

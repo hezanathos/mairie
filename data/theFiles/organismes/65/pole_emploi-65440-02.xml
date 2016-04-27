@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-65440-02" codeInsee="65440" dateMiseAJour="2015-09-09"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Tarbes - Arsenal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 95901</Ligne>
+      <Ligne>Rue de la Cartoucherie</Ligne>
+      <CodePostal>65901</CodePostal>
+      <NomCommune>Tarbes Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.2253262</Latitude>
+         <Longitude>0.0662452</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:45:00" fin="16:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

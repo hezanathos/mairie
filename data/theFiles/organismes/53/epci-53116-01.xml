@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-53116-01" codeInsee="53116" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Le Horps Lassay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 rue des Forges</Ligne>
+      <CodePostal>53640</CodePostal>
+      <NomCommune>Le Horps</NomCommune>
+      <Localisation>
+         <Latitude>48.3975717</Latitude>
+         <Longitude>-0.4616155</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 04 69 50</Téléphone>
+      <Télécopie>+33 2 43 04 69 51</Télécopie>
+      <Email>accueil@cchl53.fr</Email>
+      <Url>http://www.cchl53.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

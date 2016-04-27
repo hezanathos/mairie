@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="centre_impots_fonciers-63113-01" codeInsee="63113"
+           dateMiseAJour="2016-02-25"
+           pivotLocal="centre_impots_fonciers">
+   <Nom>Centre des impôts foncier de Clermont-Ferrand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Boulevard Berthelot</Ligne>
+      <CodePostal>63033</CodePostal>
+      <NomCommune>Clermont-Ferrand Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>45.7818984985</Latitude>
+         <Longitude>3.07158994675</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 43 21 54</Téléphone>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

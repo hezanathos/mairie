@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-71512-01" codeInsee="71512" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes entre Saône et Grosne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Mûriers</Ligne>
+      <CodePostal>71240</CodePostal>
+      <NomCommune>Sennecy-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>46.6384760513</Latitude>
+         <Longitude>4.87672805786</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 44 91 92</Téléphone>
+      <Télécopie>+33 3 85 44 09 99</Télécopie>
+      <Email>c-communes-saone-grosne@wanadoo.fr</Email>
+      <Url>http://www.cc-entresaoneetgrosne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

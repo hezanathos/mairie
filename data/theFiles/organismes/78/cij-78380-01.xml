@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-78380-01" codeInsee="78380" dateMiseAJour="2006-06-14" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Maule</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Salle Molière Ancienne Mairie</Ligne>
+      <Ligne>place des Galliens</Ligne>
+      <CodePostal>78580</CodePostal>
+      <NomCommune>MAULE</NomCommune>
+      <Localisation>
+         <Latitude>48.9094009399</Latitude>
+         <Longitude>1.84829998016</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 90 95 70</Téléphone>
+      <Url>http://www.yij78.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-62667-01" codeInsee="62667" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie du Portel</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Faidherbe 395, rue Carnot</Ligne>
+      <CodePostal>62480</CodePostal>
+      <NomCommune>Portel</NomCommune>
+      <Localisation>
+         <Latitude>50.7133055</Latitude>
+         <Longitude>1.5900144</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 31 70 17</Téléphone>
+      <Télécopie>+33 3 21 31 44 72</Télécopie>
+      <Email>bta.le-portel@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

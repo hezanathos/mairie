@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-62771-01" codeInsee="62771" dateMiseAJour="2009-09-28" pivotLocal="cij">
+   <Nom>Centre d'Information Jeunesse - Point information jeunesse de Sallaumines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>auberge du stade</Ligne>
+      <Ligne>Rue Edouard Vaillant</Ligne>
+      <CodePostal>62430</CodePostal>
+      <NomCommune>SALLAUMINES</NomCommune>
+      <Localisation>
+         <Latitude>50.4197297</Latitude>
+         <Longitude>2.8689548</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 70 70 49</Téléphone>
+      <Url>http://www.crij-npdc.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

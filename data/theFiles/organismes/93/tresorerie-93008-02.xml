@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-93008-02" codeInsee="93008" dateMiseAJour="2016-02-12"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie Municipale de Bobigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 229</Ligne>
+      <Ligne>181 avenue Jean Jaurès</Ligne>
+      <CodePostal>93003</CodePostal>
+      <NomCommune>Bobigny</NomCommune>
+      <Localisation>
+         <Latitude>48.908547</Latitude>
+         <Longitude>2.439223</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 95 28 31</Téléphone>
+      <Email>t093032@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Fermé le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

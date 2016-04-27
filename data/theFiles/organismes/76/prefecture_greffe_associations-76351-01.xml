@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-76351-01" codeInsee="76351"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations du Havre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Service des associations</Ligne>
+      <Ligne>Sous-préfecture du Havre</Ligne>
+      <Ligne>95, boulevard de Strasbourg</Ligne>
+      <CodePostal>76083</CodePostal>
+      <NomCommune>Le Havre Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.4930033</Latitude>
+         <Longitude>0.1132675</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 13 34 22</Téléphone>
+      <Télécopie>+33 2 35 13 34 35</Télécopie>
+      <Email>martine.laporte@seine-maritime.gouv.fr</Email>
+      <Url>http://www.seine-maritime.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique uniquement</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ademe-33063-01" codeInsee="33063" dateMiseAJour="2016-03-10"
+           pivotLocal="ademe">
+   <Nom>Agence de l'environnement et de la maîtrise de l'énergie (Ademe) - Aquitaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>140 rue des Terres de Borde</Ligne>
+      <Ligne>CS 31330</Ligne>
+      <CodePostal>33080</CodePostal>
+      <NomCommune>Bordeaux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.8229261</Latitude>
+         <Longitude>-0.5545955999999705</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 33 80 00</Téléphone>
+      <Télécopie>+33 5 56 33 80 01</Télécopie>
+      <Email>aquitaine@ademe.fr</Email>
+      <Url>http://www.aquitaine.ademe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

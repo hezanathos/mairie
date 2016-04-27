@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="80021" dateMiseAJour="2015-11-03" id="permanence_juridique-80021-03" idPresta="4cd18fb22935940531010978" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit - quartier Etouvie  &#34;Les coursives&#34;</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 place du Pays d&#39;Auge</Ligne>
+        <CodePostal>80000</CodePostal>
+        <NomCommune>AMIENS</NomCommune>
+        <Localisation>
+            <Latitude>49.913514</Latitude>
+            <Longitude>2.253596</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 22 97 43 84</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

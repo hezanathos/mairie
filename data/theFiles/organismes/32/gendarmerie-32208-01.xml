@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-32208-01" codeInsee="32208" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lectoure</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Garde Toquebens</Ligne>
+      <Ligne>Lotissement Moulin de la Justice</Ligne>
+      <CodePostal>32700</CodePostal>
+      <NomCommune>Lectoure</NomCommune>
+      <Localisation>
+         <Latitude>43.933604</Latitude>
+         <Longitude>0.623621</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 68 70 17</Téléphone>
+      <Télécopie>+33 5 62 65 55 53</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-07349-01" codeInsee="07349" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Voulte-sur-Rhône</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Albert-Camus</Ligne>
+      <Ligne>Quartier Ponson</Ligne>
+      <CodePostal>07800</CodePostal>
+      <NomCommune>La Voulte-sur-Rhône</NomCommune>
+      <Localisation>
+         <Latitude>44.7996</Latitude>
+         <Longitude>4.780713</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 62 01 98</Téléphone>
+      <Télécopie>+33 4 75 62 83 85</Télécopie>
+      <Email>cob.la-voulte-sur-rhone@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

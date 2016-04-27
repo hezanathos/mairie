@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-12209-01" codeInsee="12209" dateMiseAJour="2015-09-03"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Viadène</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>12460</CodePostal>
+      <NomCommune>Saint-Amans-des-Cots</NomCommune>
+      <Localisation>
+         <Latitude>44.689526</Latitude>
+         <Longitude>2.658302</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 51 64 20</Téléphone>
+      <Télécopie>+33 5 65 44 83 77</Télécopie>
+      <Email>cc.viadene@wanadoo.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

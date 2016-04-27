@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-79005-01" codeInsee="79005" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Airvault</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37, rue de la Gendarmerie</Ligne>
+      <CodePostal>79600</CodePostal>
+      <NomCommune>Airvault</NomCommune>
+      <Localisation>
+         <Latitude>46.8266264</Latitude>
+         <Longitude>-0.1324633</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 64 70 07</Téléphone>
+      <Télécopie>+33 5 49 64 28 31</Télécopie>
+      <Email>cob.airvault@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

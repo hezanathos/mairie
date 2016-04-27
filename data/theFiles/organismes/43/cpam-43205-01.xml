@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-43205-01" codeInsee="43205" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Haute-Loire - accueil de Saint-Just-Malmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place Marie-Louise-Deguillaume</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>43240</CodePostal>
+      <NomCommune>Saint-Just-Malmont</NomCommune>
+      <Localisation>
+         <Latitude>45.3413899</Latitude>
+         <Longitude>4.313346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de Haute-Loire</Ligne>
+      <Ligne>10 avenue André-Soulier</Ligne>
+      <Ligne>CS 70324</Ligne>
+      <CodePostal>43009</CodePostal>
+      <NomCommune>Le Puy-en-Velay Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil ouvert uniquement les semaines impaires. Cette agence est fermée pendant les congés scolaires. Fermeture exceptionnelle vendredi 5 février 2016.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

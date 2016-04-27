@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-17415-01" codeInsee="17415" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saintes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue de Chermignac</Ligne>
+      <CodePostal>17100</CodePostal>
+      <NomCommune>Saintes</NomCommune>
+      <Localisation>
+         <Latitude>45.7315003</Latitude>
+         <Longitude>-0.6485487</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 93 01 19</Téléphone>
+      <Télécopie>+33 5 46 93 75 85</Télécopie>
+      <Email>bta.saintes@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

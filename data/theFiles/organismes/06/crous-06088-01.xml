@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crous-06088-01" codeInsee="06088" dateMiseAJour="2015-04-19"
+           pivotLocal="crous">
+   <Nom>Centre régional des oeuvres universitaires et scolaires (Crous) - Nice</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 avenue des Fleurs</Ligne>
+      <CodePostal>06050</CodePostal>
+      <NomCommune>Nice Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>43.6977996826</Latitude>
+         <Longitude>7.25402021408</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 15 50 55</Téléphone>
+      <Télécopie>+33 4 93 86 89 42</Télécopie>
+      <Email>crous.nice@wanadoo.fr</Email>
+      <Url>http://www.crous-nice.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

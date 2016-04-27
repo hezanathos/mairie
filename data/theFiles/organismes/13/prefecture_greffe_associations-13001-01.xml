@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-13001-01" codeInsee="13001"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations d'Aix-en-Provence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bureau de la réglementation et des titres - Section réglementation, associations</Ligne>
+      <Ligne>Bureau des associations</Ligne>
+      <Ligne>Sous-préfecture d'Aix-en-Provence</Ligne>
+      <CodePostal>13090</CodePostal>
+      <NomCommune>Aix-en-Provence</NomCommune>
+      <Localisation>
+         <Latitude>43.530904</Latitude>
+         <Longitude>5.4507921</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 17 56 00</Téléphone>
+      <Télécopie>+33 4 42 17 56 36</Télécopie>
+      <Email>sp-aix-associations@bouches-du-rhone.pref.gouv.fr</Email>
+      <Url>http://www.bouches-du-rhone.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="centre_impots_fonciers-33352-01" codeInsee="33352"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="centre_impots_fonciers">
+   <Nom>Centre des impôts foncier de La Réole</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 place Albert Rigoulet</Ligne>
+      <CodePostal>33190</CodePostal>
+      <NomCommune>La Réole</NomCommune>
+      <Localisation>
+         <Latitude>44.5837478638</Latitude>
+         <Longitude>-0.0402560010552</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 61 59 60</Téléphone>
+      <Télécopie>+33 5 56 71 55 73</Télécopie>
+      <Email>sip-sie.la-reole@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

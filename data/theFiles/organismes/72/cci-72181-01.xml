@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cci-72181-01" codeInsee="72181" dateMiseAJour="2014-12-04" pivotLocal="cci">
+   <Nom>Chambre de commerce et d'industrie (CCI) du Mans et de la Sarthe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, boulevard René-Levasseur</Ligne>
+      <Ligne>CS 91435</Ligne>
+      <CodePostal>72002</CodePostal>
+      <NomCommune>Le Mans Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>48.0031032</Latitude>
+         <Longitude>0.1976856</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 21 00 00</Téléphone>
+      <Télécopie>+33 2 43 21 00 50</Télécopie>
+      <Email>mgauthier@lemans.cci.fr</Email>
+      <Url>http://www.lemans.cci.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

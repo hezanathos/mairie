@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-26264-01" codeInsee="26264" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Rémuzat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Immeuble du Département</Ligne>
+      <CodePostal>26510</CodePostal>
+      <NomCommune>Rémuzat</NomCommune>
+      <Localisation>
+         <Latitude>44.412968</Latitude>
+         <Longitude>5.354184</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 27 85 88</Téléphone>
+      <Télécopie>+33 4 75 27 85 88</Télécopie>
+      <Email>direction@paysderemuzat.fr</Email>
+      <Url>http://paysderemuzat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

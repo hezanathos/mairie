@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcspp-03321-01" codeInsee="03321" dateMiseAJour="2012-12-03"
+           pivotLocal="ddcspp">
+   <Nom>Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Allier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, rue Aristide-Briand</Ligne>
+      <Ligne>CS 60042</Ligne>
+      <CodePostal>03402</CodePostal>
+      <NomCommune>Yzeure Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.5597164</Latitude>
+         <Longitude>3.3443056</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 48 35 00</Téléphone>
+      <Télécopie>+33 4 70 48 35 99</Télécopie>
+      <Email>ddcspp@allier.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

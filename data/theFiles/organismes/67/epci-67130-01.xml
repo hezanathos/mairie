@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-67130-01" codeInsee="67130" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays d'Erstein</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du Couvent</Ligne>
+      <Ligne>BP 30090</Ligne>
+      <CodePostal>67152</CodePostal>
+      <NomCommune>Erstein Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.4234406</Latitude>
+         <Longitude>7.6624806</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 64 66 58</Téléphone>
+      <Télécopie>+33 3 88 98 04 39</Télécopie>
+      <Email>contact@cc-pays-erstein.fr</Email>
+      <Url>http://www.cc-pays-erstein.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

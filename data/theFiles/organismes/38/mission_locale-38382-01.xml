@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-38382-01" codeInsee="38382" dateMiseAJour="2014-08-06"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Saint-Égrève</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de l'emploi et de l'entreprise du Néron</Ligne>
+      <Ligne>4, avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>38120</CodePostal>
+      <NomCommune>Saint-Égrève</NomCommune>
+      <Localisation>
+         <Latitude>45.2300987244</Latitude>
+         <Longitude>5.68248987198</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 13 18 05</Téléphone>
+      <Url>http://www.meen-neron.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

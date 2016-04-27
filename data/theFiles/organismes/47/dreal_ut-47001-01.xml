@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-47001-01" codeInsee="47001" dateMiseAJour="2014-07-18"
+           pivotLocal="dreal_ut">
+   <Nom>Unité territoriale - Direction régionale de l'environnement, de l'aménagement et du logement - Lot-et-Garonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>935, avenue Jean-Bru</Ligne>
+      <CodePostal>47916</CodePostal>
+      <NomCommune>Agen Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>44.1941236</Latitude>
+         <Longitude>0.6255291</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 77 48 40</Téléphone>
+      <Télécopie>+33 5 53 77 48 48</Télécopie>
+      <Email>ut-agen.dreal-aquitaine@developpement-durable.gouv.fr</Email>
+      <Url>http://www.aquitaine.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

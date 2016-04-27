@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-78646-01" codeInsee="78646"
+           dateMiseAJour="2014-10-14"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Versailles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bâtiment B</Ligne>
+      <Ligne>3e étage</Ligne>
+      <Ligne>7, rue Jean-Mermoz</Ligne>
+      <Ligne>Direction départementale de la cohésion sociale des Yvelines</Ligne>
+      <CodePostal>78008</CodePostal>
+      <NomCommune>Versailles Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7969936</Latitude>
+         <Longitude>2.1431248</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 24 24 70</Téléphone>
+      <Télécopie>+33 1 39 24 24 77</Télécopie>
+      <Email>ddcs-sport-association@yvelines.gouv.fr</Email>
+      <Url>http://www.yvelines.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:45:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil fermé le jeudi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-25056-01" codeInsee="25056" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Direction régionale Franche-Comté</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 avenue de l'Observatoire</Ligne>
+      <CodePostal>25000</CodePostal>
+      <NomCommune>Besançon</NomCommune>
+      <Localisation>
+         <Latitude>47.2339966</Latitude>
+         <Longitude>6.0151308</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Url>http://franche-comte.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

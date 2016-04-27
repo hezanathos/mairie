@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-04019-01" codeInsee="04019" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Barcelonnette</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 allée des Lilas</Ligne>
+      <Ligne>Quartier Le Chazelas</Ligne>
+      <CodePostal>04400</CodePostal>
+      <NomCommune>Barcelonnette</NomCommune>
+      <Localisation>
+         <Latitude>44.3865426</Latitude>
+         <Longitude>6.6359061</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 81 00 31</Téléphone>
+      <Télécopie>+33 4 92 81 51 99</Télécopie>
+      <Email>cob.barcelonnette@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

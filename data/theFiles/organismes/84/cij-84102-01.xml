@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-84102-01" codeInsee="84102" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Roussillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social Lou-Pasquié</Ligne>
+      <Ligne>Place du Pasquier</Ligne>
+      <CodePostal>84220</CodePostal>
+      <NomCommune>Roussillon</NomCommune>
+      <Localisation>
+         <Latitude>43.902293</Latitude>
+         <Longitude>5.292936</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 05 71 04</Téléphone>
+      <Télécopie>+33 4 90 05 74 96</Télécopie>
+      <Email>pij.cslp@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="16:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

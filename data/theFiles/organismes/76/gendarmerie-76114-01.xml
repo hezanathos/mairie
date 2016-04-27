@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-76114-01" codeInsee="76114" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bolbec</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place Salvador Allende</Ligne>
+      <CodePostal>76210</CodePostal>
+      <NomCommune>Bolbec</NomCommune>
+      <Localisation>
+         <Latitude>49.5747075</Latitude>
+         <Longitude>0.4667905</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 31 00 53</Téléphone>
+      <Télécopie>+33 2 35 31 74 47</Télécopie>
+      <Email>cob.notre-dame-de-gravenchon@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

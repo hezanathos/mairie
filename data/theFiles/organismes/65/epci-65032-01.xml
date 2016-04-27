@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-65032-01" codeInsee="65032" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Val d'Azun</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Val-d'Azun et du Parc National des Pyrénées</Ligne>
+      <Ligne>Place du Val-d'Azun</Ligne>
+      <CodePostal>65400</CodePostal>
+      <NomCommune>Arrens-Marsous</NomCommune>
+      <Localisation>
+         <Latitude>42.9574275764</Latitude>
+         <Longitude>-0.213031768799</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 97 49 40</Téléphone>
+      <Email>info@valdazun.com</Email>
+      <Url>http://www.cc-valdazun.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

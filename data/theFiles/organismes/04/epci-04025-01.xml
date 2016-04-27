@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-04025-01" codeInsee="04025" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Haut-Verdon Val d'Allos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de pays</Ligne>
+      <Ligne>Route de Colmars</Ligne>
+      <CodePostal>04370</CodePostal>
+      <NomCommune>Beauvezer</NomCommune>
+      <Localisation>
+         <Latitude>44.143249</Latitude>
+         <Longitude>6.591834</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 83 56 76</Téléphone>
+      <Télécopie>+33 4 92 83 59 20</Télécopie>
+      <Email>cc-haut-verdon-valdallos@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

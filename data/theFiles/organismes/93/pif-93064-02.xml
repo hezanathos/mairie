@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-93064-02" codeInsee="93064" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du centre socio-culturel des Marnaudes de Rosny-sous-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Offenbach</Ligne>
+      <CodePostal>93110</CodePostal>
+      <NomCommune>Rosny-sous-Bois</NomCommune>
+      <Localisation>
+         <Latitude>48.8829711</Latitude>
+         <Longitude>2.4827847</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 12 17 80</Téléphone>
+      <Télécopie>+33 1 48 12 17 83</Télécopie>
+      <Email>marnaudes@yahoo.fr</Email>
+      <Url>http://marnaudes.free.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

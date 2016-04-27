@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="63113" dateMiseAJour="2015-11-03" id="permanence_juridique-63113-02" idPresta="4cd18fb22935940531010923" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Clermont-Ferrand</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Espace Public Info</Ligne>
+        <Ligne>rue de la Grande Combaude</Ligne>
+        <CodePostal>63000</CodePostal>
+        <NomCommune>CLERMONT FERRAND</NomCommune>
+        <Localisation>
+            <Latitude>45.798607</Latitude>
+            <Longitude>3.119483</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 73 24 83 77</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

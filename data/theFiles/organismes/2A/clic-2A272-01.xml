@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-2A272-01" codeInsee="2A272" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-163">
+   <Nom>Point d'information local dédié aux personnes âgées - Sartène</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 cour Soeur Amélie</Ligne>
+      <Ligne>Centre local d'information et de coordination Territoire de l'Arrondissement de Sartène</Ligne>
+      <CodePostal>20100</CodePostal>
+      <NomCommune>Sartène</NomCommune>
+      <Localisation>
+         <Latitude>41.618908</Latitude>
+         <Longitude>8.973064</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 74 08 45</Téléphone>
+      <Email>clic.sartene@cg-corsedusud.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

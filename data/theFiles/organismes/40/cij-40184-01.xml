@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-40184-01" codeInsee="40184" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Mimizan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25, avenue de la Gare</Ligne>
+      <CodePostal>40200</CodePostal>
+      <NomCommune>Mimizan</NomCommune>
+      <Localisation>
+         <Latitude>44.1958999634</Latitude>
+         <Longitude>-1.22240996361</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 09 45 07</Téléphone>
+      <Télécopie>+33 5 58 09 45 06</Télécopie>
+      <Email>pij@mimizan.com</Email>
+      <Url>http://www.info-jeune.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>le samedi, sur rendez-vous uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

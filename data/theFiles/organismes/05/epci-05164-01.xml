@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-05164-01" codeInsee="05164" dateMiseAJour="2015-08-18"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Savinois-Serre-Ponçon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 avenue de la Combe-d'Or</Ligne>
+      <CodePostal>05160</CodePostal>
+      <NomCommune>Savines-le-Lac</NomCommune>
+      <Localisation>
+         <Latitude>44.5261414</Latitude>
+         <Longitude>6.4047417</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 44 29 27</Téléphone>
+      <Email>http://www.lesavinoisserreponcon.fr/nous-contacter-1</Email>
+      <Url>http://www.lesavinoisserreponcon.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

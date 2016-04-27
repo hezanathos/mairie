@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdapp-2A004-01" codeInsee="2A004" dateMiseAJour="2013-04-25"
+           pivotLocal="fdapp">
+   <Nom>Fédération départementale de la pêche et de la protection du milieu aquatique de Corse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Docteur-Noël-Franchini</Ligne>
+      <Ligne>Immeuble Les Narcisses</Ligne>
+      <CodePostal>20090</CodePostal>
+      <NomCommune>Ajaccio</NomCommune>
+      <Localisation>
+         <Latitude>41.919229</Latitude>
+         <Longitude>8.738635</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 23 13 32</Téléphone>
+      <Télécopie>+33 4 95 23 13 32</Télécopie>
+      <Email>federation.peche.corse@wanadoo.fr</Email>
+      <Url>http://www.federationpeche.fr/20</Url>
+   </CoordonnéesNum>
+</Organisme>

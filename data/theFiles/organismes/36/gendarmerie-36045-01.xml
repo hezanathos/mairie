@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-36045-01" codeInsee="36045" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Châtillon-sur-Indre</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Résistance</Ligne>
+      <CodePostal>36700</CodePostal>
+      <NomCommune>Châtillon-sur-Indre</NomCommune>
+      <Localisation>
+         <Latitude>46.9892159</Latitude>
+         <Longitude>1.1714217</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 38 23 00</Téléphone>
+      <Télécopie>+33 2 54 38 23 04</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

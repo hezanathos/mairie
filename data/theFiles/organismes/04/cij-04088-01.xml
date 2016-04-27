@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-04088-01" codeInsee="04088" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Forcalquier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Salle Oxy'jeunes</Ligne>
+      <Ligne>Office municipal de la Jeunesse</Ligne>
+      <CodePostal>04300</CodePostal>
+      <NomCommune>FORCALQUIER</NomCommune>
+      <Localisation>
+         <Latitude>43.9597848</Latitude>
+         <Longitude>5.7809478</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 75 26 23</Téléphone>
+      <Télécopie>+33 4 92 75 10 98</Télécopie>
+   </CoordonnéesNum>
+</Organisme>

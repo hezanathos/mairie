@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-41143-01" codeInsee="41143" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Mondoubleau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 allée de la Gare</Ligne>
+      <Ligne>Maison des jeunes des Collines du Perche</Ligne>
+      <CodePostal>41170</CodePostal>
+      <NomCommune>Mondoubleau</NomCommune>
+      <Localisation>
+         <Latitude>47.9845565</Latitude>
+         <Longitude>0.8947547</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 89 73 85</Téléphone>
+      <Télécopie>+33 2 54 89 77 89</Télécopie>
+      <Email>pif.mondoubleau@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+         <Note>Accueil uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

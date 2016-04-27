@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-06083-01" codeInsee="06083" dateMiseAJour="2011-01-06" pivotLocal="pif">
+   <Nom>Point Info Famille du CCAS de Menton</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>4 promenade Maréchal Leclerc</Ligne>
+      <Ligne>Point info famille c.c.a.s. menton</Ligne>
+      <Ligne>BP 209</Ligne>
+      <CodePostal>06506</CodePostal>
+      <NomCommune>MENTON CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>43.7764015198</Latitude>
+         <Longitude>7.49465608597</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 41 76 34</Téléphone>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

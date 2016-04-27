@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-69064-01" codeInsee="69064" dateMiseAJour="2013-03-05" pivotLocal="cij">
+   <Nom>Point information jeunesse de Condrieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Communauté de communes de la Région de Condrieu</Ligne>
+      <Ligne>BP 12</Ligne>
+      <Ligne>1, place des Droits-de-l'Homme</Ligne>
+      <CodePostal>69420</CodePostal>
+      <NomCommune>Condrieu</NomCommune>
+      <Localisation>
+         <Latitude>45.4606974</Latitude>
+         <Longitude>4.7642953</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 56 89 46</Téléphone>
+      <Télécopie>+33 4 74 56 89 41</Télécopie>
+      <Email>ij.emploi@cc-regiondecondrieu.fr</Email>
+      <Url>http://www.ccregiondecondrieu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

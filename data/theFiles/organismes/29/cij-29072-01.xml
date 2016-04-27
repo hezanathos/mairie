@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-29072-01" codeInsee="29072" dateMiseAJour="2009-09-10" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Le Guilvinec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre des Loisirs et de la Culture</Ligne>
+      <Ligne>rue de Méjou Bihan</Ligne>
+      <CodePostal>29730</CodePostal>
+      <NomCommune>GUILVINEC</NomCommune>
+      <Localisation>
+         <Latitude>47.7977011926</Latitude>
+         <Longitude>-4.27724897861</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 58 22 65</Téléphone>
+      <Télécopie>+33 2 98 58 32 82</Télécopie>
+      <Url>http://www.crij-bretagne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

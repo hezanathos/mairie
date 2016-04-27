@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-85152-01" codeInsee="85152" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de La Mothe-Achard</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>151, avenue Georges-Clemenceau</Ligne>
+      <CodePostal>85150</CodePostal>
+      <NomCommune>La Mothe-Achard</NomCommune>
+      <Localisation>
+         <Latitude>46.6125989</Latitude>
+         <Longitude>-1.6610251</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 38 60 10</Téléphone>
+      <Email>bta.la-mothe-achard@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

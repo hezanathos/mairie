@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-65258-01" codeInsee="65258" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lannemezan</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>400, route de La Barthe</Ligne>
+      <CodePostal>65300</CodePostal>
+      <NomCommune>Lannemezan</NomCommune>
+      <Localisation>
+         <Latitude>43.1054866</Latitude>
+         <Longitude>0.3867007</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 50 17 70</Téléphone>
+      <Télécopie>+33 5 62 50 17 71</Télécopie>
+      <Email>cob.lannemezan@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

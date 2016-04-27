@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-19272-01" codeInsee="19272" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-130">
+   <Nom>Point d'information local dédié aux personnes âgées - Tulle</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Instance de Coordination de l'Autonomie</Ligne>
+      <Ligne>18 avenue Victor-Hugo</Ligne>
+      <CodePostal>19000</CodePostal>
+      <NomCommune>Tulle</NomCommune>
+      <Localisation>
+         <Latitude>45.263747</Latitude>
+         <Longitude>1.764656</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 26 68 55</Téléphone>
+      <Email>icatulleurbain@orange.fr</Email>
+      <Url>http://www.icatulleurbain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-91114-01" codeInsee="91114" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Brunoy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, avenue Pierre Prost</Ligne>
+      <CodePostal>91800</CodePostal>
+      <NomCommune>Brunoy</NomCommune>
+      <Localisation>
+         <Latitude>48.6971964</Latitude>
+         <Longitude>2.4960254</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 46 00 77</Téléphone>
+      <Télécopie>+33 1 60 46 46 89</Télécopie>
+      <Email>bta.brunoy@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

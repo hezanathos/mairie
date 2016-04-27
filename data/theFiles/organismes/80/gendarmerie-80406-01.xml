@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-80406-01" codeInsee="80406" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Hallencourt</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19, rue Louis Deneux</Ligne>
+      <CodePostal>80490</CodePostal>
+      <NomCommune>Hallencourt</NomCommune>
+      <Localisation>
+         <Latitude>49.9943231</Latitude>
+         <Longitude>1.8816179</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 27 31 17</Téléphone>
+      <Télécopie>+33 3 22 27 31 19</Télécopie>
+      <Email>cob.abbeville@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-33119-01" codeInsee="33119" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Hauts-de-Garonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>54 avenue Hubert-Dubedout</Ligne>
+      <CodePostal>33150</CodePostal>
+      <NomCommune>Cenon</NomCommune>
+      <Localisation>
+         <Latitude>44.8470001221</Latitude>
+         <Longitude>-0.510609984398</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 77 31 00</Téléphone>
+      <Télécopie>+33 5 57 77 31 09</Télécopie>
+      <Email>mldeshautsdegaronne@orange.fr</Email>
+      <Url>http://www.lamissionlocale.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

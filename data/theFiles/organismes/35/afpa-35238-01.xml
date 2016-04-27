@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-35238-01" codeInsee="35238" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Rennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZI Sud-Est</Ligne>
+      <Ligne>6 avenue du Haut-Sancé</Ligne>
+      <CodePostal>35000</CodePostal>
+      <NomCommune>Rennes</NomCommune>
+      <Localisation>
+         <Latitude>48.1199338</Latitude>
+         <Longitude>-1.6694244</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 2 99 86 88 39</Télécopie>
+      <Url>http://www.bretagne.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

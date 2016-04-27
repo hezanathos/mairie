@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-44003-01" codeInsee="44003" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-335">
+   <Nom>Point d'information local dédié aux personnes âgées - Ancenis</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 place Francis-Robert</Ligne>
+      <Ligne>Centre local d'information et de coordination du pays d'Ancenis</Ligne>
+      <CodePostal>44150</CodePostal>
+      <NomCommune>Ancenis</NomCommune>
+      <Localisation>
+         <Latitude>47.370137</Latitude>
+         <Longitude>-1.178814</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 96 12 51</Téléphone>
+      <Email>clic.ancenis@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

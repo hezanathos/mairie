@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-35206-01" codeInsee="35206" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Relais information jeunesse de Noyal-Châtillon-sur-Seiche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Xavier-Grall</Ligne>
+      <CodePostal>35230</CodePostal>
+      <NomCommune>Noyal-Châtillon-sur-Seiche</NomCommune>
+      <Localisation>
+         <Latitude>48.0376649</Latitude>
+         <Longitude>-1.6734175</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 05 20 60</Téléphone>
+      <Télécopie>+33 2 99 05 11 44</Télécopie>
+      <Email>espacejeunes@ville-noyal-chatillon.fr</Email>
+      <Url>http://www.ville-noyal-chatillon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+         <Note>Accueil ouvert du lundi au vendredi pendant les congés scolaires</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

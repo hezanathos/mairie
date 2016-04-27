@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97408-01" codeInsee="97408" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de La Possession</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41, rue Pablo Neruda</Ligne>
+      <CodePostal>97419</CodePostal>
+      <NomCommune>La Possession</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 42 00 47</Téléphone>
+      <Télécopie>+262 2 62 42 48 41</Télécopie>
+      <Email>bta.la-possession@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

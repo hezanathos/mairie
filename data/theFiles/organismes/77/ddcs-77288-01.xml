@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcs-77288-01" codeInsee="77288" dateMiseAJour="2012-12-03"
+           pivotLocal="ddcs">
+   <Nom>Direction départementale de la cohésion sociale (DDCS) - Seine-et-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, quai Hippolyte-Rossignol</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>Bâtiment A</Ligne>
+      <CodePostal>77010</CodePostal>
+      <NomCommune>Melun Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.5359851</Latitude>
+         <Longitude>2.6532575</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 41 58 00</Téléphone>
+      <Télécopie>+33 1 64 41 58 19</Télécopie>
+      <Email>ddcs@seine-et-marne.gouv.fr</Email>
+      <Url>http://www.ddcs77.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06029" dateMiseAJour="2015-03-13" id="prudhommes-06029-01" idPresta="4cac9e69293594648a0016dc" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Cannes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>19 boulevard CARNOT</Ligne>
+        <CodePostal>06400</CodePostal>
+        <NomCommune>CANNES</NomCommune>
+        <Localisation>
+            <Latitude>43.556256</Latitude>
+            <Longitude>7.01679</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 93 06 48 88</Téléphone>
+        <Télécopie>+33 4 92 98 90 55</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

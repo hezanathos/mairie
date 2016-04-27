@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72096-01" codeInsee="72096" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Coulans-sur-Gée</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, rue de l'Honneau</Ligne>
+      <CodePostal>72550</CodePostal>
+      <NomCommune>Coulans-sur-Gée</NomCommune>
+      <Localisation>
+         <Latitude>48.0232042</Latitude>
+         <Longitude>0.0133519</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 88 82 06</Téléphone>
+      <Télécopie>+33 2 43 88 82 67</Télécopie>
+      <Email>cob.la-suze-sur-sarthe@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

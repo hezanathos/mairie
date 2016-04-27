@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-77285-01" codeInsee="77285" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d'agriculture - Seine-et-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>418 rue Aristide-Briand</Ligne>
+      <CodePostal>77350</CodePostal>
+      <NomCommune>Le Mée-sur-Seine</NomCommune>
+      <Localisation>
+         <Latitude>48.539100647</Latitude>
+         <Longitude>2.64175009727</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 79 30 00</Téléphone>
+      <Télécopie>+33 1 64 39 62 52</Télécopie>
+      <Email>accueil@seine-et-marne.chambagri.fr</Email>
+      <Url>http://www.ile-de-france.chambagri.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

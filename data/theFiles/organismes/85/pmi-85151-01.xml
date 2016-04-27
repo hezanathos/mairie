@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-85151-01" codeInsee="85151" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Mortagne-sur-Sèvre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue des Madeleines</Ligne>
+      <Ligne>Centre de la petite enfance</Ligne>
+      <CodePostal>85290</CodePostal>
+      <NomCommune>Mortagne-sur-Sèvre</NomCommune>
+      <Localisation>
+         <Latitude>46.9902000427</Latitude>
+         <Longitude>-0.949180006981</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 65 03 38</Téléphone>
+      <Email>cms.mortagne@vendee.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

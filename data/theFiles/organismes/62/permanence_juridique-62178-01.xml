@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="62178" dateMiseAJour="2015-11-03" id="permanence_juridique-62178-01" idPresta="4cac9e60293594648a00038a" pivotLocal="permanence_juridique">
+    <Nom>Antenne juridique et de médiation de Bruay-la-Buissière</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Guichet d&#39;Accès au Droit et de Prévention des Litiges</Ligne>
+        <Ligne>Maison des Services</Ligne>
+        <Ligne>39 rue Pierre Beregovoy</Ligne>
+        <Ligne>BP 23</Ligne>
+        <CodePostal>62700</CodePostal>
+        <NomCommune>BRUAY LA BUISSIERE</NomCommune>
+        <Localisation>
+            <Latitude>50.482013</Latitude>
+            <Longitude>2.546085</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 59 41 34 13</Téléphone>
+        <Télécopie>+33 3 59 41 34 10</Télécopie>
+        <Email>mailto:gad@bruaylabuissiere.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

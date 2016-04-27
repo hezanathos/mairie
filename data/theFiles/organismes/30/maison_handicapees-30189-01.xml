@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="maison_handicapees-30189-01" codeInsee="30189" dateMiseAJour="2016-04-12"
+           pivotLocal="maison_handicapees">
+   <Nom>Maison départementale des personnes handicapées (MDPH) - Gard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parc Georges-Besse</Ligne>
+      <Ligne>115-116 allée Norbert-Wiener</Ligne>
+      <CodePostal>30000</CodePostal>
+      <NomCommune>Nîmes</NomCommune>
+      <Localisation>
+         <Latitude>43.8316993713</Latitude>
+         <Longitude>4.36323976517</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 02 78 00</Téléphone>
+      <Télécopie>+33 4 66 02 78 20</Télécopie>
+      <Email>mdph@gard.fr</Email>
+      <Url>http://www.handicap.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

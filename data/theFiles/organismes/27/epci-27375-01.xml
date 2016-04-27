@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-27375-01" codeInsee="27375" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d’agglomération Seine Eure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Thorel</Ligne>
+      <Ligne>CS 10514</Ligne>
+      <CodePostal>27405</CodePostal>
+      <NomCommune>Louviers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.2152946</Latitude>
+         <Longitude>1.1681968</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 50 85 50</Téléphone>
+      <Télécopie>+33 2 32 50 85 51</Télécopie>
+      <Email>agglo@seine-eure.com</Email>
+      <Url>http://www.agglo-seine-eure.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-75110-01" codeInsee="75110" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-680">
+   <Nom>Point d'information local dédié aux personnes âgées - Paris</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>126 quai de Jemmapes</Ligne>
+      <Ligne>Centre local d'information et de coordination Paris Emeraude Nord Est</Ligne>
+      <CodePostal>75010</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.875631</Latitude>
+         <Longitude>2.364478</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 40 40 27 80</Téléphone>
+      <Email>contactparisnord-est@clicparisemeraude.fr</Email>
+      <Url>http://www.paris.fr/pratique/accompagner-le-grand-age/ou-s-informer/points-paris-emeraude/rub_10249_stand_10838_port_25829</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

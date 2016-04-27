@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-92050-01" codeInsee="92050" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-821">
+   <Nom>Point d'information local dédié aux personnes âgées - Nanterre</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 place du Docteur Pierre</Ligne>
+      <Ligne>Centre local d'information et de coordination</Ligne>
+      <CodePostal>92000</CodePostal>
+      <NomCommune>Nanterre</NomCommune>
+      <Localisation>
+         <Latitude>48.898119</Latitude>
+         <Longitude>2.200594</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 41 91 10 30</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

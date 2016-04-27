@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-16015-05" codeInsee="16015" dateMiseAJour="2011-07-20" pivotLocal="pif">
+   <Nom>Point Info Famille ACAIQ CSCS Basseau</Nom>
+   <EditeurSource>Point Info Famille ACAIQ CSCS Basseau</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Angouleme</Ligne>
+      <CodePostal>16000</CodePostal>
+      <NomCommune>ANGOULEME</NomCommune>
+      <Localisation>
+         <Latitude>45.6489592</Latitude>
+         <Longitude>0.1562068</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

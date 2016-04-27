@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-07204-01" codeInsee="07204" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Agrève</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Les Allées</Ligne>
+      <CodePostal>07320</CodePostal>
+      <NomCommune>Saint-Agrève</NomCommune>
+      <Localisation>
+         <Latitude>45.006133</Latitude>
+         <Longitude>4.403687</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 30 10 34</Téléphone>
+      <Télécopie>+33 4 75 30 56 24</Télécopie>
+      <Email>cob.le-cheylard@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

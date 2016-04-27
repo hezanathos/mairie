@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-18165-01" codeInsee="18165" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Les Villages de la Forêt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Moulin-Gentil</Ligne>
+      <CodePostal>18330</CodePostal>
+      <NomCommune>Neuvy-sur-Barangeon</NomCommune>
+      <Localisation>
+         <Latitude>47.315155</Latitude>
+         <Longitude>2.2537379</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 51 03 06</Téléphone>
+      <Télécopie>+33 2 48 51 69 89</Télécopie>
+      <Email>contact@cc-villagesforet.fr</Email>
+      <Url>http://www.cc-villagesforet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

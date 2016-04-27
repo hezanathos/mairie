@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-58062-01" codeInsee="58062" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Nivernais-Morvan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de la solidarité</Ligne>
+      <Ligne>6 place Notre-Dame</Ligne>
+      <CodePostal>58120</CodePostal>
+      <NomCommune>Château-Chinon</NomCommune>
+      <Localisation>
+         <Latitude>47.0629005432</Latitude>
+         <Longitude>3.93408989906</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 85 10 77</Téléphone>
+      <Télécopie>+33 3 86 85 04 12</Télécopie>
+      <Email>mlmorvan@mlbourgogne.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

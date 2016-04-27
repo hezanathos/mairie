@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="54528" dateMiseAJour="2016-02-12" id="mjd-54528-01" idPresta="51b08cc3b473e41478000dad" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit de Toul</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Espace accueil service A.Malraux</Ligne>
+        <Ligne>place Henri Miller</Ligne>
+        <Ligne>quartier de la Croix de Metz</Ligne>
+        <CodePostal>54200</CodePostal>
+        <NomCommune>TOUL</NomCommune>
+        <Localisation>
+            <Latitude>48.690048</Latitude>
+            <Longitude>5.89765</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 83 64 66 60</Téléphone>
+        <Télécopie>+33 3 83 43 21 35</Télécopie>
+        <Email>mailto:mjd.toul@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

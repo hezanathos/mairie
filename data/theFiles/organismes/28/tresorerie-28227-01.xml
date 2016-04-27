@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-28227-01" codeInsee="28227" dateMiseAJour="2015-12-21"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Maintenon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27 bis rue Collin d'Harleville</Ligne>
+      <Ligne>Maison du Tailleur</Ligne>
+      <CodePostal>28130</CodePostal>
+      <NomCommune>Maintenon</NomCommune>
+      <Localisation>
+         <Latitude>48.588855</Latitude>
+         <Longitude>1.577802</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 32 67 97</Téléphone>
+      <Email>t028025@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

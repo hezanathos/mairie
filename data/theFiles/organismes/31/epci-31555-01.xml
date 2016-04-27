@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-31555-01" codeInsee="31555" dateMiseAJour="2015-05-18"
+           pivotLocal="epci">
+   <Nom>Toulouse Métropole</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue René Leduc</Ligne>
+      <Ligne>BP 35821</Ligne>
+      <CodePostal>31505</CodePostal>
+      <NomCommune>Toulouse Cedex 5</NomCommune>
+      <Localisation>
+         <Latitude>43.6108734</Latitude>
+         <Longitude>1.4573773</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 81 91 72 00</Téléphone>
+      <Email>accueil@toulouse-metropole.fr</Email>
+      <Url>http://www.toulouse-metropole.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

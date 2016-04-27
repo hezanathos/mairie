@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-35238-01" codeInsee="35238" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-284">
+   <Nom>Point d'information local dédié aux personnes âgées - Rennes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Georges-Dottin</Ligne>
+      <Ligne>Centre local d'information et de coordination de Rennes</Ligne>
+      <CodePostal>35000</CodePostal>
+      <NomCommune>Rennes</NomCommune>
+      <Localisation>
+         <Latitude>48.110858</Latitude>
+         <Longitude>-1.683146</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 23 62 21 40</Téléphone>
+      <Email>clic@ccasrennes.fr</Email>
+      <Url>http://metropole.rennes.frpratique/infos-demarches/retraites-personnes-agees/les-clic-information-et-conseils-aux-personnes-agees</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

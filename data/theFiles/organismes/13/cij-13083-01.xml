@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13083-01" codeInsee="13083" dateMiseAJour="2009-09-14" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Rognonas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue des Ecoles</Ligne>
+      <CodePostal>13870</CodePostal>
+      <NomCommune>ROGNONAS</NomCommune>
+      <Localisation>
+         <Latitude>43.8988990784</Latitude>
+         <Longitude>4.80335998535</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 94 84 43</Téléphone>
+      <Url>http://www.crijpa.com</Url>
+   </CoordonnéesNum>
+</Organisme>

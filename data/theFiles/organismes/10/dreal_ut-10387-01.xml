@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-10387-01" codeInsee="10387" dateMiseAJour="2014-07-18"
+           pivotLocal="dreal_ut">
+   <Nom>Unité territoriale - Direction régionale de l'environnement, de l'aménagement et du logement - Aube et Haute-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, boulevard Jules-Guesde</Ligne>
+      <Ligne>BP 377</Ligne>
+      <CodePostal>10025</CodePostal>
+      <NomCommune>Troyes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.2938</Latitude>
+         <Longitude>4.08189</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 82 66 20</Téléphone>
+      <Télécopie>+33 3 25 73 72 03</Télécopie>
+      <Url>http://www.champagne-ardenne.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

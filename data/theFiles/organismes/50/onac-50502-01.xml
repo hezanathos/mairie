@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-50502-01" codeInsee="50502" dateMiseAJour="2013-12-30"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Manche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parc d'activités du Golf</Ligne>
+      <Ligne>140, rue Alexis-de-Tocqueville</Ligne>
+      <CodePostal>50000</CodePostal>
+      <NomCommune>Saint-Lô</NomCommune>
+      <Localisation>
+         <Latitude>49.1027296</Latitude>
+         <Longitude>-1.0772556</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 57 99 50</Téléphone>
+      <Télécopie>+33 2 33 57 99 55</Télécopie>
+      <Email>http://www.onac-vg.fr/fr/contact/sid:61/</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

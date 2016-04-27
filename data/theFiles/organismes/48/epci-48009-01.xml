@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-48009-01" codeInsee="48009" dateMiseAJour="2015-01-06"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Terre de Peyre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route du Languedoc</Ligne>
+      <CodePostal>48130</CodePostal>
+      <NomCommune>Aumont-Aubrac</NomCommune>
+      <Localisation>
+         <Latitude>44.7122424</Latitude>
+         <Longitude>3.2849728</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 42 84 70</Téléphone>
+      <Email>http://communautedecommunesterredepeyre.fr/contacts</Email>
+      <Url>http://communautedecommunesterredepeyre.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-01033-01" codeInsee="01033" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays Bellegardien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 90320</Ligne>
+      <Ligne>5 rue des Papetiers</Ligne>
+      <CodePostal>01206</CodePostal>
+      <NomCommune>Bellegarde-sur-Valserine Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.1060615</Latitude>
+         <Longitude>5.8253947</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 48 19 78</Téléphone>
+      <Télécopie>+33 4 50 48 09 22</Télécopie>
+      <Email>info@ccpb01.fr</Email>
+      <Url>http://www.ccpb01.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

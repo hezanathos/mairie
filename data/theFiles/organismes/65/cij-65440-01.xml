@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-65440-01" codeInsee="65440" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Tarbes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Colomès-de-Juillan</Ligne>
+      <CodePostal>65000</CodePostal>
+      <NomCommune>Tarbes</NomCommune>
+      <Localisation>
+         <Latitude>43.2346288</Latitude>
+         <Longitude>0.0733323</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 93 22 12</Téléphone>
+      <Télécopie>+33 5 62 37 01 08</Télécopie>
+      <Email>bij@mairie-tarbes.fr</Email>
+      <Url>http://www.bijtarbes.fr.st</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

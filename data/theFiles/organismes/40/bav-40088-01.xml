@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="40088" dateMiseAJour="2012-06-19" id="bav-40088-01" idPresta="51b08cc9b473e41478000f09" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Dax</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue des Fusillés</Ligne>
+        <Ligne>BP 355</Ligne>
+        <CodePostal>40107</CodePostal>
+        <NomCommune>DAX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.709818</Latitude>
+            <Longitude>-1.051514</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 58 56 88 20</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

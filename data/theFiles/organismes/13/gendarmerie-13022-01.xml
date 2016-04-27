@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-13022-01" codeInsee="13022" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Cassis</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 rue de la Ciotat</Ligne>
+      <CodePostal>13260</CodePostal>
+      <NomCommune>Cassis</NomCommune>
+      <Localisation>
+         <Latitude>43.2150988</Latitude>
+         <Longitude>5.5420367</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 01 90 22</Téléphone>
+      <Télécopie>+33 4 42 01 88 44</Télécopie>
+      <Email>bta.cassis@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

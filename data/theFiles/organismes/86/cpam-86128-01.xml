@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-86128-01" codeInsee="86128" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Vienne - accueil de Lencloître</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>1 rue Général-Pierre</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>86140</CodePostal>
+      <NomCommune>Lencloître</NomCommune>
+      <Localisation>
+         <Latitude>46.8137316</Latitude>
+         <Longitude>0.327214</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>41 rue du Touffenet</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de la Vienne</Ligne>
+      <CodePostal>86043</CodePostal>
+      <NomCommune>Poitiers Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>46.580224</Latitude>
+         <Longitude>0.340375</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert le 1er jeudi du mois uniquement et accueil téléphonique du lundi au vendredi de 8h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

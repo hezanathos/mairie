@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-88160-03" codeInsee="88160" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Centre information jeunesse d'Épinal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social du plateau de la justice</Ligne>
+      <Ligne>2, rue Henry-Sellier</Ligne>
+      <CodePostal>88000</CodePostal>
+      <NomCommune>Épinal</NomCommune>
+      <Localisation>
+         <Latitude>48.1747751</Latitude>
+         <Longitude>6.4499833</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 68 51 29</Téléphone>
+      <Télécopie>+33 3 29 68 51 39</Télécopie>
+      <Email>bij@epinal.fr</Email>
+      <Url>http://www.epinal.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

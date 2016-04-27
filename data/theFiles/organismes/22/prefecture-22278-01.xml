@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture-22278-01" codeInsee="22278" dateMiseAJour="2014-07-03"
+           pivotLocal="prefecture">
+   <Nom>Préfecture - Côtes-d'Armor</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 2370</Ligne>
+      <Ligne>1, place du Général-de-Gaulle</Ligne>
+      <CodePostal>22023</CodePostal>
+      <NomCommune>Saint-Brieuc Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>48.514339447</Latitude>
+         <Longitude>-2.76440906525</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">boucle magnétique pour les malvoyants</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 62 44 22</Téléphone>
+      <Télécopie>+33 2 96 62 05 75</Télécopie>
+      <Email>prefecture@cotes-darmor.gouv.fr</Email>
+      <Url>http://www.cotes-darmor.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="16:15:00"/>
+         <Note>Accueil fermé le jeudi matin pour le service des étrangers</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

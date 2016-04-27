@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-97230-01" codeInsee="97230" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de La Trinité</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>École de la 2e-Chance</Ligne>
+      <Ligne>Quartier Beauséjour</Ligne>
+      <CodePostal>97220</CodePostal>
+      <NomCommune>La Trinité</NomCommune>
+      <Localisation>
+         <Latitude>14.7398683</Latitude>
+         <Longitude>-60.966599</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 596 66 15 11</Téléphone>
+      <Email>http://afpa-martinique.fr/contacts</Email>
+      <Url>http://afpa-martinique.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

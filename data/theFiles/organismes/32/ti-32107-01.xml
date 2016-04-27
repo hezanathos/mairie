@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="32107" dateMiseAJour="2014-01-28" id="ti-32107-01" idPresta="4cac9e61293594648a00063b" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Condom</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Lannelongue</Ligne>
+        <CodePostal>32100</CodePostal>
+        <NomCommune>CONDOM</NomCommune>
+        <Localisation>
+            <Latitude>43.9586285</Latitude>
+            <Longitude>0.3718807</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 28 15 49</Téléphone>
+        <Télécopie>+33 5 62 28 44 96</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

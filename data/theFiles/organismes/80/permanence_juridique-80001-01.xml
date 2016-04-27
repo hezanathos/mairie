@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="80001" dateMiseAJour="2015-11-03" id="permanence_juridique-80001-01" idPresta="4cac9e61293594648a0004bb" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques d&#39;Abbeville</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>rue aux Pareurs</Ligne>
+        <CodePostal>80100</CodePostal>
+        <NomCommune>ABBEVILLE</NomCommune>
+        <Localisation>
+            <Latitude>50.1103659</Latitude>
+            <Longitude>1.8333403</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 22 25 43 43</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

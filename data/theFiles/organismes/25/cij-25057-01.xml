@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-25057-01" codeInsee="25057" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Bethoncourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Impasse Parmentier</Ligne>
+      <CodePostal>25200</CodePostal>
+      <NomCommune>BETHONCOURT</NomCommune>
+      <Localisation>
+         <Latitude>47.5368995667</Latitude>
+         <Longitude>6.81127977371</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 92 90 81</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

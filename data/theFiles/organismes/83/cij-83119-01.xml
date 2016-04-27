@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-83119-01" codeInsee="83119" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Saint-Tropez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre communal d'action sociale</Ligne>
+      <Ligne>1, avenue Grangeon</Ligne>
+      <CodePostal>83990</CodePostal>
+      <NomCommune>Saint-Tropez</NomCommune>
+      <Localisation>
+         <Latitude>43.3104123</Latitude>
+         <Longitude>6.6334048</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 97 51 02</Téléphone>
+      <Télécopie>+33 4 94 97 02 45</Télécopie>
+      <Email>bij@ville-sainttropez.fr</Email>
+      <Url>http://www.ijca.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

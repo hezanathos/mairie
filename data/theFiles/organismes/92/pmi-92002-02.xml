@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-92002-02" codeInsee="92002" dateMiseAJour="2014-02-20" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) d'Antony - Riou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 bis, ruelle à Riou</Ligne>
+      <CodePostal>92160</CodePostal>
+      <NomCommune>Antony</NomCommune>
+      <Localisation>
+         <Latitude>48.7536659241</Latitude>
+         <Longitude>2.29711198807</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 46 66 76 19</Téléphone>
+      <Url>http://www.hauts-de-seine.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

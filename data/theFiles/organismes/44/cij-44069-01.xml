@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-44069-01" codeInsee="44069" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Guérande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Villa Millon</Ligne>
+      <Ligne>22, faubourg Saint-Michel</Ligne>
+      <CodePostal>44350</CodePostal>
+      <NomCommune>Guérande</NomCommune>
+      <Localisation>
+         <Latitude>47.326429</Latitude>
+         <Longitude>-2.424731</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 73 06 50</Téléphone>
+      <Télécopie>+33 2 40 42 99 46</Télécopie>
+      <Email>pij@arpeje-asso.com</Email>
+      <Url>http://www.infos-jeunes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Accueil sur rendez-vous également.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+         <Note>Accueil sur rendez-vous également.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

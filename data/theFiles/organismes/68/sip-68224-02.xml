@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-68224-02" codeInsee="68224" dateMiseAJour="2015-11-06" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Mulhouse Ville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, rue Coehorn</Ligne>
+      <Ligne>Cite administrative - Bâtiment D</Ligne>
+      <CodePostal>68085</CodePostal>
+      <NomCommune>Mulhouse Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.7579901</Latitude>
+         <Longitude>7.3375947</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 33 30 73</Téléphone>
+      <Email>sip.mulhouse-ville@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+         <Note>Accueil également sur rendez-vous. Fermé les mardi et jeudi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13081" dateMiseAJour="2015-11-03" id="permanence_juridique-13081-01" idPresta="4cac9e5e293594648a000149" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Social</Ligne>
+        <Ligne>rue Saint Eloi</Ligne>
+        <CodePostal>13340</CodePostal>
+        <NomCommune>ROGNAC</NomCommune>
+        <Localisation>
+            <Latitude>43.4869739</Latitude>
+            <Longitude>5.232089</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 87 75 70</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

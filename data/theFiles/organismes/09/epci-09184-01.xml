@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-09184-01" codeInsee="09184" dateMiseAJour="2015-02-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Volvestre Ariégeois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Ancienne école</Ligne>
+      <CodePostal>09230</CodePostal>
+      <NomCommune>Mauvezin-de-Sainte-Croix</NomCommune>
+      <Localisation>
+         <Latitude>43.078832</Latitude>
+         <Longitude>1.228359</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 66 66 10</Téléphone>
+      <Email>c.c.volvestre.ariegeois@wanadoo.fr</Email>
+      <Url>http://www.pays-couserans.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

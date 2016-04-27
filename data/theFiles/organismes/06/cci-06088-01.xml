@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cci-06088-01" codeInsee="06088" dateMiseAJour="2015-08-12" pivotLocal="cci">
+   <Nom>Chambre de commerce et d'industrie (CCI) - Nice - Cote-d'Azur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 11259</Ligne>
+      <Ligne>20 boulevard Carabacel</Ligne>
+      <CodePostal>06005</CodePostal>
+      <NomCommune>Nice Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>43.7038002014</Latitude>
+         <Longitude>7.27523994446</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0820 42 22 22</Téléphone>
+      <Url>http://www.cote-azur.cci.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88115-01" codeInsee="88115" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Corcieux</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2C, route de La Houssière</Ligne>
+      <CodePostal>88430</CodePostal>
+      <NomCommune>Corcieux</NomCommune>
+      <Localisation>
+         <Latitude>48.1732012</Latitude>
+         <Longitude>6.8812954</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 50 66 17</Téléphone>
+      <Télécopie>+33 3 29 50 77 65</Télécopie>
+      <Email>cob.fraize@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

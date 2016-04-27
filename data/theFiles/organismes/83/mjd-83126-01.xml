@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="83126" dateMiseAJour="2012-02-28" id="mjd-83126-01" idPresta="51b08c89b473e41478000158" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de la Seyne-sur-Mer</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>quartier Berthe</Ligne>
+        <Ligne>&#34;Le Germinal&#34; Bat. A4</Ligne>
+        <CodePostal>83500</CodePostal>
+        <NomCommune>LA SEYNE SUR MER</NomCommune>
+        <Localisation>
+            <Latitude>43.10298</Latitude>
+            <Longitude>5.878228</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 94 63 50 98</Téléphone>
+        <Email>mailto:mjd-la-seyne-sur-mer@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

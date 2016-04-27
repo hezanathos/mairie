@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commission_conciliation-77288-01" codeInsee="77288"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="commission_conciliation">
+   <Nom>Commission départementale de conciliation - Seine-et-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>288, avenue Georges-Clemenceau</Ligne>
+      <Ligne>BP 596</Ligne>
+      <CodePostal>77005</CodePostal>
+      <NomCommune>Melun Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.5484008789</Latitude>
+         <Longitude>2.66148996353</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 56 71 78</Téléphone>
+      <Télécopie>+33 1 60 56 71 06</Télécopie>
+      <Email>ddt-shru@seine-et-marne.gouv.fr</Email>
+      <Url>http://www.seine-et-marne.equipement-agriculture.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

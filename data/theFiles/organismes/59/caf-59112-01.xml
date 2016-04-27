@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-59112-01" codeInsee="59112" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Nord - accueil de Bruay-sur-l'Escaut</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>26 place Farineau</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>59860</CodePostal>
+      <NomCommune>Bruay-sur-l'Escaut</NomCommune>
+      <Localisation>
+         <Latitude>50.3973938</Latitude>
+         <Longitude>3.5370206</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Nord</Ligne>
+      <CodePostal>59863</CodePostal>
+      <NomCommune>Lille Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 59 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

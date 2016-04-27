@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-53127-01" codeInsee="53127" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lassay-les-Châteaux</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Couterne</Ligne>
+      <CodePostal>53110</CodePostal>
+      <NomCommune>Lassay-les-Châteaux</NomCommune>
+      <Localisation>
+         <Latitude>48.442517</Latitude>
+         <Longitude>-0.4840021</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 04 71 01</Téléphone>
+      <Télécopie>+33 2 43 04 60 61</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="27229" dateMiseAJour="2012-06-15" id="bav-27229-01" idPresta="51b08c8eb473e4147800024e" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance d&#39;Evreux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>palais de justice</Ligne>
+        <Ligne>30 rue Joséphine</Ligne>
+        <CodePostal>27022</CodePostal>
+        <NomCommune>EVREUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.02372</Latitude>
+            <Longitude>1.143641</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 32 29 55 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

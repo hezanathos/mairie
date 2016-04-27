@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-70550-01" codeInsee="70550" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Vesoul - Navenne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Victor-Hugo</Ligne>
+      <CodePostal>70000</CodePostal>
+      <NomCommune>Navenne</NomCommune>
+      <Localisation>
+         <Latitude>47.6066614</Latitude>
+         <Longitude>6.1647213</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 3 84 75 37 54</Télécopie>
+      <Url>http://franche-comte.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

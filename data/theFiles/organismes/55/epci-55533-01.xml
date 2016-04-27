@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-55533-01" codeInsee="55533" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Val des Couleurs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 avenue Raymond-Poincaré</Ligne>
+      <CodePostal>55140</CodePostal>
+      <NomCommune>Vaucouleurs</NomCommune>
+      <Localisation>
+         <Latitude>48.6039089</Latitude>
+         <Longitude>5.6682639</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 89 27 25</Téléphone>
+      <Télécopie>+33 3 29 89 23 55</Télécopie>
+      <Email>cdc.valdescouleurs@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

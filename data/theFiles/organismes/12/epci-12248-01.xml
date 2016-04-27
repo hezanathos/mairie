@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-12248-01" codeInsee="12248" dateMiseAJour="2015-09-02"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Saint Serninois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue d'Albi</Ligne>
+      <CodePostal>12380</CodePostal>
+      <NomCommune>Saint-Sernin-sur-Rance</NomCommune>
+      <Localisation>
+         <Latitude>43.8868377</Latitude>
+         <Longitude>2.6021876</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 99 69 92</Téléphone>
+      <Télécopie>+33 5 65 97 60 77</Télécopie>
+      <Email>cc.stsernin@wanadoo.fr</Email>
+      <Url>http://cc.stsernin.pagesperso-orange.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

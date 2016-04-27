@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-01283-01" codeInsee="01283" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta de Val-Bugey-Léman</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bellignat</Ligne>
+      <Ligne>Lycée Arbez-Carme</Ligne>
+      <Ligne>1, rue Pierre-et-Marie-Curie</Ligne>
+      <CodePostal>01117</CodePostal>
+      <NomCommune>Oyonnax Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.257773</Latitude>
+         <Longitude>5.655335</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 77 36 17</Téléphone>
+      <Télécopie>+33 4 74 81 97 71</Télécopie>
+      <Email>greta-vbl@ac-lyon.fr</Email>
+      <Url>http://www.ac-lyon.fr/greta/val-bugey-leman</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

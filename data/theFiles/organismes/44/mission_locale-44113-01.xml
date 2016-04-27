@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-44113-01" codeInsee="44113" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Nord-Atlantique</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Marie-Curie</Ligne>
+      <Ligne>Pôle des services du Pré-Saint-Pierre</Ligne>
+      <CodePostal>44170</CodePostal>
+      <NomCommune>Nozay</NomCommune>
+      <Localisation>
+         <Latitude>47.5640558</Latitude>
+         <Longitude>-1.6177956</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 79 33 49</Téléphone>
+      <Télécopie>+33 2 40 51 14 98</Télécopie>
+      <Email>contact@missionlocale-nordatlantique.com</Email>
+      <Url>http://www.missionlocalenordatlantique.wordpress.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

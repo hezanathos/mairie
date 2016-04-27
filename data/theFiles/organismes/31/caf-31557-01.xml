@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-31557-01" codeInsee="31557" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de la Haute-Garonne - accueil de Tournefeuille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre communal d'action sociale</Ligne>
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>31170</CodePostal>
+      <NomCommune>Tournefeuille</NomCommune>
+      <Localisation>
+         <Latitude>43.5831306</Latitude>
+         <Longitude>1.3459237</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>24 rue Riquet</Ligne>
+      <Ligne>Caisse d'allocations familiales de la Haute-Garonne</Ligne>
+      <CodePostal>31046</CodePostal>
+      <NomCommune>Toulouse Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 31 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

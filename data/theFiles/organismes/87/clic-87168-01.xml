@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-87168-01" codeInsee="87168" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-794">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Mathieu</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du département</Ligne>
+      <Ligne>9 route du Burgou</Ligne>
+      <CodePostal>87440</CodePostal>
+      <NomCommune>Saint-Mathieu</NomCommune>
+      <Localisation>
+         <Latitude>45.704469</Latitude>
+         <Longitude>0.760574</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 48 73 41</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

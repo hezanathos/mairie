@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="22278" dateMiseAJour="2014-01-28" id="ti-22278-01" idPresta="4cac9e87293594648a004cdc" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Saint-Brieuc</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 bis allée Marie Le Vaillant</Ligne>
+        <Ligne>BP 53548</Ligne>
+        <CodePostal>22035</CodePostal>
+        <NomCommune>ST BRIEUC CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>48.512636</Latitude>
+            <Longitude>-2.758852</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 96 62 64 20</Téléphone>
+        <Télécopie>+33 2 96 62 64 22</Télécopie>
+        <Email>mailto:ti-st-brieuc@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

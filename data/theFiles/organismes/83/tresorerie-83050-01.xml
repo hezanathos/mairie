@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-83050-01" codeInsee="83050" dateMiseAJour="2015-07-22"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie Draguignan Municipale</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 boulevard de la Liberté</Ligne>
+      <Ligne>CS 50409</Ligne>
+      <CodePostal>83008</CodePostal>
+      <NomCommune>Draguignan Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.5407288</Latitude>
+         <Longitude>6.4642351</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 98 10 37 81</Téléphone>
+      <Email>t083108@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-89024-01" codeInsee="89024" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) d'Auxerre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de l'Étang-Saint-Vigile</Ligne>
+      <CodePostal>89089</CodePostal>
+      <NomCommune>Auxerre Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.7991981506</Latitude>
+         <Longitude>3.57184004784</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 72 88 55</Téléphone>
+      <Télécopie>+33 3 86 72 88 56</Télécopie>
+      <Url>http://www.lyonne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

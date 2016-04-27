@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-62497-01" codeInsee="62497" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Leforest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 7</Ligne>
+      <Ligne>27 rue de Pressencé</Ligne>
+      <CodePostal>62790</CodePostal>
+      <NomCommune>Leforest</NomCommune>
+      <Localisation>
+         <Latitude>50.4397010803</Latitude>
+         <Longitude>3.06142997742</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 08 80 30</Téléphone>
+      <Télécopie>+33 3 21 60 91 54</Télécopie>
+      <Url>http://www.cg62.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-67482-03" codeInsee="67482" dateMiseAJour="2015-09-15"
+           pivotLocal="clic"
+           idPresta="Clic-1205">
+   <Nom>Point d'information local dédié aux personnes âgées - Strasbourg</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Clic Centre-Nord - Maison des Aînés</Ligne>
+      <Ligne>18 rue de la Doller</Ligne>
+      <CodePostal>67000</CodePostal>
+      <NomCommune>Strasbourg</NomCommune>
+      <Localisation>
+         <Latitude>48.61562</Latitude>
+         <Longitude>7.775234</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 31 81 84</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

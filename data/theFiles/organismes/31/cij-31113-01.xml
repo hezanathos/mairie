@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-31113-01" codeInsee="31113" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Castanet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Maison des Solidarités</Ligne>
+      <Ligne>11, rue du Stade</Ligne>
+      <CodePostal>31320</CodePostal>
+      <NomCommune>Castanet-Tolosan</NomCommune>
+      <Localisation>
+         <Latitude>43.5168843</Latitude>
+         <Longitude>1.4980887</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 82505</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>29, avenue de Toulouse</Ligne>
+      <CodePostal>31325</CodePostal>
+      <NomCommune>Castanet-Tolosan Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.5168843</Latitude>
+         <Longitude>1.4980887</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 66 73 14</Téléphone>
+      <Télécopie>+33 5 34 66 73 11</Télécopie>
+      <Email>pij.castanet@cias.sicoval.fr</Email>
+      <Url>http://www.ij-castanet.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil fermé à 17h durant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

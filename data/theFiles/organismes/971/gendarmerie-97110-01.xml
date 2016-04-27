@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97110-01" codeInsee="97110" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de La Désirade</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Île de La Désirade 9, rue Philippe Pain</Ligne>
+      <CodePostal>97127</CodePostal>
+      <NomCommune>La Désirade</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 22 47 60</Téléphone>
+      <Télécopie>+590 5 90 22 47 65</Télécopie>
+      <Email>bta.la-desirade@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

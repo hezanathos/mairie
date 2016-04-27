@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-17397-01" codeInsee="17397" dateMiseAJour="2012-11-06" pivotLocal="cij">
+   <Nom>Point information jeunesse de Saint-Savinien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue Saint-Michel</Ligne>
+      <CodePostal>17350</CodePostal>
+      <NomCommune>Saint-Savinien</NomCommune>
+      <Localisation>
+         <Latitude>45.8784375</Latitude>
+         <Longitude>-0.6805497</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 90 81 40</Téléphone>
+      <Email>SEJ@pays-savinois.fr</Email>
+      <Url>http://www.infojeunesse17.com</Url>
+   </CoordonnéesNum>
+</Organisme>

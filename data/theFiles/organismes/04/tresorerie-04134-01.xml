@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-04134-01" codeInsee="04134" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de La Motte - Turriers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la République</Ligne>
+      <Ligne>BP 1</Ligne>
+      <CodePostal>04250</CodePostal>
+      <NomCommune>La Motte-du-Caire</NomCommune>
+      <Localisation>
+         <Latitude>44.3437489</Latitude>
+         <Longitude>6.0285906</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 68 32 82</Téléphone>
+      <Email>t004016@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

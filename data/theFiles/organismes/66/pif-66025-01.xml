@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-66025-01" codeInsee="66025" dateMiseAJour="2011-01-06" pivotLocal="pif">
+   <Nom>Point Info Famille du PIJ de Cerdagne</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>rue du Collège</Ligne>
+      <CodePostal>66760</CodePostal>
+      <NomCommune>BOURG MADAME</NomCommune>
+      <Localisation>
+         <Latitude>42.4338340759</Latitude>
+         <Longitude>1.94395899773</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Email>pif-cerdagne@wanadoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

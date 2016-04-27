@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-27377-01" codeInsee="27377" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Lyons-la-Forêt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Vieux-Fossé</Ligne>
+      <Ligne>17, rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>27480</CodePostal>
+      <NomCommune>Lyons-la-Forêt</NomCommune>
+      <Localisation>
+         <Latitude>49.398575</Latitude>
+         <Longitude>1.475351</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">possibilité de se déplacer à domicile</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 48 02 82</Téléphone>
+      <Télécopie>+33 2 32 49 29 79</Télécopie>
+      <Email>cc.lyons.la.foret@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

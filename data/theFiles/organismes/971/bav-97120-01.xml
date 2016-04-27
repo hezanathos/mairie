@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="97120" dateMiseAJour="2014-06-09" id="bav-97120-01" idPresta="51b08c9eb473e414780005bc" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Pointe à Pitre</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Gourbeyre</Ligne>
+        <CodePostal>97110</CodePostal>
+        <NomCommune>POINTE A PITRE</NomCommune>
+        <Localisation>
+            <Latitude>16.238565</Latitude>
+            <Longitude>-61.534631</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 90 89 69 50</Téléphone>
+        <Télécopie>+33 5 90 48 12 47</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

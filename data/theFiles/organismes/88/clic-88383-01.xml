@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-88383-01" codeInsee="88383" dateMiseAJour="2016-03-22"
+           pivotLocal="clic"
+           idPresta="clic-802">
+   <Nom>Point d'information local dédié aux personnes âgées - Remiremont</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Remiremont et Vallées</Ligne>
+      <Ligne>8 place Henri-Utard</Ligne>
+      <CodePostal>88200</CodePostal>
+      <NomCommune>Remiremont</NomCommune>
+      <Localisation>
+         <Latitude>48.015918</Latitude>
+         <Longitude>6.59047</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 38 53 20</Téléphone>
+      <Email>clicremiremont@vosges.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-60338-01" codeInsee="60338" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Lacroix-Saint-Ouen</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>127, rue Nationale</Ligne>
+      <CodePostal>60610</CodePostal>
+      <NomCommune>Lacroix-Saint-Ouen</NomCommune>
+      <Localisation>
+         <Latitude>49.3600979</Latitude>
+         <Longitude>2.7930106</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 91 61 17</Téléphone>
+      <Télécopie>+33 3 44 91 61 19</Télécopie>
+      <Email>cgd.compiegne@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

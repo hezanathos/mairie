@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-26324-01" codeInsee="26324" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Saint-Paul-Trois-Châteaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 Le Courreau</Ligne>
+      <CodePostal>26130</CodePostal>
+      <NomCommune>Saint-Paul-Trois-Châteaux</NomCommune>
+      <Localisation>
+         <Latitude>44.3472292</Latitude>
+         <Longitude>4.7679958</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 04 70 13</Téléphone>
+      <Email>t026040@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

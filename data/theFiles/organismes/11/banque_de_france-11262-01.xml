@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="banque_de_france-11262-01" codeInsee="11262" dateMiseAJour="2015-02-24"
+           pivotLocal="banque_de_france">
+   <Nom>Banque de France, bureau d'accueil et d'information de Narbonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>1, avenue de la Naïade</Ligne>
+      <Ligne>Mairie de Narbonne Saint-Jean Saint-Pierre</Ligne>
+      <Ligne>Maison des Services</Ligne>
+      <CodePostal>11100</CodePostal>
+      <NomCommune>Narbonne</NomCommune>
+      <Localisation>
+         <Latitude>43.1851158</Latitude>
+         <Longitude>2.9794631</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 90008</Ligne>
+      <Ligne>5, rue Jean-Bringer</Ligne>
+      <CodePostal>11890</CodePostal>
+      <NomCommune>Carcassonne Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.2114331</Latitude>
+         <Longitude>2.3531482</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Carcassonne. Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.">+33 4 68 11 40 50</Téléphone>
+      <Email>infos@banque-france.fr</Email>
+      <Url>http://www.banque-france.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

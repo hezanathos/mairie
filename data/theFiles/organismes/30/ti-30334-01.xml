@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="30334" dateMiseAJour="2013-09-30" id="ti-30334-01" idPresta="4cac9ed7293594648a00ee3d" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance d&#39;Uzès</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place de l&#39;Evéché</Ligne>
+        <Ligne>CS 41109</Ligne>
+        <CodePostal>30701</CodePostal>
+        <NomCommune>UZES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.01251</Latitude>
+            <Longitude>4.421781</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 66 22 12 12</Téléphone>
+        <Télécopie>+33 4 66 22 98 20</Télécopie>
+        <Email>mailto:ti-uzes@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="17:30:00"/>
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <Note>Sauf vacances scolaires: 8h30-12h00 13h30-17h00.</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

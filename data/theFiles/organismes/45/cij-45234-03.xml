@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-45234-03" codeInsee="45234" dateMiseAJour="2006-03-29" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse d'Oléans La Source</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Antenne Emploi centre commercial 2002</Ligne>
+      <CodePostal>45100</CodePostal>
+      <NomCommune>ORLEANS</NomCommune>
+      <Localisation>
+         <Latitude>47.901386261</Latitude>
+         <Longitude>1.90397596359</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 76 06 33</Téléphone>
+      <Url>http://www.informationjeunesse-centre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

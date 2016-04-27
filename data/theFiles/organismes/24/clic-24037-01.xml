@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-24037-01" codeInsee="24037" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-182">
+   <Nom>Point d'information local dédié aux personnes âgées - Bergerac</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 boulevard Jean Moulin</Ligne>
+      <Ligne>Centre local d'information et de coordination du Bergeracois</Ligne>
+      <CodePostal>24100</CodePostal>
+      <NomCommune>Bergerac</NomCommune>
+      <Localisation>
+         <Latitude>44.855947</Latitude>
+         <Longitude>0.480892</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 74 13 03</Téléphone>
+      <Email>clic.bergeracois@wanadoo.fr</Email>
+      <Url>http://www.docvadis.fr/clic.bergeracois/index.html</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

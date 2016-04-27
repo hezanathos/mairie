@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-31282-01" codeInsee="31282" dateMiseAJour="2013-01-10" pivotLocal="cij">
+   <Nom>Point information jeunesse de Launaguet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des associations</Ligne>
+      <Ligne>Rue Jean Moulin</Ligne>
+      <CodePostal>31140</CodePostal>
+      <NomCommune>Launaguet</NomCommune>
+      <Localisation>
+         <Latitude>43.674017</Latitude>
+         <Longitude>1.4529129</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 27 18 56</Téléphone>
+      <Télécopie>+33 5 34 27 18 56</Télécopie>
+      <Email>pij@mairie-launaget.fr</Email>
+      <Url>http://www.crij.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert le matin sur rendez-vous</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="18:30:00"/>
+         <Note>Accueil ouvert le matin sur rendez-vous</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert le matin sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

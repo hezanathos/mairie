@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-40157-01" codeInsee="40157" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lit-et-Mixe</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>149 rue du Point-du-Jour</Ligne>
+      <CodePostal>40170</CodePostal>
+      <NomCommune>Lit-et-Mixe</NomCommune>
+      <Localisation>
+         <Latitude>44.0316707</Latitude>
+         <Longitude>-1.2502485</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 42 48 30</Téléphone>
+      <Télécopie>+33 5 58 42 48 33</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

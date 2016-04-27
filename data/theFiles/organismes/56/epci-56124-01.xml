@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-56124-01" codeInsee="56124" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Val d'Oust et de Lanvaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 80055</Ligne>
+      <Ligne>Parc d'activité de Tirten la Paviotaie</Ligne>
+      <CodePostal>56140</CodePostal>
+      <NomCommune>Malestroit</NomCommune>
+      <Localisation>
+         <Latitude>47.810173</Latitude>
+         <Longitude>-2.38333899999998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 75 01 02</Téléphone>
+      <Télécopie>+33 2 97 75 26 08</Télécopie>
+      <Email>admigen@ccvol.com</Email>
+      <Url>http://www.ccvol.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

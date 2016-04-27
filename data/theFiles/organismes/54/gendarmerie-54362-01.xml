@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-54362-01" codeInsee="54362" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Mercy-le-Bas</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue des Dahlias</Ligne>
+      <CodePostal>54960</CodePostal>
+      <NomCommune>Mercy-le-Bas</NomCommune>
+      <Localisation>
+         <Latitude>49.3920672</Latitude>
+         <Longitude>5.7619343</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 89 64 87</Téléphone>
+      <Télécopie>+33 3 82 89 93 17</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

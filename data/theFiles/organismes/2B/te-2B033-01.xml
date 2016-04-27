@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="2B033" dateMiseAJour="2014-01-28" id="te-2B033-01" idPresta="4cac9e6a293594648a001767" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Bastia</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Rond Point de Moro Giafferi</Ligne>
+        <CodePostal>20407</CodePostal>
+        <NomCommune>BASTIA CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>42.695661</Latitude>
+            <Longitude>9.446538</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 95 55 23 61</Téléphone>
+        <Télécopie>+33 4 95 29 06 05</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

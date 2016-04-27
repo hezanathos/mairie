@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-59512-01" codeInsee="59512" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) du Nord - accueil de Roubaix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>6 rue Rémy-Cogghe</Ligne>
+      <CodePostal>59100</CodePostal>
+      <NomCommune>Roubaix</NomCommune>
+      <Localisation>
+         <Latitude>50.6901066</Latitude>
+         <Longitude>3.1678724</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>63 du Rempart</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie du Nord</Ligne>
+      <Ligne>BP 60499</Ligne>
+      <CodePostal>59208</CodePostal>
+      <NomCommune>Tourcoing Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.7173142</Latitude>
+         <Longitude>3.1617906</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h30 à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

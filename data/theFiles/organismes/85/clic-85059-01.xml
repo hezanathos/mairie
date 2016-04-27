@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-85059-01" codeInsee="85059" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-752">
+   <Nom>Point d'information local dédié aux personnes âgées - La Châtaigneraie</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 place du Docteur Gaborit</Ligne>
+      <Ligne>Centre local d'information et de coordination Est Vendée</Ligne>
+      <CodePostal>85120</CodePostal>
+      <NomCommune>La Châtaigneraie</NomCommune>
+      <Localisation>
+         <Latitude>46.644176</Latitude>
+         <Longitude>-0.740578</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 52 66 74</Téléphone>
+      <Email>clic@hl-chataigneraie.idhl.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

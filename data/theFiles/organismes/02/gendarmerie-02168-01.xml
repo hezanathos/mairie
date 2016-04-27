@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02168-01" codeInsee="02168" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Château-Thierry</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 avenue de la République</Ligne>
+      <CodePostal>02400</CodePostal>
+      <NomCommune>Château-Thierry</NomCommune>
+      <Localisation>
+         <Latitude>49.0400286</Latitude>
+         <Longitude>3.4074034</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 83 07 46</Téléphone>
+      <Télécopie>+33 3 23 83 95 71</Télécopie>
+      <Email>cob.chateau-thierry@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

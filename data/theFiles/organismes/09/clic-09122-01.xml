@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-09122-01" codeInsee="09122" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-54">
+   <Nom>Point d'information local dédié aux personnes âgées - Foix</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1  avenue du Général-de-Gaulle</Ligne>
+      <Ligne>Centre local d'information et de coordination des Cantons de Foix</Ligne>
+      <CodePostal>09000</CodePostal>
+      <NomCommune>Foix</NomCommune>
+      <Localisation>
+         <Latitude>42.960406</Latitude>
+         <Longitude>1.609369</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 09 84 44</Téléphone>
+      <Email>clic@cc-paysdefoix.fr</Email>
+      <Url>http://www.cc-paysdefoix.fr/aines.aspx</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

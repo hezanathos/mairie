@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-53130-01" codeInsee="53130" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Mayenne - siège de Laval</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 boulevard Montmorency</Ligne>
+      <CodePostal>53084</CodePostal>
+      <NomCommune>Laval Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.0653539</Latitude>
+         <Longitude>-0.7573736</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Accueil fermé l'après-midi le 3e jeudi du mois. Accueil téléphonique du lundi au vendredi de 8h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

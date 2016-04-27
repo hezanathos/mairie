@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-70227-01" codeInsee="70227" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des 1000 Étangs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue Jeannot-Lamboley</Ligne>
+      <Ligne>Maison de pays</Ligne>
+      <CodePostal>70310</CodePostal>
+      <NomCommune>Faucogney-et-la-Mer</NomCommune>
+      <Localisation>
+         <Latitude>47.8437435</Latitude>
+         <Longitude>6.564135</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 49 34 03</Téléphone>
+      <Télécopie>+33 3 84 49 31 87</Télécopie>
+      <Email>info@cc-1000etangs.fr</Email>
+      <Url>http://www.cc-1000etangs.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

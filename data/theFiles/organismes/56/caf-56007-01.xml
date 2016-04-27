@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-56007-01" codeInsee="56007" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Morbihan - accueil d'Auray</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Porte Océane</Ligne>
+      <Ligne>Bâtiment A</Ligne>
+      <Ligne>Rue du Danemark</Ligne>
+      <Ligne>Immeuble Terre-et-Mer</Ligne>
+      <CodePostal>56406</CodePostal>
+      <NomCommune>Auray Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6674285</Latitude>
+         <Longitude>-3.0096078</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Morbihan</Ligne>
+      <Ligne>BP 322</Ligne>
+      <Ligne>70 rue de Sainte-Anne</Ligne>
+      <CodePostal>56018</CodePostal>
+      <NomCommune>Vannes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.663577</Latitude>
+         <Longitude>-2.7800963</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 56 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous à prendre au 0 810 25 56 10 ou sur votre espace "Mon compte" sur www.caf.fr.</Commentaire>
+</Organisme>

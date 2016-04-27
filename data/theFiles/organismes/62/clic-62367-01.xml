@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-62367-01" codeInsee="62367" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-544">
+   <Nom>Point d'information local dédié aux personnes âgées - Gauchin-Verloingt</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>172-178 rue d'Hesdin</Ligne>
+      <Ligne>Centre local d'information et de coordination du Ternois</Ligne>
+      <CodePostal>62130</CodePostal>
+      <NomCommune>Gauchin-Verloingt</NomCommune>
+      <Localisation>
+         <Latitude>50.377497</Latitude>
+         <Longitude>2.322547</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 47 29 14</Téléphone>
+      <Email>agt.stpol@orange.fr</Email>
+      <Url>http://www.agternois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

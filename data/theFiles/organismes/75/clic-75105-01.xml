@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-75105-01" codeInsee="75105" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-679">
+   <Nom>Point d'information local dédié aux personnes âgées - Paris</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Paris Emeraude Centre</Ligne>
+      <Ligne>169 rue Saint-Jacques</Ligne>
+      <CodePostal>75005</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.845765</Latitude>
+         <Longitude>2.342864</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro vert : appel et service gratuits depuis un fixe ou un mobile.">0805 023 023</Téléphone>
+      <Email>contactpariscentre@clicparisemeraude.fr</Email>
+      <Url>http://www.paris.fr/pratique/accompagner-le-grand-age/ou-s-informer/points-paris-emeraude/rub_10249_stand_10838_port_25829</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

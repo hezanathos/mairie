@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="07019" dateMiseAJour="2014-01-28" id="ti-07019-01" idPresta="4cac9ed7293594648a00ee2b" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance d&#39;Aubenas</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 rue Georges Couderc</Ligne>
+        <Ligne>BP 40001</Ligne>
+        <CodePostal>07203</CodePostal>
+        <NomCommune>AUBENAS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.617045</Latitude>
+            <Longitude>4.389615</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 75 39 11 31</Téléphone>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:30:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

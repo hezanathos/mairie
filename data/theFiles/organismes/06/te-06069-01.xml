@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06069" dateMiseAJour="2014-01-28" id="te-06069-01" idPresta="4cac9e6a293594648a00175f" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Grasse</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>37 avenue Pierre Semard</Ligne>
+        <Ligne>BP 71029</Ligne>
+        <CodePostal>06133</CodePostal>
+        <NomCommune>GRASSE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.656694</Latitude>
+            <Longitude>6.928526</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 60 72 85</Téléphone>
+        <Télécopie>+33 4 92 60 72 90</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

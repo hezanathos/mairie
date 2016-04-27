@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-83137-01" codeInsee="83137" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Var - accueil de Toulon - La Beaucaire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Avenue Albert-Camus</Ligne>
+      <CodePostal>83000</CodePostal>
+      <NomCommune>Toulon</NomCommune>
+      <Localisation>
+         <Latitude>43.1339617</Latitude>
+         <Longitude>5.882073</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>38 rue Émile-Ollivier</Ligne>
+      <Ligne>Caisse d'allocations familiales du Var</Ligne>
+      <CodePostal>83083</CodePostal>
+      <NomCommune>Toulon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.1193862</Latitude>
+         <Longitude>5.9438995</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 83 10</Téléphone>
+      <Télécopie>+33 4 94 09 74 05</Télécopie>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil avec et sans rendez-vous. Borne interactive accessible aux mêmes horaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

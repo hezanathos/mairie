@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93070" dateMiseAJour="2014-10-06" id="ti-93070-01" idPresta="4cac9e6a293594648a001827" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Saint-Ouen</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>4 rue Diderot</Ligne>
+        <CodePostal>93582</CodePostal>
+        <NomCommune>ST OUEN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.91095</Latitude>
+            <Longitude>2.334523</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 40 12 50 40</Téléphone>
+        <Email>mailto:ti-st-ouen@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

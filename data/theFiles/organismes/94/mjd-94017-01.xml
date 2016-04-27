@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="94017" dateMiseAJour="2010-02-03" id="mjd-94017-01" idPresta="51b08cc1b473e41478000d40" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Champigny-sur-Marne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>15 rue Albert Thomas</Ligne>
+        <CodePostal>94500</CodePostal>
+        <NomCommune>CHAMPIGNY SUR MARNE</NomCommune>
+        <Localisation>
+            <Latitude>48.8134859</Latitude>
+            <Longitude>2.51148</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 45 16 18 60</Téléphone>
+        <Télécopie>+33 1 45 16 18 69</Télécopie>
+        <Email>mailto:mjd.champigny-sur-marne@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>Uniquement sur rendez-vous les lundis et mercredis après-midi :</Note>
+        </PlageJ>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="14:00:00" fin="20:00:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="14:00:00" fin="17:30:00"/>
+            <Note>
+Accueil sans rendez-vous :</Note>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="11:00:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <Note>
+ATTENTION</Note>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="09:00:00" fin="11:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

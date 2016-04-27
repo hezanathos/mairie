@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-04070-01" codeInsee="04070" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Alpes-de-Haute-Provence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 70216</Ligne>
+      <Ligne>13 rue du Docteur-Romieu</Ligne>
+      <CodePostal>04995</CodePostal>
+      <NomCommune>Digne-les-Bains Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>44.0921199</Latitude>
+         <Longitude>6.2376605</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 30 04 00</Téléphone>
+      <Télécopie>+33 4 92 32 35 80</Télécopie>
+      <Email>president@cg04.fr</Email>
+      <Url>http://www.cg04.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

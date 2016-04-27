@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ars_antenne-05061-01" codeInsee="05061" dateMiseAJour="2014-03-03"
+           pivotLocal="ars_antenne">
+   <Nom>Délégation territoriale de l'Agence régionale de santé - Hautes Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bp 157</Ligne>
+      <Ligne>Cité administrative Desmichels</Ligne>
+      <CodePostal>05004</CodePostal>
+      <NomCommune>GAP CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>44.5599012</Latitude>
+         <Longitude>6.0759012</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 52 54 54</Téléphone>
+      <Télécopie>+33 4 92 53 78 26</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

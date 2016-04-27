@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-62119-01" codeInsee="62119" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de l'Artois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre Olympie 92</Ligne>
+      <Ligne>Place de la Communication</Ligne>
+      <Ligne>Avenue de Rome</Ligne>
+      <CodePostal>62400</CodePostal>
+      <NomCommune>Béthune</NomCommune>
+      <Localisation>
+         <Latitude>50.531842</Latitude>
+         <Longitude>2.637715</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 64 49 40</Téléphone>
+      <Télécopie>+33 3 21 64 49 41</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

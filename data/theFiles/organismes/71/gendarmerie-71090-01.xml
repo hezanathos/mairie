@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-71090-01" codeInsee="71090" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de La Chapelle-de-Guinchay</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Aux Gramatys</Ligne>
+      <CodePostal>71570</CodePostal>
+      <NomCommune>La Chapelle-de-Guinchay</NomCommune>
+      <Localisation>
+         <Latitude>46.207839</Latitude>
+         <Longitude>4.764874</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 23 94 54</Téléphone>
+      <Télécopie>+33 3 85 23 94 58</Télécopie>
+      <Email>bta.la-chapelle-de-guinchay@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

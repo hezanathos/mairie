@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cidf-24037-01" codeInsee="24037" dateMiseAJour="2015-04-19"
+           pivotLocal="cidf">
+   <Nom>Centre d'information sur les droits des femmes et des familles (CIDFF) - Dordogne - antenne de Bergerac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 boulevard Jean-Moulin</Ligne>
+      <CodePostal>24100</CodePostal>
+      <NomCommune>Bergerac</NomCommune>
+      <Localisation>
+         <Latitude>44.8557014465</Latitude>
+         <Longitude>0.480251014233</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plan incliné</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 63 32 30</Téléphone>
+      <Télécopie>+33 5 53 73 38 31</Télécopie>
+      <Email>cidff-dordogne24@orange.fr</Email>
+      <Url>http://www.infofemmes-aquitaine.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

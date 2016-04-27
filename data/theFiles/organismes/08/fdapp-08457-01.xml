@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdapp-08457-01" codeInsee="08457" dateMiseAJour="2014-10-08"
+           pivotLocal="fdapp">
+   <Nom>Fédération départementale pour la pêche et la protection du milieu aquatique - Ardennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parc d'activités Ardennes Émeraude</Ligne>
+      <CodePostal>08090</CodePostal>
+      <NomCommune>Tournes</NomCommune>
+      <Localisation>
+         <Latitude>49.797875</Latitude>
+         <Longitude>4.637346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 56 41 32</Téléphone>
+      <Télécopie>+33 3 24 59 31 11</Télécopie>
+      <Email>fedepecheardennes@wanadoo.fr</Email>
+      <Url>http://www.federationpeche.fr/08</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="14:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06088" dateMiseAJour="2015-11-03" id="permanence_juridique-06088-10" idPresta="4cd18fb329359405310109e0" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Nice</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal de grande instance</Ligne>
+        <Ligne>place du Palais de Justice</Ligne>
+        <CodePostal>06000</CodePostal>
+        <NomCommune>NICE</NomCommune>
+        <Localisation>
+            <Latitude>43.696467</Latitude>
+            <Longitude>7.273708</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 17 70 62</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

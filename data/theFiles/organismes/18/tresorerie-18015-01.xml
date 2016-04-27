@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-18015-01" codeInsee="18015" dateMiseAJour="2015-10-01"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie d'Aubigny-sur-Nère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2  Les Petits-Prés</Ligne>
+      <CodePostal>18700</CodePostal>
+      <NomCommune>Aubigny-sur-Nère</NomCommune>
+      <Localisation>
+         <Latitude>47.4892867</Latitude>
+         <Longitude>2.4386197</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 58 01 14</Téléphone>
+      <Email>t018003@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

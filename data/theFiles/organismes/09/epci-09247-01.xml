@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-09247-01" codeInsee="09247" dateMiseAJour="2015-08-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Val’Couserans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>09200</CodePostal>
+      <NomCommune>Rivèrenert</NomCommune>
+      <Localisation>
+         <Latitude>42.957551</Latitude>
+         <Longitude>1.229916</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 14 30 68</Téléphone>
+      <Email>http://val-couserans.fr/formulaire/formulaire.php</Email>
+      <Url>http://val-couserans.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-31254-01" codeInsee="31254" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Midi-Pyrénées - accueil de Haute-Garonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>166 rue Pierre-et-Marie-Curie</Ligne>
+      <CodePostal>31670</CodePostal>
+      <NomCommune>Labège Innopole</NomCommune>
+      <Localisation>
+         <Latitude>43.545368</Latitude>
+         <Longitude>1.5134387</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.midipyrenees.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

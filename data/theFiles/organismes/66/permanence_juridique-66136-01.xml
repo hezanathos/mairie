@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="66136" dateMiseAJour="2015-11-03" id="permanence_juridique-66136-01" idPresta="4cac9e60293594648a0003e5" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Perpignan</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Social - Annexe Mairie quartier Vernet Salanque</Ligne>
+        <CodePostal>66000</CodePostal>
+        <NomCommune>PERPIGNAN</NomCommune>
+        <Localisation>
+            <Latitude>42.700833</Latitude>
+            <Longitude>2.901666</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 68 66 34 56</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

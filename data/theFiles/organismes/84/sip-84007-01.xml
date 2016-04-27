@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-84007-01" codeInsee="84007" dateMiseAJour="2016-03-11" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques d'Avignon Est</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>CS 80051</Ligne>
+      <CodePostal>84098</CodePostal>
+      <NomCommune>Avignon Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.949317</Latitude>
+         <Longitude>4.805528</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 27 73 00</Téléphone>
+      <Email>sip.avignon@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

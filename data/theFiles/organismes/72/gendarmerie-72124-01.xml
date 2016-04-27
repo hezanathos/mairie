@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72124-01" codeInsee="72124" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Écommoy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, route de Tours</Ligne>
+      <CodePostal>72220</CodePostal>
+      <NomCommune>Écommoy</NomCommune>
+      <Localisation>
+         <Latitude>47.8271081</Latitude>
+         <Longitude>0.2812509</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 42 10 18</Téléphone>
+      <Télécopie>+33 2 43 42 76 84</Télécopie>
+      <Email>cob.monce-en-belin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

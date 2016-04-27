@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="04070" dateMiseAJour="2015-11-03" id="permanence_juridique-04070-02" idPresta="54abacaeb473e41acb5fec99" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Comarquage.fr</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>18 rue Aubin</Ligne>
+        <Ligne>Pôle social</Ligne>
+        <CodePostal>04000</CodePostal>
+        <NomCommune>DIGNE LES BAINS</NomCommune>
+        <Localisation>
+            <Latitude>44.0888159599</Latitude>
+            <Longitude>6.2335539379</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 72 23 64</Téléphone>
+        <Email>mailto:accueil-cdad04@orange.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>1er et 3ème mardi du mois</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

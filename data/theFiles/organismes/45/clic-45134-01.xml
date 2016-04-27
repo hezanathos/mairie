@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-45134-01" codeInsee="45134" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-350">
+   <Nom>Point d'information local dédié aux personnes âgées - Épieds-en-Beauce</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Union</Ligne>
+      <Ligne>Centre local d'information et de coordination Entraide</Ligne>
+      <Ligne>8A rue du Dolmen</Ligne>
+      <CodePostal>45130</CodePostal>
+      <NomCommune>Épieds-en-Beauce</NomCommune>
+      <Localisation>
+         <Latitude>47.946713</Latitude>
+         <Longitude>1.62069</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 74 62 40</Téléphone>
+      <Email>clic.entraideunion@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

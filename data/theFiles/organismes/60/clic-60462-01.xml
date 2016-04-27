@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-60462-01" codeInsee="60462" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-531">
+   <Nom>Point d'information local dédié aux personnes âgées - Noailles</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison Départementale de la Solidarité de Noailles</Ligne>
+      <Ligne>82 rue de Paris</Ligne>
+      <CodePostal>60430</CodePostal>
+      <NomCommune>Noailles</NomCommune>
+      <Localisation>
+         <Latitude>49.325408</Latitude>
+         <Longitude>2.200892</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 10 79 80</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

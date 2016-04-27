@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-87085-01" codeInsee="87085" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Direction régionale Limousin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 bis rue de la Font-Pinot</Ligne>
+      <CodePostal>87000</CodePostal>
+      <NomCommune>Limoges</NomCommune>
+      <Localisation>
+         <Latitude>45.81646</Latitude>
+         <Longitude>1.2508</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 5 55 32 48 69</Télécopie>
+      <Url>http://www.limousin.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

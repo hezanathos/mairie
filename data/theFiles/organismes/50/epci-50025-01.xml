@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-50025-01" codeInsee="50025" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Avranches Mont Saint Michel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Général-Ruel</Ligne>
+      <Ligne>BP 540</Ligne>
+      <CodePostal>50305</CodePostal>
+      <NomCommune>Avranches Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6845207214</Latitude>
+         <Longitude>-1.35164797306</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 89 67 00</Téléphone>
+      <Télécopie>+33 2 33 68 10 52</Télécopie>
+      <Email>accueil@ccamsm.fr</Email>
+      <Url>http://www.cc-avranchesmontsaintmichel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

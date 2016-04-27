@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-08105-01" codeInsee="08105" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Ardennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de Clèves</Ligne>
+      <Ligne>CS 80734</Ligne>
+      <CodePostal>08013</CodePostal>
+      <NomCommune>Charleville-Mézières Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.7715988159</Latitude>
+         <Longitude>4.72441005707</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 56 81 81</Téléphone>
+      <Télécopie>+33 3 24 56 81 88</Télécopie>
+      <Email>cma@cma-ardennes.fr</Email>
+      <Url>http://www.cma-ardennes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Permanence physique de 13h à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

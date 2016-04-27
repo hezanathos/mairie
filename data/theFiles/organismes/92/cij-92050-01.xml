@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-92050-01" codeInsee="92050" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Nanterre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>167-177 avenue Joliot Curie</Ligne>
+      <CodePostal>92000</CodePostal>
+      <NomCommune>NANTERRE</NomCommune>
+      <Localisation>
+         <Latitude>48.8959999084</Latitude>
+         <Longitude>2.21595001221</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 40 97 45 19</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

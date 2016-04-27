@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-59152-01" codeInsee="59152" dateMiseAJour="2009-09-28" pivotLocal="cij">
+   <Nom>Centre d'Information Jeunesse - Point information jeunesse de Comines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>35 rue viel dieu</Ligne>
+      <CodePostal>59560</CodePostal>
+      <NomCommune>COMINES</NomCommune>
+      <Localisation>
+         <Latitude>50.7593002319</Latitude>
+         <Longitude>3.01423001289</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 39 02 42</Téléphone>
+      <Url>http://www.crij-npdc.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

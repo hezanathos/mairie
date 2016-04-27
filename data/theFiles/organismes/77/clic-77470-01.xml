@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-77470-01" codeInsee="77470" dateMiseAJour="2015-07-10"
+           pivotLocal="clic"
+           idPresta="clic-1097">
+   <Nom>Point d'information local dédié aux personnes âgées - Tournan-en-Brie</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>99 rue de Paris</Ligne>
+      <Ligne>CLIC PEPS</Ligne>
+      <CodePostal>77220</CodePostal>
+      <NomCommune>Tournan-en-Brie</NomCommune>
+      <Localisation>
+         <Latitude>48.738535</Latitude>
+         <Longitude>2.75416</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 42 18 08</Téléphone>
+      <Email>clic.peps@epgtournan.fr</Email>
+      <Url>http://www.clicpeps-tournan.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

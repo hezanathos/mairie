@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-75116-01" codeInsee="75116" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Paris-Dauphine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Maréchal-de-Lattre-de-Tassigny</Ligne>
+      <Ligne>Rez-de-chaussée</Ligne>
+      <CodePostal>75775</CodePostal>
+      <NomCommune>Paris Cedex 16</NomCommune>
+      <Localisation>
+         <Latitude>48.871159</Latitude>
+         <Longitude>2.2745166</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 44 05 49 84</Téléphone>
+      <Email>scuio@dauphine.fr</Email>
+      <Url>http://www.dauphine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

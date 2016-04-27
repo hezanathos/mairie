@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-74182-01" codeInsee="74182" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Meythet</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du Nant</Ligne>
+      <CodePostal>74960</CodePostal>
+      <NomCommune>Meythet</NomCommune>
+      <Localisation>
+         <Latitude>45.9175306</Latitude>
+         <Longitude>6.0877247</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 24 52 40</Téléphone>
+      <Télécopie>+33 4 50 24 52 45</Télécopie>
+      <Email>cob.meythet@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

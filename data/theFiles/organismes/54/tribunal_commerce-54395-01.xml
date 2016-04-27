@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="54395" dateMiseAJour="2014-01-28" id="tribunal_commerce-54395-01" idPresta="4eb263302935944ef500018c" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Nancy</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue du Maréchal Juin</Ligne>
+        <Ligne>BP 30108</Ligne>
+        <CodePostal>54003</CodePostal>
+        <NomCommune>NANCY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.679227</Latitude>
+            <Longitude>6.174051</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 83 40 69 60</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

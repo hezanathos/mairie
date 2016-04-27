@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59172" dateMiseAJour="2012-10-31" id="mjd-59172-01" idPresta="51b08c91b473e414780002f7" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Denain</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>117 rue de Villars</Ligne>
+        <CodePostal>59220</CodePostal>
+        <NomCommune>DENAIN</NomCommune>
+        <Localisation>
+            <Latitude>50.326987</Latitude>
+            <Longitude>3.393121</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 27 43 69 30</Téléphone>
+        <Télécopie>+33 3 27 45 11 82</Télécopie>
+        <Email>mailto:mjd-denain@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

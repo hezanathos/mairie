@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-16281-01" codeInsee="16281" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Bandiat Tardoire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 avenue de la Gare</Ligne>
+      <Ligne>BP 14</Ligne>
+      <CodePostal>16110</CodePostal>
+      <NomCommune>La Rochefoucauld</NomCommune>
+      <Localisation>
+         <Latitude>45.740940094</Latitude>
+         <Longitude>0.387692004442</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 63 00 52</Téléphone>
+      <Télécopie>+33 5 45 63 15 36</Télécopie>
+      <Email>cdc@bandiat-tardoire.fr</Email>
+      <Url>http://www.bandiat-tardoire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

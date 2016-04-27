@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="55029" dateMiseAJour="2015-11-03" id="permanence_juridique-55029-01" idPresta="4cac9e5f293594648a00031a" pivotLocal="permanence_juridique">
+    <Nom>Permanences de consultations juridiques gratuites</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Salle Gaxotte, Espace Sainte Catherine, 1 place Sainte Catherine</Ligne>
+        <CodePostal>55000</CodePostal>
+        <NomCommune>BAR LE DUC</NomCommune>
+        <Localisation>
+            <Latitude>48.7801740382</Latitude>
+            <Longitude>5.16571201775</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 29 79 02 95</Téléphone>
+        <Télécopie>+33 3 29 79 18 33</Télécopie>
+        <Email>mailto:cdad-meuse@justice.fr</Email>
+        <Url>http://www.cdad-meuse.justice.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

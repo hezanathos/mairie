@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="62041" dateMiseAJour="2014-01-28" id="te-62041-01" idPresta="4cac9ed7293594648a00edd3" pivotLocal="te">
+    <Nom>Tribunal pour enfants d&#39;Arras</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>13 rue Roger Salengro</Ligne>
+        <CodePostal>62008</CodePostal>
+        <NomCommune>ARRAS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>50.2938427</Latitude>
+            <Longitude>2.7685987</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 21 51 84 40</Téléphone>
+        <Télécopie>+33 3 21 51 75 69</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

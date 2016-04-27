@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-42187-01" codeInsee="42187" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-325">
+   <Nom>Point d'information local dédié aux personnes âgées - Roanne</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison Loire Autonomie</Ligne>
+      <Ligne>31 rue Alexandre-Raffin</Ligne>
+      <CodePostal>42300</CodePostal>
+      <NomCommune>Roanne</NomCommune>
+      <Localisation>
+         <Latitude>46.034263</Latitude>
+         <Longitude>4.066697</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 49 91 91</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-26301-01" codeInsee="26301" dateMiseAJour="2015-08-04" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) - Centre médico-social - Saint-Donat-sur-l'Herbasse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 impasse des Jardins</Ligne>
+      <CodePostal>26260</CodePostal>
+      <NomCommune>Saint-Donat-sur-l'Herbasse</NomCommune>
+      <Localisation>
+         <Latitude>45.1170155</Latitude>
+         <Longitude>4.9592751</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 45 10 20</Téléphone>
+      <Télécopie>+33 4 75 45 14 42</Télécopie>
+      <Email>cms,saintdonat@ladrome.fr</Email>
+      <Url>http://www.drome.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil fermé : Mardi matin</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

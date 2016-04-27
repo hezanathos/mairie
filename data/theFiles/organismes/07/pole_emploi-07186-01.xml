@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-07186-01" codeInsee="07186" dateMiseAJour="2016-02-08"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Privas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier chamaras</Ligne>
+      <Ligne>CS 60712</Ligne>
+      <CodePostal>07007</CodePostal>
+      <NomCommune>Privas Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.735269</Latitude>
+         <Longitude>4.599039</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Ouverture uniquement sur RDV de 12h30 à 16h15 du lundi au jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

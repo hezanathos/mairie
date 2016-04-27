@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="57463" dateMiseAJour="2012-07-31" id="tribunal_commerce-57463-01" idPresta="4cac9e87293594648a004cd5" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de grande instance de Metz Chambre commerciale</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 rue Haute Pierre</Ligne>
+        <Ligne>BP 41045</Ligne>
+        <CodePostal>57036</CodePostal>
+        <NomCommune>METZ CEDEX 01</NomCommune>
+        <Localisation>
+            <Latitude>49.116779</Latitude>
+            <Longitude>6.171264</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 87 56 75 00</Téléphone>
+        <Télécopie>+33 3 87 56 75 15</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

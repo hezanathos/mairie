@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-63178-01" codeInsee="63178" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Issoire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des jeunes</Ligne>
+      <Ligne>Chemin du Bout-du-Monde</Ligne>
+      <CodePostal>63500</CodePostal>
+      <NomCommune>Issoire</NomCommune>
+      <Localisation>
+         <Latitude>45.54343</Latitude>
+         <Longitude>3.254911</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 89 45 71</Téléphone>
+      <Email>pij@issoire.fr</Email>
+      <Url>http://www.info-jeunes.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Ouvert du lundi au vendredi de 14h à 19h pendant les vacances scolaire.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

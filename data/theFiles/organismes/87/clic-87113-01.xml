@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-87113-01" codeInsee="87113" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-793">
+   <Nom>Point d'information local dédié aux personnes âgées - Le Palais-sur-Vienne</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du département</Ligne>
+      <Ligne>57 rue Jean Jaures</Ligne>
+      <CodePostal>87410</CodePostal>
+      <NomCommune>Le Palais-sur-Vienne</NomCommune>
+      <Localisation>
+         <Latitude>45.862131</Latitude>
+         <Longitude>1.322747</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 35 34 09</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

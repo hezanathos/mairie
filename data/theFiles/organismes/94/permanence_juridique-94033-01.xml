@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="94033" dateMiseAJour="2015-11-03" id="permanence_juridique-94033-01" idPresta="4cac9e61293594648a00056a" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Fontenay-Sous-Bois</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>12 bis avenue Charles Garcia</Ligne>
+        <CodePostal>94120</CodePostal>
+        <NomCommune>FONTENAY SOUS BOIS</NomCommune>
+        <Localisation>
+            <Latitude>48.8561719</Latitude>
+            <Longitude>2.4822134</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 48 75 46 96</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-97225-01" codeInsee="97225" dateMiseAJour="2015-05-19" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Martinique - accueil de Saint-Pierre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue de la Banque</Ligne>
+      <CodePostal>97250</CodePostal>
+      <NomCommune>Saint-Pierre</NomCommune>
+      <Localisation>
+         <Latitude>14.7434741</Latitude>
+         <Longitude>-61.1748422</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 421</Ligne>
+      <Ligne>Place d'Armes</Ligne>
+      <Ligne>Caisse d'allocations familiales de la Martinique</Ligne>
+      <CodePostal>97291</CodePostal>
+      <NomCommune>Lamentin Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>14.6132895</Latitude>
+         <Longitude>-60.9852089</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro magenta ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit).">0810 25 97 20</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="73011" dateMiseAJour="2015-11-03" id="permanence_juridique-73011-02" idPresta="4ff30ce329359406df00001f" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit destiné aux jeunes (Moins de 25 ans)</Nom>
+    <EditeurSource>Ministère de la Justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison de Justice et du Droit d&#39;ALBERTVILLE</Ligne>
+        <Ligne>2 avenue Victor Hugo</Ligne>
+        <CodePostal>73200</CodePostal>
+        <NomCommune>ALBERTVILLE</NomCommune>
+        <Localisation>
+            <Latitude>45.674652</Latitude>
+            <Longitude>6.387758</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 79 89 22 00</Téléphone>
+        <Télécopie>+33 4 79 31 81 36</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>Le 4ème jeudi du mois de 16h00 à 18h00 (prise de RDV à la Maison de Justice et du Droit)</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

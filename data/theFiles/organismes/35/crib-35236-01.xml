@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-35236-01" codeInsee="35236" dateMiseAJour="2015-04-19"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d’information des bénévoles (Crib) - Cades de Redon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue des Douves</Ligne>
+      <Ligne>BP 90646</Ligne>
+      <CodePostal>35606</CodePostal>
+      <NomCommune>Redon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6502085</Latitude>
+         <Longitude>-2.0861944</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 71 69 33</Téléphone>
+      <Télécopie>+33 2 99 72 50 04</Télécopie>
+      <Email>coordination@la-cades.fr</Email>
+      <Url>http://www.la-cades.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

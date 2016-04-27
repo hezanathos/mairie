@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-26198-01" codeInsee="26198" dateMiseAJour="2013-05-13" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Montélimar</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Rodolphe-Bringer</Ligne>
+      <Ligne>BP 257</Ligne>
+      <CodePostal>26216</CodePostal>
+      <NomCommune>Montélimar Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.5600479</Latitude>
+         <Longitude>4.7434196</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 00 38 00</Téléphone>
+      <Email>sip.montelimar@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13215-04" codeInsee="13215" dateMiseAJour="2009-09-15" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Marseille (15ème arrond)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>centre social du Grand St Antoine</Ligne>
+      <Ligne>boulevard du Commandant Tholon</Ligne>
+      <CodePostal>13015</CodePostal>
+      <NomCommune>MARSEILLE</NomCommune>
+      <Localisation>
+         <Latitude>43.3692681</Latitude>
+         <Longitude>5.3558915</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 51 55 93</Téléphone>
+      <Email>cco.st-antoine@9business.fr</Email>
+      <Url>http://www.crijpa.com</Url>
+   </CoordonnéesNum>
+</Organisme>

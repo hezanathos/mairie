@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="64102" dateMiseAJour="2014-01-28" id="tribunal_commerce-64102-01" idPresta="4eb263342935944ef50001d1" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Bayonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 avenue Marie Anne de Neubourg</Ligne>
+        <Ligne>BP 18180</Ligne>
+        <CodePostal>64181</CodePostal>
+        <NomCommune>BAYONNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.493704</Latitude>
+            <Longitude>-1.484753</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 59 46 33 00</Téléphone>
+        <Télécopie>+33 5 59 46 33 03</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

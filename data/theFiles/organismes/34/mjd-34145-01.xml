@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="34145" dateMiseAJour="2015-03-24" id="mjd-34145-01" idPresta="51b08ca3b473e414780006ca" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Lunel</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 rue des Caladons</Ligne>
+        <CodePostal>34400</CodePostal>
+        <NomCommune>LUNEL</NomCommune>
+        <Localisation>
+            <Latitude>43.674445</Latitude>
+            <Longitude>4.135373</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 67 83 61 54</Téléphone>
+        <Télécopie>+33 4 67 91 23 86</Télécopie>
+        <Email>mailto:mjd-lunel@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

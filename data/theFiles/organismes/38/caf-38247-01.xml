@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-38247-01" codeInsee="38247" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de l'Isère - accueil de Montalieu-Vercieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>12 rue du Besset</Ligne>
+      <Ligne>Ancienne école du château d'eau</Ligne>
+      <CodePostal>38390</CodePostal>
+      <NomCommune>Montalieu-Vercieu</NomCommune>
+      <Localisation>
+         <Latitude>45.8144458</Latitude>
+         <Longitude>5.4050892</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>3 rue des Alliés</Ligne>
+      <Ligne>Caisse d'allocations familiales de l'Isère</Ligne>
+      <CodePostal>38051</CodePostal>
+      <NomCommune>Grenoble Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 38 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h15 à 16h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

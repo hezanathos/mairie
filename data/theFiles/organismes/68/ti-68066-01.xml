@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="68066" dateMiseAJour="2014-01-28" id="ti-68066-01" idPresta="4cac9e87293594648a004ceb" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Colmar</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 rue des Augustins</Ligne>
+        <Ligne>CS 50466</Ligne>
+        <CodePostal>68020</CodePostal>
+        <NomCommune>COLMAR CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.076196</Latitude>
+            <Longitude>7.357105</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 89 24 45 24</Téléphone>
+        <Télécopie>+33 3 89 24 56 95</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-06083-01" codeInsee="06083" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Menton</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Ardoïno</Ligne>
+      <CodePostal>06500</CodePostal>
+      <NomCommune>Menton</NomCommune>
+      <Localisation>
+         <Latitude>43.7752486</Latitude>
+         <Longitude>7.5029936</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 28 60 50</Téléphone>
+      <Télécopie>+33 4 93 28 60 58</Télécopie>
+      <Email>bij.menton@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

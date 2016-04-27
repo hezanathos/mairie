@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-63113-01" codeInsee="63113" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Clermont-Ferrand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>64 boulevard Léon-Jouhaux</Ligne>
+      <CodePostal>63028</CodePostal>
+      <NomCommune>Clermont-Ferrand Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>45.7953264</Latitude>
+         <Longitude>3.1174135999999635</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 42 17 57</Téléphone>
+      <Télécopie>+33 4 73 42 17 52</Télécopie>
+      <Email>accueil@missionlocale-clermont.com</Email>
+      <Url>http://www.missionlocale-clermont.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

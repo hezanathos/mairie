@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-05038-01" codeInsee="05038" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Château-Ville-Vieille</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Château-Queyras</Ligne>
+      <CodePostal>05350</CodePostal>
+      <NomCommune>Château-Ville-Vieille</NomCommune>
+      <Localisation>
+         <Latitude>44.756909</Latitude>
+         <Longitude>6.791471</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 46 70 62</Téléphone>
+      <Télécopie>+33 4 92 43 00 24</Télécopie>
+      <Email>bta.chateau-ville-vieille@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

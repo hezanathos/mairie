@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-68334-01" codeInsee="68334"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Thann</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 40070</Ligne>
+      <Ligne>41 place De-Lattre-de-Tassigny</Ligne>
+      <Ligne>Tribunal d'instance de Thann</Ligne>
+      <Ligne>Service des associations</Ligne>
+      <CodePostal>68802</CodePostal>
+      <NomCommune>Thann Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.8130199</Latitude>
+         <Longitude>7.0975938</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 37 08 48</Téléphone>
+      <Télécopie>+33 3 89 37 52 79</Télécopie>
+      <Email>ti-thann@justice.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

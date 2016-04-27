@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-62268-01" codeInsee="62268" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Desvres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Claude</Ligne>
+      <CodePostal>62240</CodePostal>
+      <NomCommune>Desvres</NomCommune>
+      <Localisation>
+         <Latitude>50.6675117</Latitude>
+         <Longitude>1.8404058</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 99 26 00</Téléphone>
+      <Télécopie>+33 3 21 83 93 40</Télécopie>
+      <Email>aurelie.delamare@cc-desvressamer.fr</Email>
+      <Url>http://www.paysfaiencedesvres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

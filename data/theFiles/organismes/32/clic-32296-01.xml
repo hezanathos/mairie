@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-32296-01" codeInsee="32296" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-264">
+   <Nom>Point d'information local dédié aux personnes âgées - Nogaro</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 avenue Cassou-de-Herre</Ligne>
+      <Ligne>Centre local d'information et de coordination Gers Ouest</Ligne>
+      <CodePostal>32110</CodePostal>
+      <NomCommune>Nogaro</NomCommune>
+      <Localisation>
+         <Latitude>43.757408</Latitude>
+         <Longitude>-0.037562</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 81 67 12 13</Téléphone>
+      <Email>clic.nogaro@mdph32.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

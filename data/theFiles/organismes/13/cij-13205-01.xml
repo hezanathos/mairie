@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13205-01" codeInsee="13205" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Marseille - 5e arrondissement</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Madon</Ligne>
+      <Ligne>Centre municipale de ressources - Madon</Ligne>
+      <CodePostal>13005</CodePostal>
+      <NomCommune>Marseille</NomCommune>
+      <Localisation>
+         <Latitude>43.2952023</Latitude>
+         <Longitude>5.3995904</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 96 12 01 18</Téléphone>
+      <Télécopie>+33 4 95 08 21 04</Télécopie>
+      <Email>animadon@orange.fr</Email>
+      <Url>http://www.crijpa.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>De 9h à 13h uniquement accueil de groupe sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06163-01" codeInsee="06163" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Tende</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>81 avenue Georges-Bidault</Ligne>
+      <CodePostal>06430</CodePostal>
+      <NomCommune>Tende</NomCommune>
+      <Localisation>
+         <Latitude>44.0787418</Latitude>
+         <Longitude>7.5988575</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 04 62 07</Téléphone>
+      <Télécopie>+33 4 93 04 60 76</Télécopie>
+      <Email>cob.breil-sur-roya@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

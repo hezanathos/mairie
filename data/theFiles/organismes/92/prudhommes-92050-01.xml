@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="92050" dateMiseAJour="2014-01-28" id="prudhommes-92050-01" idPresta="4cac9e6a293594648a00170e" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Nanterre</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue Pablo Néruda</Ligne>
+        <CodePostal>92020</CodePostal>
+        <NomCommune>NANTERRE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.8956444</Latitude>
+            <Longitude>2.2158839</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 40 97 16 50</Téléphone>
+        <Télécopie>+33 1 40 97 16 51</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

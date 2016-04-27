@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-04209-01" codeInsee="04209" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Sisteronais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <CodePostal>04200</CodePostal>
+      <NomCommune>Sisteron</NomCommune>
+      <Localisation>
+         <Latitude>44.194713</Latitude>
+         <Longitude>5.943191</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 31 27 52</Téléphone>
+      <Télécopie>+33 4 92 31 99 02</Télécopie>
+      <Email>contact@ccsisteronais.fr</Email>
+      <Url>http://www.ccsisteronais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

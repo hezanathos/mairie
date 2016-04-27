@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="85191" dateMiseAJour="2014-11-24" id="bav-85191-01" idPresta="51b08c8eb473e41478000237" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de la Roche sur Yon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>55 boulevard Aristide Briand</Ligne>
+        <Ligne>BP 833</Ligne>
+        <CodePostal>85021</CodePostal>
+        <NomCommune>LA ROCHE SUR YON CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.671187</Latitude>
+            <Longitude>-1.432342</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 51 47 61 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

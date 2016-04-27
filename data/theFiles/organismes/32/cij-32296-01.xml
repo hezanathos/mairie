@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-32296-01" codeInsee="32296" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Nogaro</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23, avenue de Daniate</Ligne>
+      <CodePostal>32110</CodePostal>
+      <NomCommune>Nogaro</NomCommune>
+      <Localisation>
+         <Latitude>43.764995</Latitude>
+         <Longitude>-0.0318408</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 69 02 20</Téléphone>
+      <Télécopie>+33 5 62 69 02 20</Télécopie>
+      <Email>elodie.clan@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

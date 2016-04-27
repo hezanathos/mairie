@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-64536-01" codeInsee="64536" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du relais familles de Thèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Pyrénées</Ligne>
+      <CodePostal>64450</CodePostal>
+      <NomCommune>Thèze</NomCommune>
+      <Localisation>
+         <Latitude>43.463358</Latitude>
+         <Longitude>-0.3035185</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 04 31 90</Téléphone>
+      <Télécopie>+33 5 59 04 31 90</Télécopie>
+      <Email>familles.ruralestheze@wanadoo.fr</Email>
+      <Url>http://www.afr-theze.blogspot.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

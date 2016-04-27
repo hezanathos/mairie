@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-01202-01" codeInsee="01202" dateMiseAJour="2015-02-18"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Lagnieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 70079</Ligne>
+      <Ligne>4 rue Recteur-Perroud</Ligne>
+      <CodePostal>01152</CodePostal>
+      <NomCommune>Lagnieu Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.9025045</Latitude>
+         <Longitude>5.3486762</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 35 72 20</Téléphone>
+      <Email>t001017@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

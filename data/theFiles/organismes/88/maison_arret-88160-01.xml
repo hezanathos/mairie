@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="88160" dateMiseAJour="2014-01-28" id="maison_arret-88160-01" idPresta="4eb263272935944ef500011f" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt d&#39;Epinal</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>13 rue Villars</Ligne>
+        <Ligne>BP598</Ligne>
+        <CodePostal>88021</CodePostal>
+        <NomCommune>EPINAL CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.187413</Latitude>
+            <Longitude>6.466734</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 29 31 25 24</Téléphone>
+        <Télécopie>+33 3 29 31 92 87</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

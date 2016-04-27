@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88413-01" codeInsee="88413" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Dié-des-Vosges</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26, rue de Foucharupt</Ligne>
+      <CodePostal>88100</CodePostal>
+      <NomCommune>Saint-Dié-des-Vosges</NomCommune>
+      <Localisation>
+         <Latitude>48.2794077</Latitude>
+         <Longitude>6.9521909</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 56 21 31</Téléphone>
+      <Télécopie>+33 3 29 51 50 15</Télécopie>
+      <Email>cob.st-die-des-vosges@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

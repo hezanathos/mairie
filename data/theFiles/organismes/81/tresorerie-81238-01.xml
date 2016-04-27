@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-81238-01" codeInsee="81238" dateMiseAJour="2015-05-11"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Saint-Amans-Soult</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Allée de la Traverse</Ligne>
+      <CodePostal>81240</CodePostal>
+      <NomCommune>Saint-Amans-Soult</NomCommune>
+      <Localisation>
+         <Latitude>43.476103</Latitude>
+         <Longitude>2.489719</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 98 31 43</Téléphone>
+      <Email>t081032@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

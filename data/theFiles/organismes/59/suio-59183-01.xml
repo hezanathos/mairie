@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-59183-01" codeInsee="59183" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Dunkerque - Littoral Côte d'Opale</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>280 avenue de l'Université</Ligne>
+      <Ligne>Maison de l'étudiant</Ligne>
+      <Ligne>BP 5526</Ligne>
+      <CodePostal>59379</CodePostal>
+      <NomCommune>Dunkerque Cedex</NomCommune>
+      <Localisation>
+         <Latitude>51.0380253</Latitude>
+         <Longitude>2.3710612</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 23 75 50</Téléphone>
+      <Télécopie>+33 3 28 23 74 08</Télécopie>
+      <Email>suaio@univ-littoral.fr</Email>
+      <Url>http://www.univ-littoral.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

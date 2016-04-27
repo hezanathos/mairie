@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-87085-05" codeInsee="87085" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Val-de-l'Aurence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>31 rue Marcelle-Vardelle</Ligne>
+      <CodePostal>87100</CodePostal>
+      <NomCommune>Limoges</NomCommune>
+      <Localisation>
+         <Latitude>45.8285217285</Latitude>
+         <Longitude>1.26174604893</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 49 14 00</Téléphone>
+      <Télécopie>+33 5 55 49 14 09</Télécopie>
+      <Email>mission.locale@mlagglo-limoges.org</Email>
+      <Url>http://mission-locale-limoges.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil fermé le jeudi matin en semaine impaire.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

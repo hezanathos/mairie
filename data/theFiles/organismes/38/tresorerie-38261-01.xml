@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-38261-01" codeInsee="38261" dateMiseAJour="2015-10-16"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Morestel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>67 place des Quatre-Vies</Ligne>
+      <CodePostal>38510</CodePostal>
+      <NomCommune>Morestel</NomCommune>
+      <Localisation>
+         <Latitude>45.678043</Latitude>
+         <Longitude>5.469316</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 80 08 68</Téléphone>
+      <Télécopie>+33 4 74 80 32 12</Télécopie>
+      <Email>t038120@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

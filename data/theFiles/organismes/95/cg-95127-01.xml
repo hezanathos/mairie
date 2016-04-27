@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-95127-01" codeInsee="95127" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Val-d’Oise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 avenue du Parc</Ligne>
+      <Ligne>CS 20201</Ligne>
+      <Ligne>Hôtel du département</Ligne>
+      <CodePostal>95032</CodePostal>
+      <NomCommune>Cergy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.0348892212</Latitude>
+         <Longitude>2.07091999054</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 25 30 30</Téléphone>
+      <Télécopie>+33 1 34 25 33 00</Télécopie>
+      <Url>http://www.valdoise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

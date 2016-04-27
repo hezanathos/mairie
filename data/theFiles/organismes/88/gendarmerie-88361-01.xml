@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88361-01" codeInsee="88361" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Provenchères-sur-Fave</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Haute</Ligne>
+      <CodePostal>88490</CodePostal>
+      <NomCommune>Provenchères-sur-Fave</NomCommune>
+      <Localisation>
+         <Latitude>48.3090834</Latitude>
+         <Longitude>7.0805382</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 51 20 17</Téléphone>
+      <Télécopie>+33 3 29 51 57 15</Télécopie>
+      <Email>cob.st-die-des-vosges@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

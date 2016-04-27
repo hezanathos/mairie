@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-47157-01" codeInsee="47157" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du centre communal d'action sociale de Marmande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de la petite enfance Françoise-Dolto</Ligne>
+      <Ligne>Rue Pierre-Bérégovoy</Ligne>
+      <CodePostal>47200</CodePostal>
+      <NomCommune>Marmande</NomCommune>
+      <Localisation>
+         <Latitude>44.500543</Latitude>
+         <Longitude>0.163778</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 64 64 14</Téléphone>
+      <Email>agosti@mairie-marmande.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

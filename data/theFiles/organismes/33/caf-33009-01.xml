@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-33009-01" codeInsee="33009" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Gironde - accueil d'Arcachon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Résidence Henri-Valleau</Ligne>
+      <Ligne>1 place Jean-Moulin</Ligne>
+      <Ligne>Centre communal d'action sociale</Ligne>
+      <CodePostal>33120</CodePostal>
+      <NomCommune>Arcachon</NomCommune>
+      <Localisation>
+         <Latitude>44.6624734</Latitude>
+         <Longitude>-1.1689277</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de Gironde</Ligne>
+      <Ligne>Rue du Docteur-Gabriel-Péry</Ligne>
+      <CodePostal>33078</CodePostal>
+      <NomCommune>Bordeaux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.8897554</Latitude>
+         <Longitude>-0.5574969</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 33 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

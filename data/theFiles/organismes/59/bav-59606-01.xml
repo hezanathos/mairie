@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59606" dateMiseAJour="2013-12-17" id="bav-59606-01" idPresta="51b08cc2b473e41478000d89" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Valenciennes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 avenue des dentellieres</Ligne>
+        <Ligne>BP 10349</Ligne>
+        <CodePostal>59304</CodePostal>
+        <NomCommune>VALENCIENNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>50.356406</Latitude>
+            <Longitude>3.520207</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 27 14 67 00</Téléphone>
+        <Email>mailto:tgi-valenciennes@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-65209-01" codeInsee="65209" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Véziaux d'Aure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de la Moulette</Ligne>
+      <CodePostal>65240</CodePostal>
+      <NomCommune>Grézian</NomCommune>
+      <Localisation>
+         <Latitude>42.8692166</Latitude>
+         <Longitude>0.3499666</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 97 24</Téléphone>
+      <Télécopie>+33 5 62 39 27 57</Télécopie>
+      <Email>contact@veziauxdaure.fr</Email>
+      <Url>http://www.veziauxdaure.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

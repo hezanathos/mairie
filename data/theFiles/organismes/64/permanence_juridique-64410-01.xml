@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="64410" dateMiseAJour="2015-11-03" id="permanence_juridique-64410-01" idPresta="4cac9ed4293594648a00e948" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Mourenx</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie centre Duquesnois</Ligne>
+        <Ligne>1 place François Mitterand</Ligne>
+        <CodePostal>64150</CodePostal>
+        <NomCommune>MOURENX</NomCommune>
+        <Localisation>
+            <Latitude>43.3777153</Latitude>
+            <Longitude>-0.6084431</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

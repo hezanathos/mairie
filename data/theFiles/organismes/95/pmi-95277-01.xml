@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-95277-01" codeInsee="95277" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Gonesse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Henri-Dunant</Ligne>
+      <CodePostal>95500</CodePostal>
+      <NomCommune>Gonesse</NomCommune>
+      <Localisation>
+         <Latitude>48.9846000671</Latitude>
+         <Longitude>2.44933009148</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 85 11 37</Téléphone>
+      <Télécopie>+33 1 39 85 11 11</Télécopie>
+      <Url>http://www.valdoise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

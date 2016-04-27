@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="27056" dateMiseAJour="2014-01-28" id="tribunal_commerce-27056-01" idPresta="4eb263342935944ef50001dd" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Bernay</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>19 boulevard Dubus</Ligne>
+        <Ligne>BP 562</Ligne>
+        <CodePostal>27305</CodePostal>
+        <NomCommune>BERNAY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.087415</Latitude>
+            <Longitude>0.596679</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 32 44 78 27</Téléphone>
+        <Télécopie>+33 2 32 44 81 10</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

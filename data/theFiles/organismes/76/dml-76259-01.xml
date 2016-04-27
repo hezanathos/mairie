@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dml-76259-01" codeInsee="76259" dateMiseAJour="2015-04-19" pivotLocal="dml">
+   <Nom>Délégation à la mer et au littoral - Seine-Maritime</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>71 avenue Jean-Lorrain</Ligne>
+      <Ligne>BP 143</Ligne>
+      <Ligne>Direction départementale des territoires et de la mer</Ligne>
+      <CodePostal>76404</CodePostal>
+      <NomCommune>Fécamp Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.7599186</Latitude>
+         <Longitude>0.38564</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 10 34 32</Téléphone>
+      <Télécopie>+33 2 35 28 68 61</Télécopie>
+      <Email>ddtm-dml-gmep@seine-maritime.gouv.fr</Email>
+      <Url>http://www.seine-maritime.equipement.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil ouvert l'après-midi uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

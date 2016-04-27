@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-26362-01" codeInsee="26362" dateMiseAJour="2015-05-26"
+           pivotLocal="clic"
+           idPresta="clic-190">
+   <Nom>Point d'information local dédié aux personnes âgées - Valence</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Grand-Valentinois</Ligne>
+      <Ligne>15 rue Simone-Signoret</Ligne>
+      <CodePostal>26000</CodePostal>
+      <NomCommune>Valence</NomCommune>
+      <Localisation>
+         <Latitude>44.945626</Latitude>
+         <Longitude>4.912184</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 82 43 60</Téléphone>
+      <Email>clicgrandvalentinois@ladrome.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

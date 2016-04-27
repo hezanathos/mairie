@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-42218-01" codeInsee="42218" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-326">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Étienne</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison Loire Autonomie</Ligne>
+      <Ligne>23 rue d'Arcole</Ligne>
+      <CodePostal>42000</CodePostal>
+      <NomCommune>Saint-Étienne</NomCommune>
+      <Localisation>
+         <Latitude>45.439959</Latitude>
+         <Longitude>4.381651</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 49 91 91</Téléphone>
+      <Email>secretariat@resogeronto42.</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

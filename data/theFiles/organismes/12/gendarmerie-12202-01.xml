@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-12202-01" codeInsee="12202" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Rodez</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 avenue de l'Europe</Ligne>
+      <Ligne>Caserne Béteille</Ligne>
+      <CodePostal>12000</CodePostal>
+      <NomCommune>Rodez</NomCommune>
+      <Localisation>
+         <Latitude>44.3527639</Latitude>
+         <Longitude>2.5649918</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 73 70 00</Téléphone>
+      <Télécopie>+33 5 65 73 70 86</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

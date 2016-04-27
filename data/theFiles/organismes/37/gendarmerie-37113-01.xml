@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-37113-01" codeInsee="37113" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du Grand-Pressigny</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de la Butte</Ligne>
+      <CodePostal>37350</CodePostal>
+      <NomCommune>Le Grand-Pressigny</NomCommune>
+      <Localisation>
+         <Latitude>46.919923</Latitude>
+         <Longitude>0.8058208</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 91 34 50</Téléphone>
+      <Télécopie>+33 2 47 91 34 54</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

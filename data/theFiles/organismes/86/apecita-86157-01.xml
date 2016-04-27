@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="apecita-86157-01" codeInsee="86157" dateMiseAJour="2015-09-09"
+           pivotLocal="apecita">
+   <Nom>Association pour l'emploi des cadres, ingénieurs et techniciens de l'agriculture et de l'agroalimentaire (Apecita) - Poitou-Charentes - Limousin - Auvergne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2133 route de Chauvigny</Ligne>
+      <Ligne>CS 75005</Ligne>
+      <Ligne>Agropôle</Ligne>
+      <CodePostal>86550</CodePostal>
+      <NomCommune>Mignaloux-Beauvoir</NomCommune>
+      <Localisation>
+         <Latitude>46.5625991821</Latitude>
+         <Longitude>0.420298993587</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 44 75 34</Téléphone>
+      <Télécopie>+33 5 49 44 75 35</Télécopie>
+      <Email>poitiers@apecita.com</Email>
+      <Url>http://www.apecita.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

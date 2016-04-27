@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-68295-01" codeInsee="68295" dateMiseAJour="2015-04-19"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d'agriculture - Haut-Rhin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>BP 80037</Ligne>
+      <Ligne>11 rue Jean-Mermoz</Ligne>
+      <CodePostal>68127</CodePostal>
+      <NomCommune>Sainte-Croix-en-Plaine</NomCommune>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>2 rue de Rome</Ligne>
+      <Ligne>Espace européen de l'entreprise</Ligne>
+      <Ligne>BP 30022</Ligne>
+      <Ligne>Chambre d'agriculture - Bas-Rhin</Ligne>
+      <CodePostal>67013</CodePostal>
+      <NomCommune>Schiltigheim</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 20 97 00</Téléphone>
+      <Télécopie>+33 3 89 20 97 01</Télécopie>
+      <Email>direction@alsace.chambagri.fr</Email>
+      <Url>http://www.alsace.chambagri.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-87106-01" codeInsee="87106" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-798">
+   <Nom>Point d'information local dédié aux personnes âgées - Nexon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du département</Ligne>
+      <Ligne>25 rue François-Chénieux</Ligne>
+      <CodePostal>87800</CodePostal>
+      <NomCommune>Nexon</NomCommune>
+      <Localisation>
+         <Latitude>45.682657</Latitude>
+         <Longitude>1.18185</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 58 30 91</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

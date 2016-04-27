@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="14118" dateMiseAJour="2015-11-03" id="permanence_juridique-14118-02" idPresta="4dc1047629359431c4000000" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit (PAD) de CAEN</Nom>
+    <EditeurSource>Ministère de la Justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre ville - 8 place Saint Pierre</Ligne>
+        <CodePostal>14000</CodePostal>
+        <NomCommune>CAEN</NomCommune>
+        <Localisation>
+            <Latitude>49.1837168383</Latitude>
+            <Longitude>-0.361215488022</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 31 79 73 32</Téléphone>
+        <Email>mailto:cdad14@wanadoo.fr</Email>
+        <Url>http://www.ca-caen.justice.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

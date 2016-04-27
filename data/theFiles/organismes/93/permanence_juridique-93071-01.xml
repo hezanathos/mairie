@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93071" dateMiseAJour="2015-11-03" id="permanence_juridique-93071-01" idPresta="4cac9e61293594648a000562" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Sevran</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Pôle Tranquillité Publique</Ligne>
+        <Ligne>6 place de la Gare</Ligne>
+        <CodePostal>93270</CodePostal>
+        <NomCommune>SEVRAN</NomCommune>
+        <Localisation>
+            <Latitude>48.9358265</Latitude>
+            <Longitude>2.5337307</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 43 83 61 37</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

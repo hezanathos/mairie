@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-80013-01" codeInsee="80013" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Airaines</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue des Trépassés</Ligne>
+      <CodePostal>80270</CodePostal>
+      <NomCommune>Airaines</NomCommune>
+      <Localisation>
+         <Latitude>49.962997</Latitude>
+         <Longitude>1.9450346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 29 67 17</Téléphone>
+      <Télécopie>+33 3 22 29 67 19</Télécopie>
+      <Email>cob.oisemont@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

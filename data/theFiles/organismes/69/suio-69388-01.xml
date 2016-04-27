@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-69388-01" codeInsee="69388" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Lyon 1 - Secteur santé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 avenue Rockefeller</Ligne>
+      <CodePostal>69373</CodePostal>
+      <NomCommune>Lyon Cedex 8</NomCommune>
+      <Localisation>
+         <Latitude>45.7406335</Latitude>
+         <Longitude>4.8822641</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 77 70 92</Téléphone>
+      <Email>soie@univ-lyon1.fr</Email>
+      <Url>http://www.univ-lyon1.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous le matin.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

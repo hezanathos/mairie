@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-70561-01" codeInsee="70561" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Villersexel</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>147, rue du 13 Septembre 1944</Ligne>
+      <CodePostal>70110</CodePostal>
+      <NomCommune>Villersexel</NomCommune>
+      <Localisation>
+         <Latitude>47.5496044</Latitude>
+         <Longitude>6.4335387</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 20 51 17</Téléphone>
+      <Télécopie>+33 3 84 20 31 78</Télécopie>
+      <Email>cob.hericourt@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

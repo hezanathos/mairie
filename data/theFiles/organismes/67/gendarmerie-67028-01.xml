@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67028-01" codeInsee="67028" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Benfeld</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Joseph-Siat</Ligne>
+      <CodePostal>67230</CodePostal>
+      <NomCommune>Benfeld</NomCommune>
+      <Localisation>
+         <Latitude>48.3774216</Latitude>
+         <Longitude>7.5980617</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 74 40 42</Téléphone>
+      <Télécopie>+33 3 88 58 18 85</Télécopie>
+      <Email>bta.benfeld@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

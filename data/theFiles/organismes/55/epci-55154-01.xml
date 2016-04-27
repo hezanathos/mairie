@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-55154-01" codeInsee="55154" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Val de Meuse et de la Vallée de la Dieue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>43 rue du Rattentout</Ligne>
+      <CodePostal>55320</CodePostal>
+      <NomCommune>Dieue-sur-Meuse</NomCommune>
+      <Localisation>
+         <Latitude>49.0699551</Latitude>
+         <Longitude>5.4210257</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 87 60 75</Téléphone>
+      <Télécopie>+33 3 29 88 27 86</Télécopie>
+      <Email>valdemeuse-dieue@wanadoo.fr</Email>
+      <Url>http://www.tourisme-val-de-meuse.eu</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

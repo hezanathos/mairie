@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59139-01" codeInsee="59139" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Caudry</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>244, rue Henri Barbusse</Ligne>
+      <CodePostal>59540</CodePostal>
+      <NomCommune>Caudry</NomCommune>
+      <Localisation>
+         <Latitude>50.1243659</Latitude>
+         <Longitude>3.3995701</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 85 21 17</Téléphone>
+      <Télécopie>+33 3 27 85 80 90</Télécopie>
+      <Email>bta.caudry@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

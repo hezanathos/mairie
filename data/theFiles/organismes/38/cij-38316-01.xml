@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-38316-01" codeInsee="38316" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Pont-de-Chéruy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, rue Centrale</Ligne>
+      <CodePostal>38230</CodePostal>
+      <NomCommune>Pont-de-Chéruy</NomCommune>
+      <Localisation>
+         <Latitude>45.7509257</Latitude>
+         <Longitude>5.1729602</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 31 13 32</Téléphone>
+      <Télécopie>+33 4 27 11 84 30</Télécopie>
+      <Email>relaisemploi.pontdecheruy@gmail.com</Email>
+      <Url>http://www.relaisemploi-pij-pontdecheruy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

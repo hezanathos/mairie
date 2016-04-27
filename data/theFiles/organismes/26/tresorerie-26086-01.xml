@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-26086-01" codeInsee="26086" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Châtillon-en-Diois - Lus-la-Croix-Haute</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Reclus</Ligne>
+      <CodePostal>26410</CodePostal>
+      <NomCommune>Châtillon-en-Diois</NomCommune>
+      <Localisation>
+         <Latitude>44.694476</Latitude>
+         <Longitude>5.48793</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 21 12 44</Téléphone>
+      <Email>t026008@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

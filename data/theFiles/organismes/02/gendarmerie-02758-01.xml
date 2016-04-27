@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02758-01" codeInsee="02758" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vailly-sur-Aisne</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 avenue Jean Jaurès</Ligne>
+      <CodePostal>02370</CodePostal>
+      <NomCommune>Vailly-sur-Aisne</NomCommune>
+      <Localisation>
+         <Latitude>49.4073411</Latitude>
+         <Longitude>3.5157149</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 54 53 17</Téléphone>
+      <Télécopie>+33 3 23 54 53 19</Télécopie>
+      <Email>cob.braine@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

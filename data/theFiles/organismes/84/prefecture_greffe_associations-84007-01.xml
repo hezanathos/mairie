@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-84007-01" codeInsee="84007"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations d'Avignon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Préfecture du Vaucluse</Ligne>
+      <Ligne>28 boulevard Limbert</Ligne>
+      <Ligne>Bureau des associations</Ligne>
+      <CodePostal>84905</CodePostal>
+      <NomCommune>Avignon Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.9489103</Latitude>
+         <Longitude>4.8192372</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 88 17 81 12</Téléphone>
+      <Télécopie>+33 4 90 16 47 02</Télécopie>
+      <Email>gabriel.bagnol@vaucluse.gouv.fr</Email>
+      <Url>http://www.vaucluse.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Permanence téléphonique uniquement le matin et sur rendez-vous l'après-midi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-24067-01" codeInsee="24067" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Dordogne - accueil du Bugue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>2e étage</Ligne>
+      <Ligne>23 rue du Jardin-Public</Ligne>
+      <Ligne>Pôle service public</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>24260</CodePostal>
+      <NomCommune>Le Bugue</NomCommune>
+      <Localisation>
+         <Latitude>44.9186787</Latitude>
+         <Longitude>0.9251408</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de la Dordogne</Ligne>
+      <Ligne>50 rue Claude-Bernard</Ligne>
+      <CodePostal>24910</CodePostal>
+      <NomCommune>Périgueux Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>45.1803305</Latitude>
+         <Longitude>0.7097774</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h à 18h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

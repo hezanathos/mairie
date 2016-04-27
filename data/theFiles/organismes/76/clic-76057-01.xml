@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-76057-01" codeInsee="76057" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-692">
+   <Nom>Point d'information local dédié aux personnes âgées - Barentin</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 rue Pierre-et-Marie-Curie</Ligne>
+      <Ligne>Centre local d'information et de coordination Seine Austreberthe</Ligne>
+      <CodePostal>76360</CodePostal>
+      <NomCommune>Barentin</NomCommune>
+      <Localisation>
+         <Latitude>49.542275</Latitude>
+         <Longitude>0.954549</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 92 10 24</Téléphone>
+      <Email>clic.seineaustreberthe@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

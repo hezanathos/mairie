@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-04112-01" codeInsee="04112" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Manosque</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue Arthur-Robert</Ligne>
+      <CodePostal>04100</CodePostal>
+      <NomCommune>Manosque</NomCommune>
+      <Localisation>
+         <Latitude>43.8332741</Latitude>
+         <Longitude>5.7826055</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 87 61 37</Téléphone>
+      <Email>bij.manosque@wanadoo.fr</Email>
+      <Url>http://www.ville-manosque.fr/article.php3?id_article=1210</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

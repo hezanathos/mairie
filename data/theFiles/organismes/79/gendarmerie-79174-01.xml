@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-79174-01" codeInsee="79174" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Melle</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Commandant Bernier</Ligne>
+      <CodePostal>79500</CodePostal>
+      <NomCommune>Melle</NomCommune>
+      <Localisation>
+         <Latitude>46.2197778</Latitude>
+         <Longitude>-0.1459029</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 27 00 10</Téléphone>
+      <Télécopie>+33 5 49 27 97 36</Télécopie>
+      <Email>cob.melle@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

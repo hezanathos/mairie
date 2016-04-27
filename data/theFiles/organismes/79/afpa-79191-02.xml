@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-79191-02" codeInsee="79191" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Niort</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40 rue Pierre-Chantelauze</Ligne>
+      <CodePostal>79000</CodePostal>
+      <NomCommune>Niort</NomCommune>
+      <Localisation>
+         <Latitude>46.31167</Latitude>
+         <Longitude>-0.4410103</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 5 49 24 01 56</Télécopie>
+      <Url>http://www.poitou-charentes.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="26198" dateMiseAJour="2015-11-03" id="permanence_juridique-26198-01" idPresta="4cac9e5f293594648a0001d2" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Montélimar</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des Services Publics</Ligne>
+        <Ligne>quartier Saint Martin</Ligne>
+        <CodePostal>26200</CodePostal>
+        <NomCommune>MONTELIMAR</NomCommune>
+        <Localisation>
+            <Latitude>44.5586878</Latitude>
+            <Longitude>4.7509303</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 75 92 09 98</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

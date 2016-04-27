@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="10387" dateMiseAJour="2010-02-03" id="mjd-10387-01" idPresta="51b08c86b473e4147800007d" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Troyes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>4 rue Jaillard</Ligne>
+        <CodePostal>10000</CodePostal>
+        <NomCommune>TROYES</NomCommune>
+        <Localisation>
+            <Latitude>48.298951</Latitude>
+            <Longitude>4.083069</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 83 18 90</Téléphone>
+        <Télécopie>+33 3 25 40 31 84</Télécopie>
+        <Email>mailto:mjd-troyes@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

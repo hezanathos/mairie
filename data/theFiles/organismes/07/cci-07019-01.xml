@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cci-07019-01" codeInsee="07019" dateMiseAJour="2015-10-21" pivotLocal="cci">
+   <Nom>Chambre de commerce et d'industrie (CCI) - Ardèche - Délégation d'Aubenas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 chemin la Temple</Ligne>
+      <Ligne>BP 215</Ligne>
+      <CodePostal>07205</CodePostal>
+      <NomCommune>Aubenas Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.6385652</Latitude>
+         <Longitude>4.3802228</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 35 85 00</Téléphone>
+      <Télécopie>+33 4 75 35 85 01</Télécopie>
+      <Email>accueil@ardeche.cci.fr</Email>
+      <Url>http://www.ardeche.cci.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

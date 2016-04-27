@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-21087-01" codeInsee="21087" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bligny-sur-Ouche</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue d'Arnay</Ligne>
+      <CodePostal>21360</CodePostal>
+      <NomCommune>Bligny-sur-Ouche</NomCommune>
+      <Localisation>
+         <Latitude>47.1074227</Latitude>
+         <Longitude>4.6636659</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 20 11 17</Téléphone>
+      <Télécopie>+33 3 80 20 08 62</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

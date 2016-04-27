@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-02408-01" codeInsee="02408" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta de Laon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19, rue Léo-Lagrange</Ligne>
+      <CodePostal>02011</CodePostal>
+      <NomCommune>Laon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.5590115</Latitude>
+         <Longitude>3.6319605</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 20 45 84</Téléphone>
+      <Télécopie>+33 3 23 20 35 25</Télécopie>
+      <Email>greta.glt@ac-amiens.fr</Email>
+      <Url>http://www.greta.ac-amiens.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-2B009-01" codeInsee="2B009" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Aléria</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hameau de Cateraggio</Ligne>
+      <CodePostal>20270</CodePostal>
+      <NomCommune>Aléria</NomCommune>
+      <Localisation>
+         <Latitude>42.1196872</Latitude>
+         <Longitude>9.5112311</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 57 00 17</Téléphone>
+      <Télécopie>+33 4 95 57 20 99</Télécopie>
+      <Email>cob.aleria@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

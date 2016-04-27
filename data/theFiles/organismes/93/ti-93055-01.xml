@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93055" dateMiseAJour="2014-01-28" id="ti-93055-01" idPresta="4cac9e6a293594648a001824" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Pantin</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Immeuble &#34;Les Diamants&#34; Bât. A</Ligne>
+        <Ligne>41 rue Delizy</Ligne>
+        <CodePostal>93692</CodePostal>
+        <NomCommune>PANTIN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.897125</Latitude>
+            <Longitude>2.408159</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 48 44 44 27</Téléphone>
+        <Télécopie>+33 1 48 44 08 02</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:15:00" fin="15:45:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

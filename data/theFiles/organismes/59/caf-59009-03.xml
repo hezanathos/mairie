@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-59009-03" codeInsee="59009" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Nord - accueil de Villeneuve-d'Ascq</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre social Corneille</Ligne>
+      <Ligne>47 rue Corneille</Ligne>
+      <CodePostal>59650</CodePostal>
+      <NomCommune>Villeneuve-d'Ascq</NomCommune>
+      <Localisation>
+         <Latitude>50.6241312</Latitude>
+         <Longitude>3.142656</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Nord</Ligne>
+      <CodePostal>59863</CodePostal>
+      <NomCommune>Lille Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 59 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

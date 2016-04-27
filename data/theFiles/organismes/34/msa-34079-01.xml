@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-34079-01" codeInsee="34079" dateMiseAJour="2015-11-03" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Languedoc - accueil de Clermont-l'Hérault</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue Jean-Moulin</Ligne>
+      <CodePostal>34800</CodePostal>
+      <NomCommune>Clermont-l'Hérault</NomCommune>
+      <Localisation>
+         <Latitude>43.6337052</Latitude>
+         <Longitude>3.435636</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>TSA 54801</Ligne>
+      <Ligne>Mutualité sociale agricole Languedoc</Ligne>
+      <CodePostal>48007</CodePostal>
+      <NomCommune>Mende Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 34 80 00</Téléphone>
+      <Url>http://www.msalanguedoc.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

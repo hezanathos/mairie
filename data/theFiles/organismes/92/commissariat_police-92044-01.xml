@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-92044-01" codeInsee="92044" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Levallois-Perret</Nom>
+   <EditeurSource>Préfecture de police de Paris</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 bis rue Rivay</Ligne>
+      <CodePostal>92300</CodePostal>
+      <NomCommune>Levallois-Perret</NomCommune>
+      <Localisation>
+         <Latitude>48.8936266</Latitude>
+         <Longitude>2.2902396</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 55 90 01 20</Téléphone>
+      <Url>http://www.prefecturedepolice.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

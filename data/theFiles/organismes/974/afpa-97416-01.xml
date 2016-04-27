@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-97416-01" codeInsee="97416" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Saint-Pierre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>65 rue du Père-Lafosse</Ligne>
+      <CodePostal>97410</CodePostal>
+      <NomCommune>Saint-Pierrre</NomCommune>
+      <Localisation>
+         <Latitude>-21.3285069</Latitude>
+         <Longitude>55.4849003</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 262  96 13 31</Téléphone>
+      <Télécopie>+262 2 62 89 10 11</Télécopie>
+      <Email>cfpa-sud@afpar.com</Email>
+      <Url>http://www.afpar.com</Url>
+   </CoordonnéesNum>
+</Organisme>

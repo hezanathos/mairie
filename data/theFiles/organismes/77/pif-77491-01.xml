@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-77491-01" codeInsee="77491" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Veneux-les-Sablons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Pôle famille</Ligne>
+      <Ligne>5 bis rue de la République</Ligne>
+      <Ligne>École des parents et des éducateurs de Seine-et-Marne - Sud</Ligne>
+      <CodePostal>77250</CodePostal>
+      <NomCommune>Veneux-les-Sablons</NomCommune>
+      <Localisation>
+         <Latitude>48.3754665</Latitude>
+         <Longitude>2.798662</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 31 99 90</Téléphone>
+      <Télécopie>+33 1 64 31 99 90</Télécopie>
+      <Email>epe77sud@yahoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

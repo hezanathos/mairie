@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-12244-01" codeInsee="12244" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Saint-Rome-de-Tarn - Broquiès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Denis-Affre</Ligne>
+      <CodePostal>12490</CodePostal>
+      <NomCommune>Saint-Rome-de-Tarn</NomCommune>
+      <Localisation>
+         <Latitude>44.0478963</Latitude>
+         <Longitude>2.8929669</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 62 53 54</Téléphone>
+      <Email>t012040@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

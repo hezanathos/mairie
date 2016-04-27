@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="74281" dateMiseAJour="2012-06-21" id="bav-74281-01" idPresta="51b08ca2b473e414780006a7" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Thonon les Bains</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 rue de l&#39;Hotel-Dieu</Ligne>
+        <Ligne>BP 50529</Ligne>
+        <CodePostal>74200</CodePostal>
+        <NomCommune>THONON LES BAINS</NomCommune>
+        <Localisation>
+            <Latitude>46.369037</Latitude>
+            <Longitude>6.478793</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 50 81 20 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

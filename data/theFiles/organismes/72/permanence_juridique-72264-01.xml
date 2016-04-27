@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="72264" dateMiseAJour="2015-11-03" id="permanence_juridique-72264-01" idPresta="4e1d8ec52935945696000036" pivotLocal="permanence_juridique">
+    <Nom>Permanence d&#39;information et d&#39;orientation juridiques</Nom>
+    <EditeurSource>conseil départemental de l&#39;accès au droit de sarthe</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>25 bis rue pasteur</Ligne>
+        <Ligne>point accès au droit</Ligne>
+        <CodePostal>72300</CodePostal>
+        <NomCommune>SABLE SUR SARTHE</NomCommune>
+        <Localisation>
+            <Latitude>47.841424</Latitude>
+            <Longitude>-0.332754</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 54 10 37</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>SUR RENDEZ-VOUS
+dernier lundi du mois
+de 9H à 12 H</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

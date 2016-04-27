@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-13047-01" codeInsee="13047" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police d'Istres</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Yvan-Llopis</Ligne>
+      <CodePostal>13800</CodePostal>
+      <NomCommune>Istres</NomCommune>
+      <Localisation>
+         <Latitude>43.513006</Latitude>
+         <Longitude>4.987968</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 11 17 17</Téléphone>
+      <Email>ddsp13-csp-istres@interieur.gouv.fr</Email>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

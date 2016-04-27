@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72200-01" codeInsee="72200" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Moncé-en-Belin</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>101, boulevard des Avocats</Ligne>
+      <CodePostal>72230</CodePostal>
+      <NomCommune>Moncé-en-Belin</NomCommune>
+      <Localisation>
+         <Latitude>47.8980678</Latitude>
+         <Longitude>0.1933436</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 57 02 55</Téléphone>
+      <Télécopie>+33 2 43 57 02 63</Télécopie>
+      <Email>cob.monce-en-belin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

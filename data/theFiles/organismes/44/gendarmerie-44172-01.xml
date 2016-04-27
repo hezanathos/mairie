@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-44172-01" codeInsee="44172" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Sainte-Luce-sur-Loire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 route de Thouaré-sur-Loire</Ligne>
+      <CodePostal>44980</CodePostal>
+      <NomCommune>Sainte-Luce-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.2548495</Latitude>
+         <Longitude>-1.4720498</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 13 39 90</Téléphone>
+      <Télécopie>+33 2 51 13 39 99</Télécopie>
+      <Email>bta.ste-luce-sur-loire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

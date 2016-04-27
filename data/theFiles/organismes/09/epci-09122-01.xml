@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-09122-01" codeInsee="09122" dateMiseAJour="2015-08-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Foix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 A Avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>09000</CodePostal>
+      <NomCommune>Foix</NomCommune>
+      <Localisation>
+         <Latitude>42.9602252</Latitude>
+         <Longitude>1.6091745</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 09 09 30</Téléphone>
+      <Email>admin@cc-paysdefoix.fr</Email>
+      <Url>http://www.cc-paysdefoix.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

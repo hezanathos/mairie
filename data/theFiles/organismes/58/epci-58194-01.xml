@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-58194-01" codeInsee="58194" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération de Nevers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>124 route de Marzy</Ligne>
+      <Ligne>BP 41</Ligne>
+      <CodePostal>58027</CodePostal>
+      <NomCommune>Nevers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.9886840452</Latitude>
+         <Longitude>3.16354751587</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 61 81 60</Téléphone>
+      <Télécopie>+33 3 86 61 81 99</Télécopie>
+      <Email>hotel.communautaire@agglo-nevers.fr</Email>
+      <Url>http://www.agglo-nevers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

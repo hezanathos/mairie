@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-2A247-01" codeInsee="2A247" dateMiseAJour="2016-02-24"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Porto Vecchio</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Maréchal Juin</Ligne>
+      <CodePostal>20137</CodePostal>
+      <NomCommune>Porto-Veccio</NomCommune>
+      <Localisation>
+         <Latitude>41.584058</Latitude>
+         <Longitude>9.275814</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 70 12 40</Téléphone>
+      <Télécopie>+33 4 95 70 15 40</Télécopie>
+      <Email>t02a013@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

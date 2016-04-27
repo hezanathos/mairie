@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-39154-01" codeInsee="39154" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Clairvaux-les-Lacs</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Solidarité</Ligne>
+      <CodePostal>39130</CodePostal>
+      <NomCommune>Clairvaux-les-Lacs</NomCommune>
+      <Localisation>
+         <Latitude>46.5809734</Latitude>
+         <Longitude>5.7468507</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 25 81 68</Téléphone>
+      <Télécopie>+33 3 84 25 88 46</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

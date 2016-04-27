@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-45224-01" codeInsee="45224" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Loiret - accueil de Neuville-aux-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre social</Ligne>
+      <Ligne>2 avenue du 8-Mai-1945</Ligne>
+      <CodePostal>45170</CodePostal>
+      <NomCommune>Neuville-aux-Bois</NomCommune>
+      <Localisation>
+         <Latitude>50.2980584</Latitude>
+         <Longitude>3.3569608</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Loiret</Ligne>
+      <Ligne>2 place Saint-Charles</Ligne>
+      <CodePostal>45946</CodePostal>
+      <NomCommune>Orléans Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 45 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

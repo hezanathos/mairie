@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-87085-01" codeInsee="87085" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-771">
+   <Nom>Point d'information local dédié aux personnes âgées - Limoges</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4bis avenue Lacarno</Ligne>
+      <Ligne>Maison du département</Ligne>
+      <CodePostal>87000</CodePostal>
+      <NomCommune>Limoges</NomCommune>
+      <Localisation>
+         <Latitude>45.834481</Latitude>
+         <Longitude>1.268995</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 45 13 30</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

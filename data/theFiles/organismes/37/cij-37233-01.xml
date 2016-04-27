@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-37233-01" codeInsee="37233" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Saint-Pierre-des-Corps</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue de l'Aubrière</Ligne>
+      <Ligne>Maison de l'Aubrière</Ligne>
+      <CodePostal>37700</CodePostal>
+      <NomCommune>Saint-Pierre-des-Corps</NomCommune>
+      <Localisation>
+         <Latitude>47.3944764</Latitude>
+         <Longitude>0.7241157</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Mairie de Saint-Pierre-des-Corps</Ligne>
+      <Ligne>BP 357</Ligne>
+      <CodePostal>37703</CodePostal>
+      <NomCommune>Saint-Pierre-des-Corps</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 44 39 16</Téléphone>
+      <Télécopie>+33 2 47 44 17 96</Télécopie>
+      <Email>fmj@mairie-stpierredescorps.fr</Email>
+      <Url>http://www.informationjeunesse-centre.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

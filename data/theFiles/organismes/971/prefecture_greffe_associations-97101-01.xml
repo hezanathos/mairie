@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-97101-01" codeInsee="97101"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations des Abymes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Ancien aéroport du Raizet</Ligne>
+      <Ligne>Direction de la jeunesse des sports et de la cohésion sociale de Guadeloupe</Ligne>
+      <CodePostal>97139</CodePostal>
+      <NomCommune>Les Abymes</NomCommune>
+      <Localisation>
+         <Latitude>16.264684</Latitude>
+         <Longitude>-61.526651</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 48 91 66</Téléphone>
+      <Télécopie>+590 5 90 83 21 86</Télécopie>
+      <Email>marlene.souffleur@drjscs.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

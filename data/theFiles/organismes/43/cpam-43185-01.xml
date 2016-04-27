@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-43185-01" codeInsee="43185" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Haute-Loire - accueil de Sainte-Florine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place du Marché</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>43250</CodePostal>
+      <NomCommune>Sainte-Florine</NomCommune>
+      <Localisation>
+         <Latitude>45.4051509</Latitude>
+         <Longitude>3.319488</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>10 avenue André-Soulier</Ligne>
+      <Ligne>CS 70324</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de Haute-Loire</Ligne>
+      <CodePostal>43009</CodePostal>
+      <NomCommune>Le Puy-en-Velay Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.0372723</Latitude>
+         <Longitude>3.8840959</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Email>http://www.ameli.fr/assures/votre-caisse-haute-loire/nous-contacter/par-e-mail_haute-loire.php</Email>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

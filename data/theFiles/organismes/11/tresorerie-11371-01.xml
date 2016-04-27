@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-11371-01" codeInsee="11371" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Salles-sur-l'Hers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 place Marengo</Ligne>
+      <CodePostal>11410</CodePostal>
+      <NomCommune>Salles-sur-l'Hers</NomCommune>
+      <Localisation>
+         <Latitude>43.293633</Latitude>
+         <Longitude>1.7872179</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 60 30 21</Téléphone>
+      <Email>t011037@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

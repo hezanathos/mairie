@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-17264-01" codeInsee="17264" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Nieul-sur-Mer</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Champ Pinson</Ligne>
+      <CodePostal>17137</CodePostal>
+      <NomCommune>Nieul-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>46.2059879</Latitude>
+         <Longitude>-1.1562663</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 44 51 64</Téléphone>
+      <Télécopie>+33 5 46 44 15 17</Télécopie>
+      <Email>bta.nieul-sur-mer@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

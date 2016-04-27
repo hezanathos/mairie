@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-57607-01" codeInsee="57607" dateMiseAJour="2015-05-20"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Haut Chemin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avancy</Ligne>
+      <Ligne>6 rue Dalotte</Ligne>
+      <CodePostal>57640</CodePostal>
+      <NomCommune>Sainte-Barbe</NomCommune>
+      <Localisation>
+         <Latitude>49.174942</Latitude>
+         <Longitude>6.308882</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 77 06 52</Téléphone>
+      <Télécopie>+33 3 87 77 06 52</Télécopie>
+      <Email>cchautchemin@wanadoo.fr</Email>
+      <Url>http://www.cc-hautchemin.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

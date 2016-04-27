@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-26362-01" codeInsee="26362" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille départemental Caisse d'allocations familliales (Caf) - Udaf de Valence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace familles du Polygone</Ligne>
+      <Ligne>20 avenue de l'Yser</Ligne>
+      <CodePostal>26000</CodePostal>
+      <NomCommune>Valence</NomCommune>
+      <Localisation>
+         <Latitude>44.9355049133</Latitude>
+         <Longitude>4.9055929184</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 55 87 36</Téléphone>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

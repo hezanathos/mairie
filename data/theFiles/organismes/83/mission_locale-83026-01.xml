@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-83026-01" codeInsee="83026" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale du Centre-Var</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Résidence Les Vignes</Ligne>
+      <Ligne>Batiment I entrée 2</Ligne>
+      <Ligne>Rue Nicolas Boileau</Ligne>
+      <CodePostal>83340</CodePostal>
+      <NomCommune>Le Luc</NomCommune>
+      <Localisation>
+         <Latitude>43.4262046814</Latitude>
+         <Longitude>6.22119379044</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 50 15 01</Téléphone>
+      <Télécopie>+33 4 94 50 15 15</Télécopie>
+      <Email>conseillers@ml-centrevar.com</Email>
+      <Url>http://www.ml-centrevar.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

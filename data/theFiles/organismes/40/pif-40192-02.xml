@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-40192-02" codeInsee="40192" dateMiseAJour="2011-07-20" pivotLocal="pif">
+   <Nom>L'Accueil Info Famille du Pays Tyrossais</Nom>
+   <EditeurSource>L'Accueil Info Famille du Pays Tyrossais</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>207 rue de Fontainebleau</Ligne>
+      <CodePostal>40023</CodePostal>
+      <NomCommune>MONT DE MARSAN CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>43.891204834</Latitude>
+         <Longitude>-0.50751799345</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 56 55 97</Téléphone>
+      <Télécopie>+33 5 58 56 55 99</Télécopie>
+      <Email>boutique.delafamille@cafmt-marsan.cnafmail.fr</Email>
+      <Url>http://www.laboutiquedelafamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

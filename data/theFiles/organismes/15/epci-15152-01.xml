@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-15152-01" codeInsee="15152" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Pierrefort Neuve Église</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 bis rue du Plomb-du-Cantal</Ligne>
+      <CodePostal>15230</CodePostal>
+      <NomCommune>Pierrefort</NomCommune>
+      <Localisation>
+         <Latitude>44.921987</Latitude>
+         <Longitude>2.8379957</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 23 23 54</Téléphone>
+      <Télécopie>+33 9 71 70 59 84</Télécopie>
+      <Email>infos@paysdepierrefort.com</Email>
+      <Url>http://www.paysdepierrefort.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

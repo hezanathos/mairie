@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="92036" dateMiseAJour="2013-07-31" id="mjd-92036-01" idPresta="51b08c90b473e414780002ca" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Gennevilliers</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>19 avenue Lucette Mazalaigue</Ligne>
+        <CodePostal>92230</CodePostal>
+        <NomCommune>GENNEVILLIERS</NomCommune>
+        <Localisation>
+            <Latitude>48.932753</Latitude>
+            <Longitude>2.286797</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 47 99 06 56</Téléphone>
+        <Télécopie>+33 1 47 92 32 07</Télécopie>
+        <Email>mailto:mjd-gennevilliers@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="18:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

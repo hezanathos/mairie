@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="direccte_ut-13203-01" codeInsee="13203" dateMiseAJour="2016-03-10"
+           pivotLocal="direccte_ut">
+   <Nom>Unité départementale - Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Direccte) - Bouches-du-Rhône</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>55 boulevard Périer</Ligne>
+      <CodePostal>13415</CodePostal>
+      <NomCommune>Marseille Cedex 20</NomCommune>
+      <Localisation>
+         <Latitude>43.2798</Latitude>
+         <Longitude>5.38659</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 57 96 00</Téléphone>
+      <Télécopie>+33 4 91 53 78 95</Télécopie>
+      <Email>direccte-paca-ut13.direction@direccte.gouv.fr</Email>
+      <Url>http://www.paca.direccte.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

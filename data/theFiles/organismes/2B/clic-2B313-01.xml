@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-2B313-01" codeInsee="2B313" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-166">
+   <Nom>Point d'information local dédié aux personnes âgées - San-Nicolao</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Moriani Plage</Ligne>
+      <Ligne>Centre local d'information et de coordination de la Plaine Orientale</Ligne>
+      <CodePostal>20230</CodePostal>
+      <NomCommune>San-Nicolao</NomCommune>
+      <Localisation>
+         <Latitude>42.3749</Latitude>
+         <Longitude>9.52822</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 38 31 43</Téléphone>
+      <Email>clicg@orange,fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

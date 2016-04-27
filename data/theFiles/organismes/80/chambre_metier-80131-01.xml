@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-80131-01" codeInsee="80131" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Somme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de l'Île-Mystérieuse</Ligne>
+      <CodePostal>80440</CodePostal>
+      <NomCommune>Boves</NomCommune>
+      <Localisation>
+         <Latitude>49.8446044922</Latitude>
+         <Longitude>2.38296794891</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 60 12 71 27</Téléphone>
+      <Email>sg@cma80.fr</Email>
+      <Url>http://www.cma80.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

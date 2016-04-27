@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-43137-01" codeInsee="43137" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Monistrol-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, avenue du Général-de-Gaulle</Ligne>
+      <Ligne>Maison de Brunelles</Ligne>
+      <CodePostal>43120</CodePostal>
+      <NomCommune>Monistrol-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>45.292432</Latitude>
+         <Longitude>4.172183</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 75 47 07</Téléphone>
+      <Télécopie>+33 4 71 75 93 68</Télécopie>
+      <Email>pij1.acija@wanadoo.fr</Email>
+      <Url>http://www.pijlesmarchesduvelay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil ouvert également sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

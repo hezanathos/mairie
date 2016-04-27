@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-98734-01" codeInsee="98734" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Papara</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Île de Tahiti PK 37,8 Îles-du-Vent</Ligne>
+      <CodePostal>98712</CodePostal>
+      <NomCommune>Papara</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+689 54 80 05</Téléphone>
+      <Télécopie>+689 54 80 08</Télécopie>
+      <Email>bta.papara@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

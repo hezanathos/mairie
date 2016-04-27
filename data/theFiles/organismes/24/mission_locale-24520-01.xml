@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-24520-01" codeInsee="24520" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Périgord-Noir</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Marc-Busson</Ligne>
+      <Ligne>Maison de l'emploi du Périgord-Noir</Ligne>
+      <CodePostal>24200</CodePostal>
+      <NomCommune>Sarlat-la-Canéda</NomCommune>
+      <Localisation>
+         <Latitude>44.8913</Latitude>
+         <Longitude>1.21511</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 31 56 00</Téléphone>
+      <Télécopie>+33 5 53 31 56 34</Télécopie>
+      <Email>missionlocalepnsarlat@wanadoo.fr</Email>
+      <Url>http://www.mdepn.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

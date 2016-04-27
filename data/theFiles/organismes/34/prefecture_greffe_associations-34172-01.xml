@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-34172-01" codeInsee="34172"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Montpellier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Service des associations</Ligne>
+      <Ligne>Rue Serge-Lifar</Ligne>
+      <Ligne>CS 97378</Ligne>
+      <Ligne>Direction départementale de la cohésion sociale de l'Hérault</Ligne>
+      <CodePostal>34184</CodePostal>
+      <NomCommune>Montpellier Cedex 4</NomCommune>
+      <Localisation>
+         <Latitude>43.6206195</Latitude>
+         <Longitude>3.8389358</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 41 72 00</Téléphone>
+      <Télécopie>+33 4 67 41 72 90</Télécopie>
+      <Email>ddcs@herault.gouv.fr</Email>
+      <Url>http://www.herault.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

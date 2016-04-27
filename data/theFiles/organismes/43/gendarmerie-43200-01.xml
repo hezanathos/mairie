@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-43200-01" codeInsee="43200" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Julien-Chapteuil</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 avenue Jules-Romains</Ligne>
+      <CodePostal>43260</CodePostal>
+      <NomCommune>Saint-Julien-Chapteuil</NomCommune>
+      <Localisation>
+         <Latitude>45.034555</Latitude>
+         <Longitude>4.059634</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 08 70 03</Téléphone>
+      <Télécopie>+33 4 71 08 47 85</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

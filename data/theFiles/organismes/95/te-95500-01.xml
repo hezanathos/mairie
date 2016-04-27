@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="95500" dateMiseAJour="2015-07-10" id="te-95500-01" idPresta="4cac9ed7293594648a00ede9" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Pontoise</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 rue Victor Hugo</Ligne>
+        <Ligne>BP 220</Ligne>
+        <CodePostal>95302</CodePostal>
+        <NomCommune>CERGY PONTOISE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.0518084</Latitude>
+            <Longitude>2.1006419</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 72 58 70 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

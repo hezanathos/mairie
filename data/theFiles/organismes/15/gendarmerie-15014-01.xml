@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-15014-01" codeInsee="15014" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Aurillac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Adjudant Machemy</Ligne>
+      <Ligne>20 avenue de la Liberté</Ligne>
+      <CodePostal>15000</CodePostal>
+      <NomCommune>Aurillac</NomCommune>
+      <Localisation>
+         <Latitude>44.9219877</Latitude>
+         <Longitude>2.4286762</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 45 54 00</Téléphone>
+      <Télécopie>+33 4 71 45 54 79</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commission_conciliation-78646-02" codeInsee="78646"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="commission_conciliation">
+   <Nom>Commission départementale de conciliation -  Yvelines (baux d'habitation)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Direction départementale de la cohésion sociale</Ligne>
+      <Ligne>1, rue Jean-Houdon</Ligne>
+      <CodePostal>78000</CodePostal>
+      <NomCommune>Versailles</NomCommune>
+      <Localisation>
+         <Latitude>48.8136688</Latitude>
+         <Longitude>2.1363306</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 49 75 83</Téléphone>
+      <Télécopie>+33 1 39 49 76 63</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

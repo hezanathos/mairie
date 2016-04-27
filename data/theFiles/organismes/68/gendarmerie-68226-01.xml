@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-68226-01" codeInsee="68226" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Munster</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42, rue de Colmar</Ligne>
+      <CodePostal>68140</CodePostal>
+      <NomCommune>Munster</NomCommune>
+      <Localisation>
+         <Latitude>48.0408781</Latitude>
+         <Longitude>7.1531799</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 77 30 51</Téléphone>
+      <Télécopie>+33 3 89 77 84 85</Télécopie>
+      <Email>bta.munster@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

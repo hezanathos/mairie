@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33238-01" codeInsee="33238" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Léognan</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 avenue de Bordeaux</Ligne>
+      <CodePostal>33850</CodePostal>
+      <NomCommune>Léognan</NomCommune>
+      <Localisation>
+         <Latitude>44.7343869</Latitude>
+         <Longitude>-0.5990133</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 64 44 60</Téléphone>
+      <Télécopie>+33 5 56 64 44 68</Télécopie>
+      <Email>bta.leognan@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

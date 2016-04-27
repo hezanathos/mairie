@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="92002" dateMiseAJour="2014-01-28" id="ti-92002-01" idPresta="4cac9e6a293594648a00181a" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance d&#39;Antony</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Auguste Mounié</Ligne>
+        <Ligne>BP 80</Ligne>
+        <CodePostal>92161</CodePostal>
+        <NomCommune>ANTONY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.754759</Latitude>
+            <Longitude>2.30022</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 55 59 01 00</Téléphone>
+        <Télécopie>+33 1 55 59 01 10</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

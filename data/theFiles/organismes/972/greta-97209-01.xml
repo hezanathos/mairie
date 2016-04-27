@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-97209-01" codeInsee="97209" dateMiseAJour="2011-10-04"
+           pivotLocal="greta">
+   <Nom>Greta Martinique Centre et Nord Caraïbe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Zac de Rivière Roche</Ligne>
+      <Ligne>Boîte n° 66</Ligne>
+      <Ligne>Lycée Acajou II</Ligne>
+      <CodePostal>97252</CodePostal>
+      <NomCommune>FORT DE FRANCE CEDEX</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 50 45 75</Téléphone>
+      <Télécopie>+596 5 96 50 46 11</Télécopie>
+      <Email>bal@greta-centre.com</Email>
+      <Url>http://www.greta-centre.com</Url>
+   </CoordonnéesNum>
+</Organisme>

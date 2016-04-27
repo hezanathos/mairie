@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-38034-01" codeInsee="38034" dateMiseAJour="2016-02-08"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Territoire de Beaurepaire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 rue Français</Ligne>
+      <Ligne>BP 101</Ligne>
+      <CodePostal>38270</CodePostal>
+      <NomCommune>Beaurepaire</NomCommune>
+      <Localisation>
+         <Latitude>45.3387124</Latitude>
+         <Longitude>5.05215899999996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 84 67 29</Téléphone>
+      <Télécopie>+33 4 74 79 24 14</Télécopie>
+      <Email>cctb@territoire-de-beaurepaire.fr</Email>
+      <Url>http://www.territoire-de-beaurepaire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="88160" dateMiseAJour="2014-01-28" id="prudhommes-88160-01" idPresta="4cac9e60293594648a000360" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes d&#39;Epinal</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue Général Haxo &#34;La Magdeleine&#34;</Ligne>
+        <CodePostal>88025</CodePostal>
+        <NomCommune>EPINAL CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.173567</Latitude>
+            <Longitude>6.463908</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 29 82 14 06</Téléphone>
+        <Télécopie>+33 3 29 35 32 21</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="08:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

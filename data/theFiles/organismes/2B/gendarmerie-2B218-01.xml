@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-2B218-01" codeInsee="2B218" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Piedicorte-di-Gaggio</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>20251</CodePostal>
+      <NomCommune>Piedicorte-di-Gaggio</NomCommune>
+      <Localisation>
+         <Latitude>42.2365009</Latitude>
+         <Longitude>9.3279</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 48 81 45</Téléphone>
+      <Télécopie>+33 4 95 48 45 10</Télécopie>
+      <Email>cob.corte@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

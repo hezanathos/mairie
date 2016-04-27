@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-85191-01" codeInsee="85191" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de La Roche-sur-Yon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>18 rue Galliéni</Ligne>
+      <CodePostal>85000</CodePostal>
+      <NomCommune>La Roche-sur-Yon</NomCommune>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>40 rue du Maréchal-Foch</Ligne>
+      <Ligne>Conseil général de la Vendée</Ligne>
+      <CodePostal>85923</CodePostal>
+      <NomCommune>La Roche-sur-Yon Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 44 21 73</Téléphone>
+      <Télécopie>+33 2 51 44 21 83</Télécopie>
+      <Email>cms.roche-sud@vendee.fr</Email>
+      <Url>http://www.cg85.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-22093-01" codeInsee="22093" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) des Côtes-d'Armor - accueil de Lamballe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Ancien haras</Ligne>
+      <Ligne>41 rue Porte-Saint-Martin</Ligne>
+      <CodePostal>22400</CodePostal>
+      <NomCommune>Lamballe</NomCommune>
+      <Localisation>
+         <Latitude>48.4713011</Latitude>
+         <Longitude>-2.5159623</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 10000</Ligne>
+      <Ligne>Caisse d'allocations familiales des Côtes-d'Armor</Ligne>
+      <CodePostal>22096</CodePostal>
+      <NomCommune>Saint-Brieuc Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.507594</Latitude>
+         <Longitude>-2.7606007</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 22 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

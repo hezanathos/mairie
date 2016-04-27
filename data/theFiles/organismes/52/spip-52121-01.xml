@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="52121" dateMiseAJour="2014-12-08" id="spip-52121-01" idPresta="4d2575682935941a920000a1" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de la Haute-Marne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>quartier Foch, Bat. de l&#39;horloge</Ligne>
+        <Ligne>6, rue Raymond Savignac</Ligne>
+        <CodePostal>52000</CodePostal>
+        <NomCommune>CHAUMONT</NomCommune>
+        <Localisation>
+            <Latitude>48.102008</Latitude>
+            <Longitude>5.146197</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 02 14 26</Téléphone>
+        <Télécopie>+33 3 25 03 43 52</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

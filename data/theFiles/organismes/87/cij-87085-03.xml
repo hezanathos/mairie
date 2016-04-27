@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-87085-03" codeInsee="87085" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse du Val-de-l'Aurence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 bis, rue du Maréchal-Juin</Ligne>
+      <CodePostal>87000</CodePostal>
+      <NomCommune>Limoges</NomCommune>
+      <Localisation>
+         <Latitude>45.8298668</Latitude>
+         <Longitude>1.2210072</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 01 23 90</Téléphone>
+      <Télécopie>+33 5 55 01 25 67</Télécopie>
+      <Email>alsea-interval@orange.fr</Email>
+      <Url>http://www.alsea87.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

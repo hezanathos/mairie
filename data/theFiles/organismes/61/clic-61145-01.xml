@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-61145-01" codeInsee="61145" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-542">
+   <Nom>Point d'information local dédié aux personnes âgées - Domfront</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Bocage</Ligne>
+      <Ligne>15 rue Montgommery</Ligne>
+      <CodePostal>61700</CodePostal>
+      <NomCommune>Domfront</NomCommune>
+      <Localisation>
+         <Latitude>48.592596</Latitude>
+         <Longitude>-0.649991</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 37 15 95</Téléphone>
+      <Email>clic.bocage@wanadoo.fr</Email>
+      <Url>http://clic-bocage.pagesperso-orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-63258-01" codeInsee="63258" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays d'Olliergues</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 avenue du Maréchal-de-Lattre-de-Tassigny</Ligne>
+      <CodePostal>63880</CodePostal>
+      <NomCommune>Olliergues</NomCommune>
+      <Localisation>
+         <Latitude>45.6759739</Latitude>
+         <Longitude>3.636722</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 95 29 58</Téléphone>
+      <Télécopie>+33 4 73 95 59 58</Télécopie>
+      <Email>ccpo@wanadoo.fr</Email>
+      <Url>http://www.paysdolliergues.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

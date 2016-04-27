@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-30334-01" codeInsee="30334" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-239">
+   <Nom>Point d'information local dédié aux personnes âgées - Uzès</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de l'Uzège et du Pont-du-Gard</Ligne>
+      <Ligne>Avenue Foch</Ligne>
+      <CodePostal>30700</CodePostal>
+      <NomCommune>Uzès</NomCommune>
+      <Localisation>
+         <Latitude>44.009622</Latitude>
+         <Longitude>4.419173</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 04 75 20</Téléphone>
+      <Email>clic-ssiad@chuzes.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

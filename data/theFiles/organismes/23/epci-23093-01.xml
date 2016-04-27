@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-23093-01" codeInsee="23093" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Carrefour des 4 Provinces</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 avenue du Général-de-Gaulle</Ligne>
+      <Ligne>1er Étage</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>23230</CodePostal>
+      <NomCommune>Gouzon</NomCommune>
+      <Localisation>
+         <Latitude>46.1863558</Latitude>
+         <Longitude>2.2253082</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 81 79 96</Téléphone>
+      <Télécopie>+33 5 55 62 98 35</Télécopie>
+      <Email>secretariat@cc-quatreprovinces.fr</Email>
+      <Url>http://www.cc-4provinces.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

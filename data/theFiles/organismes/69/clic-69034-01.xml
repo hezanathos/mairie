@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69034-01" codeInsee="69034" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-618">
+   <Nom>Point d'information local dédié aux personnes âgées - Caluire-et-Cuire</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Rhône du Canton de Caluire-et-Cuire</Ligne>
+      <Ligne>71 et 73 rue François-Peissel</Ligne>
+      <CodePostal>69300</CodePostal>
+      <NomCommune>Caluire-et-Cuire</NomCommune>
+      <Localisation>
+         <Latitude>45.796163</Latitude>
+         <Longitude>4.841859</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 98 90 80</Téléphone>
+      <Email>mdr.caluire@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

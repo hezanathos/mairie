@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-16028-01" codeInsee="16028" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du centre socioculturel du Barbezilien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rampe des Mobiles</Ligne>
+      <Ligne>BP 29</Ligne>
+      <CodePostal>16300</CodePostal>
+      <NomCommune>Barbezieux</NomCommune>
+      <Localisation>
+         <Latitude>45.4729001</Latitude>
+         <Longitude>-0.1559839</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 78 05 92</Téléphone>
+      <Email>cscbarbezieux@wanadoo.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

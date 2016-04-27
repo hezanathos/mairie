@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdc-86157-01" codeInsee="86157" dateMiseAJour="2014-10-14" pivotLocal="fdc">
+   <Nom>Fédération départementale des chasseurs - Vienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21-34, route de Chauvigny</Ligne>
+      <CodePostal>86550</CodePostal>
+      <NomCommune>Mignaloux-Beauvoir</NomCommune>
+      <Localisation>
+         <Latitude>46.5632019043</Latitude>
+         <Longitude>0.412122994661</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 61 06 08</Téléphone>
+      <Télécopie>+33 5 49 01 31 81</Télécopie>
+      <Email>fdc86@chasse-en-vienne.com</Email>
+      <Url>http://www.chasse-en-vienne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

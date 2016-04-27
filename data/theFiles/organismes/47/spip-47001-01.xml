@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="47001" dateMiseAJour="2014-12-08" id="spip-47001-01" idPresta="4d2575682935941a920000ac" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation du Lot-et-Garonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1er étage</Ligne>
+        <Ligne>1050bis avenue Docteur Jean Bru</Ligne>
+        <CodePostal>47000</CodePostal>
+        <NomCommune>AGEN</NomCommune>
+        <Localisation>
+            <Latitude>44.209536</Latitude>
+            <Longitude>0.611699</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 53 77 65 10</Téléphone>
+        <Télécopie>+33 5 53 77 65 19</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

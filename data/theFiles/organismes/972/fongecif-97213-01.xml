@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fongecif-97213-01" codeInsee="97213" dateMiseAJour="2016-03-10"
+           pivotLocal="fongecif">
+   <Nom>Fongecif - Martinique</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre d'affaires de la Martinique</Ligne>
+      <Ligne>1 avenue de Louis-Domergue-Montgerald</Ligne>
+      <CodePostal>97201</CodePostal>
+      <NomCommune>Fort-de-France Cedex</NomCommune>
+      <Localisation>
+         <Latitude>14.6160647</Latitude>
+         <Longitude>-61.0587804</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 38 29 42</Téléphone>
+      <Télécopie>+596 5 96 64 12 46</Télécopie>
+      <Email>accueil@fongecif-martinique.fr</Email>
+      <Url>http://www.fongecif-martinique.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

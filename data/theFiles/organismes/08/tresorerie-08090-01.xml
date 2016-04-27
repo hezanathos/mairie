@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-08090-01" codeInsee="08090" dateMiseAJour="2015-04-22"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Carignan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 ter avenue de Blagny</Ligne>
+      <CodePostal>08110</CodePostal>
+      <NomCommune>Carignan</NomCommune>
+      <Localisation>
+         <Latitude>49.629905</Latitude>
+         <Longitude>5.1694231</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 22 03 43</Téléphone>
+      <Email>t008008@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

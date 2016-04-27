@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88196-01" codeInsee="88196" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Gérardmer</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, rue du 152ème RI</Ligne>
+      <CodePostal>88400</CodePostal>
+      <NomCommune>Gérardmer</NomCommune>
+      <Localisation>
+         <Latitude>48.070081</Latitude>
+         <Longitude>6.877292</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 63 30 17</Téléphone>
+      <Télécopie>+33 3 29 63 67 65</Télécopie>
+      <Email>bta.gerardmer@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

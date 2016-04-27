@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93066" dateMiseAJour="2015-11-03" id="permanence_juridique-93066-01" idPresta="4cac9e61293594648a000561" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Saint-Denis</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Espace Service Public Qaurtier Franc-Moisin/Bel Air</Ligne>
+        <Ligne>75 rue Danielle Casanova</Ligne>
+        <CodePostal>93200</CodePostal>
+        <NomCommune>ST DENIS</NomCommune>
+        <Localisation>
+            <Latitude>48.932617</Latitude>
+            <Longitude>2.36645</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 49 33 70 30</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

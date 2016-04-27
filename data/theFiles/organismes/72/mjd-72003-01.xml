@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="72003" dateMiseAJour="2010-02-03" id="mjd-72003-01" idPresta="51b08ca8b473e414780007be" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  d&#39;Allonnes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 rue Georges Bizet</Ligne>
+        <Ligne>BP 62</Ligne>
+        <CodePostal>72703</CodePostal>
+        <NomCommune>ALLONNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.970411</Latitude>
+            <Longitude>0.16223</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 39 05 85</Téléphone>
+        <Télécopie>+33 2 43 43 82 99</Télécopie>
+        <Email>mailto:mjd-allonnes@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="19:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

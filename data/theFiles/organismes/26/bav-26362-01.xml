@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="26362" dateMiseAJour="2012-06-19" id="bav-26362-01" idPresta="51b08cd8b473e41478001258" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Valence</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du palais de justice</Ligne>
+        <Ligne>BP 2113</Ligne>
+        <CodePostal>26021</CodePostal>
+        <NomCommune>VALENCE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.931614</Latitude>
+            <Longitude>4.892263</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 75 75 49 49</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

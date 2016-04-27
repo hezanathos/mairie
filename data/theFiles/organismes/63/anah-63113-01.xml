@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="anah-63113-01" codeInsee="63113" dateMiseAJour="2016-03-10"
+           pivotLocal="anah">
+   <Nom>Agence nationale de l’habitat (Anah) - Puy-de-Dôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue Léo-Lagrange</Ligne>
+      <CodePostal>63000</CodePostal>
+      <NomCommune>Clermont-Ferrand</NomCommune>
+      <Localisation>
+         <Latitude>45.7708015442</Latitude>
+         <Longitude>3.08554005623</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 43 19 32</Téléphone>
+      <Télécopie>+33 4 73 43 19 63</Télécopie>
+      <Email>ddt-shru-anah@puy-de-dome.gouv.fr</Email>
+      <Url>http://www.anah.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:15:00"/>
+         <Note>Accueil physique uniquement sur rendez-vous et accueil téléphonique le lundi et le vendredi de 9h à 11h30 et le mardi et le jeudi de 13h30 à 16h15.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

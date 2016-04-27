@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-88310-01" codeInsee="88310" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de la Saône Vosgienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>116 rue de l'Église</Ligne>
+      <CodePostal>88410</CodePostal>
+      <NomCommune>Monthureux-sur-Saône</NomCommune>
+      <Localisation>
+         <Latitude>48.0313282</Latitude>
+         <Longitude>5.9753846</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">accueil au rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 07 57 84</Téléphone>
+      <Email>contact@cc-pays-saonevosgienne.fr</Email>
+      <Url>http://www.cc-pays-saonevosgienne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddt-16015-01" codeInsee="16015" dateMiseAJour="2013-07-24" pivotLocal="ddt">
+   <Nom>Direction départementale des territoires (DDT) - Charente</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 12302</Ligne>
+      <Ligne>7-9, rue de la Préfecture</Ligne>
+      <CodePostal>16023</CodePostal>
+      <NomCommune>Angoulême Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.6459754</Latitude>
+         <Longitude>0.1567864</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 17 17 37 37</Téléphone>
+      <Télécopie>+33 5 17 17 37 38</Télécopie>
+      <Email>ddt@charente.gouv.fr</Email>
+      <Url>http://www.charente.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

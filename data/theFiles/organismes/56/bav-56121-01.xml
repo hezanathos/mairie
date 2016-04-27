@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="56121" dateMiseAJour="2013-05-01" id="bav-56121-01" idPresta="51b08c8eb473e4147800025a" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Lorient</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 rue Maitre Esvelin</Ligne>
+        <Ligne>porte A</Ligne>
+        <CodePostal>56325</CodePostal>
+        <NomCommune>LORIENT CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.745397</Latitude>
+            <Longitude>-3.363288</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 97 84 12 50</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-49099-01" codeInsee="49099" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-376">
+   <Nom>Point d'information local dédié aux personnes âgées - Cholet</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 avenue Maudet</Ligne>
+      <Ligne>Centre local d'information et de coordination IGEAC</Ligne>
+      <CodePostal>49300</CodePostal>
+      <NomCommune>Cholet</NomCommune>
+      <Localisation>
+         <Latitude>47.057002</Latitude>
+         <Longitude>-0.879639</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 30 26 34</Téléphone>
+      <Email>clic.choletais@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-51454-01" codeInsee="51454" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-391">
+   <Nom>Point d'information local dédié aux personnes âgées - Réims</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45 rue Chabaud</Ligne>
+      <Ligne>Centre local d'information et de coordination Agglomération Rémoise</Ligne>
+      <CodePostal>51100</CodePostal>
+      <NomCommune>Reims</NomCommune>
+      <Localisation>
+         <Latitude>49.249334</Latitude>
+         <Longitude>4.028013</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 88 40 86</Téléphone>
+      <Email>direction@</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

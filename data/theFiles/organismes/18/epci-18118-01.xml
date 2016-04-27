@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-18118-01" codeInsee="18118" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Portes du Berry entre Loire et Val d'Aubois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre socio-culturel</Ligne>
+      <Ligne>Rue de l'Église</Ligne>
+      <CodePostal>18320</CodePostal>
+      <NomCommune>Jouet-sur-l'Aubois</NomCommune>
+      <Localisation>
+         <Latitude>47.0456621</Latitude>
+         <Longitude>2.987929</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 77 55 50</Téléphone>
+      <Télécopie>+33 2 48 74 87 95</Télécopie>
+      <Email>cdcportesduberry@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

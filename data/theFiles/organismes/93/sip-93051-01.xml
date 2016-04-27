@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-93051-01" codeInsee="93051" dateMiseAJour="2015-03-12" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers des non-résidents - Centre des finances publiques de Noisy-le-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue du Centre</Ligne>
+      <Ligne>Tsa 10010</Ligne>
+      <CodePostal>93465</CodePostal>
+      <NomCommune>Noisy-le Grand Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8382729</Latitude>
+         <Longitude>2.5451548</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 57 33 83 00</Téléphone>
+      <Email>sip.nonresidents@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

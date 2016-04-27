@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13056" dateMiseAJour="2015-11-03" id="permanence_juridique-13056-01" idPresta="4cd18ef829359405310000c0" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Social Jonquières</Ligne>
+        <Ligne>place du 8 mai 1945</Ligne>
+        <CodePostal>13500</CodePostal>
+        <NomCommune>MARTIGUES</NomCommune>
+        <Localisation>
+            <Latitude>43.399444</Latitude>
+            <Longitude>5.056586</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 07 06 01</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

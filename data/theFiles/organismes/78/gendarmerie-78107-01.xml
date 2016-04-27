@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-78107-01" codeInsee="78107" dateMiseAJour="2015-10-13"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bréval</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29, rue René Dhal</Ligne>
+      <CodePostal>78980</CodePostal>
+      <NomCommune>Bréval</NomCommune>
+      <Localisation>
+         <Latitude>48.9453856</Latitude>
+         <Longitude>1.5248052</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 78 31 06</Téléphone>
+      <Télécopie>+33 1 34 78 28 42</Télécopie>
+      <Email>bta.breval@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

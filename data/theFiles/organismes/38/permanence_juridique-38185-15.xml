@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="38185" dateMiseAJour="2015-11-03" id="permanence_juridique-38185-15" idPresta="4cac9e5f293594648a00028a" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Grenoble</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison de l&#39;Avocat</Ligne>
+        <Ligne>45 rue Pierre Sémard</Ligne>
+        <CodePostal>38000</CodePostal>
+        <NomCommune>GRENOBLE</NomCommune>
+        <Localisation>
+            <Latitude>45.191861</Latitude>
+            <Longitude>5.710662</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 76 15 10 36</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

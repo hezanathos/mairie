@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="75101" dateMiseAJour="2012-06-21" id="bav-75101-01" idPresta="4d5e62cf2935941fe900003a" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Paris</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>4 boulevard du palais</Ligne>
+        <CodePostal>75055</CodePostal>
+        <NomCommune>PARIS CEDEX 01</NomCommune>
+        <Localisation>
+            <Latitude>48.8552928</Latitude>
+            <Longitude>2.3456665</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 44 32 51 51</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:30:00" fin="12:30:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

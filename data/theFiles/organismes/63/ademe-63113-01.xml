@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ademe-63113-01" codeInsee="63113" dateMiseAJour="2016-03-10"
+           pivotLocal="ademe">
+   <Nom>Agence de l'environnement et de la maîtrise de l'énergie (Ademe) - Auvergne Rhones-Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>63 boulevard Berthelot</Ligne>
+      <CodePostal>63000</CodePostal>
+      <NomCommune>Clermont-Ferrand</NomCommune>
+      <Localisation>
+         <Latitude>45.7818984985</Latitude>
+         <Longitude>3.07158994675</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 31 52 80</Téléphone>
+      <Télécopie>+33 4 73 31 52 85</Télécopie>
+      <Email>ademe.auvergne@ademe.fr</Email>
+      <Url>http://auvergne-rhone-alpes.ademe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

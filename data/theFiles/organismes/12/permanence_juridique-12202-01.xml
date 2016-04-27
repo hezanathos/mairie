@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="12202" dateMiseAJour="2015-11-03" id="permanence_juridique-12202-01" idPresta="4f7d9ec92935943c09000014" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit pénitentiaire de Rodez</Nom>
+    <EditeurSource>Easter-eggs</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison d&#39;Arrêt</Ligne>
+        <Ligne>7 rue François Mazenq</Ligne>
+        <CodePostal>12000</CodePostal>
+        <NomCommune>RODEZ</NomCommune>
+        <Localisation>
+            <Latitude>44.3504858736</Latitude>
+            <Longitude>2.56912615344</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Email>mailto:cdad-aveyron@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

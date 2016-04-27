@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-44074-01" codeInsee="44074" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Indre - Espace Pluriel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Association des centres de loisirs éducatifs pour l'enfance et l'adolescence</Ligne>
+      <Ligne>Espace Pluriel</Ligne>
+      <Ligne>2, rue du Stade</Ligne>
+      <CodePostal>44610</CodePostal>
+      <NomCommune>Indre</NomCommune>
+      <Localisation>
+         <Latitude>47.2006732</Latitude>
+         <Longitude>-1.6726093</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 85 46 15</Téléphone>
+      <Télécopie>+33 2 40 85 46 18</Télécopie>
+      <Email>espacepluriel@acleea.fr</Email>
+      <Url>http://www.acleea.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

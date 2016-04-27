@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-69220-01" codeInsee="69220" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Chamousset en Lyonnais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Pontet</Ligne>
+      <CodePostal>69930</CodePostal>
+      <NomCommune>Saint-Laurent-de-Chamousset</NomCommune>
+      <Localisation>
+         <Latitude>45.741616</Latitude>
+         <Longitude>4.468981</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 70 58 00</Téléphone>
+      <Télécopie>+33 4 74 70 58 05</Télécopie>
+      <Email>contact@chamousset-en-lyonnais.com</Email>
+      <Url>http://www.chamousset-en-lyonnais.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

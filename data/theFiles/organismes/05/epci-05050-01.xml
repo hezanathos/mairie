@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-05050-01" codeInsee="05050" dateMiseAJour="2015-08-18"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Serre-Ponçon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de l'École</Ligne>
+      <CodePostal>05190</CodePostal>
+      <NomCommune>Espinasses</NomCommune>
+      <Localisation>
+         <Latitude>44.467639</Latitude>
+         <Longitude>6.222752</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 54 41 05</Téléphone>
+      <Télécopie>+33 4 92 54 41 94</Télécopie>
+      <Email>contact@cc-pays-serreponcon.fr</Email>
+      <Url>http://www.cc-pays-serreponcon.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

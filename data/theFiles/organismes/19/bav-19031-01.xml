@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="19031" dateMiseAJour="2012-06-11" id="bav-19031-01" idPresta="51b08cc1b473e41478000d6d" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Brive La Gaillarde</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de justice</Ligne>
+        <Ligne>boulevard Maréchal Lyautey</Ligne>
+        <CodePostal>19312</CodePostal>
+        <NomCommune>BRIVE LA GAILLARDE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.156727</Latitude>
+            <Longitude>1.532472</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 17 77 77</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

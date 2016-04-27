@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="35288" dateMiseAJour="2014-06-09" id="ti-35288-01" idPresta="4cac9e62293594648a00063f" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Saint-Malo</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue Toulier</Ligne>
+        <Ligne>CS 51731</Ligne>
+        <CodePostal>35417</CodePostal>
+        <NomCommune>ST MALO CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.649971</Latitude>
+            <Longitude>-2.026743</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 23 18 50 10</Téléphone>
+        <Télécopie>+33 2 23 18 50 23</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

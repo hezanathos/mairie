@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-69259-01" codeInsee="69259" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Vénissieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 avenue Division-Leclerc</Ligne>
+      <Ligne>BP 308</Ligne>
+      <CodePostal>69634</CodePostal>
+      <NomCommune>Vénissieux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.6976013184</Latitude>
+         <Longitude>4.86624002457</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">prendre rendez-vous par téléphone</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 89 13 30</Téléphone>
+      <Télécopie>+33 4 72 87 13 31</Télécopie>
+      <Email>direction@mlvenissieux.com</Email>
+      <Url>http://www.mission-locale-de-venissieux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

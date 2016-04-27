@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-31584-01" codeInsee="31584" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Villemur-sur-Tarn</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>64 bis, avenue du Général-Leclerc</Ligne>
+      <Ligne>Centre Bernadou</Ligne>
+      <CodePostal>31340</CodePostal>
+      <NomCommune>Villemur-sur-Tarn</NomCommune>
+      <Localisation>
+         <Latitude>43.8537382</Latitude>
+         <Longitude>1.4983063</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 34 27 06 78</Téléphone>
+      <Email>mjc.villemur@gmail.fr</Email>
+      <Url>http://www.mjcvillemur.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

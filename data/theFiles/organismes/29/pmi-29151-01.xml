@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-29151-01" codeInsee="29151" dateMiseAJour="2014-01-07" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Morlaix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre départemental d'action sociale du territoire de Morlaix - Landivisiau</Ligne>
+      <Ligne>CS 17817</Ligne>
+      <Ligne>21, rue du Poulfanc</Ligne>
+      <CodePostal>29678</CodePostal>
+      <NomCommune>Morlaix Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.577613</Latitude>
+         <Longitude>-3.828228</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 88 99 90</Téléphone>
+      <Télécopie>+33 2 98 88 30 08</Télécopie>
+      <Email>cdas-morlaix@cg29.fr</Email>
+      <Url>http://www.cg29.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="50025" dateMiseAJour="2014-10-20" id="prudhommes-50025-01" idPresta="4cac9e6a293594648a0016f4" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes d&#39;Avranches</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Jean de Saint Avit</Ligne>
+        <CodePostal>50307</CodePostal>
+        <NomCommune>AVRANCHES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.688498</Latitude>
+            <Longitude>-1.3623231</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 14 13 81 17</Téléphone>
+        <Télécopie>+33 2 33 68 23 38</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

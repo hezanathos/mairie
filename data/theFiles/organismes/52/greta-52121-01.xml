@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-52121-01" codeInsee="52121" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta - Haute-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>46 bis, rue Victoire-de-la-Marne</Ligne>
+      <CodePostal>52903</CodePostal>
+      <NomCommune>Chaumont</NomCommune>
+      <Localisation>
+         <Latitude>48.1121328</Latitude>
+         <Longitude>5.1410637</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 32 24 82</Téléphone>
+      <Télécopie>+33 3 25 03 04 61</Télécopie>
+      <Email>greta52@gretahautemarne.com</Email>
+      <Url>http://www.dafco.ac-reims.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="07:45:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin=""/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="07:45:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69291-01" codeInsee="69291" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-620">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Symphorien-d'Ozon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5bis rue de la Barbandière</Ligne>
+      <Ligne>Maison du Rhône du Canton de Saint-Symphorien-d'Ozon</Ligne>
+      <CodePostal>69360</CodePostal>
+      <NomCommune>Saint-Symphorien-d'Ozon</NomCommune>
+      <Localisation>
+         <Latitude>45.633313</Latitude>
+         <Longitude>4.856735</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 02 34 90</Téléphone>
+      <Email>mdr.st-symphorien-ozon@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

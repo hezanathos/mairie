@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-71342-01" codeInsee="71342" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Paray-le-Monial</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue des Charmes</Ligne>
+      <CodePostal>71600</CodePostal>
+      <NomCommune>Paray-le-Monial</NomCommune>
+      <Localisation>
+         <Latitude>46.466958</Latitude>
+         <Longitude>4.1058484</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 81 14 44</Téléphone>
+      <Télécopie>+33 3 85 81 95 66</Télécopie>
+      <Email>bta.paray-le-monial@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

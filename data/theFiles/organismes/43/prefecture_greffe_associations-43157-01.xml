@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-43157-01" codeInsee="43157"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations du Puy-en-Velay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Direction départementale de la cohésion sociale et de la protection des populations de Haute-Loire</Ligne>
+      <Ligne>24 boulevard Alexandre-Clair</Ligne>
+      <CodePostal>43000</CodePostal>
+      <NomCommune>Le Puy-en-Velay</NomCommune>
+      <Localisation>
+         <Latitude>45.0392153</Latitude>
+         <Longitude>3.8819332</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 09 82 71</Téléphone>
+      <Télécopie>+33 4 71 02 81 17</Télécopie>
+      <Url>http://haute-loire.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+         <PlageH début="13:45:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+         <PlageH début="13:45:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

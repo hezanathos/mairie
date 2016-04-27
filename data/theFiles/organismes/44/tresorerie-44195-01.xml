@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-44195-01" codeInsee="44195" dateMiseAJour="2016-01-27"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Savenay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 30023</Ligne>
+      <Ligne>7 rue de Malville</Ligne>
+      <CodePostal>44260</CodePostal>
+      <NomCommune>Savenay</NomCommune>
+      <Localisation>
+         <Latitude>47.3589207</Latitude>
+         <Longitude>-1.9417307</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 56 90 90</Téléphone>
+      <Email>t044115@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

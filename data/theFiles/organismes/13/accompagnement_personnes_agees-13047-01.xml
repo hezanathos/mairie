@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-13047-01" codeInsee="13047"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-871">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Istres</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 allée de l'Aventin</Ligne>
+      <Ligne>A.R.F</Ligne>
+      <Ligne>Association Le Maillon</Ligne>
+      <Ligne>Accueil de jour</Ligne>
+      <CodePostal>13800</CodePostal>
+      <NomCommune>Istres</NomCommune>
+      <Localisation>
+         <Latitude>43.501966</Latitude>
+         <Longitude>4.985207</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 11 83 44</Téléphone>
+      <Email>lemaillon777@orange.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

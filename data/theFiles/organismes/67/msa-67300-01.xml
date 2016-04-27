@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-67300-01" codeInsee="67300" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Alsace - accueil de Molsheim</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Immeuble Le Xenium</Ligne>
+      <Ligne>Ecospace</Ligne>
+      <Ligne>30 rue des Vergers</Ligne>
+      <CodePostal>67120</CodePostal>
+      <NomCommune>Molsheim</NomCommune>
+      <Localisation>
+         <Latitude>48.5339391</Latitude>
+         <Longitude>7.5043626</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>9 rue de Guebwiller</Ligne>
+      <Ligne>MSA d'Alsace</Ligne>
+      <CodePostal>68023</CodePostal>
+      <NomCommune>Colmar Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 20 78 68</Téléphone>
+      <Télécopie>+33 3 89 20 79 00</Télécopie>
+      <Email>http://www.msa-alsace.fr/lfr/contact-particulier</Email>
+      <Url>http://www.msa-alsace.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert avec et sans rendez-vous.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert avec et sans rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

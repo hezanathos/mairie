@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-34337-02" codeInsee="34337" dateMiseAJour="2006-05-09" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Villeneuve Les Maguelone</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Moulin de la Jasse</Ligne>
+      <CodePostal>34753</CodePostal>
+      <NomCommune>VILLENEUVE LES MAGUELONE CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>43.5318984985</Latitude>
+         <Longitude>3.86323308945</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 07 80 32</Téléphone>
+      <Url>http://www.crij.montpellier.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

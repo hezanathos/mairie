@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-51454-01" codeInsee="51454" dateMiseAJour="2016-01-04"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Champagne-Ardenne - siège de la Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 60001</Ligne>
+      <Ligne>202 rue des Capucins</Ligne>
+      <CodePostal>51089</CodePostal>
+      <NomCommune>Reims Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.2445519</Latitude>
+         <Longitude>4.0369663</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.champagneardenne.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>uniquement sur rendez-vous, par téléphone au 3957, par messagerie www.contact.urssaf.fr</Commentaire>
+</Organisme>

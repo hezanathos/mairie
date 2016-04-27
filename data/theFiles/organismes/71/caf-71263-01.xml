@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-71263-01" codeInsee="71263" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Saône-et-Loire - accueil de Louhans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Avenue Fernand-Point</Ligne>
+      <CodePostal>71500</CodePostal>
+      <NomCommune>Louhans</NomCommune>
+      <Localisation>
+         <Latitude>46.6240389</Latitude>
+         <Longitude>5.2305823</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">lieu d’accueil adapté pour les personnes malvoyantes</Accessibilité>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>177 rue de Paris</Ligne>
+      <Ligne>Caisse d'allocations familiales de Saône-et-Loire</Ligne>
+      <CodePostal>71024</CodePostal>
+      <NomCommune>Mâcon Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>46.3114909</Latitude>
+         <Longitude>4.8351004</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 71 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

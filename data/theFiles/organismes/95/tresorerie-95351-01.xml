@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-95351-01" codeInsee="95351" dateMiseAJour="2016-01-29"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Louvre - goussainville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 30062</Ligne>
+      <Ligne>8 avenue Charles de Gaulle</Ligne>
+      <CodePostal>95380</CodePostal>
+      <NomCommune>Louvres</NomCommune>
+      <Localisation>
+         <Latitude>49.051039</Latitude>
+         <Longitude>2.503879</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 68 11 40</Téléphone>
+      <Email>t095104@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+         <Note>Fermé le mercredi et le jeudi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-84087-01" codeInsee="84087" dateMiseAJour="2015-06-22"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-Conservation des hypothèques) d'Orange</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>132 allée d'Auvergne</Ligne>
+      <Ligne>BP 182</Ligne>
+      <CodePostal>84106</CodePostal>
+      <NomCommune>Orange Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.1333201</Latitude>
+         <Longitude>4.7975761</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 51 29 00</Téléphone>
+      <Télécopie>+33 4 90 51 27 91</Télécopie>
+      <Email>spf.orange@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Tout public et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Tout public et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Uniquement sur RDV pour les notaires, huissiers et avocats de 13h30 à 16h00</Commentaire>
+</Organisme>

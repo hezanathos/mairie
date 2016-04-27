@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-49127-01" codeInsee="49127" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Maine-et-Loire - accueil de Durtal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>11 rue Joseph-Cugnot</Ligne>
+      <Ligne>Maison des services publics</Ligne>
+      <CodePostal>49430</CodePostal>
+      <NomCommune>Durtal</NomCommune>
+      <Localisation>
+         <Latitude>47.6733196</Latitude>
+         <Longitude>-0.2272648</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de Maine-et-Loire</Ligne>
+      <Ligne>32 rue Louis-Gain</Ligne>
+      <CodePostal>49937</CodePostal>
+      <NomCommune>Angers Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>47.4690154</Latitude>
+         <Longitude>-0.5400928</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil uniquement le 2e et 4e lundi du mois. Accueil téléphonique du lundi au vendredi de 8h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

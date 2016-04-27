@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-92073-01" codeInsee="92073" dateMiseAJour="2015-10-12"
+           pivotLocal="clic"
+           idPresta="Clic-1237">
+   <Nom>Point d'information local dédié aux personnes âgées - Suresnes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>70 rue du Mont Valérien</Ligne>
+      <Ligne>Coordination gérontologique de Suresnes</Ligne>
+      <CodePostal>92150</CodePostal>
+      <NomCommune>Suresnes</NomCommune>
+      <Localisation>
+         <Latitude>48.870068</Latitude>
+         <Longitude>2.226487</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+ 33 1 41 18 38 56</Téléphone>
+      <Email>ralfonso@ville-suresnes.fr</Email>
+      <Url>http://www.hauts-de-seine.fr/solidarites/personnes-agees/maintien-a-domicile/adresses-des-clic-et-coordinations-gerontologiques/</Url>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

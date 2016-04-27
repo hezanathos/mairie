@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="31069" dateMiseAJour="2015-11-03" id="permanence_juridique-31069-01" idPresta="4cac9e5f293594648a000228" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Blagnac</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>place Jean-Louis Puig</Ligne>
+        <CodePostal>31700</CodePostal>
+        <NomCommune>BLAGNAC</NomCommune>
+        <Localisation>
+            <Latitude>43.634768</Latitude>
+            <Longitude>1.3972242</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 61 71 72 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

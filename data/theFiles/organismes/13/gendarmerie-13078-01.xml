@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-13078-01" codeInsee="13078" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Port-Saint-Louis-du-Rhône</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>35 avenue de la République</Ligne>
+      <CodePostal>13230</CodePostal>
+      <NomCommune>Port-Saint-Louis-du-Rhône</NomCommune>
+      <Localisation>
+         <Latitude>43.3893009</Latitude>
+         <Longitude>4.8082221</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 86 50 21</Téléphone>
+      <Télécopie>+33 4 42 86 50 30</Télécopie>
+      <Email>bta.port-st-louis-du-rhone@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="38185" dateMiseAJour="2014-12-08" id="spip-38185-01" idPresta="4d2575692935941a920001d2" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de l&#39;Isère</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>84 rue des Alliés</Ligne>
+        <CodePostal>38100</CodePostal>
+        <NomCommune>GRENOBLE</NomCommune>
+        <Localisation>
+            <Latitude>45.172358</Latitude>
+            <Longitude>5.722654</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 76 23 55 01</Téléphone>
+        <Télécopie>+33 4 38 49 11 64</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

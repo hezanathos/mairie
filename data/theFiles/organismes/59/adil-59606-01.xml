@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="adil-59606-01" codeInsee="59606" dateMiseAJour="2015-04-19"
+           pivotLocal="adil">
+   <Nom>Agence départementale d'information sur le logement (Adil) - Nord - Lille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de l'habitat durable</Ligne>
+      <Ligne>7 bis rue Racine</Ligne>
+      <CodePostal>59000</CodePostal>
+      <NomCommune>Lille</NomCommune>
+      <Localisation>
+         <Latitude>50.3586006165</Latitude>
+         <Longitude>3.52562999725</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 59 61 15 00</Téléphone>
+      <Télécopie>+33 3 27 33 38 76</Télécopie>
+      <Email>contact@adilnord.fr</Email>
+      <Url>http://www.adilnord.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

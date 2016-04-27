@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-29061-01" codeInsee="29061" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-227">
+   <Nom>Point d'information local dédié aux personnes âgées - Gouesnou</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Gouesnou</Ligne>
+      <Ligne>Place des Fusillés</Ligne>
+      <CodePostal>29850</CodePostal>
+      <NomCommune>Gouesnou</NomCommune>
+      <Localisation>
+         <Latitude>48.45036</Latitude>
+         <Longitude>-4.466205</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 07 28 83</Téléphone>
+      <Email>social@mairie-gouesnou.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

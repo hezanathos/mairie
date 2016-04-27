@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-30037-01" codeInsee="30037" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Bessèges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 bis rue de la République</Ligne>
+      <CodePostal>30160</CodePostal>
+      <NomCommune>Bessèges</NomCommune>
+      <Localisation>
+         <Latitude>44.2921505</Latitude>
+         <Longitude>4.096033</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 25 02 68</Téléphone>
+      <Email>t030046@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

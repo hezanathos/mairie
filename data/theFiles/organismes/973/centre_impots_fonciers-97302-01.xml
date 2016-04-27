@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="centre_impots_fonciers-97302-01" codeInsee="97302"
+           dateMiseAJour="2015-07-29"
+           pivotLocal="centre_impots_fonciers">
+   <Nom>Service du cadastre de Cayenne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre des finances publiques de Buzare</Ligne>
+      <Ligne>Rue Carlos-Finlay</Ligne>
+      <CodePostal>97306</CodePostal>
+      <NomCommune>Cayenne</NomCommune>
+      <Localisation>
+         <Latitude>4.9227</Latitude>
+         <Longitude>-52.3269</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 594 28 99 51</Téléphone>
+      <Email>cdif.cayenne@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="07:15:00" fin="13:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="07:15:00" fin="13:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

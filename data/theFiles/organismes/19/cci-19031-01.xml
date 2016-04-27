@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cci-19031-01" codeInsee="19031" dateMiseAJour="2015-08-31" pivotLocal="cci">
+   <Nom>Chambre de commerce et d'industrie (CCI) - Corrèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Immeuble Puy-Pinçon</Ligne>
+      <Ligne>Avenue du Docteur-Albert-Schweitzer</Ligne>
+      <Ligne>CS 50030</Ligne>
+      <CodePostal>19001</CodePostal>
+      <NomCommune>Tulle Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.2770846</Latitude>
+         <Longitude>1.7915415</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 21 55 21</Téléphone>
+      <Télécopie>+33 5 55 21 55 03</Télécopie>
+      <Email>accueil@correze.cci.fr</Email>
+      <Url>http://www.correze.cci.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

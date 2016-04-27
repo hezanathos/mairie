@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-19031-02" codeInsee="19031" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de l'association des familles rurales de Larche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 bis route de la Noble</Ligne>
+      <CodePostal>19600</CodePostal>
+      <NomCommune>Larche</NomCommune>
+      <Localisation>
+         <Latitude>45.1201759</Latitude>
+         <Longitude>1.4192268</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 85 29 72</Téléphone>
+      <Télécopie>+33 5 55 22 90 52</Télécopie>
+      <Email>afr.larche@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

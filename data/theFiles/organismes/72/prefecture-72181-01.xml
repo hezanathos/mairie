@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture-72181-01" codeInsee="72181" dateMiseAJour="2014-07-31"
+           pivotLocal="prefecture">
+   <Nom>Préfecture - Sarthe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Aristide-Briand</Ligne>
+      <CodePostal>72041</CodePostal>
+      <NomCommune>Le Mans Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.0019607544</Latitude>
+         <Longitude>0.199037998915</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 39 72 72</Téléphone>
+      <Télécopie>+33 2 43 28 24 09</Télécopie>
+      <Email>pref-mail@sarthe.gouv.fr</Email>
+      <Url>http://www.sarthe.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="15:00:00"/>
+         <Note>Attention aux horaires estivaux du 7 juillet au 29 août ! Service Certificats d'immatriculations : tous les matins de 8h30 à 12h sauf le mercredi. Service Permis de conduire : tous les après-midi de 13h30 à 16h sauf le vendredi, échange de permis étranger uniquement les mardi et jeudi après-midi. Service Étrangers - pré-accueil et remise de titres : tous les matins de 8h30 à 12h sauf le mercredi, distribution des tickets jusqu'à 11h30. Autres services du lundi au vendredi de 9h à 11h30 et de 14h à 16h, fermeture à 15h le vendredi. Horaires détaillés sur cette page http://www.sarthe.gouv.fr/coordonnees-horaires-acces-a1.html.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Horaires de l'accueil : voir la note ci-dessous pour les autres services.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

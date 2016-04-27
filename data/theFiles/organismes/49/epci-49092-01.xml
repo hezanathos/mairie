@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49092-01" codeInsee="49092" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la région de Chemillé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de l'Arzillé</Ligne>
+      <Ligne>Hôtel de la communauté</Ligne>
+      <CodePostal>49120</CodePostal>
+      <NomCommune>Chemillé</NomCommune>
+      <Localisation>
+         <Latitude>47.2143554688</Latitude>
+         <Longitude>-0.731696009636</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 30 42 42</Téléphone>
+      <Télécopie>+33 2 41 30 39 00</Télécopie>
+      <Email>communaute.com.chemille@wanadoo.fr</Email>
+      <Url>http://www.cc-region-chemille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

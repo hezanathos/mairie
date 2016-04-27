@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="45302" dateMiseAJour="2015-03-20" id="centre_penitentiaire-45302-01" idPresta="511bc74b29359419ea00498d" pivotLocal="centre_penitentiaire">
+    <Nom>Centre pénitentiaire d&#39;Orléans Saran</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>RD702 Les Montaubans</Ligne>
+        <Ligne>4024 Ancienne route de Chartres</Ligne>
+        <CodePostal>45770</CodePostal>
+        <NomCommune>SARAN</NomCommune>
+        <Localisation>
+            <Latitude>47.951259</Latitude>
+            <Longitude>1.875096</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 18 69 50 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

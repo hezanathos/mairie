@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdc-45234-01" codeInsee="45234" dateMiseAJour="2014-10-14" pivotLocal="fdc">
+   <Nom>Fédération départementale des chasseurs - Loiret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue Paul-Langevin</Ligne>
+      <CodePostal>45100</CodePostal>
+      <NomCommune>Orléans</NomCommune>
+      <Localisation>
+         <Latitude>47.831401825</Latitude>
+         <Longitude>1.93558001518</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 69 76 20</Téléphone>
+      <Télécopie>+33 2 38 63 83 94</Télécopie>
+      <Email>fdcl@chasseurs45.com</Email>
+      <Url>http://www.chasseurducentre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

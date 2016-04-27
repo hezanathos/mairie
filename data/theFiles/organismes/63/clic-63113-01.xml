@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-63113-01" codeInsee="63113" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-552">
+   <Nom>Point d'information local dédié aux personnes âgées - Clermont- Ferrand</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue Berteaux</Ligne>
+      <Ligne>Centre local d'information et de coordination de l'Agglomération Clermontoise</Ligne>
+      <CodePostal>63000</CodePostal>
+      <NomCommune>Clermont-Ferrand</NomCommune>
+      <Localisation>
+         <Latitude>45.765093</Latitude>
+         <Longitude>3.094905</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 15 01 90</Téléphone>
+      <Email>accueil@clic-agglo-clermont.com</Email>
+      <Url>http://clic-agglo-clermont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

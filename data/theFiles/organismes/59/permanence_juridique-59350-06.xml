@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59350" dateMiseAJour="2015-11-03" id="permanence_juridique-59350-06" idPresta="4cd18fb329359405310109ec" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Lomme</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison du citoyen</Ligne>
+        <Ligne>343 avenue de Dunkerque</Ligne>
+        <CodePostal>59160</CodePostal>
+        <NomCommune>LOMME</NomCommune>
+        <Localisation>
+            <Latitude>50.637781</Latitude>
+            <Longitude>3.023684</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 20 08 90 30</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

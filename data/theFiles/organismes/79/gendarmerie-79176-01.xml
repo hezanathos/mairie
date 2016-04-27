@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-79176-01" codeInsee="79176" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Ménigoute</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue Saint-Marc</Ligne>
+      <CodePostal>79340</CodePostal>
+      <NomCommune>Ménigoute</NomCommune>
+      <Localisation>
+         <Latitude>46.4993071</Latitude>
+         <Longitude>-0.0611878</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 69 00 02</Téléphone>
+      <Télécopie>+33 5 49 69 77 61</Télécopie>
+      <Email>cob.parthenay@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

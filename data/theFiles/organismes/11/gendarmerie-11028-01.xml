@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-11028-01" codeInsee="11028" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Belcaire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 avenue d'Ax-les-Thermes</Ligne>
+      <CodePostal>11340</CodePostal>
+      <NomCommune>Belcaire</NomCommune>
+      <Localisation>
+         <Latitude>42.8167483</Latitude>
+         <Longitude>1.958772</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 20 31 17</Téléphone>
+      <Télécopie>+33 4 68 69 39 34</Télécopie>
+      <Email>bta.belcaire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

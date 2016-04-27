@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-27229-03" codeInsee="27229" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de l'Eure - accueil d'Évreux - Nétreville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Adil</Ligne>
+      <Ligne>8 boulevard Georges-Chauvin</Ligne>
+      <CodePostal>27000</CodePostal>
+      <NomCommune>Évreux</NomCommune>
+      <Localisation>
+         <Latitude>49.0243064</Latitude>
+         <Longitude>1.1436801</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>11 allée des Soupirs</Ligne>
+      <Ligne>Caisse d'allocations familiales de l'Eure</Ligne>
+      <Ligne>CS 82601</Ligne>
+      <CodePostal>27026</CodePostal>
+      <NomCommune>Évreux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.0255012512</Latitude>
+         <Longitude>1.15260994434</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 27 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+         <Note>Espace numérique en libre-service.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

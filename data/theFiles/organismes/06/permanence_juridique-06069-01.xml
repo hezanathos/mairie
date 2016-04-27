@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06069" dateMiseAJour="2015-11-03" id="permanence_juridique-06069-01" idPresta="4cac9e5e293594648a000088" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Grasse</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal de grande instance</Ligne>
+        <Ligne>37 avenue Pierre Sémard</Ligne>
+        <CodePostal>06520</CodePostal>
+        <NomCommune>MAGAGNOSC</NomCommune>
+        <Localisation>
+            <Latitude>43.6554866</Latitude>
+            <Longitude>6.9232563</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 60 77 50</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

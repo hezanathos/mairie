@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-06104-01" codeInsee="06104" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Roquebrune-Cap-Martin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue de la Lodola</Ligne>
+      <CodePostal>06190</CodePostal>
+      <NomCommune>Roquebrune-Cap-Martin</NomCommune>
+      <Localisation>
+         <Latitude>43.764725</Latitude>
+         <Longitude>7.480592</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 10 21 38</Téléphone>
+      <Télécopie>+33 4 92 41 71 25</Télécopie>
+      <Email>emj@ccas-roquebrune-cap-martin.fr</Email>
+      <Url>http://www.emjrcm.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+         <Note>Accueil fermé de 12h à 14h pendant les congés scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

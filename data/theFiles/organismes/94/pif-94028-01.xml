@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-94028-01" codeInsee="94028" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de l'espace droit famille de Créteil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Jacques-Prévert</Ligne>
+      <CodePostal>94000</CodePostal>
+      <NomCommune>Créteil</NomCommune>
+      <Localisation>
+         <Latitude>48.7820611</Latitude>
+         <Longitude>2.4448306</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 98 05 78</Téléphone>
+      <Email>espace-droit-famille@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

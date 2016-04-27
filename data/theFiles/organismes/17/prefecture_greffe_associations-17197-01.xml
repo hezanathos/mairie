@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-17197-01" codeInsee="17197"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Jonzac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Sous-préfecture de Jonzac</Ligne>
+      <Ligne>4, rue du Château</Ligne>
+      <Ligne>BP 240</Ligne>
+      <Ligne>Service des associations</Ligne>
+      <CodePostal>17501</CodePostal>
+      <NomCommune>Jonzac Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.4459915</Latitude>
+         <Longitude>-0.4316154</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 48 77 33</Téléphone>
+      <Télécopie>+33 5 46 48 26 02</Télécopie>
+      <Email>claudie.afferton@charente-maritime.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

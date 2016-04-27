@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-86128-01" codeInsee="86128" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lencloître</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27, rue du Stade</Ligne>
+      <CodePostal>86140</CodePostal>
+      <NomCommune>Lencloître</NomCommune>
+      <Localisation>
+         <Latitude>46.8167669</Latitude>
+         <Longitude>0.3284796</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 90 73 18</Téléphone>
+      <Télécopie>+33 5 49 90 33 72</Télécopie>
+      <Email>cob.lencloitre@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

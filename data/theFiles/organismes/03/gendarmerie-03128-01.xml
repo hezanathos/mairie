@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-03128-01" codeInsee="03128" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Huriel</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 Grande rue</Ligne>
+      <CodePostal>03380</CodePostal>
+      <NomCommune>Huriel</NomCommune>
+      <Localisation>
+         <Latitude>46.375631</Latitude>
+         <Longitude>2.47556</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 28 60 06</Téléphone>
+      <Télécopie>+33 4 70 28 20 16</Télécopie>
+      <Email>cob.montlucon@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

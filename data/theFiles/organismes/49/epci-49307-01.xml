@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49307-01" codeInsee="49307" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Vallée Loire Authion</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24-26 levée Jeanne-de-Laval</Ligne>
+      <CodePostal>49250</CodePostal>
+      <NomCommune>Saint-Mathurin-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.4094168</Latitude>
+         <Longitude>-0.3209472</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 57 36 08</Téléphone>
+      <Télécopie>+33 2 41 57 59 09</Télécopie>
+      <Email>comcom.valleeloireauthion@ccvla.fr</Email>
+      <Url>http://www.vallee-loire-authion.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

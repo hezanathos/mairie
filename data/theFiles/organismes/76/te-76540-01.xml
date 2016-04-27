@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76540" dateMiseAJour="2014-01-28" id="te-76540-01" idPresta="4cac9e87293594648a004cba" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Rouen</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Annexe du Palais de Justice</Ligne>
+        <Ligne>31/33 rue aux Juifs</Ligne>
+        <CodePostal>76037</CodePostal>
+        <NomCommune>ROUEN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.4420271</Latitude>
+            <Longitude>1.0923649</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 35 52 87 52</Téléphone>
+        <Télécopie>+33 2 35 70 17 41</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

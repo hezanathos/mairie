@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-43118-01" codeInsee="43118" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Ribeyre Chaliergue et Margeride</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Monument</Ligne>
+      <CodePostal>43380</CodePostal>
+      <NomCommune>Lavoute-Chilhac</NomCommune>
+      <Localisation>
+         <Latitude>45.147678</Latitude>
+         <Longitude>3.401795</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 77 43 80</Téléphone>
+      <Télécopie>+33 4 71 77 40 40</Télécopie>
+      <Email>comunaute.lavoute@wanadoo.fr</Email>
+      <Url>http://www.cc-lavoutechilhac.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

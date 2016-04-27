@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-55029-01" codeInsee="55029" dateMiseAJour="2015-04-19"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif de la Meuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des sports de la Meuse</Ligne>
+      <Ligne>Rue du Lieutenant-Vasseur</Ligne>
+      <Ligne>Parc Oudinot</Ligne>
+      <CodePostal>55000</CodePostal>
+      <NomCommune>Bar-le-Duc</NomCommune>
+      <Localisation>
+         <Latitude>48.773605</Latitude>
+         <Longitude>5.158238</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 79 07 52</Téléphone>
+      <Télécopie>+33 3 29 78 45 29</Télécopie>
+      <Email>cdos55@wanadoo.fr</Email>
+      <Url>http://www.cdos55.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

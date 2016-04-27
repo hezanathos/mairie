@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59136-01" codeInsee="59136" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie du Cateau-Cambrésis</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue du Commandant Albert Seydoux</Ligne>
+      <CodePostal>59360</CodePostal>
+      <NomCommune>Cateau-Cambrésis</NomCommune>
+      <Localisation>
+         <Latitude>50.1007927</Latitude>
+         <Longitude>3.5357913</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 84 11 17</Téléphone>
+      <Télécopie>+33 3 27 84 57 23</Télécopie>
+      <Email>bta.le-cateau-cambresis@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-27103-01" codeInsee="27103" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Roumois Nord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>666 rue Coquelin</Ligne>
+      <CodePostal>27310</CodePostal>
+      <NomCommune>Bourg-Achard</NomCommune>
+      <Localisation>
+         <Latitude>49.3551819</Latitude>
+         <Longitude>0.818834400000014</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 57 95 28</Téléphone>
+      <Télécopie>+33 2 32 42 27 71</Télécopie>
+      <Email>accueil@cc-roumoisnord.fr</Email>
+      <Url>http://www.bourgachard.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

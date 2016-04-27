@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-51261-01" codeInsee="51261" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-392">
+   <Nom>Point d'information local dédié aux personnes âgées - Fresne-lès-Reims</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place de la mairie</Ligne>
+      <Ligne>Centre local d'information et de coordination du Nord Rémois</Ligne>
+      <CodePostal>51110</CodePostal>
+      <NomCommune>Fresne-lès-Reims</NomCommune>
+      <Localisation>
+         <Latitude>49.338628</Latitude>
+         <Longitude>4.097163</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 05 74 19</Téléphone>
+      <Email>clicdunordremois@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

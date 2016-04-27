@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59033" dateMiseAJour="2010-02-03" id="mjd-59033-01" idPresta="51b08cb9b473e41478000bac" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  d&#39;Aulnoye-Aymeries</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 avenue Joliot Curie</Ligne>
+        <CodePostal>59620</CodePostal>
+        <NomCommune>AULNOYE AYMERIES</NomCommune>
+        <Localisation>
+            <Latitude>50.203958</Latitude>
+            <Longitude>3.842879</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 27 66 99 00</Téléphone>
+        <Télécopie>+33 3 27 62 46 75</Télécopie>
+        <Email>mailto:maison.justice.aulnoye@wanadoo.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+            <Note>Fermé le Mercredi.</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

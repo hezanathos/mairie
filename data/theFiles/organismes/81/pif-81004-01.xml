@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-81004-01" codeInsee="81004" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de l’Udaf du Tarn</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Service action familiale</Ligne>
+      <Ligne>13 rue des Cordeliers</Ligne>
+      <CodePostal>81000</CodePostal>
+      <NomCommune>Albi</NomCommune>
+      <Localisation>
+         <Latitude>43.9241587</Latitude>
+         <Longitude>2.1448078</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 48 73 00</Téléphone>
+      <Télécopie>+33 5 63 48 73 03</Télécopie>
+      <Email>udaf81.actionfamiliale@orange.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

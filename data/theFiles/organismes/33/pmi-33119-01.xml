@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-33119-01" codeInsee="33119" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Cenon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre de protection maternelle et infantile (PMI)</Ligne>
+      <Ligne>2 rue Pauline Kergomard</Ligne>
+      <Ligne>La Marègue</Ligne>
+      <CodePostal>33150</CodePostal>
+      <NomCommune>Cenon</NomCommune>
+      <Localisation>
+         <Latitude>44.8497009277</Latitude>
+         <Longitude>-0.507384002209</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 80 79 90</Téléphone>
+      <Url>http://www.gironde.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+         <Note>Consultations sur rendez-vous uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+         <Note>Consultations sur rendez-vous uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

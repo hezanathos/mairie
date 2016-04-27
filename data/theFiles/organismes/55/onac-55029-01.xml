@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-55029-01" codeInsee="55029" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Meuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 avenue du 94e Régiment-d'Infanterie</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>BP 70614</Ligne>
+      <CodePostal>55013</CodePostal>
+      <NomCommune>Bar-Le-Duc Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7737192</Latitude>
+         <Longitude>5.1605745</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 77 39 45</Téléphone>
+      <Télécopie>+33 3 29 79 68 08</Télécopie>
+      <Email>sd55@onacvg.fr</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

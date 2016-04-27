@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdapp-80164-01" codeInsee="80164" dateMiseAJour="2013-04-25"
+           pivotLocal="fdapp">
+   <Nom>Fédération départementale de la pêche et de la protection du milieu aquatique de la Somme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue René-Gambier</Ligne>
+      <Ligne>BP 20</Ligne>
+      <CodePostal>80450</CodePostal>
+      <NomCommune>Camon</NomCommune>
+      <Localisation>
+         <Latitude>49.8820991516</Latitude>
+         <Longitude>2.35228991508</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 70 28 10</Téléphone>
+      <Télécopie>+33 3 22 70 28 11</Télécopie>
+      <Email>federation@peche80.com</Email>
+      <Url>http://www.federationpeche.fr/80</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

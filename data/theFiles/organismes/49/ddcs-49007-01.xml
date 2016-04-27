@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcs-49007-01" codeInsee="49007" dateMiseAJour="2013-04-25"
+           pivotLocal="ddcs">
+   <Nom>Direction départementale de la cohésion sociale (DDCS) du Maine-et-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bâtiment C</Ligne>
+      <Ligne>15 bis, rue Dupetit-Thouars</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <CodePostal>49047</CodePostal>
+      <NomCommune>Angers Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>47.462905</Latitude>
+         <Longitude>-0.5525311</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 72 47 20</Téléphone>
+      <Télécopie>+33 2 41 72 47 99</Télécopie>
+      <Email>ddcs-directeur@maine-et-loire.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-76322-01" codeInsee="76322" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse du Grand-Quevilly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace jeunesse</Ligne>
+      <Ligne>70, rue des Martyrs-de-la-Résistance</Ligne>
+      <CodePostal>76120</CodePostal>
+      <NomCommune>Le Grand-Quevilly</NomCommune>
+      <Localisation>
+         <Latitude>49.4101308</Latitude>
+         <Longitude>1.0427919</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 11 56 18</Téléphone>
+      <Télécopie>+33 2 32 11 56 19</Télécopie>
+      <Email>pij@ville-grand-quevilly.fr</Email>
+      <Url>http://www.ville-grand-quevilly.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

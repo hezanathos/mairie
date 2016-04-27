@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-48090-01" codeInsee="48090" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du Malzieu-Ville</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin du Villeret</Ligne>
+      <CodePostal>48140</CodePostal>
+      <NomCommune>Le Malzieu-Ville</NomCommune>
+      <Localisation>
+         <Latitude>44.8555821</Latitude>
+         <Longitude>3.340705</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 31 70 04</Téléphone>
+      <Télécopie>+33 4 66 31 86 52</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88079-01" codeInsee="88079" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bulgnéville</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>940, rue Sainte-Anne</Ligne>
+      <CodePostal>88140</CodePostal>
+      <NomCommune>Bulgnéville</NomCommune>
+      <Localisation>
+         <Latitude>48.2010929</Latitude>
+         <Longitude>5.8424078</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 09 11 17</Téléphone>
+      <Télécopie>+33 3 29 09 12 11</Télécopie>
+      <Email>cob.vittel@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

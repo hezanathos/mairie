@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-14327-01" codeInsee="14327" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Pôle animation jeunesse d'Hérouville-Saint-Clair</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1035, boulevard des Belles-Portes</Ligne>
+      <CodePostal>14200</CodePostal>
+      <NomCommune>Hérouville-Saint-Clair</NomCommune>
+      <Localisation>
+         <Latitude>49.2038096</Latitude>
+         <Longitude>-0.3332254</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 45 32 58</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

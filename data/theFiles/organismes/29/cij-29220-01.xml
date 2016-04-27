@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-29220-01" codeInsee="29220" dateMiseAJour="2009-09-10" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Pont l'Abbé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue du Petit Train</Ligne>
+      <CodePostal>29120</CodePostal>
+      <NomCommune>PONT L ABBE</NomCommune>
+      <Localisation>
+         <Latitude>47.865398407</Latitude>
+         <Longitude>-4.22995996475</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 66 04 28</Téléphone>
+      <Email>pij@ville-pontlabbe.fr</Email>
+      <Url>http://www.ville-pontlabbe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-29027-01" codeInsee="29027" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-224">
+   <Nom>Point d'information local dédié aux personnes âgées - Châteauneuf-du-Faou</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Ecoles</Ligne>
+      <Ligne>Carhaix</Ligne>
+      <Ligne>Centre local d'information et de coordination de Pleyben</Ligne>
+      <CodePostal>29520</CodePostal>
+      <NomCommune>Châteauneuf-du-Faou</NomCommune>
+      <Localisation>
+         <Latitude>48.185</Latitude>
+         <Longitude>-3.818827</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 81 75 54</Téléphone>
+      <Email>clic.pleyben@cg29.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

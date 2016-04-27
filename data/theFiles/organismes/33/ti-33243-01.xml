@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="33243" dateMiseAJour="2014-01-28" id="ti-33243-01" idPresta="4cac9e6a293594648a0017e3" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Libourne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>22 rue Thiers</Ligne>
+        <Ligne>BP 221</Ligne>
+        <CodePostal>33506</CodePostal>
+        <NomCommune>LIBOURNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.913816</Latitude>
+            <Longitude>-0.244407</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 57 55 36 80</Téléphone>
+        <Télécopie>+33 5 57 74 07 64</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

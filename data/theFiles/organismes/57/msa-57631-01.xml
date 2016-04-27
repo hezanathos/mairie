@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-57631-01" codeInsee="57631" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Lorraine - accueil de Sarreguemines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>19 rue Gutenberg</Ligne>
+      <CodePostal>57200</CodePostal>
+      <NomCommune>Sarreguemines</NomCommune>
+      <Localisation>
+         <Latitude>49.1107486</Latitude>
+         <Longitude>7.0972546</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>15 avenue Paul-Doumer</Ligne>
+      <Ligne>MSA Lorraine</Ligne>
+      <CodePostal>54507</CodePostal>
+      <NomCommune>Vandœuvre-lès-Nancy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6754208</Latitude>
+         <Longitude>6.1884889</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 86 10 33</Téléphone>
+      <Email>http://www.msalorraine.fr/lfr/contact-particulier</Email>
+      <Url>http://www.msalorraine.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous.</Commentaire>
+</Organisme>

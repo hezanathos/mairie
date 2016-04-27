@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-55029-01" codeInsee="55029" dateMiseAJour="2015-01-15"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-conservation des hypothèques) de Bar-le-Duc 1</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, avenue du 94e-Régiment-d'Infanterie</Ligne>
+      <Ligne>BP 70560</Ligne>
+      <CodePostal>55013</CodePostal>
+      <NomCommune>Bar-le-Duc Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7650591</Latitude>
+         <Longitude>5.1732914</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 79 50 24</Téléphone>
+      <Télécopie>+33 3 29 45 34 61</Télécopie>
+      <Email>spf.bar-le-duc1@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

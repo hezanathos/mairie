@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-97422-02" codeInsee="97422" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de La Réunion - accueil Sud - La Plaine-des-Cafres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue Boiteau</Ligne>
+      <Ligne>Centre multi-service du 23e</Ligne>
+      <CodePostal>97418</CodePostal>
+      <NomCommune>La Plaine-des-Cafres</NomCommune>
+      <Localisation>
+         <Latitude>-21.2209911</Latitude>
+         <Longitude>55.5579927</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 61038</Ligne>
+      <Ligne>Caisse d'allocations familiales de La Réunion</Ligne>
+      <Ligne>412 rue Fleur-de-Jade</Ligne>
+      <CodePostal>97833</CodePostal>
+      <NomCommune>Sainte-Marie Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-20.9200265</Latitude>
+         <Longitude>55.5296352</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 97 40</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="12:30:00" fin="15:30:00"/>
+         <Note>Accueil fermé les 5, 12 fermeture exceptionnelle à 12h, 19 et 26 janvier 2016.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-59017-01" codeInsee="59017" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta - Flandre-Lys</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>96, rue Jules-Lebleu</Ligne>
+      <Ligne>BP 70193</Ligne>
+      <CodePostal>59421</CodePostal>
+      <NomCommune>Armentières Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.6880881</Latitude>
+         <Longitude>2.8733271</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 44 04 89</Téléphone>
+      <Télécopie>+33 3 20 44 04 80</Télécopie>
+      <Email>greta.flandre-lys@ac-lille.fr</Email>
+      <Url>http://www.greta-npdc.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

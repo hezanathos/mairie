@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93014" dateMiseAJour="2007-03-27" id="mjd-93014-01" idPresta="51b08cd2b473e4147800110d" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Clichy sous bois</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>201 allée de Gagny</Ligne>
+        <CodePostal>93390</CodePostal>
+        <NomCommune>CLICHY SOUS BOIS</NomCommune>
+        <Localisation>
+            <Latitude>48.909405</Latitude>
+            <Longitude>2.550039</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 41 70 38 20</Téléphone>
+        <Télécopie>+33 1 41 70 38 29</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

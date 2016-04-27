@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-03128-01" codeInsee="03128" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie d'Huriel - Courçais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 place de la Toque</Ligne>
+      <CodePostal>03381</CodePostal>
+      <NomCommune>Huriel Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.3733335</Latitude>
+         <Longitude>2.4782959</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 28 60 29</Téléphone>
+      <Email>t003024@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

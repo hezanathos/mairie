@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-62041-01" codeInsee="62041" dateMiseAJour="2013-04-24" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) du Nord-Pas-de-Calais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>33, rue du Grand-But</Ligne>
+      <CodePostal>59160</CodePostal>
+      <NomCommune>Capinghem</NomCommune>
+      <Localisation>
+         <Latitude>50.2906704</Latitude>
+         <Longitude>2.7579158</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <CodePostal>59716</CodePostal>
+      <NomCommune>Lille Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 00 20 00</Téléphone>
+      <Télécopie>+33 3 21 24 60 84</Télécopie>
+      <Url>http://www.msa59-62.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

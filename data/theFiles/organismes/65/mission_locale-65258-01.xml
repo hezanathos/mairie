@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-65258-01" codeInsee="65258" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Lannemezan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>303 rue Thiers</Ligne>
+      <CodePostal>65300</CodePostal>
+      <NomCommune>Lannemezan</NomCommune>
+      <Localisation>
+         <Latitude>43.1222991943</Latitude>
+         <Longitude>0.383381009102</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 98 26 88</Téléphone>
+      <Télécopie>+33 5 62 42 20 34</Télécopie>
+      <Email>missionlocale@ml65.org</Email>
+      <Url>http://www.mlmidipy.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

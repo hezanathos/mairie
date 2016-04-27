@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-18033-01" codeInsee="18033" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-128">
+   <Nom>Point d'information local dédié aux personnes âgées - Bourges</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 40216</Ligne>
+      <Ligne>7 avenue du 11 novembre 1918</Ligne>
+      <Ligne>Centre local d'information et de coordination Berruyer</Ligne>
+      <CodePostal>18000</CodePostal>
+      <NomCommune>Bourges</NomCommune>
+      <Localisation>
+         <Latitude>47.088512</Latitude>
+         <Longitude>2.398112</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 23 25 33</Téléphone>
+      <Email>maryline.patrigeon@ville-bourges.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

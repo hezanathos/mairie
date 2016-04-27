@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="banque_de_france-16102-01" codeInsee="16102" dateMiseAJour="2015-02-24"
+           pivotLocal="banque_de_france">
+   <Nom>Banque de France, bureau d'accueil et d'information de Cognac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Couvent des Récollets</Ligne>
+      <CodePostal>16100</CodePostal>
+      <NomCommune>Cognac</NomCommune>
+      <Localisation>
+         <Latitude>45.6949283824096</Latitude>
+         <Longitude>-0.327481627464294</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>1, rue du Général-Leclerc</Ligne>
+      <Ligne>CS 42118</Ligne>
+      <CodePostal>16021</CodePostal>
+      <NomCommune>Angoulême Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.6478238</Latitude>
+         <Longitude>0.157072</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Angoulême. Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.">+33 5 45 97 60 00</Téléphone>
+      <Email>infos@banque-france.fr</Email>
+      <Url>http://www.banque-france.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

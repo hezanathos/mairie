@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-86128-01" codeInsee="86128" dateMiseAJour="2015-08-25"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Lencloître</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Stade</Ligne>
+      <CodePostal>86140</CodePostal>
+      <NomCommune>Lencloître</NomCommune>
+      <Localisation>
+         <Latitude>46.8172977</Latitude>
+         <Longitude>0.3296519</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 90 75 71</Téléphone>
+      <Télécopie>+33 5 49 19 16 79</Télécopie>
+      <Email>t086032@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

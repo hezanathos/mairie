@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-21166-01" codeInsee="21166" dateMiseAJour="2012-10-22" pivotLocal="cij">
+   <Nom>Point information jeunesse de Chenôve</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Olympe-de-Gouges</Ligne>
+      <CodePostal>21300</CodePostal>
+      <NomCommune>Chenôve</NomCommune>
+      <Localisation>
+         <Latitude>47.2999285</Latitude>
+         <Longitude>5.0124358</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 51 55 41</Téléphone>
+      <Télécopie>+33 3 80 51 56 23</Télécopie>
+      <Email>pij_chenove@ijbourgogne.com</Email>
+      <Url>http://www.ijbourgogne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

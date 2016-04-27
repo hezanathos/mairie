@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-14488-01" codeInsee="14488" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Ouistreham</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>62 avenue du Maréchal Foch</Ligne>
+      <CodePostal>14150</CodePostal>
+      <NomCommune>Ouistreham</NomCommune>
+      <Localisation>
+         <Latitude>49.2803346</Latitude>
+         <Longitude>-0.2578963</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 36 22 70</Téléphone>
+      <Télécopie>+33 2 31 36 22 72</Télécopie>
+      <Email>bta.ouistreham@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

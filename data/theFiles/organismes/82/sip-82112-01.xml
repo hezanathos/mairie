@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-82112-01" codeInsee="82112" dateMiseAJour="2015-03-03" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Moissac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 20304</Ligne>
+      <Ligne>12 boulevard Lakanal</Ligne>
+      <CodePostal>82208</CodePostal>
+      <NomCommune>Moissac Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.1025795</Latitude>
+         <Longitude>1.0816943</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 04 64 00</Téléphone>
+      <Email>sip-sie.moissac@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

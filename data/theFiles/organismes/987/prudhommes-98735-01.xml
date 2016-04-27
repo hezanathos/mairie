@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98735" dateMiseAJour="2014-01-28" id="prudhommes-98735-01" idPresta="4cac9e6a293594648a001715" pivotLocal="prudhommes">
+    <Nom>Tribunal du Travail de Papeete</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal de 1ère Instance</Ligne>
+        <Ligne>TAHITI - BP 4633</Ligne>
+        <Ligne>PAPEETE POLYNESIE FRANCAISE</Ligne>
+        <CodePostal>98713</CodePostal>
+        <NomCommune>PAPEETE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>-17.535021</Latitude>
+            <Longitude>-149.569595</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+689 415 500</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

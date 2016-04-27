@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-27229-01" codeInsee="27229" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-198">
+   <Nom>Point d'information local dédié aux personnes âgées - Evreux</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue Jean-de-la-Bruyère</Ligne>
+      <Ligne>Centre local d'information et de coordination d'Evreux</Ligne>
+      <Ligne>CS 23246</Ligne>
+      <CodePostal>27000</CodePostal>
+      <NomCommune>Évreux</NomCommune>
+      <Localisation>
+         <Latitude>49.004195</Latitude>
+         <Longitude>1.154575</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 31 97 00</Téléphone>
+      <Email>Anne-claire.ranger@cg227.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-76351-02" codeInsee="76351" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse du Havre - Bléville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, rue Théophile-Gautier</Ligne>
+      <CodePostal>76620</CodePostal>
+      <NomCommune>Le Havre</NomCommune>
+      <Localisation>
+         <Latitude>49.5121985</Latitude>
+         <Longitude>0.0891981</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 54 17 78</Téléphone>
+      <Télécopie>+33 2 35 54 17 78</Télécopie>
+      <Email>sam-bleville@lehavre.fr</Email>
+      <Url>http://www.lehavre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-58264-01" codeInsee="58264" dateMiseAJour="2014-04-29"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Pierre-le-Moûtier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Chaume Champierre</Ligne>
+      <Ligne>2, route du Stade</Ligne>
+      <CodePostal>58240</CodePostal>
+      <NomCommune>Saint-Pierre-le-Moûtier</NomCommune>
+      <Localisation>
+         <Latitude>46.7346419</Latitude>
+         <Longitude>3.1887113</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 90 77 70</Téléphone>
+      <Télécopie>+33 3 86 90 77 74</Télécopie>
+      <Email>cob.st-pierre-le-moutier@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

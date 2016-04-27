@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-10064-01" codeInsee="10064" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Brienne-le-Château</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 avenue Pasteur</Ligne>
+      <CodePostal>10500</CodePostal>
+      <NomCommune>Brienne-le-Château</NomCommune>
+      <Localisation>
+         <Latitude>50.0764343</Latitude>
+         <Longitude>4.7213667</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 92 80 28</Téléphone>
+      <Télécopie>+33 3 25 92 59 96</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

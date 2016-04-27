@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-62038-01" codeInsee="62038" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Ardres</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33, avenue Charles de Gaulle</Ligne>
+      <CodePostal>62610</CodePostal>
+      <NomCommune>Ardres</NomCommune>
+      <Localisation>
+         <Latitude>50.8505389</Latitude>
+         <Longitude>1.9793885</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 82 17 17</Téléphone>
+      <Télécopie>+33 3 21 82 82 31</Télécopie>
+      <Email>cob.audruicq@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

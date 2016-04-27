@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-25047-01" codeInsee="25047" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Baume-les-Dames</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue des Frères-Grenier</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>Baume-Les-Dames</NomCommune>
+      <Localisation>
+         <Latitude>47.3492012024</Latitude>
+         <Longitude>6.36126995087</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 48 70</Téléphone>
+      <Télécopie>+33 3 81 84 48 80</Télécopie>
+      <Email>cmsbeaumelesdames@doubs.fr</Email>
+      <Url>http://www.doubs.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

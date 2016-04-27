@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-72154-01" codeInsee="72154" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays Fléchois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 rue du Maréchal-Foch</Ligne>
+      <Ligne>Hôtel communautaire du Pays Fléchois</Ligne>
+      <Ligne>CS 70066</Ligne>
+      <CodePostal>72202</CodePostal>
+      <NomCommune>La Flèche Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6979034</Latitude>
+         <Longitude>-0.0761913</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 48 66 00</Téléphone>
+      <Télécopie>+33 2 43 48 66 01</Télécopie>
+      <Email>contact@cc-paysflechois.fr</Email>
+      <Url>http://www.cc-paysflechois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil sur rendez-vous en dehors de ses horaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

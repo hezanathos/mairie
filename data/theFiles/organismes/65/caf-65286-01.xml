@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-65286-01" codeInsee="65286" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) des Hautes-Pyrénées - accueil de Lourdes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre ressources multi-services</Ligne>
+      <Ligne>22 avenue du Maréchal-Joffre</Ligne>
+      <CodePostal>65100</CodePostal>
+      <NomCommune>Lourdes</NomCommune>
+      <Localisation>
+         <Latitude>43.0949642</Latitude>
+         <Longitude>-0.0440282</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales des Hautes-Pyrénées</Ligne>
+      <Ligne>6 ter place au Bois</Ligne>
+      <CodePostal>65018</CodePostal>
+      <NomCommune>Tarbes Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 65 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+         <Note>Accueil possible sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

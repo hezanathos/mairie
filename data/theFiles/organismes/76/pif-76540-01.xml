@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-76540-01" codeInsee="76540" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Rouen</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 rue du Pré-de-la-Bataille</Ligne>
+      <Ligne>CIDF de Seine-Maritime</Ligne>
+      <CodePostal>76000</CodePostal>
+      <NomCommune>Rouen</NomCommune>
+      <Localisation>
+         <Latitude>49.4454781</Latitude>
+         <Longitude>1.0767914</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 63 99 99</Téléphone>
+      <Télécopie>+33 2 35 63 62 76</Télécopie>
+      <Email>cidf76@club-internet.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

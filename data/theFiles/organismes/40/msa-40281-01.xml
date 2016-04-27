@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-40281-01" codeInsee="40281" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Saint-Pierre-du-Mont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>70 rue Alphonse-Daudet</Ligne>
+      <CodePostal>40280</CodePostal>
+      <NomCommune>Saint-Pierre-du-Mont</NomCommune>
+      <Localisation>
+         <Latitude>43.8855621</Latitude>
+         <Longitude>-0.518617</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 06 55 55</Téléphone>
+      <Url>http://www.msasudaquitaine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

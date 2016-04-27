@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-83023-01" codeInsee="83023" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-736">
+   <Nom>Point d'information local dédié aux personnes âgées - Brignoles</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Comté de Provence</Ligne>
+      <Ligne>Route du Val</Ligne>
+      <CodePostal>83170</CodePostal>
+      <NomCommune>Brignoles</NomCommune>
+      <Localisation>
+         <Latitude>43.418069</Latitude>
+         <Longitude>6.069893</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 04 00 38</Téléphone>
+      <Email>contact@cc-comtedeprovence.fr</Email>
+      <Url>http://www.cc-comtedeprovence.frdecouvrir-le-comte-de-provence/les-competences/social/le-c-l-i-c/clic-sauvegarde</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-31106-01" codeInsee="31106" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Coeur lauragais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 avenue du 8-Mai-1945</Ligne>
+      <CodePostal>31460</CodePostal>
+      <NomCommune>Caraman</NomCommune>
+      <Localisation>
+         <Latitude>43.529232</Latitude>
+         <Longitude>1.760954</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 18 42 80</Téléphone>
+      <Télécopie>+33 5 61 80 87 96</Télécopie>
+      <Email>cc.coeurlauragais@orange.fr</Email>
+      <Url>http://www.coeur-lauragais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

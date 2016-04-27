@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-93072-02" codeInsee="93072" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Stains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Merisiers</Ligne>
+      <CodePostal>93240</CodePostal>
+      <NomCommune>Stains</NomCommune>
+      <Localisation>
+         <Latitude>48.9522018433</Latitude>
+         <Longitude>2.39208006859</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 26 64 25</Téléphone>
+      <Télécopie>+33 1 48 26 71 79</Télécopie>
+      <Url>http://www.cg93.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

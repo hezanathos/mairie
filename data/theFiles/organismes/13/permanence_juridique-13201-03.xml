@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13201" dateMiseAJour="2015-11-03" id="permanence_juridique-13201-03" idPresta="4cd18fb329359405310109de" pivotLocal="permanence_juridique">
+    <Nom>Centre d&#39;accès au droit des Etrangers CADE</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre d’Accès au Droit des Etrangers (CADE)</Ligne>
+        <Ligne>8 rue Dugommier</Ligne>
+        <CodePostal>13001</CodePostal>
+        <NomCommune>MARSEILLE</NomCommune>
+        <Localisation>
+            <Latitude>43.2978085</Latitude>
+            <Longitude>5.3810357</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 91 62 72 93</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

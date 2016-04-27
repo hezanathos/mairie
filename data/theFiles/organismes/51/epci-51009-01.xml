@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-51009-01" codeInsee="51009" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays d'Anglure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Promenade de l'Aube</Ligne>
+      <CodePostal>51260</CodePostal>
+      <NomCommune>Anglure</NomCommune>
+      <Localisation>
+         <Latitude>48.5848128</Latitude>
+         <Longitude>3.8134208</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 42 75 18</Téléphone>
+      <Télécopie>+33 3 26 42 75 20</Télécopie>
+      <Email>sg.ccpa@orange.fr</Email>
+      <Url>http://cc-pays-anglure.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

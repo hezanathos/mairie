@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-18279-01" codeInsee="18279" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Vierzon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de la culture professionnelle</Ligne>
+      <Ligne>28, avenue Pierre-Sémard</Ligne>
+      <CodePostal>18100</CodePostal>
+      <NomCommune>Vierzon</NomCommune>
+      <Localisation>
+         <Latitude>47.2258811</Latitude>
+         <Longitude>2.059886</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 52 09 18</Téléphone>
+      <Email>pij.vierzon@ijcentre.fr</Email>
+      <Url>http://www.informationjeunesse-centre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

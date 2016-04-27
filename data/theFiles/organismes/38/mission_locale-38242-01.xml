@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-38242-01" codeInsee="38242" dateMiseAJour="2013-05-15"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Monestier-de-Clermont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin des Chambons</Ligne>
+      <Ligne>BP 16</Ligne>
+      <Ligne>Centre socio-culturel Le Granjou</Ligne>
+      <CodePostal>38650</CodePostal>
+      <NomCommune>Monestier-de-Clermont</NomCommune>
+      <Localisation>
+         <Latitude>44.9141998291</Latitude>
+         <Longitude>5.62754011154</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 34 84 58</Téléphone>
+      <Email>contact@ml-asi.com</Email>
+      <Url>http://www.ml-asi.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

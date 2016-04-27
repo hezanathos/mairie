@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-93010-01" codeInsee="93010" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Bondy</Nom>
+   <EditeurSource>Préfecture de police de Paris</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 avenue Henri-Barbusse</Ligne>
+      <CodePostal>93140</CodePostal>
+      <NomCommune>Bondy</NomCommune>
+      <Localisation>
+         <Latitude>48.901726</Latitude>
+         <Longitude>2.4860969</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 50 30 00</Téléphone>
+      <Url>http://www.prefecturedepolice.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

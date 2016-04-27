@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-50168-01" codeInsee="50168" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-385">
+   <Nom>Point d'information local dédié aux personnes âgées - Ducey</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de l'Avranchin</Ligne>
+      <Ligne>21 rue du Couvent</Ligne>
+      <CodePostal>50220</CodePostal>
+      <NomCommune>Ducey</NomCommune>
+      <Localisation>
+         <Latitude>48.617915</Latitude>
+         <Longitude>-1.287427</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 68 21 35</Téléphone>
+      <Email>clicdelavranchin@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

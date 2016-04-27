@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="70550" dateMiseAJour="2015-07-24" id="bav-70550-01" idPresta="51b08cc8b473e41478000ec2" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Vesoul</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>14 place du 11ème chasseurs</Ligne>
+        <CodePostal>70000</CodePostal>
+        <NomCommune>VESOUL</NomCommune>
+        <Localisation>
+            <Latitude>47.623767</Latitude>
+            <Longitude>6.158148</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 84 78 58 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

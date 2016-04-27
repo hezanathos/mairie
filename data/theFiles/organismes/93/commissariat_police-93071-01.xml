@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-93071-01" codeInsee="93071" dateMiseAJour="2016-02-12"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Sevran</Nom>
+   <EditeurSource>Préfecture de police de Paris</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Gaston-Bussière</Ligne>
+      <CodePostal>93270</CodePostal>
+      <NomCommune>Sevran</NomCommune>
+      <Localisation>
+         <Latitude>48.9376311</Latitude>
+         <Longitude>2.5295625</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 55 85 60 00</Téléphone>
+      <Url>http://www.prefecturedepolice.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

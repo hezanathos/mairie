@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-59139-01" codeInsee="59139" dateMiseAJour="2015-07-22"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Caudry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>46 rue Aristide-Briand</Ligne>
+      <Ligne>BP  30219</Ligne>
+      <CodePostal>59544</CodePostal>
+      <NomCommune>Caudry Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.1227276</Latitude>
+         <Longitude>3.4156398</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 85 11 94</Téléphone>
+      <Email>t059314@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

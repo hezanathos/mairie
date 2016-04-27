@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72231-01" codeInsee="72231" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Parigné-L'Évêque</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>87, avenue du Docteur Gallouedec</Ligne>
+      <CodePostal>72250</CodePostal>
+      <NomCommune>Parigné-l'Évêque</NomCommune>
+      <Localisation>
+         <Latitude>47.933072</Latitude>
+         <Longitude>0.3661677</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 75 80 03</Téléphone>
+      <Télécopie>+33 2 43 75 46 97</Télécopie>
+      <Email>cob.monce-en-belin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

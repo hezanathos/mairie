@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-78621-01" codeInsee="78621" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta de Versailles - Formation</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parc d'activités de Pissaloup</Ligne>
+      <Ligne>1, rue Édouard-Branly</Ligne>
+      <CodePostal>78190</CodePostal>
+      <NomCommune>Trappes</NomCommune>
+      <Localisation>
+         <Latitude>48.776731</Latitude>
+         <Longitude>2.001844</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 68 26 80</Téléphone>
+      <Télécopie>+33 1 30 68 93 47</Télécopie>
+      <Email>greta.versaillesformation.78@ac-versailles.fr</Email>
+      <Url>http://www.greta.ac-versailles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

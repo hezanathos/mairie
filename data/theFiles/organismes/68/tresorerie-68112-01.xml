@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-68112-01" codeInsee="68112" dateMiseAJour="2015-01-14"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Soultz-Forival</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>62 rue Jean-Jaurès</Ligne>
+      <Ligne>BP 13</Ligne>
+      <CodePostal>68360</CodePostal>
+      <NomCommune>Soultz-Florival</NomCommune>
+      <Localisation>
+         <Latitude>47.8856211</Latitude>
+         <Longitude>7.2291301</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 76 94 37</Téléphone>
+      <Télécopie>+33 3 89 76 89 65</Télécopie>
+      <Email>t068008@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

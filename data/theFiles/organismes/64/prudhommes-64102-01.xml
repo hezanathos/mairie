@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="64102" dateMiseAJour="2014-06-23" id="prudhommes-64102-01" idPresta="4cac9e5f293594648a0002d8" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Bayonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 rue Ville en Bois</Ligne>
+        <CodePostal>64100</CodePostal>
+        <NomCommune>BAYONNE</NomCommune>
+        <Localisation>
+            <Latitude>43.4915298</Latitude>
+            <Longitude>-1.4859467</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 59 59 32 21</Téléphone>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

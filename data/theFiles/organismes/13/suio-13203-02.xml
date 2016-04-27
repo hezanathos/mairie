@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-13203-02" codeInsee="13203" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Aix-Marseille - Secteur sciences et technologies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Faculté des Sciences et Techniques de Saint-Jérôme</Ligne>
+      <Ligne>Avenue Escadrille-Normandie-Niemen</Ligne>
+      <CodePostal>13397</CodePostal>
+      <NomCommune>Marseille Cedex 20</NomCommune>
+      <Localisation>
+         <Latitude>43.3363592</Latitude>
+         <Longitude>5.409965</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 28 81 18</Téléphone>
+      <Email>scuio.sciences@univ-cezanne.fr</Email>
+      <Url>http://www.univ-cezanne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

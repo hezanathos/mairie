@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18023" dateMiseAJour="2015-11-03" id="permanence_juridique-18023-01" idPresta="51d1dd9db473e4569c000015" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Comarquage.fr</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des solidarités EST</Ligne>
+        <Ligne>Îlot Saint Abdon</Ligne>
+        <CodePostal>18800</CodePostal>
+        <NomCommune>BAUGY</NomCommune>
+        <Localisation>
+            <Latitude>47.0763663675</Latitude>
+            <Longitude>2.72804260249</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 48 68 33 83</Téléphone>
+        <Email>mailto:cdad@cdad18.fr</Email>
+        <Url>http://www.cdad18.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>1er lundi du mois de 9h30 à 12h sur rendez-vous au 06 85 42 95 14 ou 02 48 68 33 83.</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

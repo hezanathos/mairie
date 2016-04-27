@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="78646" dateMiseAJour="2014-01-28" id="tribunal_commerce-78646-01" idPresta="4eb263302935944ef5000186" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Versailles</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 place André Mignot</Ligne>
+        <CodePostal>78011</CodePostal>
+        <NomCommune>VERSAILLES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.802352</Latitude>
+            <Longitude>2.131046</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 39 07 16 40</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

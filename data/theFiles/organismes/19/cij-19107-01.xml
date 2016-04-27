@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-19107-01" codeInsee="19107" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de l'Arche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41, rue de Melleville</Ligne>
+      <Ligne>École Joliot-Curie 2</Ligne>
+      <CodePostal>27000</CodePostal>
+      <NomCommune>Évreux</NomCommune>
+      <Localisation>
+         <Latitude>49.0102926</Latitude>
+         <Longitude>1.1612752</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 23 05 40</Téléphone>
+      <Télécopie>+33 2 32 23 33 84</Télécopie>
+      <Email>archedelamadeleine@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

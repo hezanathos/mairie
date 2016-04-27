@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-40088-01" codeInsee="40088" dateMiseAJour="2012-12-20" pivotLocal="pif">
+   <Nom>Centre communal d'action sociale de Dax</Nom>
+   <EditeurSource>Accueil Info Famille de la Ville de Dax</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue du Palais</Ligne>
+      <CodePostal>40100</CodePostal>
+      <NomCommune>Dax</NomCommune>
+      <Localisation>
+         <Latitude>43.709902</Latitude>
+         <Longitude>-1.0518099</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 74 47 81</Téléphone>
+      <Télécopie>+33 5 58 74 47 81</Télécopie>
+      <Email>aif@dax.fr</Email>
+      <Url>http://www.dax.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

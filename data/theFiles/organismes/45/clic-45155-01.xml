@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-45155-01" codeInsee="45155" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-354">
+   <Nom>Point d'information local dédié aux personnes âgées - Gien</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>AGE-Centre local d'information et de coordination</Ligne>
+      <Ligne>5 rue des Cigognes</Ligne>
+      <CodePostal>45500</CodePostal>
+      <NomCommune>Gien</NomCommune>
+      <Localisation>
+         <Latitude>47.701203</Latitude>
+         <Longitude>2.617569</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 38 37 51</Téléphone>
+      <Email>clicdugiennois@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

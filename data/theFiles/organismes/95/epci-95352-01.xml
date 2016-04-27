@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-95352-01" codeInsee="95352" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue Bonnet</Ligne>
+      <CodePostal>95270</CodePostal>
+      <NomCommune>Luzarches</NomCommune>
+      <Localisation>
+         <Latitude>49.1133711</Latitude>
+         <Longitude>2.424304</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 71 94 06</Téléphone>
+      <Télécopie>+33 1 34 71 97 91</Télécopie>
+      <Email>f.fagot@cc-paysdefrance.fr</Email>
+      <Url>http://www.cc-paysdefrance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

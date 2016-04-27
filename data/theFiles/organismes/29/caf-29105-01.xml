@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-29105-01" codeInsee="29105" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Finistère - accueil de Landivisiau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>18 place Lyautey</Ligne>
+      <Ligne>Centre départemental d'action sociale</Ligne>
+      <CodePostal>29400</CodePostal>
+      <NomCommune>Landivisiau</NomCommune>
+      <Localisation>
+         <Latitude>48.5113992</Latitude>
+         <Longitude>-4.0688171</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>1 rue Portzmoguer</Ligne>
+      <Ligne>Caisse d'allocations familiales du Finistère</Ligne>
+      <CodePostal>29602</CodePostal>
+      <NomCommune>Brest Cedex 2</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 29 30</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert toute la journée du mardi uniquement en semaine paire. Accueil ouvert uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 9h à 16h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-13071-01" codeInsee="13071" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Bureau de police des Pennes-Mirabeau</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Gavotte</Ligne>
+      <Ligne>77 avenue François-Mitterand</Ligne>
+      <CodePostal>13170</CodePostal>
+      <NomCommune>Les Pennes-Mirabeau</NomCommune>
+      <Localisation>
+         <Latitude>43.3797671</Latitude>
+         <Longitude>5.3508677</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 84 35 39 20</Téléphone>
+      <Email>ddsp13-bp-pennes-mirabeau@interieur.gouv.fr</Email>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

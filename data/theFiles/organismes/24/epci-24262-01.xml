@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-24262-01" codeInsee="24262" dateMiseAJour="2015-05-13"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Causses-et-Rivières en Périgord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, avenue André-Audy</Ligne>
+      <CodePostal>24160</CodePostal>
+      <NomCommune>Excideuil</NomCommune>
+      <Localisation>
+         <Latitude>45.3315036</Latitude>
+         <Longitude>1.046259</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 62 46 58</Téléphone>
+      <Télécopie>+33 5 53 62 81 99</Télécopie>
+      <Email>causses.rivieres-perigord@wanadoo.fr</Email>
+      <Url>http://www.cccrp.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

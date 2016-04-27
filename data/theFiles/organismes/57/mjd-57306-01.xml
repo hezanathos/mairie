@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="57306" dateMiseAJour="2015-11-03" id="mjd-57306-01" idPresta="557e9d12b473e40c18f7d88e" pivotLocal="mjd">
+    <Nom>La Maison de la justice et du droit du Val-de-Fensch</Nom>
+    <EditeurSource>Comarquage.fr</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>10 rue de Wendel</Ligne>
+        <CodePostal>57700</CodePostal>
+        <NomCommune>HAYANGE</NomCommune>
+        <Localisation>
+            <Latitude>49.325257</Latitude>
+            <Longitude>6.076868</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 82 51 98 62</Téléphone>
+        <Email>mailto:Mjd-val-de-fensch@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

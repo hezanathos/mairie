@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-50256-01" codeInsee="50256" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Isigny-le-Buat</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Saint-Exupéry</Ligne>
+      <CodePostal>50540</CodePostal>
+      <NomCommune>Isigny-le-Buat</NomCommune>
+      <Localisation>
+         <Latitude>48.6172956</Latitude>
+         <Longitude>-1.1683613</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 89 13 20</Téléphone>
+      <Télécopie>+33 2 33 89 13 22</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

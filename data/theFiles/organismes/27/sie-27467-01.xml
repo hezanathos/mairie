@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-27467-01" codeInsee="27467" dateMiseAJour="2013-05-13" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de Pont-Audemer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue de l'Europe</Ligne>
+      <CodePostal>27507</CodePostal>
+      <NomCommune>Pont-Audemer Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.351796</Latitude>
+         <Longitude>0.526824</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 56 71 22</Téléphone>
+      <Email>sie.pont-audemer@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

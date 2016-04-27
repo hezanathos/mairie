@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-54431-01" codeInsee="54431" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Meurthe-et-Moselle - accueil de Pont-à-Mousson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>2e étage</Ligne>
+      <Ligne>Maison de la formation</Ligne>
+      <Ligne>8 rue de la Poterne</Ligne>
+      <CodePostal>54700</CodePostal>
+      <NomCommune>Pont-à-Mousson</NomCommune>
+      <Localisation>
+         <Latitude>48.9018148</Latitude>
+         <Longitude>6.0570907</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de Meurthe-et-Moselle</Ligne>
+      <Ligne>21 rue de Saint-Lambert</Ligne>
+      <CodePostal>54046</CodePostal>
+      <NomCommune>Nancy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6869010925</Latitude>
+         <Longitude>6.16654014587</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 54 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

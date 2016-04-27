@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="53130" dateMiseAJour="2016-01-29" id="te-53130-01" idPresta="4cac9e86293594648a004caf" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Laval</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>13 place Saint Tugal</Ligne>
+        <Ligne>BP 81515</Ligne>
+        <CodePostal>53015</CodePostal>
+        <NomCommune>LAVAL CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.0693098</Latitude>
+            <Longitude>-0.7735482</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 49 57 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

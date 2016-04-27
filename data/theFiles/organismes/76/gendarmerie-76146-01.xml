@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-76146-01" codeInsee="76146" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Buchy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>269, route de Forges-les-Eaux</Ligne>
+      <CodePostal>76750</CodePostal>
+      <NomCommune>Buchy</NomCommune>
+      <Localisation>
+         <Latitude>49.5928449</Latitude>
+         <Longitude>1.4142778</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 34 40 14</Téléphone>
+      <Télécopie>+33 2 35 34 94 57</Télécopie>
+      <Email>cob.st-jacques-sur-darnetal@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

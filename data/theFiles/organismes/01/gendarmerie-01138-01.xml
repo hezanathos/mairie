@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-01138-01" codeInsee="01138" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Culoz</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Claudius Richard</Ligne>
+      <CodePostal>01350</CodePostal>
+      <NomCommune>Culoz</NomCommune>
+      <Localisation>
+         <Latitude>45.8472669</Latitude>
+         <Longitude>5.7878443</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 87 00 11</Téléphone>
+      <Télécopie>+33 4 79 87 11 79</Télécopie>
+      <Email>cob.culoz@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

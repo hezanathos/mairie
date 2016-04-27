@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-75106-02" codeInsee="75106" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Paris 5 - Paris Descartes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de l'École-de-Médecine</Ligne>
+      <CodePostal>75270</CodePostal>
+      <NomCommune>Paris Cedex 6</NomCommune>
+      <Localisation>
+         <Latitude>48.8512077</Latitude>
+         <Longitude>2.3407847</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 40 46 16 50</Téléphone>
+      <Télécopie>+33 1 40 46 16 67</Télécopie>
+      <Email>sofip@parisdescartes.fr</Email>
+      <Url>http://www.scuio.univ-paris5.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

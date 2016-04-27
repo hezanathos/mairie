@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13100-02" codeInsee="13100" dateMiseAJour="2009-09-14" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Saint Rémy de Provence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Département</Ligne>
+      <Ligne>11 avenue Félix Gras</Ligne>
+      <CodePostal>13210</CodePostal>
+      <NomCommune>ST REMY DE PROVENCE</NomCommune>
+      <Localisation>
+         <Latitude>43.7921981812</Latitude>
+         <Longitude>4.83488988876</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 92 75 79</Téléphone>
+      <Url>http://www.crijpa.com</Url>
+   </CoordonnéesNum>
+</Organisme>

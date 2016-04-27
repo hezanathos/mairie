@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-89169-01" codeInsee="89169" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Flogny-la-Chapelle</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, route Nationale</Ligne>
+      <CodePostal>89360</CodePostal>
+      <NomCommune>Flogny-la-Chapelle</NomCommune>
+      <Localisation>
+         <Latitude>47.9511265</Latitude>
+         <Longitude>3.876099</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 75 45 17</Téléphone>
+      <Télécopie>+33 3 86 75 49 54</Télécopie>
+      <Email>cob.st-florentin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

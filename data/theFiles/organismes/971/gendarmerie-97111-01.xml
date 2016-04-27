@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97111-01" codeInsee="97111" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Deshaies</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin de Matouba</Ligne>
+      <CodePostal>97126</CodePostal>
+      <NomCommune>Deshaies</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 85 38 20</Téléphone>
+      <Télécopie>+590 5 90 85 38 25</Télécopie>
+      <Email>bta.deshaies@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

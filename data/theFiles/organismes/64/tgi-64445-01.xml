@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="64445" dateMiseAJour="2014-06-23" id="tgi-64445-01" idPresta="4cac9e6a293594648a0017af" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Pau</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>place de la Libération</Ligne>
+        <CodePostal>64034</CodePostal>
+        <NomCommune>PAU CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.297682</Latitude>
+            <Longitude>-0.371384</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 59 82 46 15</Téléphone>
+        <Télécopie>+33 5 59 82 46 64</Télécopie>
+        <Url>http://www.ca-pau.justice.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

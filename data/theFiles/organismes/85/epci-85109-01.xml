@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-85109-01" codeInsee="85109" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays des Herbiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 405</Ligne>
+      <Ligne>43 rue du 11-Novembre-1918</Ligne>
+      <CodePostal>85504</CodePostal>
+      <NomCommune>Les Herbiers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.8649706</Latitude>
+         <Longitude>-1.0084839</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">petite marche de deux centimètres à l'entrée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 66 82 27</Téléphone>
+      <Télécopie>+33 2 51 91 29 84</Télécopie>
+      <Email>info@cc-paysdesherbiers.fr</Email>
+      <Url>http://www.cc-paysdesherbiers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

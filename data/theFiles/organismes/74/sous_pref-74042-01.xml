@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sous_pref-74042-01" codeInsee="74042" dateMiseAJour="2013-04-03"
+           pivotLocal="sous_pref">
+   <Nom>Sous-préfecture de Bonneville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Pont</Ligne>
+      <Ligne>BP 138</Ligne>
+      <CodePostal>74136</CodePostal>
+      <NomCommune>Bonneville Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.0764033</Latitude>
+         <Longitude>6.4075852</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 97 18 88</Téléphone>
+      <Télécopie>+33 4 50 25 79 36</Télécopie>
+      <Email>sp-bonneville@haute-savoie.gouv.fr</Email>
+      <Url>http://www.haute-savoie.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="11:15:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:15:00"/>
+         <PlageH début="13:30:00" fin="15:45:00"/>
+         <Note>fermeture du service permis de conduire tous les après-midi</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="11:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:15:00"/>
+         <PlageH début="13:30:00" fin="15:45:00"/>
+         <Note>fermeture du service permis de conduire tous les après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

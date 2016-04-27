@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-12244-01" codeInsee="12244" dateMiseAJour="2015-09-02"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Muse et des Raspes du Tarn</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Saint-Ferréols</Ligne>
+      <CodePostal>12490</CodePostal>
+      <NomCommune>Saint-Rome-de-Tarn</NomCommune>
+      <Localisation>
+         <Latitude>44.048106</Latitude>
+         <Longitude>2.896</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 59 12 64</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

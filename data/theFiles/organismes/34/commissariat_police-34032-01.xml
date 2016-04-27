@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-34032-01" codeInsee="34032" dateMiseAJour="2015-08-06"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Béziers</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Boulevard Edouard-Herriot</Ligne>
+      <CodePostal>34500</CodePostal>
+      <NomCommune>Béziers</NomCommune>
+      <Localisation>
+         <Latitude>43.3930989</Latitude>
+         <Longitude>3.3675899</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 49 54 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-90058-01" codeInsee="90058" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lachapelle-sous-Rougemont</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42, rue du Général-de-Gaulle</Ligne>
+      <CodePostal>90360</CodePostal>
+      <NomCommune>La Désirade</NomCommune>
+      <Localisation>
+         <Latitude>47.7092042</Latitude>
+         <Longitude>7.0146608</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 27 60 30</Téléphone>
+      <Télécopie>+33 3 84 27 62 78</Télécopie>
+      <Email>cob.giromagny@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

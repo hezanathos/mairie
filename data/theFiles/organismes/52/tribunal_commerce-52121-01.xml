@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="52121" dateMiseAJour="2014-01-28" id="tribunal_commerce-52121-01" idPresta="4eb263302935944ef500018f" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Chaumont</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Batiment de l&#39;horloge</Ligne>
+        <Ligne>6 rue Raymond Savignac</Ligne>
+        <CodePostal>52000</CodePostal>
+        <NomCommune>CHAUMONT</NomCommune>
+        <Localisation>
+            <Latitude>48.100867</Latitude>
+            <Longitude>5.147194</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 891 01 11 11</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

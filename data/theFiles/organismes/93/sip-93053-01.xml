@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-93053-01" codeInsee="93053" dateMiseAJour="2016-03-31" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Noisy-le-Sec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue Saint-Denis</Ligne>
+      <CodePostal>93134</CodePostal>
+      <NomCommune>Noisy-le-Sec Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8911913</Latitude>
+         <Longitude>2.4527239</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>0811 90 91 92</Téléphone>
+      <Télécopie>+33 1 48 40 49 34</Télécopie>
+      <Email>financespubliques93@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+         <Note>Egalement sur rendez-vous. Fermé le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Fax : 01.48.40.49.34 (Accueil &amp; Compta), 01.49.15.83.52 (Secteurs &amp; Recouvrement)
+Les contribuables particuliers de la Seine-Saint-Denis 
+peuvent joindre leur service des impôts par téléphone du lundi au vendredi 
+de 8h30 à 19h00, sans interruption, au 0811.90.91.92. Par ailleurs, ils 
+peuvent adresser un courriel à l'adresse suivante: 
+financespubliques93@dgfip.finances.gouv.fr</Commentaire>
+</Organisme>

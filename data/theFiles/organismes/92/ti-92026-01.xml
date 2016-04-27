@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="92026" dateMiseAJour="2014-01-28" id="ti-92026-01" idPresta="4cac9e6a293594648a00181e" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Courbevoie</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>25 rue du Président Kruger</Ligne>
+        <CodePostal>92400</CodePostal>
+        <NomCommune>COURBEVOIE</NomCommune>
+        <Localisation>
+            <Latitude>48.8986534616</Latitude>
+            <Longitude>2.25608174471</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 43 33 03 42</Téléphone>
+        <Télécopie>+33 1 43 33 70 01</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:30:00" fin="12:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

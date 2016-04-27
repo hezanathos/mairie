@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="56260" dateMiseAJour="2014-11-03" id="tribunal_commerce-56260-01" idPresta="4eb263312935944ef50001a3" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Vannes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>19 rue des Tribunaux</Ligne>
+        <Ligne>BP 505</Ligne>
+        <CodePostal>56019</CodePostal>
+        <NomCommune>VANNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.657169</Latitude>
+            <Longitude>-2.761191</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 97 47 22 89</Téléphone>
+        <Télécopie>+33 2 97 54 23 90</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

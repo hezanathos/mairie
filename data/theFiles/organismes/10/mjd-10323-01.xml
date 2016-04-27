@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="10323" dateMiseAJour="2012-01-27" id="mjd-10323-01" idPresta="51b08c9cb473e4147800055f" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Romilly sur seine</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>9 rue de l&#39;Union</Ligne>
+        <CodePostal>10105</CodePostal>
+        <NomCommune>ROMILLY SUR SEINE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.516749</Latitude>
+            <Longitude>3.727229</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

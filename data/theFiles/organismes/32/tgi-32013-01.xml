@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="32013" dateMiseAJour="2014-01-28" id="tgi-32013-01" idPresta="4cac9e6a293594648a001798" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance d&#39;Auch</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>allée d&#39;Etigny</Ligne>
+        <CodePostal>32008</CodePostal>
+        <NomCommune>AUCH CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.64811</Latitude>
+            <Longitude>0.582501</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 61 67 00</Téléphone>
+        <Télécopie>+33 5 62 05 75 10</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

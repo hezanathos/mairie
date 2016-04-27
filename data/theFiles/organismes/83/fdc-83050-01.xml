@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdc-83050-01" codeInsee="83050" dateMiseAJour="2014-10-14" pivotLocal="fdc">
+   <Nom>Fédération départementale des chasseurs - Var</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, boulevard Gabriel-Péri</Ligne>
+      <CodePostal>83300</CodePostal>
+      <NomCommune>Draguignan</NomCommune>
+      <Localisation>
+         <Latitude>43.5353012085</Latitude>
+         <Longitude>6.46508979797</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 98 10 23 10</Téléphone>
+      <Télécopie>+33 4 94 68 10 47</Télécopie>
+      <Email>contact@fdc83.com</Email>
+      <Url>http://www.fdc83.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

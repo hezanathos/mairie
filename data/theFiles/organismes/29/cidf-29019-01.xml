@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cidf-29019-01" codeInsee="29019" dateMiseAJour="2016-03-10"
+           pivotLocal="cidf">
+   <Nom>Centre d’information sur les droits des femmes et des familles (CIDFF) - Finistère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 rue Fautras</Ligne>
+      <CodePostal>29200</CodePostal>
+      <NomCommune>Brest</NomCommune>
+      <Localisation>
+         <Latitude>48.3907012939</Latitude>
+         <Longitude>-4.4910402298</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 44 97 47</Téléphone>
+      <Télécopie>+33 2 98 43 10 18</Télécopie>
+      <Email>contact@cidff29.fr</Email>
+      <Url>http://cidf.infini.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil juristes et conseillères emploi formation ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

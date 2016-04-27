@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-62041-02" codeInsee="62041" dateMiseAJour="2015-06-22" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques d'Arras Ouest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue Diderot</Ligne>
+      <Ligne>SP 20</Ligne>
+      <CodePostal>62034</CodePostal>
+      <NomCommune>Arras Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.2969555</Latitude>
+         <Longitude>2.7348486</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 24 68 68</Téléphone>
+      <Télécopie>+33 3 21 24 69 14</Télécopie>
+      <Email>sip.arras-ouest@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

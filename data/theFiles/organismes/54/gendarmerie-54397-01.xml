@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-54397-01" codeInsee="54397" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Neuves-Maisons</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>58 rue du Capitaine-Caillon</Ligne>
+      <CodePostal>54230</CodePostal>
+      <NomCommune>Neuves-Maisons</NomCommune>
+      <Localisation>
+         <Latitude>48.6142025</Latitude>
+         <Longitude>6.103831</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 47 80 00</Téléphone>
+      <Télécopie>+33 3 83 47 80 09</Télécopie>
+      <Email>bp.neuves-maisons@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

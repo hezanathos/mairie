@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-31523-01" codeInsee="31523" dateMiseAJour="2015-03-24"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Salies-du-Salat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 avenue des Thermes</Ligne>
+      <CodePostal>31260</CodePostal>
+      <NomCommune>Salies-du-Salat</NomCommune>
+      <Localisation>
+         <Latitude>43.1011723</Latitude>
+         <Longitude>0.9605297</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 90 80 00</Téléphone>
+      <Email>t031054@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

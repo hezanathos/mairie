@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fongecif-75110-01" codeInsee="75110" dateMiseAJour="2016-03-10"
+           pivotLocal="fongecif">
+   <Nom>Fongecif - Ile-de-France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place Johann-Strauss</Ligne>
+      <CodePostal>75010</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8685909</Latitude>
+         <Longitude>2.3591858</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>2 ter boulevard Saint-Martin</Ligne>
+      <CodePostal>75498</CodePostal>
+      <NomCommune>Paris Cedex 10</NomCommune>
+      <Localisation>
+         <Latitude>48.8682012</Latitude>
+         <Longitude>2.3608282</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 44 10 58 58</Téléphone>
+      <Télécopie>+33 1 44 10 58 00</Télécopie>
+      <Email>fongecif@fongecif-idf.fr</Email>
+      <Url>http://www.fongecif-idf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="10:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

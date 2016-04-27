@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-87090-01" codeInsee="87090" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Brame Benaize</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Anciennes Écoles</Ligne>
+      <CodePostal>87160</CodePostal>
+      <NomCommune>Mailhac-sur-Benaize</NomCommune>
+      <Localisation>
+         <Latitude>46.322097</Latitude>
+         <Longitude>1.329387</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 76 83 99</Téléphone>
+      <Télécopie>+33 5 55 76 96 17</Télécopie>
+      <Email>cc-bramebenaize@wanadoo.fr</Email>
+      <Url>http://www.bramebenaize.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

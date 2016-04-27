@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-23165-01" codeInsee="23165" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Royère-de-Vassivière</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Eugène-Trassoudaine</Ligne>
+      <CodePostal>23460</CodePostal>
+      <NomCommune>Royère-de-Vassivière</NomCommune>
+      <Localisation>
+         <Latitude>45.842692</Latitude>
+         <Longitude>1.915493</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 64 70 17</Téléphone>
+      <Télécopie>+33 5 55 64 72 64</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

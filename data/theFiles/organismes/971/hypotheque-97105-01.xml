@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-97105-01" codeInsee="97105" dateMiseAJour="2015-01-15"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-conservation des hypothèques) de Basse-Terre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Desmarais</Ligne>
+      <Ligne>BP 561</Ligne>
+      <CodePostal>97100</CodePostal>
+      <NomCommune>Basse-Terre</NomCommune>
+      <Localisation>
+         <Latitude>16.0</Latitude>
+         <Longitude>-61.733333</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 99 47 12</Téléphone>
+      <Télécopie>+590 5 90 99 47 31</Télécopie>
+      <Email>spf.basse-terre@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

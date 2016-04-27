@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="66136" dateMiseAJour="2014-09-22" id="prudhommes-66136-01" idPresta="4cac9e6a293594648a001700" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Perpignan</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>13-15 boulevard Escarguel</Ligne>
+        <Ligne>BP 90309</Ligne>
+        <CodePostal>66003</CodePostal>
+        <NomCommune>PERPIGNAN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>42.699197</Latitude>
+            <Longitude>2.887017</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 68 51 33 88</Téléphone>
+        <Télécopie>+33 4 68 34 05 00</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

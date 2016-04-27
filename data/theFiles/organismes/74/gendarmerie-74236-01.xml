@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-74236-01" codeInsee="74236" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Gervais-les-Bains</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>54, rue Panloup</Ligne>
+      <CodePostal>74170</CodePostal>
+      <NomCommune>Saint-Gervais-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>45.8877055</Latitude>
+         <Longitude>6.7145431</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 47 39 90</Téléphone>
+      <Télécopie>+33 4 50 47 39 90</Télécopie>
+      <Email>cob.megeve@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

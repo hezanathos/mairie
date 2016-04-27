@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-09122-01" codeInsee="09122" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Ariège</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 60061</Ligne>
+      <Ligne>5, cours Gabriel-Fauré</Ligne>
+      <CodePostal>09008</CodePostal>
+      <NomCommune>Foix Cedex</NomCommune>
+      <Localisation>
+         <Latitude>42.964374</Latitude>
+         <Longitude>1.6094729</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 65 00 23</Téléphone>
+      <Télécopie>+33 5 61 65 54 72</Télécopie>
+      <Email>sd09@onacvg.fr</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

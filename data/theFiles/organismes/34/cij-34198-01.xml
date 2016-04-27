@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-34198-01" codeInsee="34198" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Pérols</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Font Martin</Ligne>
+      <Ligne>Salle Font Martin</Ligne>
+      <CodePostal>34470</CodePostal>
+      <NomCommune>PEROLS</NomCommune>
+      <Localisation>
+         <Latitude>43.5666007996</Latitude>
+         <Longitude>3.95193004608</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 68 92 58</Téléphone>
+      <Email>espace-jeunesse@ville-perols.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

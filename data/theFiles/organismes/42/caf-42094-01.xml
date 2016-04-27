@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-42094-01" codeInsee="42094" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de la Loire - accueil de Feurs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>3 rue Camille-Pariat</Ligne>
+      <CodePostal>42110</CodePostal>
+      <NomCommune>Feurs</NomCommune>
+      <Localisation>
+         <Latitude>45.7458992004</Latitude>
+         <Longitude>4.22237014771</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de la Loire</Ligne>
+      <Ligne>CS 12722</Ligne>
+      <CodePostal>42027</CodePostal>
+      <NomCommune>Saint-Étienne Cedex 1</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 42 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 12h et de 13h à 16h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="apec-77083-01" codeInsee="77083" dateMiseAJour="2014-02-11"
+           pivotLocal="apec">
+   <Nom>Association pour l’emploi des cadres (Apec) de Marne-la-Vallée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, mail Barthélemy-Thimonnier</Ligne>
+      <CodePostal>77437</CodePostal>
+      <NomCommune>Marne-la-Vallée Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>48.8391990662</Latitude>
+         <Longitude>2.62962007523</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit)">0810 80 58 05</Téléphone>
+      <Télécopie>+33 1 60 17 06 54</Télécopie>
+      <Email>act.cour@apec.fr</Email>
+      <Url>http://www.apec.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

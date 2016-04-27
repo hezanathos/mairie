@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-94041-01" codeInsee="94041" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police d'Ivry-sur-Seine</Nom>
+   <EditeurSource>Préfecture de police de Paris</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Marcel-Cachin</Ligne>
+      <CodePostal>94205</CodePostal>
+      <NomCommune>Ivry-sur-Seine</NomCommune>
+      <Localisation>
+         <Latitude>48.8140434</Latitude>
+         <Longitude>2.3901939</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 49 59 33 00</Téléphone>
+      <Url>http://www.prefecturedepolice.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

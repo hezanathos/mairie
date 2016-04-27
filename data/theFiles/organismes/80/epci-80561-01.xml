@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-80561-01" codeInsee="80561" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Montdidier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Pasteur-Prolongée</Ligne>
+      <CodePostal>80500</CodePostal>
+      <NomCommune>Montdidier</NomCommune>
+      <Localisation>
+         <Latitude>49.647007</Latitude>
+         <Longitude>2.566932</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 37 50 50</Téléphone>
+      <Télécopie>+33 3 22 37 50 55</Télécopie>
+      <Email>cc.montdidier@wanadoo.fr</Email>
+      <Url>http://www.cc-montdidier.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

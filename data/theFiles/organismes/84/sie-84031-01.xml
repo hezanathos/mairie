@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-84031-01" codeInsee="84031" dateMiseAJour="2015-06-22" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de Carpentras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>219, avenue du Comtat-Venaissin</Ligne>
+      <Ligne>BP 224</Ligne>
+      <CodePostal>84208</CodePostal>
+      <NomCommune>Carpentras Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.0528358</Latitude>
+         <Longitude>5.0516963</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 63 83 04</Téléphone>
+      <Email>sie.carpentras@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

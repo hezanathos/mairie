@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-95127-01" codeInsee="95127" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Cergy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CIDFF 95</Ligne>
+      <Ligne>1 place des Arts</Ligne>
+      <CodePostal>95022</CodePostal>
+      <NomCommune>Cergy</NomCommune>
+      <Localisation>
+         <Latitude>49.036293</Latitude>
+         <Longitude>2.078477</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 41 42 93</Téléphone>
+      <Télécopie>+33 1 34 41 92 92</Télécopie>
+      <Email>cidff95@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

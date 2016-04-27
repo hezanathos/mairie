@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="79191" dateMiseAJour="2014-12-08" id="spip-79191-01" idPresta="4d257c822935941b0b00d21e" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation des Deux-Sèvres</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>9 avenue de Verdun</Ligne>
+        <CodePostal>79000</CodePostal>
+        <NomCommune>NIORT</NomCommune>
+        <Localisation>
+            <Latitude>46.322231</Latitude>
+            <Longitude>-0.460135</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 49 04 44 00</Téléphone>
+        <Télécopie>+33 5 49 04 44 01</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

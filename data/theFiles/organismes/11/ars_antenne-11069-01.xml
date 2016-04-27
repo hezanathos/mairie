@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ars_antenne-11069-01" codeInsee="11069" dateMiseAJour="2016-03-10"
+           pivotLocal="ars_antenne">
+   <Nom>Délégation territoriale de l'Agence régionale de santé - Aude</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue du 4-Septembre</Ligne>
+      <CodePostal>11021</CodePostal>
+      <NomCommune>Carcassonne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.2149114</Latitude>
+         <Longitude>2.3536535</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 11 55 11</Téléphone>
+      <Télécopie>+33 4 68 11 55 10</Télécopie>
+      <Email>ars-dt11-direction@ars.sante.fr</Email>
+      <Url>http://www.ars.languedocroussillon.sante.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

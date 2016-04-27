@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="45234" dateMiseAJour="2010-02-03" id="mjd-45234-01" idPresta="51b08c98b473e41478000487" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  d&#39;Orléans</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 rue Edouard Branly</Ligne>
+        <CodePostal>45100</CodePostal>
+        <NomCommune>ORLEANS</NomCommune>
+        <Localisation>
+            <Latitude>47.834588</Latitude>
+            <Longitude>1.932537</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 38 69 01 22</Téléphone>
+        <Télécopie>+33 2 38 63 98 74</Télécopie>
+        <Email>mailto:mjd-orleans@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

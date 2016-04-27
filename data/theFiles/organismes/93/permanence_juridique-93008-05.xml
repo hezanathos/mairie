@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93008" dateMiseAJour="2015-11-03" id="permanence_juridique-93008-05" idPresta="4cd18fb2293594053101093f" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit spécialisé Habitat</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>31 avenue du Président Salvador Allendé</Ligne>
+        <CodePostal>93000</CodePostal>
+        <NomCommune>BOBIGNY</NomCommune>
+        <Localisation>
+            <Latitude>48.906458</Latitude>
+            <Longitude>2.445591</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 41 60 93 13</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

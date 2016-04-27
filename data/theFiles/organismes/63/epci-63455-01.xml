@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-63455-01" codeInsee="63455" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Gergovie-Val-d'Allier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZA le Pra-de-Serre</Ligne>
+      <CodePostal>63960</CodePostal>
+      <NomCommune>Veyre-Monton</NomCommune>
+      <Localisation>
+         <Latitude>45.6732047</Latitude>
+         <Longitude>3.1724632</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 39 62 00</Téléphone>
+      <Télécopie>+33 4 73 39 62 01</Télécopie>
+      <Email>gva.communaute@wanadoo.fr</Email>
+      <Url>http://www.cc-gergovie-val-allier.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

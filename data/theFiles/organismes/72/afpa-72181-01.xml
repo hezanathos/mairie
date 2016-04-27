@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-72181-01" codeInsee="72181" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre du Mans - Techniciens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>185 rue Henri-Champion</Ligne>
+      <CodePostal>72100</CodePostal>
+      <NomCommune>Le Mans</NomCommune>
+      <Localisation>
+         <Latitude>47.9841939</Latitude>
+         <Longitude>0.2283988</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 2 43 85 77 58</Télécopie>
+      <Url>http://www.paysdelaloire.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

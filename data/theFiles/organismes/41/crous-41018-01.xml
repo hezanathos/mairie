@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crous-41018-01" codeInsee="41018" dateMiseAJour="2015-04-19"
+           pivotLocal="crous">
+   <Nom>Centre local des œuvres universitaires et scolaires (Clous) de Blois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10-12 rue Anne-de-Bretagne</Ligne>
+      <Ligne>Restaurant universitaire La Gabare</Ligne>
+      <CodePostal>41000</CodePostal>
+      <NomCommune>Blois</NomCommune>
+      <Localisation>
+         <Latitude>47.5848481</Latitude>
+         <Longitude>1.33274419999998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 78 61 38</Téléphone>
+      <Télécopie>+33 2 54 78 56 17</Télécopie>
+      <Email>blois-crous@ac-orleans-tours.fr</Email>
+      <Url>http://www.crous-orleans-tours.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

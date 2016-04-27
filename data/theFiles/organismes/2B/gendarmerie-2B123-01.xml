@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-2B123-01" codeInsee="2B123" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Ghisonaccia</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Ghisoni</Ligne>
+      <CodePostal>20240</CodePostal>
+      <NomCommune>Ghisonaccia</NomCommune>
+      <Localisation>
+         <Latitude>42.0342956</Latitude>
+         <Longitude>9.3932153</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 56 00 17</Téléphone>
+      <Télécopie>+33 4 95 56 89 81</Télécopie>
+      <Email>cob.ghisonaccia@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

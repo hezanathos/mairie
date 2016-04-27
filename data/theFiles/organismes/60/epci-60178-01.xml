@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-60178-01" codeInsee="60178" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Crèvecoeur le Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 avenue du Château</Ligne>
+      <CodePostal>60360</CodePostal>
+      <NomCommune>Crèvecoeur-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>49.607696</Latitude>
+         <Longitude>2.076203</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 13 07 30</Téléphone>
+      <Télécopie>+33 3 44 13 08 04</Télécopie>
+      <Email>ccc.crevecoeur.le.gd@wanadoo.fr</Email>
+      <Url>http://www.oise-picarde.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

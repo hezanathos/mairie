@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-33063-02" codeInsee="33063" dateMiseAJour="2011-07-20" pivotLocal="pif">
+   <Nom>Point Info Famille de l'Udaf de Gironde</Nom>
+   <EditeurSource>Point Info Famille de l'Udaf de Gironde</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25 rue Francis Martin</Ligne>
+      <CodePostal>33075</CodePostal>
+      <NomCommune>BORDEAUX CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>44.8497565</Latitude>
+         <Longitude>-0.5821684</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 01 42 19</Téléphone>
+      <Télécopie>+33 5 56 01 53 00</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+         <Note>8 rue Newton Parc d'activités 33370 TRESSES</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

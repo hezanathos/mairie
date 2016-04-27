@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-43267-01" codeInsee="43267" dateMiseAJour="2015-11-02"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Vorey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Henri-Champagnac</Ligne>
+      <CodePostal>43800</CodePostal>
+      <NomCommune>Vorey-sur-Arzon</NomCommune>
+      <Localisation>
+         <Latitude>45.1855486</Latitude>
+         <Longitude>3.9086146</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 03 40 52</Téléphone>
+      <Télécopie>+33 4 71 03 72 78</Télécopie>
+      <Email>t043032@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

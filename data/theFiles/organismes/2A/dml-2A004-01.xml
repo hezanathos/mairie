@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dml-2A004-01" codeInsee="2A004" dateMiseAJour="2013-04-25" pivotLocal="dml">
+   <Nom>Délégation à la mer et au littoral de Corse du Sud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>4, boulevard du Roi-Jérôme</Ligne>
+      <CodePostal>20176</CodePostal>
+      <NomCommune>Ajaccio Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>41.921178</Latitude>
+         <Longitude>8.7390302</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Terre-plein de la Gare</Ligne>
+      <CodePostal>20302</CodePostal>
+      <NomCommune>Ajaccio Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 51 75 35</Téléphone>
+      <Télécopie>+33 4 95 51 75 49</Télécopie>
+      <Email>ddtm-sml@corse-du-sud.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

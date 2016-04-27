@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-31523-01" codeInsee="31523" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Salies-du-Salat</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>32 avenue de la Paix</Ligne>
+      <CodePostal>31260</CodePostal>
+      <NomCommune>Salies-du-Salat</NomCommune>
+      <Localisation>
+         <Latitude>43.1024615</Latitude>
+         <Longitude>0.9580809</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 90 51 17</Téléphone>
+      <Télécopie>+33 5 61 90 89 97</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-73002-01" codeInsee="73002" dateMiseAJour="2015-01-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Aiguebelle</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Séverin-Joseph-Meunier</Ligne>
+      <CodePostal>73220</CodePostal>
+      <NomCommune>Aiguebelle</NomCommune>
+      <Localisation>
+         <Latitude>45.5417048</Latitude>
+         <Longitude>6.3027781</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 36 20 17</Téléphone>
+      <Télécopie>+33 4 79 36 34 79</Télécopie>
+      <Email>cob.aiguebelle@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

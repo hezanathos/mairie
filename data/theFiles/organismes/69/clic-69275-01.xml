@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69275-01" codeInsee="69275" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-607">
+   <Nom>Point d'information local dédié aux personnes âgées - Décines-Charpieu</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Rhône du Canton de Décines Charpieu</Ligne>
+      <Ligne>5 place François-Mitterrand</Ligne>
+      <CodePostal>69150</CodePostal>
+      <NomCommune>Décines-Charpieu</NomCommune>
+      <Localisation>
+         <Latitude>45.771239</Latitude>
+         <Longitude>4.959347</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 05 67 00</Téléphone>
+      <Email>mdr.decines@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

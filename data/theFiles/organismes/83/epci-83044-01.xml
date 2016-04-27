@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-83044-01" codeInsee="83044" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Artuby Verdon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue de Chamay</Ligne>
+      <CodePostal>83840</CodePostal>
+      <NomCommune>Comps-sur-Artuby</NomCommune>
+      <Localisation>
+         <Latitude>43.7087239</Latitude>
+         <Longitude>6.508787</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 76 92 91</Téléphone>
+      <Télécopie>+33 4 94 76 92 74</Télécopie>
+      <Email>ccavadministratif@orange.fr</Email>
+      <Url>http://www.artuby-verdon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

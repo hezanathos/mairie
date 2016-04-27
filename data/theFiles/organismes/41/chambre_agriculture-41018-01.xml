@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-41018-01" codeInsee="41018" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d’agriculture - Loir-et-Cher</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 1808</Ligne>
+      <Ligne>11-13-15 rue Louis-Joseph-Philippe</Ligne>
+      <CodePostal>41018</CodePostal>
+      <NomCommune>Blois</NomCommune>
+      <Localisation>
+         <Latitude>47.5859427</Latitude>
+         <Longitude>1.3300966</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 55 20 00</Téléphone>
+      <Télécopie>+33 2 54 55 20 01</Télécopie>
+      <Email>accueil@loir-et-cher.chambagri.fr</Email>
+      <Url>http://www.loir-et-cher.chambagri.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

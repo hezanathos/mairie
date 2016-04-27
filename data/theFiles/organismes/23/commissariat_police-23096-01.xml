@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-23096-01" codeInsee="23096" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Guéret</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>BP 123</Ligne>
+      <Ligne>Place Bonnyaud</Ligne>
+      <CodePostal>23000</CodePostal>
+      <NomCommune>Guéret</NomCommune>
+      <Localisation>
+         <Latitude>46.169224</Latitude>
+         <Longitude>1.8685741</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 41 27 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

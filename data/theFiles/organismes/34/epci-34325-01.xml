@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-34325-01" codeInsee="34325" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Thongue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>101, rue de la Mairie</Ligne>
+      <CodePostal>34290</CodePostal>
+      <NomCommune>Valros</NomCommune>
+      <Localisation>
+         <Latitude>43.4217777</Latitude>
+         <Longitude>3.3660235</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 98 10 79</Téléphone>
+      <Télécopie>+33 4 67 98 29 81</Télécopie>
+      <Email>commthongue@wanadoo.fr</Email>
+      <Url>http://www.cc-pays-de-thongue.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-03107-01" codeInsee="03107" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie d'Ébreuil - Bellenaves</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de la Croix-des-Vignes</Ligne>
+      <CodePostal>03451</CodePostal>
+      <NomCommune>Ébreuil Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.1149648</Latitude>
+         <Longitude>3.0838455</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 90 72 32</Téléphone>
+      <Email>t003020@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

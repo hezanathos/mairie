@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-83069-01" codeInsee="83069" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Hyères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social et culturel Massillon</Ligne>
+      <Ligne>12 rue de Verdun</Ligne>
+      <CodePostal>83400</CodePostal>
+      <NomCommune>Hyères</NomCommune>
+      <Localisation>
+         <Latitude>43.1221048</Latitude>
+         <Longitude>6.1318994</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 00 36 01</Téléphone>
+      <Télécopie>+33 4 94 35 85 56</Télécopie>
+      <Email>amis.massillon@orange.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

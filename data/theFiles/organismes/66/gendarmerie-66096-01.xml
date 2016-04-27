@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-66096-01" codeInsee="66096" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Latour-de-France</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue Joseph-Mouné</Ligne>
+      <CodePostal>66720</CodePostal>
+      <NomCommune>Latour-de-France</NomCommune>
+      <Localisation>
+         <Latitude>42.7659417</Latitude>
+         <Longitude>2.6517182</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 29 12 73</Téléphone>
+      <Télécopie>+33 4 68 29 42 98</Télécopie>
+      <Email>cob.latour-de-france@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

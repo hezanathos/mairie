@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59183" dateMiseAJour="2015-11-03" id="permanence_juridique-59183-02" idPresta="4cd18fb329359405310109e9" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>CAF</Ligne>
+        <Ligne>10 rue de Paris</Ligne>
+        <CodePostal>59140</CodePostal>
+        <NomCommune>DUNKERQUE</NomCommune>
+        <Localisation>
+            <Latitude>51.0294724</Latitude>
+            <Longitude>2.3743457</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 820 25 59 40</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

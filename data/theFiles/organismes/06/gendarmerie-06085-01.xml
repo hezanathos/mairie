@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06085-01" codeInsee="06085" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Mougins</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>601 chemin de Campane</Ligne>
+      <CodePostal>06250</CodePostal>
+      <NomCommune>Mougins</NomCommune>
+      <Localisation>
+         <Latitude>43.5897014</Latitude>
+         <Longitude>7.0012116</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 75 50 00</Téléphone>
+      <Télécopie>+33 4 92 28 31 73</Télécopie>
+      <Email>bta.mougins@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

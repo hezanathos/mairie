@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="28134" dateMiseAJour="2015-10-23" id="prudhommes-28134-01" idPresta="4cac9e5f293594648a00023a" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Dreux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>2 place Anatole France</Ligne>
+        <CodePostal>28109</CodePostal>
+        <NomCommune>DREUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.736213</Latitude>
+            <Longitude>1.364169</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 37 46 43 62</Téléphone>
+        <Email>mailto:cph-dreux@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

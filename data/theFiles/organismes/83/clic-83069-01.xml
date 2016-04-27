@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-83069-01" codeInsee="83069" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-739">
+   <Nom>Point d'information local dédié aux personnes âgées - Hyères</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Hadâge</Ligne>
+      <Ligne>105 avenue Alphonse-Denis</Ligne>
+      <CodePostal>83400</CodePostal>
+      <NomCommune>Hyères</NomCommune>
+      <Localisation>
+         <Latitude>43.121187</Latitude>
+         <Longitude>6.136706</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 35 32 01</Téléphone>
+      <Email>hadage83@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

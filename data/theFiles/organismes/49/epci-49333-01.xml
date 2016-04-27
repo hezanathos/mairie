@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49333-01" codeInsee="49333" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Loir</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZA La Blaisonnière</Ligne>
+      <CodePostal>49140</CodePostal>
+      <NomCommune>Seiches-sur-le-Loir</NomCommune>
+      <Localisation>
+         <Latitude>47.577536</Latitude>
+         <Longitude>-0.3635399</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 27 57 80</Téléphone>
+      <Télécopie>+33 2 41 27 57 81</Télécopie>
+      <Email>secretariat@cc-duloir.fr</Email>
+      <Url>http://www.cc-duloir.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

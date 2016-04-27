@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-12169-01" codeInsee="12169" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Naucelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>35 avenue de la Gare</Ligne>
+      <Ligne>Centre social et culturel du Naucellois</Ligne>
+      <CodePostal>12800</CodePostal>
+      <NomCommune>NAUCELLE</NomCommune>
+      <Localisation>
+         <Latitude>44.1959991455</Latitude>
+         <Longitude>2.3436601162</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 72 29 20</Téléphone>
+      <Url>http://www.aveyroninfojeune.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-17397-01" codeInsee="17397" dateMiseAJour="2015-09-07"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Savinien</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 chemin de la Longée</Ligne>
+      <CodePostal>17350</CodePostal>
+      <NomCommune>Saint-Savinien</NomCommune>
+      <Localisation>
+         <Latitude>45.876773</Latitude>
+         <Longitude>-0.6749512</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 90 20 18</Téléphone>
+      <Télécopie>+33 5 46 90 67 25</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

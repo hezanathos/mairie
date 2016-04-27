@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-34003-02" codeInsee="34003" dateMiseAJour="2015-08-06"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police du Cap-d'Agde</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parking Alsace-Lorraine</Ligne>
+      <Ligne>Avenue des Sergents</Ligne>
+      <CodePostal>34300</CodePostal>
+      <NomCommune>Agde</NomCommune>
+      <Localisation>
+         <Latitude>43.2863756</Latitude>
+         <Longitude>43.2863756</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 00 14 21</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

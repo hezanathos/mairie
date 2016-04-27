@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97121-01" codeInsee="97121" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Pointe-Noire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Raie-d'Eau</Ligne>
+      <CodePostal>97116</CodePostal>
+      <NomCommune>Pointe-Noire</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 41 91 80</Téléphone>
+      <Télécopie>+590 5 90 41 91 75</Télécopie>
+      <Email>bta.pointe-noire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

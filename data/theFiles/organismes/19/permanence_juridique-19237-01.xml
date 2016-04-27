@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="19237" dateMiseAJour="2015-11-03" id="permanence_juridique-19237-01" idPresta="4cac9e5f293594648a0001b6" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Saint-Privat</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison du Département</Ligne>
+        <Ligne>Le bourg</Ligne>
+        <CodePostal>19220</CodePostal>
+        <NomCommune>ST PRIVAT</NomCommune>
+        <Localisation>
+            <Latitude>45.1386219</Latitude>
+            <Longitude>2.0998401</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 91 93 15</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

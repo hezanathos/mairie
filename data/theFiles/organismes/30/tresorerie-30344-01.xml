@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-30344-01" codeInsee="30344" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Vergèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Charron</Ligne>
+      <Ligne>BP 26</Ligne>
+      <CodePostal>30310</CodePostal>
+      <NomCommune>Vergèze</NomCommune>
+      <Localisation>
+         <Latitude>43.742346</Latitude>
+         <Longitude>4.222459</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 35 03 33</Téléphone>
+      <Email>t030038@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

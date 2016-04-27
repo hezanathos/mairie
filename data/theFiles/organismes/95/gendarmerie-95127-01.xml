@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-95127-01" codeInsee="95127" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Cergy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, avenue de la Palette</Ligne>
+      <CodePostal>95000</CodePostal>
+      <NomCommune>Cergy</NomCommune>
+      <Localisation>
+         <Latitude>49.0333992</Latitude>
+         <Longitude>2.0887293</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 75 56 00</Téléphone>
+      <Télécopie>+33 1 30 75 56 01</Télécopie>
+      <Email>bta.cergy@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-67482-01" codeInsee="67482"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Strasbourg</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 60444</Ligne>
+      <Ligne>45 rue du Fossé-des-Treize</Ligne>
+      <Ligne>Tribunal d'instance de Strasbourg</Ligne>
+      <CodePostal>67008</CodePostal>
+      <NomCommune>Strasbourg Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.583148</Latitude>
+         <Longitude>7.747882</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 15 59 29</Téléphone>
+      <Télécopie>+33 3 88 75 91 29</Télécopie>
+      <Email>fabienne.vetter@justice.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

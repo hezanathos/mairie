@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-33366-01" codeInsee="33366" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Saint-André-de-Cubzac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>44, rue Dantagnan</Ligne>
+      <Ligne>BP 59</Ligne>
+      <CodePostal>33240</CodePostal>
+      <NomCommune>Saint-André-de-Cubzac</NomCommune>
+      <Localisation>
+         <Latitude>44.9944178</Latitude>
+         <Longitude>-0.4432947</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 94 83 32</Téléphone>
+      <Télécopie>+33 5 57 94 83 13</Télécopie>
+      <Email>prij@cdc-cubzaguais.fr</Email>
+      <Url>http://www.info-jeune.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

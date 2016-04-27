@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="77373" dateMiseAJour="2010-02-03" id="mjd-77373-01" idPresta="51b08cb1b473e414780009d0" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Pontault-Combault</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Ferme Briarde</Ligne>
+        <Ligne>107 avenue de la République</Ligne>
+        <CodePostal>77347</CodePostal>
+        <NomCommune>PONTAULT COMBAULT CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.800465</Latitude>
+            <Longitude>2.607676</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 70 05 45 83</Téléphone>
+        <Télécopie>+33 1 70 05 45 91</Télécopie>
+        <Email>mailto:mjd-pontault-combault@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="18:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="14:00:00" fin="18:00:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="18:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="18:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:30:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

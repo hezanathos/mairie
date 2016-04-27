@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-70482-01" codeInsee="70482" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Combes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 avenue des Patis</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>70360</CodePostal>
+      <NomCommune>Scey-sur-Saône-et-Saint-Albin</NomCommune>
+      <Localisation>
+         <Latitude>47.6659042</Latitude>
+         <Longitude>5.9666356</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 92 72 12</Téléphone>
+      <Télécopie>+33 3 84 92 73 56</Télécopie>
+      <Email>lescombes@wanadoo.fr</Email>
+      <Url>http://www.cc-descombes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

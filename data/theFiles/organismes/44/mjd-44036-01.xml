@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="44036" dateMiseAJour="2012-04-30" id="mjd-44036-01" idPresta="51b08c9eb473e414780005a8" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit de Chateaubriant</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>14 rue des Vauzelles</Ligne>
+        <CodePostal>44110</CodePostal>
+        <NomCommune>CHATEAUBRIANT</NomCommune>
+        <Localisation>
+            <Latitude>47.712094</Latitude>
+            <Longitude>-1.375178</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 28 50 44 41</Téléphone>
+        <Télécopie>+33 2 40 07 98 24</Télécopie>
+        <Email>mailto:mjd.chateaubriant@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

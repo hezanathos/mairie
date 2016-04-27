@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-21416-01" codeInsee="21416" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Mirebeau-sur-Bèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 bis place du Général-Viard</Ligne>
+      <CodePostal>21310</CodePostal>
+      <NomCommune>Mirebeau-sur-Bèze</NomCommune>
+      <Localisation>
+         <Latitude>47.3972375</Latitude>
+         <Longitude>5.3150794</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 73 69 53</Téléphone>
+      <Télécopie>+33 3 80 73 69 53</Télécopie>
+      <Url>http://www.mldijon.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil de la mission locale ouvert uniquement sur rendez-vous</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil de la mission locale ouvert uniquement sur rendez-vous</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil de la mission locale ouvert uniquement sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

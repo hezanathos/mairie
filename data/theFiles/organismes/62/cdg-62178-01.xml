@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cdg-62178-01" codeInsee="62178" dateMiseAJour="2016-03-10" pivotLocal="cdg">
+   <Nom>Centre de gestion de la fonction publique territoriale - Pas-de-Calais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Labuissière</Ligne>
+      <Ligne>BP 67</Ligne>
+      <Ligne>Allée du Château</Ligne>
+      <CodePostal>62702</CodePostal>
+      <NomCommune>Bruay-la-Buissière Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.4913256</Latitude>
+         <Longitude>2.561466</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 52 99 50</Téléphone>
+      <Télécopie>+33 3 21 52 01 62</Télécopie>
+      <Url>http://www.cdg62.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

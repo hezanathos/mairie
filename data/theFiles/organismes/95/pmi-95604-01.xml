@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-95604-01" codeInsee="95604" dateMiseAJour="2014-08-26" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Survilliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Fers</Ligne>
+      <CodePostal>95470</CodePostal>
+      <NomCommune>Survilliers</NomCommune>
+      <Localisation>
+         <Latitude>49.099034</Latitude>
+         <Longitude>2.542967</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 68 37 00</Téléphone>
+      <Url>http://www.valdoise.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

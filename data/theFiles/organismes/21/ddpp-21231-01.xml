@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddpp-21231-01" codeInsee="21231" dateMiseAJour="2012-12-03"
+           pivotLocal="ddpp">
+   <Nom>Direction départementale de la protection des populations (DDPP) - Côte-d'Or</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue Hoche</Ligne>
+      <Ligne>BP 53533</Ligne>
+      <CodePostal>21035</CodePostal>
+      <NomCommune>Dijon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.3213898</Latitude>
+         <Longitude>5.0226031</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 54 24 24</Téléphone>
+      <Télécopie>+33 3 80 73 45 61</Télécopie>
+      <Email>ddpp@cote-dor.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

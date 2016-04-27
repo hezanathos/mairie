@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-38185-01" codeInsee="38185" dateMiseAJour="2015-08-11"
+           pivotLocal="clic"
+           idPresta="clic-303">
+   <Nom>Point d'information local dédié aux personnes âgées - Grenoble</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison départementale de l'autonomie (MDA)</Ligne>
+      <Ligne>CS 80338</Ligne>
+      <Ligne>15 avenue Doyen Louis-Weil</Ligne>
+      <CodePostal>38000</CodePostal>
+      <NomCommune>Grenoble</NomCommune>
+      <Localisation>
+         <Latitude>45.192327</Latitude>
+         <Longitude>5.712305</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 38 12 48 48</Téléphone>
+      <Email>mda38@isere.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

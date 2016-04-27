@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-29081-01" codeInsee="29081" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Monts d'Arrée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue du docteur Jacques-Huelgoat</Ligne>
+      <CodePostal>29690</CodePostal>
+      <NomCommune>Huelgoat</NomCommune>
+      <Localisation>
+         <Latitude>35.08718</Latitude>
+         <Longitude>82.41026</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 99 81 50</Téléphone>
+      <Télécopie>+33 2 98 99 81 52</Télécopie>
+      <Email>cc.monts.arree@wanadoo.fr</Email>
+      <Url>http://www.lesmontsdarree.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

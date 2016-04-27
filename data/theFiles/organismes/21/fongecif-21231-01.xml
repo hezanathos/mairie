@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fongecif-21231-01" codeInsee="21231" dateMiseAJour="2014-08-06"
+           pivotLocal="fongecif">
+   <Nom>Fongecif - Bourgogne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29, rue de Talant</Ligne>
+      <Ligne>BP 21612</Ligne>
+      <CodePostal>21016</CodePostal>
+      <NomCommune>Dijon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.327954</Latitude>
+         <Longitude>5.0261348</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 53 22 44</Téléphone>
+      <Télécopie>+33 3 80 53 06 98</Télécopie>
+      <Email>info@fongecif-bourgogne.fr</Email>
+      <Url>http://www.fongecif-bourgogne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

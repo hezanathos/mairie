@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-52522-01" codeInsee="52522" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Bassin de Bologne Vignory Froncles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue la Marne</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>52310</CodePostal>
+      <NomCommune>Viéville</NomCommune>
+      <Localisation>
+         <Latitude>48.2392875</Latitude>
+         <Longitude>5.1347247</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 01 48 59</Téléphone>
+      <Télécopie>+33 3 25 01 48 59</Télécopie>
+      <Email>cc.bbvf@orange.fr</Email>
+      <Url>http://www.ccbbvf.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

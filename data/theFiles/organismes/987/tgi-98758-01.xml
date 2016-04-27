@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98758" dateMiseAJour="2003-10-14" id="tgi-98758-01" idPresta="4cac9e6a293594648a00183d" pivotLocal="tgi">
+    <Nom>Section Détachée du Tribunal de Première Instance à Raïatéa</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Section Détachée de Raïatéa</Ligne>
+        <Ligne>UTUROA BP 38</Ligne>
+        <Ligne>RAIATEA ILES SOUS LE VENT</Ligne>
+        <CodePostal>98735</CodePostal>
+        <NomCommune>UTUROA</NomCommune>
+        <Localisation>
+            <Latitude>-16.7328701</Latitude>
+            <Longitude>-151.4420882</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+689 663 208</Téléphone>
+        <Télécopie>+689 662 298</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="35238" dateMiseAJour="2016-01-08" id="spip-35238-01" idPresta="4d2575692935941a920001ce" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de l&#39;Ille-et-Vilaine</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue Micheline Ostermeyer</Ligne>
+        <Ligne>CS 91115</Ligne>
+        <CodePostal>35011</CodePostal>
+        <NomCommune>RENNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.111448</Latitude>
+            <Longitude>-1.701346</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 56 01 65 65</Téléphone>
+        <Télécopie>+33 2 56 01 66 30</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

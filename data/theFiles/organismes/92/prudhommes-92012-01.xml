@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="92012" dateMiseAJour="2014-05-27" id="prudhommes-92012-01" idPresta="4cac9e61293594648a0005ce" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Boulogne-Billancourt</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>7 rue Mahias</Ligne>
+        <CodePostal>92643</CodePostal>
+        <NomCommune>BOULOGNE BILLANCOURT CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.8459949</Latitude>
+            <Longitude>2.2343065</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 46 99 91 20</Téléphone>
+        <Télécopie>+33 1 46 99 91 21</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-48171-01" codeInsee="48171" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Cévenne des Hauts Gardons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de la Communauté</Ligne>
+      <CodePostal>48110</CodePostal>
+      <NomCommune>Sainte-Croix-Vallée-Française</NomCommune>
+      <Localisation>
+         <Latitude>45.502521</Latitude>
+         <Longitude>-73.57263</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 45 90 29</Téléphone>
+      <Télécopie>+33 4 66 31 80 91</Télécopie>
+      <Email>secretariat.chg@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

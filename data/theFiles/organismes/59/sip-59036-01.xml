@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-59036-01" codeInsee="59036" dateMiseAJour="2015-07-06" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques d'Avesnes-sur-Helpe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP30211</Ligne>
+      <Ligne>Plateau Chemerault</Ligne>
+      <CodePostal>59363</CodePostal>
+      <NomCommune>Avesnes-sur-Helpe Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.123589</Latitude>
+         <Longitude>3.926864</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 56 41 41</Téléphone>
+      <Email>sip-sie.avesnes-sur-helpe@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

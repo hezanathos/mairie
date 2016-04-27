@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-61006-01" codeInsee="61006" dateMiseAJour="2006-02-06" pivotLocal="cij">
+   <Nom>Centre d'Information Jeunesse - Point d'Information jeunesse de Argentan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 bis rue des rédemptoristes</Ligne>
+      <CodePostal>61200</CodePostal>
+      <NomCommune>ARGENTAN</NomCommune>
+      <Localisation>
+         <Latitude>48.7445983887</Latitude>
+         <Longitude>-0.0130650000647</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 39 49 67</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

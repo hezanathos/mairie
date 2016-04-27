@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-54431-01" codeInsee="54431" dateMiseAJour="2014-07-21" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) de Pont-à-Mousson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre médico-social rural</Ligne>
+      <Ligne>95, avenue de Metz</Ligne>
+      <CodePostal>54700</CodePostal>
+      <NomCommune>Pont-à-Mousson</NomCommune>
+      <Localisation>
+         <Latitude>48.90329</Latitude>
+         <Longitude>6.054868</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 81 46 50</Téléphone>
+      <Télécopie>+33 3 83 82 06 56</Télécopie>
+      <Url>http://www.msalorraine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Prendre un rendez-vous pour rencontrer un conseiller</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

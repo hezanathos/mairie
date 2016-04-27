@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-16226-01" codeInsee="16226" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Montignac-Charente</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>61 avenue de la Boixe</Ligne>
+      <CodePostal>16330</CodePostal>
+      <NomCommune>Montignac-Charente</NomCommune>
+      <Localisation>
+         <Latitude>45.7848378</Latitude>
+         <Longitude>0.1256579</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 39 70 01</Téléphone>
+      <Télécopie>+33 5 45 39 48 23</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

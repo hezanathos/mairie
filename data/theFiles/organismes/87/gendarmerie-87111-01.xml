@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-87111-01" codeInsee="87111" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Oradour-sur-Vayres</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, rue Jean Giraudoux</Ligne>
+      <CodePostal>87150</CodePostal>
+      <NomCommune>Oradour-sur-Vayres</NomCommune>
+      <Localisation>
+         <Latitude>45.7332087</Latitude>
+         <Longitude>0.8660961</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 78 10 04</Téléphone>
+      <Email>cob.st-laurent-sur-gorre@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

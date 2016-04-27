@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-97407-01" codeInsee="97407" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération du Territoire de la Côte Ouest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>TCO</Ligne>
+      <Ligne>BP 49</Ligne>
+      <CodePostal>97822</CodePostal>
+      <NomCommune>Le Port Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-20.937889</Latitude>
+         <Longitude>55.2998014</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 32 12 12</Téléphone>
+      <Télécopie>+262 2 62 32 22 22</Télécopie>
+      <Email>courrier@tco.re</Email>
+      <Url>http://www.tco.re</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

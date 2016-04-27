@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-06103-01" codeInsee="06103" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-43">
+   <Nom>Point d'information local dédié aux personnes âgées - Roquebillière</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Vesubie</Ligne>
+      <Ligne>Valdeblore</Ligne>
+      <Ligne>Boulevard René-Roques</Ligne>
+      <CodePostal>06450</CodePostal>
+      <NomCommune>Roquebillière</NomCommune>
+      <Localisation>
+         <Latitude>44.013469</Latitude>
+         <Longitude>7.30366</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 03 45 30</Téléphone>
+      <Email>clic.vesubie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

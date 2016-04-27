@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-83023-01" codeInsee="83023" dateMiseAJour="2015-08-13"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Comté de Provence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route du Val</Ligne>
+      <Ligne>Quartier de Paris</Ligne>
+      <CodePostal>83170</CodePostal>
+      <NomCommune>Brignoles</NomCommune>
+      <Localisation>
+         <Latitude>43.4202195</Latitude>
+         <Longitude>6.0702516</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 98 05 27 10</Téléphone>
+      <Télécopie>+33 4 98 05 27 11</Télécopie>
+      <Url>http://www.cc-comtedeprovence.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

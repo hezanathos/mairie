@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cio-01004-01" codeInsee="01004" dateMiseAJour="2015-01-15" pivotLocal="cio">
+   <Nom>Centre d’information et d’orientation (CIO) d’Ambérieu-en-Bugey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 512</Ligne>
+      <Ligne>Rue Marcel-Paul</Ligne>
+      <CodePostal>01505</CodePostal>
+      <NomCommune>Ambérieu-en-Bugey Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.964058</Latitude>
+         <Longitude>5.3458799999999655</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 38 33 46</Téléphone>
+      <Email>cio-amberieu@ac-lyon.fr</Email>
+      <Url>http://www2.ac-lyon.fr/orientation/1/amberieu</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

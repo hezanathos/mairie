@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="17299" dateMiseAJour="2014-01-28" id="ti-17299-01" idPresta="4cac9ed7293594648a00ee2f" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Rochefort</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité Judiciaire</Ligne>
+        <Ligne>La Touche Tréville rue Chanzy</Ligne>
+        <CodePostal>17306</CodePostal>
+        <NomCommune>ROCHEFORT CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.957199</Latitude>
+            <Longitude>-0.96868</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 16 65 60 00</Téléphone>
+        <Télécopie>+33 5 16 65 60 10</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+            <Note>Tutelles majeurs : 05 16 65 60 01, 02 et 03
+Régie saisie des rémunérations : 05 16 65 60 08
+Service civil : 05 16 65 60 11 et 12
+Surendettement / Pénal : 05 16 65 60 13</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

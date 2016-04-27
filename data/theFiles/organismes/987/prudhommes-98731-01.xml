@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98731" dateMiseAJour="2014-01-28" id="prudhommes-98731-01" idPresta="4cac9e6a293594648a001714" pivotLocal="prudhommes">
+    <Nom>Tribunal du Travail de Nuku-Hiva</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal du Travail</Ligne>
+        <Ligne>Nuku-Hiva</Ligne>
+        <Ligne>Polynésie Française</Ligne>
+        <CodePostal>98742</CodePostal>
+        <NomCommune>AAKAPA</NomCommune>
+        <Localisation>
+            <Latitude>-8.795346</Latitude>
+            <Longitude>-140.228315</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+689 920 325</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

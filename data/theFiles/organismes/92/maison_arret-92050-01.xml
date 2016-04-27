@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="92050" dateMiseAJour="2014-01-28" id="maison_arret-92050-01" idPresta="4eb2624c2935944ef5000068" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Nanterre-Hauts-de-Seine</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>133 Av. de la Commune de Paris</Ligne>
+        <Ligne>BP 1414</Ligne>
+        <CodePostal>92014</CodePostal>
+        <NomCommune>NANTERRE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.905515</Latitude>
+            <Longitude>2.208912</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 47 29 75 75</Téléphone>
+        <Télécopie>+33 1 47 29 75 10</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

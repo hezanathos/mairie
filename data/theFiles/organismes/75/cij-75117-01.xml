@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-75117-01" codeInsee="75117" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Paris - antenne jeunes Louis-Loucheur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Louis Loucheur</Ligne>
+      <CodePostal>75017</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8980979</Latitude>
+         <Longitude>2.3258021</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 42 26 14 20</Téléphone>
+      <Email>ajloucheur@laligue.org</Email>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:30:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:30:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

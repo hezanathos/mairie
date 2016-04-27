@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="84007" dateMiseAJour="2015-11-03" id="permanence_juridique-84007-14" idPresta="4cd18fb42935940531010aab" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques spécialisée Habitat d&#39;Avignon</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Association Départementale d&#39;Information sur le Logement (ADIL)</Ligne>
+        <Ligne>2 rue St Etienne</Ligne>
+        <CodePostal>84000</CodePostal>
+        <NomCommune>AVIGNON</NomCommune>
+        <Localisation>
+            <Latitude>43.950435</Latitude>
+            <Longitude>4.805556</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 16 34 34</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

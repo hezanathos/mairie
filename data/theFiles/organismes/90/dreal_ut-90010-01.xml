@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-90010-01" codeInsee="90010" dateMiseAJour="2014-07-18"
+           pivotLocal="dreal_ut">
+   <Nom>Unité territoriale - Direction régionale de l'environnement, de l'aménagement et du logement - Nord Franche-Comté</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 70201</Ligne>
+      <Ligne>8,rue Heim</Ligne>
+      <Ligne>Zone industrielle</Ligne>
+      <CodePostal>90004</CodePostal>
+      <NomCommune>Belfort Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6159</Latitude>
+         <Longitude>6.82779</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 58 82 08</Téléphone>
+      <Télécopie>+33 3 84 58 82 07</Télécopie>
+      <Email>ut-norfdc.dreal-fr.comte@developpement-durable.gouv.fr</Email>
+      <Url>http://www.franche-comte.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:15:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

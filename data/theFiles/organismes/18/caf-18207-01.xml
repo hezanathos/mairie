@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-18207-01" codeInsee="18207" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Cher - accueil de Saint-Florent-sur-Cher</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Maison des solidarités</Ligne>
+      <CodePostal>18400</CodePostal>
+      <NomCommune>Saint-Florent-sur-Cher</NomCommune>
+      <Localisation>
+         <Latitude>46.9909067</Latitude>
+         <Longitude>2.2467884</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Cher</Ligne>
+      <Ligne>TSA 22203</Ligne>
+      <Ligne>21 boulevard de la République</Ligne>
+      <CodePostal>18031</CodePostal>
+      <NomCommune>Bourges Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 18 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

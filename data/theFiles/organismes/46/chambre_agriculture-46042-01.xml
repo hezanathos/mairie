@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-46042-01" codeInsee="46042" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d’agriculture - Lot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>430 avenue Jean-Jaurès</Ligne>
+      <Ligne>CS 60199</Ligne>
+      <CodePostal>46004</CodePostal>
+      <NomCommune>Cahors Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>44.4472007751</Latitude>
+         <Longitude>1.43431997299</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 23 22 21</Téléphone>
+      <Télécopie>+33 5 65 23 22 19</Télécopie>
+      <Email>accueil@lot.chambagri.fr</Email>
+      <Url>http://www.apca.chambagri.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

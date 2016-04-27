@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-78440-03" codeInsee="78440" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Bureau information jeunesse des Mureaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>100, rue Paul-Doumer</Ligne>
+      <CodePostal>78130</CodePostal>
+      <NomCommune>Les Mureaux</NomCommune>
+      <Localisation>
+         <Latitude>48.9924085</Latitude>
+         <Longitude>1.9104378</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 91 39 34</Téléphone>
+      <Télécopie>+33 1 40 91 39 46</Télécopie>
+      <Email>bij@mairie-lesmureaux.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

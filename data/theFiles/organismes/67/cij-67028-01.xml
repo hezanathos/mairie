@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-67028-01" codeInsee="67028" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Service animation jeunesse - Communauté de communes de Benfeld et environs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de l'Ancien-Tribunal</Ligne>
+      <CodePostal>67230</CodePostal>
+      <NomCommune>Benfeld</NomCommune>
+      <Localisation>
+         <Latitude>48.3713553</Latitude>
+         <Longitude>7.5930244</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 74 20 87</Téléphone>
+      <Télécopie>+33 3 88 58 26 84</Télécopie>
+      <Email>saj@cc-benfeld.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-94004-01" codeInsee="94004" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Boissy-Saint-Léger</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue de Chirol</Ligne>
+      <CodePostal>94470</CodePostal>
+      <NomCommune>Boissy-Saint-Léger</NomCommune>
+      <Localisation>
+         <Latitude>48.7521176</Latitude>
+         <Longitude>2.5057842</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 69 55 11</Téléphone>
+      <Télécopie>+33 1 45 69 38 06</Télécopie>
+      <Email>pij@ville-boissy.fr</Email>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="16:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-35210-01" codeInsee="35210" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Pacé</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 avenue Charles-Le-Goffic</Ligne>
+      <CodePostal>35740</CodePostal>
+      <NomCommune>Pacé</NomCommune>
+      <Localisation>
+         <Latitude>48.1493112</Latitude>
+         <Longitude>-1.7766193</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 60 13 14</Téléphone>
+      <Télécopie>+33 2 99 60 25 83</Télécopie>
+      <Email>bta.pace@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

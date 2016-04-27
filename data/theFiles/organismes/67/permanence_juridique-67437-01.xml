@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="67437" dateMiseAJour="2015-11-03" id="permanence_juridique-67437-01" idPresta="4cac9e60293594648a0003ed" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Saverne</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre socio-culturel Ilot du Moulin</Ligne>
+        <Ligne>Mairie de Saverne</Ligne>
+        <Ligne>78 Grand’rue</Ligne>
+        <Ligne>BP 40134</Ligne>
+        <CodePostal>67703</CodePostal>
+        <NomCommune>SAVERNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.740081</Latitude>
+            <Longitude>7.35051</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 88 91 02 28</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

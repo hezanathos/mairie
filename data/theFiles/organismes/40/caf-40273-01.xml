@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-40273-01" codeInsee="40273" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Pays Basque et du Seignanx - accueil de Saint-Martin-de-Seignanx</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue de Seignanx</Ligne>
+      <Ligne>Espace Gaston-Larrieu</Ligne>
+      <CodePostal>40390</CodePostal>
+      <NomCommune>Saint-Martin-de-Seignanx</NomCommune>
+      <Localisation>
+         <Latitude>43.540659</Latitude>
+         <Longitude>-1.390281</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>10 avenue du Maréchal-Foch</Ligne>
+      <Ligne>Caisse d'allocations familiales du Pays Basque et du Seignanx</Ligne>
+      <CodePostal>64117</CodePostal>
+      <NomCommune>Bayonne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.493787</Latitude>
+         <Longitude>-1.4813988</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 64 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h30 à 16h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

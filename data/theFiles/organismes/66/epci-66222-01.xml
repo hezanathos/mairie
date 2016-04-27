@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-66222-01" codeInsee="66222" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Canigou Val-Cady</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZA Al-Bosc</Ligne>
+      <CodePostal>66820</CodePostal>
+      <NomCommune>Vernet-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>42.548951</Latitude>
+         <Longitude>2.390793</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée et rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 05 77 47</Téléphone>
+      <Télécopie>+33 4 68 05 21 28</Télécopie>
+      <Email>canigou.valcady@wanadoo.fr</Email>
+      <Url>http://www.canigou-valcady.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-89368-01" codeInsee="89368" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Sauveur-en-Puisaye</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37, route d'Ouanne</Ligne>
+      <CodePostal>89520</CodePostal>
+      <NomCommune>Saint-Sauveur-en-Puisaye</NomCommune>
+      <Localisation>
+         <Latitude>47.618107</Latitude>
+         <Longitude>3.194848</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 45 50 17</Téléphone>
+      <Télécopie>+33 3 86 45 69 74</Télécopie>
+      <Email>cob.toucy@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

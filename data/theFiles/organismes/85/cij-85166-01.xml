@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-85166-01" codeInsee="85166" dateMiseAJour="2009-10-15" pivotLocal="cij">
+   <Nom>Point Information Jeunesse d'Olonne sur mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la mairie</Ligne>
+      <CodePostal>85340</CodePostal>
+      <NomCommune>OLONNE SUR MER</NomCommune>
+      <Localisation>
+         <Latitude>46.5621812</Latitude>
+         <Longitude>-1.7809979</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 95 25 10</Téléphone>
+      <Télécopie>+33 2 51 33 16 44</Télécopie>
+      <Email>mairie.information@olonnesurmer.fr</Email>
+      <Url>http://www.olonnesurmer.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

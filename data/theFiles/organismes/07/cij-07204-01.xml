@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-07204-01" codeInsee="07204" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Saint-Agrève</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre socio-culturel de Saint-Agrève</Ligne>
+      <Ligne>4, place Verdun</Ligne>
+      <CodePostal>07320</CodePostal>
+      <NomCommune>Saint-Agrève</NomCommune>
+      <Localisation>
+         <Latitude>45.0102169</Latitude>
+         <Longitude>4.3948502</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 30 26 60</Téléphone>
+      <Télécopie>+33 4 75 30 12 15</Télécopie>
+      <Url>http://www.centresocio-saintagreve.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-97101-01" codeInsee="97101" dateMiseAJour="2011-10-04"
+           pivotLocal="greta">
+   <Nom>Greta de l'Alliance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lycée Jardin d'essai</Ligne>
+      <CodePostal>97178</CodePostal>
+      <NomCommune>LES ABYMES CEDEX</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 83 43 28</Téléphone>
+      <Télécopie>+590 5 90 83 59 45</Télécopie>
+      <Email>contact@greta-alliance.org</Email>
+      <Url>http://www.ac-guadeloupe.fr/formation_continue/formation_tout_long_vie/reseau_greta</Url>
+   </CoordonnéesNum>
+</Organisme>

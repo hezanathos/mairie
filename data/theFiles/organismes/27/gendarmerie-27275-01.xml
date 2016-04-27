@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-27275-01" codeInsee="27275" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Gaillon</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Jean--Moulin</Ligne>
+      <CodePostal>27600</CodePostal>
+      <NomCommune>Gaillon</NomCommune>
+      <Localisation>
+         <Latitude>49.1611548</Latitude>
+         <Longitude>1.3357446</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 53 00 17</Téléphone>
+      <Télécopie>+33 2 32 53 15 14</Télécopie>
+      <Email>bta.gaillon@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

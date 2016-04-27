@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-23035-01" codeInsee="23035" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Évaux-les-Bains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Léo-Lagrange</Ligne>
+      <CodePostal>23110</CodePostal>
+      <NomCommune>Évaux-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>46.1715464</Latitude>
+         <Longitude>2.4863923999999997</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 82 80 47</Téléphone>
+      <Télécopie>+33 5 55 82 82 19</Télécopie>
+      <Email>agirhmc@wanadoo.fr</Email>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

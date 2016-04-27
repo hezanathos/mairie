@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38193-01" codeInsee="38193" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de L'Isle-d'Abeau</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue de Lans</Ligne>
+      <CodePostal>38080</CodePostal>
+      <NomCommune>L'Isle-d'Abeau</NomCommune>
+      <Localisation>
+         <Latitude>45.6193135</Latitude>
+         <Longitude>5.2204339</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 27 13 32</Téléphone>
+      <Télécopie>+33 4 74 27 87 88</Télécopie>
+      <Email>bta.l-isle-d-abeau@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

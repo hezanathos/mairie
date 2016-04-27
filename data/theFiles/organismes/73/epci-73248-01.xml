@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-73248-01" codeInsee="73248" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Coeur de Maurienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>73302</CodePostal>
+      <NomCommune>Saint-Jean-de-Maurienne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.276705</Latitude>
+         <Longitude>6.344698</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 64 11 44</Téléphone>
+      <Email>contact@coeurdemaurienne.com</Email>
+      <Url>http://www.coeurdemaurienne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

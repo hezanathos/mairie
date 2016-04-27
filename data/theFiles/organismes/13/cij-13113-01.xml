@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13113-01" codeInsee="13113" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Venelles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, rue des Écoles</Ligne>
+      <CodePostal>13770</CodePostal>
+      <NomCommune>Venelles</NomCommune>
+      <Localisation>
+         <Latitude>43.5985377</Latitude>
+         <Longitude>5.4843197</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 54 09 09</Téléphone>
+      <Télécopie>+33 4 42 54 71 43</Télécopie>
+      <Email>pij@venelles.fr</Email>
+      <Url>http://www.venelles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Accueil ouvert le lundi aux mêmes heures durant les congés scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

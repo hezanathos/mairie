@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-94015-01" codeInsee="94015" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-842">
+   <Nom>Point d'information local dédié aux personnes âgées - Bry-sur-Marne</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination 2 des Rives de Marne</Ligne>
+      <Ligne>2 rue du 2-décembre-1870</Ligne>
+      <CodePostal>94360</CodePostal>
+      <NomCommune>Bry-sur-Marne</NomCommune>
+      <Localisation>
+         <Latitude>48.834304</Latitude>
+         <Longitude>2.527556</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 49 83 18 95</Téléphone>
+      <Email>clic2@ch-bry.org</Email>
+      <Url>http://www.clic2marne.org</Url>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

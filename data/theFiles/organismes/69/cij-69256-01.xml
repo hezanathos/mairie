@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-69256-01" codeInsee="69256" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Vaulx-en-Velin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue du Lycée</Ligne>
+      <CodePostal>69120</CodePostal>
+      <NomCommune>Vaulx-en-Velin</NomCommune>
+      <Localisation>
+         <Latitude>45.7769714</Latitude>
+         <Longitude>4.9194439</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chausée</Accessibilité>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>Place de la Nation</Ligne>
+      <CodePostal>69511</CodePostal>
+      <NomCommune>Vaulx-en-Velin</NomCommune>
+      <Localisation>
+         <Latitude>45.7783907</Latitude>
+         <Longitude>4.9201717</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 04 93 40</Téléphone>
+      <Télécopie>+33 4 72 04 93 41</Télécopie>
+      <Email>service.jeunesse@mairie-vaulxenvelin.fr</Email>
+      <Url>http://www.vaulx-en-velin.net/Enfance-jeunesse</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

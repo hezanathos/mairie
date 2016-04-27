@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-84054-01" codeInsee="84054" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-749">
+   <Nom>Point d'information local dédié aux personnes âgées - L'Isle-sur-la-Sorgue</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination des Sorgues</Ligne>
+      <Ligne>387 avenue Napoléon Bonaparte</Ligne>
+      <CodePostal>84800</CodePostal>
+      <NomCommune>L'Isle-sur-la-Sorgue</NomCommune>
+      <Localisation>
+         <Latitude>43.928155</Latitude>
+         <Longitude>5.052582</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 38 99 45</Téléphone>
+      <Email>CLICDESSORGUES.CCAS@mairie-islesurlasorgue.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

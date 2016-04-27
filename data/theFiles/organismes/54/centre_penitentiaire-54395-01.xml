@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="54395" dateMiseAJour="2014-01-28" id="centre_penitentiaire-54395-01" idPresta="4eb263332935944ef50001b9" pivotLocal="centre_penitentiaire">
+    <Nom>Centre pénitentiaire de Nancy-Maxéville</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>300 rue de l&#39;Abbé Haltebourg</Ligne>
+        <CodePostal>54320</CodePostal>
+        <NomCommune>MAXEVILLE</NomCommune>
+        <Localisation>
+            <Latitude>48.706403</Latitude>
+            <Longitude>6.141782</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 83 93 72 20</Téléphone>
+        <Télécopie>+33 3 83 93 72 49</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

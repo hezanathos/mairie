@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-89419-01" codeInsee="89419" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-808">
+   <Nom>Point d'information local dédié aux personnes âgées - Toucy</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue Arrault</Ligne>
+      <Ligne>Unité territoriale de solidarité de Puisaye Forterre</Ligne>
+      <CodePostal>89130</CodePostal>
+      <NomCommune>Toucy</NomCommune>
+      <Localisation>
+         <Latitude>47.734827</Latitude>
+         <Longitude>3.292452</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 44 42 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

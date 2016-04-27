@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-74081-01" codeInsee="74081" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Haute-Savoie - accueil de Cluses</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>3 allée des Saules</Ligne>
+      <CodePostal>74300</CodePostal>
+      <NomCommune>Cluses</NomCommune>
+      <Localisation>
+         <Latitude>46.0723991394</Latitude>
+         <Longitude>6.56682014465</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de la Haute-Savoie</Ligne>
+      <Ligne>2 rue Robert-Schuman</Ligne>
+      <CodePostal>74984</CodePostal>
+      <NomCommune>Annecy Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>45.9035605</Latitude>
+         <Longitude>6.1227865</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil ouvert également la veille des jours fériés.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

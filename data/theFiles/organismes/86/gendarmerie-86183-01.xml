@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-86183-01" codeInsee="86183" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie des Ormes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue Richelieu</Ligne>
+      <CodePostal>86220</CodePostal>
+      <NomCommune>Ormes</NomCommune>
+      <Localisation>
+         <Latitude>46.9706949</Latitude>
+         <Longitude>0.6056239</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 85 60 11</Téléphone>
+      <Télécopie>+33 5 49 85 73 05</Télécopie>
+      <Email>cob.chatellerault@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

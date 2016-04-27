@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-67043-01" codeInsee="67043" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-579">
+   <Nom>Point d'information local dédié aux personnes âgées - Bischheim</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue des Magasins</Ligne>
+      <Ligne>Espace d'accueil Seniors Nord</Ligne>
+      <CodePostal>67800</CodePostal>
+      <NomCommune>Bischheim</NomCommune>
+      <Localisation>
+         <Latitude>48.61386</Latitude>
+         <Longitude>7.74402</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 69 20 75 92</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

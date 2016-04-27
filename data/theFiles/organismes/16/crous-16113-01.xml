@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crous-16113-01" codeInsee="16113" dateMiseAJour="2015-04-19"
+           pivotLocal="crous">
+   <Nom>Centre local des œuvres universitaires et scolaires (Clous) - Angoulême</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Croix-du-Milieu</Ligne>
+      <Ligne>Lieu dit le Bois-de-Breuty</Ligne>
+      <CodePostal>16400</CodePostal>
+      <NomCommune>La  Couronne</NomCommune>
+      <Localisation>
+         <Latitude>45.6497001648</Latitude>
+         <Longitude>0.10964500159</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 25 51 51</Téléphone>
+      <Télécopie>+33 5 45 25 51 52</Télécopie>
+      <Email>restaurant.breuty@crous-poitiers.fr</Email>
+      <Url>http://www.crous-poitiers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

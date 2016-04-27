@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-12200-01" codeInsee="12200" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Rivière-sur-Tarn</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>49 route des Gorges-du-Tarn</Ligne>
+      <CodePostal>12640</CodePostal>
+      <NomCommune>Rivière-sur-Tarn</NomCommune>
+      <Localisation>
+         <Latitude>44.1572589</Latitude>
+         <Longitude>3.0991413</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 59 81 03</Téléphone>
+      <Télécopie>+33 5 65 59 52 58</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

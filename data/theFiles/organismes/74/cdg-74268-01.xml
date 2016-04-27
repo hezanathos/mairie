@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cdg-74268-01" codeInsee="74268" dateMiseAJour="2016-03-10" pivotLocal="cdg">
+   <Nom>Centre de gestion de la fonction publique territoriale - Haute-Savoie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>55 rue du Val-Vert</Ligne>
+      <Ligne>CS 30138</Ligne>
+      <CodePostal>74601</CodePostal>
+      <NomCommune>Seynod Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>45.8908004761</Latitude>
+         <Longitude>6.11185979843</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 51 98 50</Téléphone>
+      <Télécopie>+33 4 50 45 52 34</Télécopie>
+      <Email>cdg74@cdg74.fr</Email>
+      <Url>http://www.cdg74.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

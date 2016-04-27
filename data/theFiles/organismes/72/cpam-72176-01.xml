@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-72176-01" codeInsee="72176" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Sarthe - accueil du Lude</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Allée de l'Ancienne-Gare</Ligne>
+      <CodePostal>72800</CodePostal>
+      <NomCommune>Le Lude</NomCommune>
+      <Localisation>
+         <Latitude>47.6465472526</Latitude>
+         <Longitude>0.157531499863</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>178 avenue Bollée</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de la Sarthe</Ligne>
+      <CodePostal>72033</CodePostal>
+      <NomCommune>Le Mans Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>47.9967855</Latitude>
+         <Longitude>0.2206105</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

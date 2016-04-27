@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="72269" dateMiseAJour="2015-11-03" id="permanence_juridique-72269-01" idPresta="4cac9e60293594648a000442" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques</Nom>
+    <EditeurSource>conseil départemental de l&#39;accès au droit de sarthe</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Françoise Giroud</Ligne>
+        <Ligne>12 place de l&#39;Hôtel de Ville</Ligne>
+        <CodePostal>72120</CodePostal>
+        <NomCommune>ST CALAIS</NomCommune>
+        <Localisation>
+            <Latitude>47.9202594</Latitude>
+            <Longitude>0.7433275</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 54 10 37</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

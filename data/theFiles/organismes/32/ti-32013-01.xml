@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="32013" dateMiseAJour="2014-01-28" id="ti-32013-01" idPresta="4cac9e6a293594648a0017e1" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance d&#39;Auch</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>4, place du maréchal Lannes</Ligne>
+        <Ligne>CS 40405</Ligne>
+        <CodePostal>32008</CodePostal>
+        <NomCommune>AUCH CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.651406</Latitude>
+            <Longitude>0.584433</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 67 66 99</Téléphone>
+        <Télécopie>+33 5 62 67 67 13</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

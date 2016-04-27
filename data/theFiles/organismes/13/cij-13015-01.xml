@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13015-01" codeInsee="13015" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Bouc-Bel-Air</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>13320</CodePostal>
+      <NomCommune>Bouc-Bel-Air</NomCommune>
+      <Localisation>
+         <Latitude>43.4413157</Latitude>
+         <Longitude>5.3801608</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 94 96 50</Téléphone>
+      <Télécopie>+33 4 42 94 96 51</Télécopie>
+      <Email>delphine.savine@boucbelair.com</Email>
+      <Url>http://www.boucbelair.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

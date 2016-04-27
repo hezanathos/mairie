@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-76618-01" codeInsee="76618" dateMiseAJour="2015-05-27"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Petit-Caux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel communautaire</Ligne>
+      <Ligne>3 rue du Val-des-Comtes</Ligne>
+      <CodePostal>76370</CodePostal>
+      <NomCommune>Saint-Martin-en-Campagne</NomCommune>
+      <Localisation>
+         <Latitude>49.9580957</Latitude>
+         <Longitude>1.2230761</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 83 17 57</Téléphone>
+      <Télécopie>+33 2 35 04 19 55</Télécopie>
+      <Email>http://www.cc-petit-caux.fr/contactez-nous/</Email>
+      <Url>http://www.cc-petit-caux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

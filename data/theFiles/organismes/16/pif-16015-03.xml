@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-16015-03" codeInsee="16015" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du centre social culturel et sportif des Rives de Charente</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 quai du Halage</Ligne>
+      <CodePostal>16000</CodePostal>
+      <NomCommune>Angoulême</NomCommune>
+      <Localisation>
+         <Latitude>45.656528</Latitude>
+         <Longitude>0.1438029</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 94 81 03</Téléphone>
+      <Télécopie>+33 5 45 94 02 99</Télécopie>
+      <Email>developpement-social@cscs-rivesdecharente.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

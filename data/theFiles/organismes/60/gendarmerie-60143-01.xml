@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-60143-01" codeInsee="60143" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Chaumont-en-Vexin</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, rue Émile-Deschamps</Ligne>
+      <CodePostal>60240</CodePostal>
+      <NomCommune>Chaumont-en-Vexin</NomCommune>
+      <Localisation>
+         <Latitude>49.2621619</Latitude>
+         <Longitude>1.882324</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 47 55 17</Téléphone>
+      <Télécopie>+33 3 44 47 55 19</Télécopie>
+      <Email>bta.chaumont-en-vexin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

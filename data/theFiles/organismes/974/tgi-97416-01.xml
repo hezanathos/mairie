@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="97416" dateMiseAJour="2015-11-27" id="tgi-97416-01" idPresta="4cac9e87293594648a004cd4" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Saint-Pierre</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>28 rue Augustin Archambaud</Ligne>
+        <Ligne>CS 70040</Ligne>
+        <CodePostal>97851</CodePostal>
+        <NomCommune>ST PIERRE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>-21.337537</Latitude>
+            <Longitude>55.478787</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 62 96 10 00</Téléphone>
+        <Télécopie>+33 2 62 25 84 33</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="15:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

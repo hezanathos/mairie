@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-14047-01" codeInsee="14047" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Bessin-au-Virois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 boulevard Sadi-Carnot</Ligne>
+      <Ligne>Espace Lumière</Ligne>
+      <CodePostal>14400</CodePostal>
+      <NomCommune>Bayeux</NomCommune>
+      <Localisation>
+         <Latitude>49.2734471</Latitude>
+         <Longitude>-0.703612199999952</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 92 60 55</Téléphone>
+      <Télécopie>+33 2 31 51 88 42</Télécopie>
+      <Email>contactbessin@mlbessinvirois.fr</Email>
+      <Url>http://www.cnml.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

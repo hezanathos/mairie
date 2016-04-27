@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-84087-01" codeInsee="84087" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-743">
+   <Nom>Point d'information local dédié aux personnes âgées - Orange</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Au delà des Âges</Ligne>
+      <Ligne>16 rue Saint-Florent</Ligne>
+      <CodePostal>84100</CodePostal>
+      <NomCommune>Orange</NomCommune>
+      <Localisation>
+         <Latitude>44.136517</Latitude>
+         <Longitude>4.810601</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 32 80 97 41</Téléphone>
+      <Email>clic-audeladesages@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-03186-01" codeInsee="03186" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Montmarault</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 route de Moulins</Ligne>
+      <CodePostal>03390</CodePostal>
+      <NomCommune>Montmarault</NomCommune>
+      <Localisation>
+         <Latitude>46.3194111</Latitude>
+         <Longitude>2.9591476</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 07 60 21</Téléphone>
+      <Télécopie>+33 4 70 07 72 25</Télécopie>
+      <Email>bta.montmarault@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

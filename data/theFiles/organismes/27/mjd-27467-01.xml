@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="27467" dateMiseAJour="2013-02-01" id="mjd-27467-01" idPresta="51b08cc5b473e41478000e45" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Pont-Audemer</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Immeuble le Munich</Ligne>
+        <Ligne>avenue de l&#39;Europe</Ligne>
+        <CodePostal>27500</CodePostal>
+        <NomCommune>PONT AUDEMER</NomCommune>
+        <Localisation>
+            <Latitude>49.351775</Latitude>
+            <Longitude>0.52653</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 32 41 78 90</Téléphone>
+        <Télécopie>+33 2 32 41 78 91</Télécopie>
+        <Email>mailto:mjd-pont-audemer@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:30:00"/>
+            <Note>Fermé le mercredi</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

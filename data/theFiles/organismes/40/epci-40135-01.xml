@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-40135-01" codeInsee="40135" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Pays d'Albret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 route de Roquefort</Ligne>
+      <Ligne>Maison communautaire</Ligne>
+      <CodePostal>40420</CodePostal>
+      <NomCommune>Labrit</NomCommune>
+      <Localisation>
+         <Latitude>44.0937919617</Latitude>
+         <Longitude>-0.504769980907</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 51 03 71</Téléphone>
+      <Télécopie>+33 5 58 51 04 53</Télécopie>
+      <Email>accueil@cc-paysalbret.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

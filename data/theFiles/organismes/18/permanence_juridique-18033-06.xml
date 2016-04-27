@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18033" dateMiseAJour="2015-11-03" id="permanence_juridique-18033-06" idPresta="4cd18fb329359405310109af" pivotLocal="permanence_juridique">
+    <Nom>aide aux victimes</Nom>
+    <EditeurSource>Ministère de la justice et CDAD du Cher</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal de Grande Instance</Ligne>
+        <Ligne>8 rue des Arènes</Ligne>
+        <Ligne>Porte G, 1er étage</Ligne>
+        <Ligne>Salle Alain Fournier</Ligne>
+        <CodePostal>18023</CodePostal>
+        <NomCommune>BOURGES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.0846169394</Latitude>
+            <Longitude>2.39244047354</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 48 68 33 57 (aux heures de permanence)</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

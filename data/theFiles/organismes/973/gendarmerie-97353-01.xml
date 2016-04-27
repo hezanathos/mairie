@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97353-01" codeInsee="97353" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Maripasoula</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Maurice Gougis</Ligne>
+      <CodePostal>97370</CodePostal>
+      <NomCommune>Maripasoula</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 37 22 83</Téléphone>
+      <Email>bta.maripasoula@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

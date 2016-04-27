@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88530-01" codeInsee="88530" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Xertigny</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27, rue de la Vallée de l'Aître</Ligne>
+      <CodePostal>88220</CodePostal>
+      <NomCommune>Xertigny</NomCommune>
+      <Localisation>
+         <Latitude>48.044326</Latitude>
+         <Longitude>6.397258</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 36 00 17</Téléphone>
+      <Télécopie>+33 3 29 39 89 87</Télécopie>
+      <Email>cob.xertigny@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-58104-01" codeInsee="58104" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Dornes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23, rue de Décize</Ligne>
+      <CodePostal>58390</CodePostal>
+      <NomCommune>Dornes</NomCommune>
+      <Localisation>
+         <Latitude>46.7179919</Latitude>
+         <Longitude>3.3529292</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 50 60 17</Téléphone>
+      <Télécopie>+33 3 86 50 69 75</Télécopie>
+      <Email>cob.st-pierre-le-moutier@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

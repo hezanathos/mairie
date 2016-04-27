@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-01388-01" codeInsee="01388" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-8">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Trivier-de-Courtes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination des Pays de Bresse</Ligne>
+      <Ligne>58 route de Chalon</Ligne>
+      <CodePostal>01560</CodePostal>
+      <NomCommune>Saint-Trivier-de-Courtes</NomCommune>
+      <Localisation>
+         <Latitude>46.460263</Latitude>
+         <Longitude>5.078914</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 30 78 24</Téléphone>
+      <Email>contact@clicdespaysdebresse.org</Email>
+      <Url>http://www.clicdespaysdebresse.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

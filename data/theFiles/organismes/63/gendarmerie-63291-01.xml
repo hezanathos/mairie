@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-63291-01" codeInsee="63291" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Puy-Guillaume</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, boulevard Vincent Auriol</Ligne>
+      <CodePostal>63290</CodePostal>
+      <NomCommune>Puy-Guillaume</NomCommune>
+      <Localisation>
+         <Latitude>45.9652345</Latitude>
+         <Longitude>3.4835431</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 94 70 20</Téléphone>
+      <Télécopie>+33 4 73 94 87 02</Télécopie>
+      <Email>cob.puy-guillaume@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

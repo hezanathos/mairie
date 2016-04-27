@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="03185" dateMiseAJour="2014-01-28" id="prudhommes-03185-01" idPresta="4cac9ed6293594648a00ed59" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Montluçon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>114 boulevard de Courtais</Ligne>
+        <Ligne>BP 101</Ligne>
+        <CodePostal>03105</CodePostal>
+        <NomCommune>MONTLUCON CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.339908</Latitude>
+            <Longitude>2.607701</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 70 05 04 53</Téléphone>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

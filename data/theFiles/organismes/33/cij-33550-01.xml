@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-33550-01" codeInsee="33550" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Villenave-d'Ornon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>31, avenue du Maréchal-Foch</Ligne>
+      <Ligne>Mairie annexe du Bourg</Ligne>
+      <CodePostal>33140</CodePostal>
+      <NomCommune>Villenave-d'Ornon</NomCommune>
+      <Localisation>
+         <Latitude>44.7695013</Latitude>
+         <Longitude>-0.544014</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>BP 97</Ligne>
+      <Ligne>Rue du Professeur-Calmette</Ligne>
+      <CodePostal>33883</CodePostal>
+      <NomCommune>Villenave-d'Ornon</NomCommune>
+      <Localisation>
+         <Latitude>44.782634</Latitude>
+         <Longitude>-0.570567</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 99 01 10</Téléphone>
+      <Télécopie>+33 5 57 99 01 18</Télécopie>
+      <Email>service.pij-bourg@mairie-villenavedornon.fr</Email>
+      <Url>http://www.blog.info-jeune.net/villenave/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-06004-01" codeInsee="06004" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse d'Antibes - Juan-les-Pins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18-20, boulevard Foch</Ligne>
+      <CodePostal>06600</CodePostal>
+      <NomCommune>Antibes</NomCommune>
+      <Localisation>
+         <Latitude>43.5780342</Latitude>
+         <Longitude>7.121365</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 90 52 38</Téléphone>
+      <Télécopie>+33 4 92 90 52 34</Télécopie>
+      <Email>accueil_bij@ville-antibes.fr</Email>
+      <Url>http://www.antibes-juanlespins.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

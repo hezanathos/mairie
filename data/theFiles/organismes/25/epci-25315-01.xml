@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-25315-01" codeInsee="25315" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Isles du Doubs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>68 bis rue du Magny</Ligne>
+      <CodePostal>25250</CodePostal>
+      <NomCommune>L'Isle-sur-le-Doubs</NomCommune>
+      <Localisation>
+         <Latitude>47.445512</Latitude>
+         <Longitude>6.5814436</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée, rampe d'accès</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 92 82 65</Téléphone>
+      <Télécopie>+33 3 81 92 89 83</Télécopie>
+      <Email>contact@cc-desislesdudoubs.com</Email>
+      <Url>http://www.cc-desislesdudoubs.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

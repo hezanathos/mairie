@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-57604-01" codeInsee="57604" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Trois Frontières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Résidence des Trois Frontières</Ligne>
+      <Ligne>28 rue de l'Europe</Ligne>
+      <Ligne>BP 26</Ligne>
+      <CodePostal>57480</CodePostal>
+      <NomCommune>Rustroff</NomCommune>
+      <Localisation>
+         <Latitude>49.4475442</Latitude>
+         <Longitude>6.3691551</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 83 68 16</Téléphone>
+      <Télécopie>+33 3 82 83 66 61</Télécopie>
+      <Email>cc3f@magic.fr</Email>
+      <Url>http://www.cc3f.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

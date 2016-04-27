@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-45234-01" codeInsee="45234" dateMiseAJour="2011-08-12" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) du Loiret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de Chateaubriand</Ligne>
+      <CodePostal>45100</CodePostal>
+      <NomCommune>ORLEANS</NomCommune>
+      <Localisation>
+         <Latitude>47.8199005127</Latitude>
+         <Longitude>1.93744003773</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 25 46 63</Téléphone>
+      <Url>http://www.loiret.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

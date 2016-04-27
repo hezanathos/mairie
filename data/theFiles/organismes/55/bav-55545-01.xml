@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="55545" dateMiseAJour="2012-06-20" id="bav-55545-01" idPresta="51b08cdeb473e414780013c4" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Verdun</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Saint-Paul</Ligne>
+        <Ligne>Case officielle 724</Ligne>
+        <CodePostal>55107</CodePostal>
+        <NomCommune>VERDUN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.164342</Latitude>
+            <Longitude>5.384221</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 29 86 14 05</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

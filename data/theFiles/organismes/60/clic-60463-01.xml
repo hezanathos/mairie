@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-60463-01" codeInsee="60463" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-517">
+   <Nom>Point d'information local dédié aux personnes âgées - Nogent-sur-Oise</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Jean-de-la-Fontaine</Ligne>
+      <Ligne>Maison Départementale de la Solidarité de Nogent-sur-Oise</Ligne>
+      <CodePostal>60180</CodePostal>
+      <NomCommune>Nogent-sur-Oise</NomCommune>
+      <Localisation>
+         <Latitude>49.278623</Latitude>
+         <Longitude>2.473198</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 10 80 50</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

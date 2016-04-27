@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-60159-01" codeInsee="60159" dateMiseAJour="2014-01-07" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Compiègne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de la solidarité</Ligne>
+      <Ligne>8, rue Clément-Bayard</Ligne>
+      <CodePostal>60200</CodePostal>
+      <NomCommune>Compiègne</NomCommune>
+      <Localisation>
+         <Latitude>49.4103764</Latitude>
+         <Longitude>2.8034886</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 10 43 30</Téléphone>
+      <Télécopie>+33 3 44 40 97 45</Télécopie>
+      <Url>http://www.oise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

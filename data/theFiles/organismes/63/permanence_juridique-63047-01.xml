@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="63047" dateMiseAJour="2015-11-03" id="permanence_juridique-63047-01" idPresta="4cac9e60293594648a0003a3" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de La Bourboule</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>15 place de la République</Ligne>
+        <CodePostal>63150</CodePostal>
+        <NomCommune>LA BOURBOULE</NomCommune>
+        <Localisation>
+            <Latitude>45.5877352</Latitude>
+            <Longitude>2.7383989</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 73 81 31 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

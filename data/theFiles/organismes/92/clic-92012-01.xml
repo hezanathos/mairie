@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-92012-01" codeInsee="92012" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-822">
+   <Nom>Point d'information local dédié aux personnes âgées - Boulogne-Billancourt</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>I'D Centre local d'information et de coordination</Ligne>
+      <Ligne>83-87 rue de Paris</Ligne>
+      <CodePostal>92100</CodePostal>
+      <NomCommune>Boulogne-Billancourt</NomCommune>
+      <Localisation>
+         <Latitude>48.841003</Latitude>
+         <Longitude>2.240449</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 55 18 47 82</Téléphone>
+      <Email>clic@mairie-boulogne-billancourt.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

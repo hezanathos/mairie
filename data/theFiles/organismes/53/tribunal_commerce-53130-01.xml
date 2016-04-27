@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="53130" dateMiseAJour="2014-01-28" id="tribunal_commerce-53130-01" idPresta="4eb263302935944ef500018e" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Laval</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>12 allée de la Chartrerie</Ligne>
+        <Ligne>CS 415</Ligne>
+        <CodePostal>53004</CodePostal>
+        <NomCommune>LAVAL CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.061309</Latitude>
+            <Longitude>-0.752757</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 59 70 80</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-2B033-01" codeInsee="2B033" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Haute-Corse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel du département</Ligne>
+      <Ligne>Rond-point du Maréchal-Leclerc-de-Hautecloque</Ligne>
+      <CodePostal>20405</CodePostal>
+      <NomCommune>Bastia Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>42.702136</Latitude>
+         <Longitude>9.450748</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 55 55 55</Téléphone>
+      <Télécopie>+33 4 95 55 57 00</Télécopie>
+      <Email>haute-corse@cg2b.fr</Email>
+      <Url>http://www.haute-corse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

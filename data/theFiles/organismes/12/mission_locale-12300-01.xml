@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-12300-01" codeInsee="12300" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Villefranche-de-Rouergue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin de Treize-Pierres</Ligne>
+      <Ligne>Bâtiment interactis</Ligne>
+      <CodePostal>12200</CodePostal>
+      <NomCommune>Villefranche-de-Rouergue</NomCommune>
+      <Localisation>
+         <Latitude>44.349746</Latitude>
+         <Longitude>2.0353810000000294</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 81 22 08</Téléphone>
+      <Télécopie>+33 5 65 81 19 26</Télécopie>
+      <Email>villefranche@mlaveyron.org</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

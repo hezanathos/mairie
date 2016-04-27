@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="rectorat-78646-01" codeInsee="78646" dateMiseAJour="2015-01-15"
+           pivotLocal="rectorat">
+   <Nom>Rectorat - Académie de Versailles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, boulevard de Lesseps</Ligne>
+      <CodePostal>78017</CodePostal>
+      <NomCommune>Versailles Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8058013916</Latitude>
+         <Longitude>2.1467499733</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 83 44 44</Téléphone>
+      <Télécopie>+33 1 39 50 02 47</Télécopie>
+      <Url>http://www.ac-versailles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-72071-01" codeInsee="72071" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-664">
+   <Nom>Point d'information local dédié aux personnes âgées - Château-du-Loir</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 allée Saint-Martin</Ligne>
+      <Ligne>Centre local d'information et de coordination Loir-Lucé-Bercé</Ligne>
+      <Ligne>BP 80129</Ligne>
+      <CodePostal>72500</CodePostal>
+      <NomCommune>Château-du-Loir</NomCommune>
+      <Localisation>
+         <Latitude>47.690697</Latitude>
+         <Longitude>0.420445</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 44 78 33</Téléphone>
+      <Email>clic.loirluceberce@cg72.fr</Email>
+      <Url>http://www.cidpacclic.sarthe.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

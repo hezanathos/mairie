@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-35115-01" codeInsee="35115"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Fougères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Service des associations</Ligne>
+      <Ligne>9 avenue François-Mitterand</Ligne>
+      <Ligne>BP 32</Ligne>
+      <Ligne>Sous-préfecture de Fougères - Vitré</Ligne>
+      <CodePostal>35301</CodePostal>
+      <NomCommune>Fougères</NomCommune>
+      <Localisation>
+         <Latitude>48.3507434</Latitude>
+         <Longitude>-1.2011042</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 94 56 05</Téléphone>
+      <Télécopie>+33 2 99 94 56 08</Télécopie>
+      <Email>sp-fougeres-vitre-secretariat@ile-et-vilaine.gouv.fr</Email>
+      <Url>http://www.bretagne.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

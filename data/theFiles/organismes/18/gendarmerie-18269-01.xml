@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-18269-01" codeInsee="18269" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vailly-sur-Sauldre</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 route de Chevraise</Ligne>
+      <CodePostal>18260</CodePostal>
+      <NomCommune>Vailly-sur-Sauldre</NomCommune>
+      <Localisation>
+         <Latitude>47.458601</Latitude>
+         <Longitude>2.651318</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 81 55 80</Téléphone>
+      <Télécopie>+33 2 48 81 55 83</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59278-01" codeInsee="59278" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Hallennes-lez-Haubourdin</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, avenue Marie-Madeleine Dupuis</Ligne>
+      <CodePostal>59320</CodePostal>
+      <NomCommune>Hallennes-lez-Haubourdin</NomCommune>
+      <Localisation>
+         <Latitude>50.6135349</Latitude>
+         <Longitude>2.9567211</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 07 17 03</Téléphone>
+      <Télécopie>+33 3 20 07 23 43</Télécopie>
+      <Email>bta.hallennes-lez-haubourdin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

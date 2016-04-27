@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-64123-01" codeInsee="64123" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Bidache</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>75 route de Saint-Palais</Ligne>
+      <CodePostal>64520</CodePostal>
+      <NomCommune>Bidache</NomCommune>
+      <Localisation>
+         <Latitude>43.4823210759</Latitude>
+         <Longitude>-1.14343643188</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 56 05 11</Téléphone>
+      <Télécopie>+33 5 59 56 05 39</Télécopie>
+      <Email>contact@pays-de-bidache.fr</Email>
+      <Url>http://www.pays-de-bidache.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

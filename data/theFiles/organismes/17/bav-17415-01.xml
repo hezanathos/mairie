@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="17415" dateMiseAJour="2012-06-15" id="bav-17415-01" idPresta="51b08ca1b473e41478000670" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Saintes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>square maréchal Foch</Ligne>
+        <Ligne>CS 80324</Ligne>
+        <CodePostal>17108</CodePostal>
+        <NomCommune>SAINTES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.747419</Latitude>
+            <Longitude>-0.633699</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 46 92 72 27</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

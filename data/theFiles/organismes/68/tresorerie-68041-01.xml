@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-68041-01" codeInsee="68041" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Blodelsheim</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue d'Ensisheim</Ligne>
+      <Ligne>BP 1</Ligne>
+      <CodePostal>68740</CodePostal>
+      <NomCommune>Blodelsheim</NomCommune>
+      <Localisation>
+         <Latitude>47.8841944</Latitude>
+         <Longitude>7.530342</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 48 60 70</Téléphone>
+      <Email>t068001@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

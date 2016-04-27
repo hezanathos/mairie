@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-34108-01" codeInsee="34108" dateMiseAJour="2015-08-06"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Frontignan</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Frédéric-Mistral</Ligne>
+      <CodePostal>34110</CodePostal>
+      <NomCommune>Frontignan</NomCommune>
+      <Localisation>
+         <Latitude>43.4468608</Latitude>
+         <Longitude>3.753811</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 18 49 30</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

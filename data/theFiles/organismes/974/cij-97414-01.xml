@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-97414-01" codeInsee="97414" dateMiseAJour="2006-02-09" pivotLocal="cij">
+   <Nom>Centre Information Jeunesse-Point Information Jeunesse de Riviere Saint Louis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Angle des rues Schweitzer et Cilaos</Ligne>
+      <Ligne>Espace jeunes</Ligne>
+      <CodePostal>97421</CodePostal>
+      <NomCommune>LA RIVIERE</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 39 00 88</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

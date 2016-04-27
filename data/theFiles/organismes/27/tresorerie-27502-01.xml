@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-27502-01" codeInsee="27502" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Rugles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 rue Aristide-Briand</Ligne>
+      <CodePostal>27250</CodePostal>
+      <NomCommune>Rugles</NomCommune>
+      <Localisation>
+         <Latitude>48.8220484</Latitude>
+         <Longitude>0.7106777</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 24 73 15</Téléphone>
+      <Email>t027012@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

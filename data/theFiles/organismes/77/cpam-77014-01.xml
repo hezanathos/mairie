@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-77014-01" codeInsee="77014" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Seine-et-Marne - accueil d'Avon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Immeuble Le Franklin</Ligne>
+      <Ligne>49 avenue Franklin-Roosevelt</Ligne>
+      <CodePostal>77210</CodePostal>
+      <NomCommune>Avon</NomCommune>
+      <Localisation>
+         <Latitude>48.4154294</Latitude>
+         <Longitude>2.7201448</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de la Seine-et-Marne</Ligne>
+      <CodePostal>77605</CodePostal>
+      <NomCommune>Marne-la-Vallée Cedex 3</NomCommune>
+      <Localisation>
+         <Latitude>48.8419055</Latitude>
+         <Longitude>2.705304</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Accueil ouvert à 10h le 3e jeudi du mois. Bornes multiservices accessibles du lundi au vendredi de 8h30 à 17h. Accueil téléphonique du lundi au vendredi de 8h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

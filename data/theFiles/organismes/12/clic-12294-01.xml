@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-12294-01" codeInsee="12294" dateMiseAJour="2015-06-17"
+           pivotLocal="clic"
+           idPresta="clic-87">
+   <Nom>Point d'information local dédié aux personnes âgées - Vézins-de-Lévézou</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Point info Séniors</Ligne>
+      <Ligne>8 route du Claux</Ligne>
+      <CodePostal>12780</CodePostal>
+      <NomCommune>Vézins-de-Lévézou</NomCommune>
+      <Localisation>
+         <Latitude>44.2643174</Latitude>
+         <Longitude>2.9412738</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 6 75 73 33 57 +33 6 75 73 42 03 +33 5 65 58 15 25</Téléphone>
+      <Email>pointinfoseniors-levezou@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

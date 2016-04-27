@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="35238" dateMiseAJour="2014-09-01" id="tgi-35238-01" idPresta="4cac9e78293594648a002fdf" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Rennes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité Judiciaire - CS 73127</Ligne>
+        <Ligne>7 rue Pierre Abélard</Ligne>
+        <CodePostal>35031</CodePostal>
+        <NomCommune>RENNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.105532</Latitude>
+            <Longitude>-1.686493</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 99 65 37 37</Téléphone>
+        <Télécopie>+33 2 99 31 06 15</Télécopie>
+        <Email>mailto:tgi-rennes@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

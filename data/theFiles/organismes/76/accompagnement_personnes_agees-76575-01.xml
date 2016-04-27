@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-76575-01" codeInsee="76575"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-952">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Saint-Étienne-du-Rouvray</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Val-l'Abbé</Ligne>
+      <Ligne>EHPAD Michel Grandpierre</Ligne>
+      <CodePostal>76800</CodePostal>
+      <NomCommune>Saint-Étienne-du-Rouvray</NomCommune>
+      <Localisation>
+         <Latitude>49.378953</Latitude>
+         <Longitude>1.101512</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 19 00 10</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-91223-01" codeInsee="91223" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Étampes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>76, avenue du 8-Mai-1945</Ligne>
+      <CodePostal>91150</CodePostal>
+      <NomCommune>Étampes</NomCommune>
+      <Localisation>
+         <Latitude>48.4413808</Latitude>
+         <Longitude>2.1497955</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 94 69 45</Téléphone>
+      <Télécopie>+33 1 64 94 83 15</Télécopie>
+      <Email>bta.etampes@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

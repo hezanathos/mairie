@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-19031-01" codeInsee="19031"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-877">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Brive-la-Gaillarde</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>EHPAD Centre hospitalier de Brive -la-Gaillarde</Ligne>
+      <Ligne>3 boulevard Docteur-Verlhac</Ligne>
+      <CodePostal>19100</CodePostal>
+      <NomCommune>Brive-la-Gaillarde</NomCommune>
+      <Localisation>
+         <Latitude>45.167933</Latitude>
+         <Longitude>1.533696</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 92 60 56</Téléphone>
+      <Email>direction-generale@ch-brive.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

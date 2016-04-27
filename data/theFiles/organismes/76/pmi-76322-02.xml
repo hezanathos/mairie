@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-76322-02" codeInsee="76322" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) du Grand-Quevilly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre médico-social</Ligne>
+      <Ligne>Avenue du Président-Kennedy</Ligne>
+      <CodePostal>76120</CodePostal>
+      <NomCommune>Le Grand-Quevilly</NomCommune>
+      <Localisation>
+         <Latitude>49.4316929</Latitude>
+         <Longitude>1.0599519</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 69 63 99</Téléphone>
+      <Télécopie>+33 2 35 68 22 14</Télécopie>
+      <Url>http://www.seinemaritime.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

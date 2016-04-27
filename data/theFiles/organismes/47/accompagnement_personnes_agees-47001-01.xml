@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-47001-01" codeInsee="47001"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-910">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Agen</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Accueil de jour</Ligne>
+      <Ligne>98 avenue Robert-Schuman</Ligne>
+      <Ligne>la Clé des Sens</Ligne>
+      <CodePostal>47000</CodePostal>
+      <NomCommune>Agen</NomCommune>
+      <Localisation>
+         <Latitude>44.20747</Latitude>
+         <Longitude>0.63377</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 69 70 71</Téléphone>
+      <Email>accueil.pompeyrie@ch-agen.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

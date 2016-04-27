@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-72138-01" codeInsee="72138" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de la Sarthe - accueil de Fresnay-sur-Sarthe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>2 rue de l'Abbé-Lelièvre</Ligne>
+      <CodePostal>72130</CodePostal>
+      <NomCommune>Fresnay-sur-Sarthe</NomCommune>
+      <Localisation>
+         <Latitude>48.2847311</Latitude>
+         <Longitude>0.0233058</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>178 avenue Bollée</Ligne>
+      <Ligne>Caisse d'allocations familiales de la Sarthe</Ligne>
+      <CodePostal>72034</CodePostal>
+      <NomCommune>Le Mans Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>47.9970669</Latitude>
+         <Longitude>0.2184717</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 72 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil ouvert uniquement les 1er et 3e mardis du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-08105-01" codeInsee="08105" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-50">
+   <Nom>Point d'information local dédié aux personnes âgées - Charleville-Mézières</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 rue Ferroul</Ligne>
+      <Ligne>Délégation territoriale des solidarités</Ligne>
+      <CodePostal>08000</CodePostal>
+      <NomCommune>Charleville-Mézières</NomCommune>
+      <Localisation>
+         <Latitude>49.744054</Latitude>
+         <Longitude>4.722193</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 56 39 89</Téléphone>
+      <Email>clic.agglo.charl-mez@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

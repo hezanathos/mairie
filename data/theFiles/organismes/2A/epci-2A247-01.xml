@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-2A247-01" codeInsee="2A247" dateMiseAJour="2015-08-13"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Sud Corse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>20538</CodePostal>
+      <NomCommune>Porto-Vecchio</NomCommune>
+      <Localisation>
+         <Latitude>41.591369</Latitude>
+         <Longitude>9.278311</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 70 95 61</Téléphone>
+      <Télécopie>+33 4 95 70 15 33</Télécopie>
+   </CoordonnéesNum>
+</Organisme>

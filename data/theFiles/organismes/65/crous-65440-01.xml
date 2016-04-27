@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crous-65440-01" codeInsee="65440" dateMiseAJour="2016-03-10"
+           pivotLocal="crous">
+   <Nom>Centre local des œuvres universitaires et scolaires (Clous) - Tarbes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Résidence de Tarbes</Ligne>
+      <Ligne>39 rue Vincent-Scotto</Ligne>
+      <CodePostal>65000</CodePostal>
+      <NomCommune>Tarbes</NomCommune>
+      <Localisation>
+         <Latitude>43.228024</Latitude>
+         <Longitude>0.0520763</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 44 65 65</Téléphone>
+      <Télécopie>+33 5 62 44 65 00</Télécopie>
+      <Email>contact.tarbes@crous-toulouse.fr</Email>
+      <Url>http://www.crous-toulouse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <PlageH début="12:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <PlageH début="12:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

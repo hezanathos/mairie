@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-2A269-01" codeInsee="2A269" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sari-Solenzara</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Sari</Ligne>
+      <CodePostal>20145</CodePostal>
+      <NomCommune>Sari-Solenzara</NomCommune>
+      <Localisation>
+         <Latitude>41.837242</Latitude>
+         <Longitude>9.372185</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 57 40 17</Téléphone>
+      <Télécopie>+33 4 95 57 22 07</Télécopie>
+      <Email>cob.ste-lucie-de-porto@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

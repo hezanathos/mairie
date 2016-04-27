@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cidf-51108-01" codeInsee="51108" dateMiseAJour="2016-03-10"
+           pivotLocal="cidf">
+   <Nom>Centre d'information sur les droits des femmes et des familles (CIDFF) - Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue Joseph-Servas</Ligne>
+      <Ligne>BP 60119</Ligne>
+      <CodePostal>51007</CodePostal>
+      <NomCommune>Châlons-en-Champagne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.9552161</Latitude>
+         <Longitude>4.3636422</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 65 05 00</Téléphone>
+      <Télécopie>+33 3 26 21 71 03</Télécopie>
+      <Email>cidf.marne@orange.fr</Email>
+      <Url>http://www.infofemmes.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

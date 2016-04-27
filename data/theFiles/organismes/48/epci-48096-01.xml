@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-48096-01" codeInsee="48096" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Vallée de la Jonte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <Ligne>Rue des Apies</Ligne>
+      <CodePostal>48150</CodePostal>
+      <NomCommune>Meyrueis</NomCommune>
+      <Localisation>
+         <Latitude>44.1805608</Latitude>
+         <Longitude>3.4293044</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 45 62 64</Téléphone>
+      <Télécopie>+33 4 66 45 67 36</Télécopie>
+      <Email>sg-meyrueis@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

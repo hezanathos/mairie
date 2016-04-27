@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="79191" dateMiseAJour="2014-01-28" id="prudhommes-79191-01" idPresta="4cac9e60293594648a00032f" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Niort</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 rue de la Préfecture</Ligne>
+        <CodePostal>79000</CodePostal>
+        <NomCommune>NIORT</NomCommune>
+        <Localisation>
+            <Latitude>46.325277</Latitude>
+            <Longitude>-0.4659677</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 49 24 06 01</Téléphone>
+        <Télécopie>+33 5 49 28 53 98</Télécopie>
+        <Url>http://www.prudhomme.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

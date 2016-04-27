@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="75120" dateMiseAJour="2015-11-03" id="permanence_juridique-75120-01" idPresta="4cac9e60293594648a000475" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit du 20ème arrondissement</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>15 Cité Champagne</Ligne>
+        <CodePostal>75020</CodePostal>
+        <NomCommune>PARIS</NomCommune>
+        <Localisation>
+            <Latitude>48.8534215</Latitude>
+            <Longitude>2.4042227</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 53 27 37 40</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

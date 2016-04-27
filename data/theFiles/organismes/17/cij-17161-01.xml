@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-17161-01" codeInsee="17161" dateMiseAJour="2012-11-06" pivotLocal="cij">
+   <Nom>Point information jeunesse de La Flotte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>MJA Espace Bel Air</Ligne>
+      <CodePostal>17630</CodePostal>
+      <NomCommune>La Flotte-en-Ré</NomCommune>
+      <Localisation>
+         <Latitude>46.1870208378008</Latitude>
+         <Longitude>-1.3258695602417</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 35 34 03</Téléphone>
+      <Email>pij.laflotte@gmail.com</Email>
+      <Url>http://www.infojeunesse17.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

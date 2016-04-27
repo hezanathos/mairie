@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-57209-01" codeInsee="57209" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Faulquemont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>57380</CodePostal>
+      <NomCommune>Faulquemont</NomCommune>
+      <Localisation>
+         <Latitude>49.048406</Latitude>
+         <Longitude>6.5951323</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 00 47 00</Téléphone>
+      <Email>t057105@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

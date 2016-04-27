@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72068-01" codeInsee="72068" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Chartre-sur-le-Loir</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45, avenue des Déportés</Ligne>
+      <CodePostal>72340</CodePostal>
+      <NomCommune>La Chartre-sur-le-Loir</NomCommune>
+      <Localisation>
+         <Latitude>47.7368355</Latitude>
+         <Longitude>0.5777074</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 44 40 18</Téléphone>
+      <Télécopie>+33 2 43 44 40 26</Télécopie>
+      <Email>cob.chateau-du-loir-luceau@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="10142" dateMiseAJour="2015-11-03" id="permanence_juridique-10142-01" idPresta="4cac9e5e293594648a0000e7" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques d&#39;Estissac</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Communauté de Communes</Ligne>
+        <Ligne>2 rue Laurent Lessère</Ligne>
+        <CodePostal>10190</CodePostal>
+        <NomCommune>ESTISSAC</NomCommune>
+        <Localisation>
+            <Latitude>48.2664513</Latitude>
+            <Longitude>3.8089999</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 40 42 42</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-63291-01" codeInsee="63291" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes entre Allier et Bois Noirs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>51 rue Ernest-Laroche</Ligne>
+      <CodePostal>63290</CodePostal>
+      <NomCommune>Puy-Guillaume</NomCommune>
+      <Localisation>
+         <Latitude>45.9609356252</Latitude>
+         <Longitude>3.47597122192</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 94 74 12</Téléphone>
+      <Télécopie>+33 4 73 94 88 48</Télécopie>
+      <Email>allier-boisnoirs@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-95219-01" codeInsee="95219" dateMiseAJour="2015-03-12" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques d'Ermont Est</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>421 rue Jean-Richepin</Ligne>
+      <Ligne>BP 85</Ligne>
+      <CodePostal>95125</CodePostal>
+      <NomCommune>Ermont Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.9903314</Latitude>
+         <Longitude>2.24651</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 72 82 70</Téléphone>
+      <Email>sie.ermont-est@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

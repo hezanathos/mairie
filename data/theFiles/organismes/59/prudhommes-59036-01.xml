@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59036" dateMiseAJour="2014-01-28" id="prudhommes-59036-01" idPresta="4cc055cd29359446b70019dd" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes d&#39;Avesnes sur Helpe</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Plateau Chemerault</Ligne>
+        <Ligne>11 rue du Maréchal Joffre</Ligne>
+        <CodePostal>59440</CodePostal>
+        <NomCommune>AVESNES SUR HELPE</NomCommune>
+        <Localisation>
+            <Latitude>50.121941</Latitude>
+            <Longitude>3.928441</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 27 57 78 00</Téléphone>
+        <Télécopie>+33 3 27 57 78 27</Télécopie>
+        <Email>mailto:cph.tgi-avesnes-sur-helpe@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

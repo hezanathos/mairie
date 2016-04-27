@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-83116-01" codeInsee="83116" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Maximin-la-Sainte-Baume</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>405, route de Nice</Ligne>
+      <CodePostal>83470</CodePostal>
+      <NomCommune>Saint-Maximin-la-Sainte-Baume</NomCommune>
+      <Localisation>
+         <Latitude>43.4357735</Latitude>
+         <Longitude>5.8507609</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 78 00 12</Téléphone>
+      <Télécopie>+33 4 94 37 14 20</Télécopie>
+      <Email>cob.st-maximin-la-ste-baume@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38317-01" codeInsee="38317" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie du Pont-de-Claix</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue du 19-Mars-1962</Ligne>
+      <CodePostal>38800</CodePostal>
+      <NomCommune>Le Pont-de-Claix</NomCommune>
+      <Localisation>
+         <Latitude>45.1569055</Latitude>
+         <Longitude>5.7045957</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 98 04 38</Téléphone>
+      <Télécopie>+33 4 76 99 23 87</Télécopie>
+      <Email>bta.le-pont-de-claix@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-11203-01" codeInsee="11203" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lézignan-Corbières</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 chemin de l'Estagnol</Ligne>
+      <CodePostal>11200</CodePostal>
+      <NomCommune>Lézignan-Corbières</NomCommune>
+      <Localisation>
+         <Latitude>43.1823371</Latitude>
+         <Longitude>2.75768</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 27 06 14</Téléphone>
+      <Télécopie>+33 4 68 40 48 66</Télécopie>
+      <Email>bp.lezignan-corbieres@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

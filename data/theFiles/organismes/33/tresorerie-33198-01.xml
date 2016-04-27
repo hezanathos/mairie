@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-33198-01" codeInsee="33198" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Guîtres - Saint-Denis-de-Pile</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 rue Fronsadaise</Ligne>
+      <CodePostal>33230</CodePostal>
+      <NomCommune>Guîtres</NomCommune>
+      <Localisation>
+         <Latitude>45.0408268</Latitude>
+         <Longitude>-0.1895178</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 69 24 73</Téléphone>
+      <Email>t033066@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

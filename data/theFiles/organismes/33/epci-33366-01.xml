@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-33366-01" codeInsee="33366" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Cubzaguais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>44 rue Dantagnan</Ligne>
+      <Ligne>BP 59</Ligne>
+      <CodePostal>33240</CodePostal>
+      <NomCommune>Saint-André-de-Cubzac</NomCommune>
+      <Localisation>
+         <Latitude>44.994433</Latitude>
+         <Longitude>-0.443291</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée et ascenseur pour l'étage</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 43 96 37</Téléphone>
+      <Télécopie>+33 5 57 43 83 13</Télécopie>
+      <Email>contact@cdc-cubzaguais.fr</Email>
+      <Url>http://www.cdc-cubzaguais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

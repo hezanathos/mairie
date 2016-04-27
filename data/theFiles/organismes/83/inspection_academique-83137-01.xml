@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="inspection_academique-83137-01" codeInsee="83137"
+           dateMiseAJour="2016-03-10"
+           pivotLocal="inspection_academique">
+   <Nom>Direction des services départementaux de l'Éducation nationale, ex-Inspection académique - Var</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>98 rue de Montebello</Ligne>
+      <Ligne>CS 71204</Ligne>
+      <Ligne>Cité interadministrative des Lices</Ligne>
+      <CodePostal>83070</CodePostal>
+      <NomCommune>Toulon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.1203323</Latitude>
+         <Longitude>5.9323141</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 09 55 00</Téléphone>
+      <Télécopie>+33 4 94 09 55 93</Télécopie>
+      <Email>dsden83@ac-nice.fr</Email>
+      <Url>http://www.ac-nice.fria83</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="12:45:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

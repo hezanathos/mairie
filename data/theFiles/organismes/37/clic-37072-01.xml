@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-37072-01" codeInsee="37072" dateMiseAJour="2015-07-13"
+           pivotLocal="clic"
+           idPresta="Clic-1139">
+   <Nom>Point d'information local dédié aux personnes âgées - Chinon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison Départementale de la Solidarité</Ligne>
+      <Ligne>6 rue des Courances</Ligne>
+      <CodePostal>37500</CodePostal>
+      <NomCommune>Chinon</NomCommune>
+      <Localisation>
+         <Latitude>47.165354</Latitude>
+         <Longitude>0.2489</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 93 14 35</Téléphone>
+      <Email>bmarcadier@cg37.fr</Email>
+      <Url>http://www.touraine-reperage.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

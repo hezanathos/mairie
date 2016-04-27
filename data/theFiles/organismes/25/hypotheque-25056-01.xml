@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-25056-01" codeInsee="25056" dateMiseAJour="2015-06-17"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-conservation des hypothèques) de Besançon 1</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Major</Ligne>
+      <Ligne>83, rue de Dôle</Ligne>
+      <CodePostal>25042</CodePostal>
+      <NomCommune>Besançon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.237829</Latitude>
+         <Longitude>6.0240539</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 47 24 03</Téléphone>
+      <Télécopie>+33 3 81 88 60 65</Télécopie>
+      <Email>spf.besancon1@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

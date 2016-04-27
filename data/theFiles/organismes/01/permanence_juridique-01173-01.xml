@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="01173" dateMiseAJour="2015-11-03" id="permanence_juridique-01173-01" idPresta="4cac9e5e293594648a000055" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>148 rue du Commerce</Ligne>
+        <CodePostal>01170</CodePostal>
+        <NomCommune>GEX</NomCommune>
+        <Localisation>
+            <Latitude>46.3331455</Latitude>
+            <Longitude>6.0574629</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 50 41 35 86</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

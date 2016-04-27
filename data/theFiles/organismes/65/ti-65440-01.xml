@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="65440" dateMiseAJour="2014-06-23" id="ti-65440-01" idPresta="4cac9e6a293594648a001800" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Tarbes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 bis rue du Maréchal Foch</Ligne>
+        <Ligne>BP 1326</Ligne>
+        <CodePostal>65013</CodePostal>
+        <NomCommune>TARBES CEDEX 9</NomCommune>
+        <Localisation>
+            <Latitude>43.234037</Latitude>
+            <Longitude>0.069242</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 51 77 55</Téléphone>
+        <Télécopie>+33 5 62 51 77 69</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

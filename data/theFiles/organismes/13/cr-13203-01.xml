@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cr-13203-01" codeInsee="13203" dateMiseAJour="2015-05-12" pivotLocal="cr">
+   <Nom>Conseil régional - Provence-Alpes-Côte d'Azur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27 place Jules-Guesde</Ligne>
+      <CodePostal>13481</CodePostal>
+      <NomCommune>Marseille Cedex 20</NomCommune>
+      <Localisation>
+         <Latitude>43.3022003174</Latitude>
+         <Longitude>5.37451982498</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 57 50 57</Téléphone>
+      <Télécopie>+33 4 91 57 51 51</Télécopie>
+      <Url>http://www.regionpaca.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

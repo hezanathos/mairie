@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-13081-01" codeInsee="13081" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Rognac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>52 boulevard Jean-Jaurès</Ligne>
+      <CodePostal>13340</CodePostal>
+      <NomCommune>Rognac</NomCommune>
+      <Localisation>
+         <Latitude>43.4879292</Latitude>
+         <Longitude>5.2278195</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 87 00 10</Téléphone>
+      <Télécopie>+33 4 42 34 72 29</Télécopie>
+      <Email>bta.rognac@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

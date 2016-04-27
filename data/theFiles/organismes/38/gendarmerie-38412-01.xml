@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38412-01" codeInsee="38412" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saint-Laurent-du-Pont</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du 19-Mars-1962</Ligne>
+      <CodePostal>38380</CodePostal>
+      <NomCommune>Saint-Laurent-du-Pont</NomCommune>
+      <Localisation>
+         <Latitude>45.3884455</Latitude>
+         <Longitude>5.7329797</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 55 20 17</Téléphone>
+      <Télécopie>+33 4 76 06 23 63</Télécopie>
+      <Email>bta.st-laurent-du-pont@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

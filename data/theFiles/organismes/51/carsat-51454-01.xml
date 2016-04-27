@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="carsat-51454-01" codeInsee="51454" dateMiseAJour="2015-09-09"
+           pivotLocal="carsat">
+   <Nom>Caisse d'assurance retraite et de la santé au travail (Carsat) - Nord-Est</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de l'Arbalète</Ligne>
+      <CodePostal>51100</CodePostal>
+      <NomCommune>Reims</NomCommune>
+      <Localisation>
+         <Latitude>49.2564988</Latitude>
+         <Longitude>4.0318097</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="6 centimes d’euro par minute plus le prix de l’appel.">3960</Téléphone>
+      <Télécopie>+33 3 26 86 91 89</Télécopie>
+      <Email>agence.reims@carsat-nordest.fr</Email>
+      <Url>http://www.carsat-nordest.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

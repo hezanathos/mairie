@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-29158-01" codeInsee="29158" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Penmarch</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Écoles</Ligne>
+      <Ligne>Kérity</Ligne>
+      <CodePostal>29760</CodePostal>
+      <NomCommune>Penmarch</NomCommune>
+      <Localisation>
+         <Latitude>47.8116455078</Latitude>
+         <Longitude>-4.33806800842</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 58 60 19</Téléphone>
+      <Email>mairie@penmarch.fr</Email>
+      <Url>http://www.penmarch.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil ouvert sur rendez-vous uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

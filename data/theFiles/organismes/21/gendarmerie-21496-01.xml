@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-21496-01" codeInsee="21496" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Pontailler-sur-Saône</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue de Franche-Comté</Ligne>
+      <CodePostal>21270</CodePostal>
+      <NomCommune>Pontailler-sur-Saône</NomCommune>
+      <Localisation>
+         <Latitude>47.3040494</Latitude>
+         <Longitude>5.4198287</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 36 12 85</Téléphone>
+      <Télécopie>+33 3 80 36 14 44</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="51108" dateMiseAJour="2015-11-03" id="permanence_juridique-51108-02" idPresta="4cd18fb2293594053101094f" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs de Châlons-En-Champagne</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison de l’Avocat</Ligne>
+        <Ligne>1 rue Perrot d&#39;Ablancourt</Ligne>
+        <CodePostal>51000</CodePostal>
+        <NomCommune>CHALONS EN CHAMPAGNE</NomCommune>
+        <Localisation>
+            <Latitude>48.95918</Latitude>
+            <Longitude>4.362803</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 26 68 08 08</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

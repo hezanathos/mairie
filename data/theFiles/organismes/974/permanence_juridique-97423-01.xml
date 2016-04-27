@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="97423" dateMiseAJour="2015-11-03" id="permanence_juridique-97423-01" idPresta="4cac9e61293594648a0005b8" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue du Général de Gaulle</Ligne>
+        <Ligne>BP 5</Ligne>
+        <CodePostal>97426</CodePostal>
+        <NomCommune>LES TROIS BASSINS</NomCommune>
+        <Localisation>
+            <Latitude>-21.1058550501</Latitude>
+            <Longitude>55.2946834993</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 62 24 65 86</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

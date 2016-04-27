@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="79049" dateMiseAJour="2015-09-11" id="ti-79049-01" idPresta="4cac9e62293594648a0006a6" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Bressuire</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>19 boulevard Albert 1er</Ligne>
+        <CodePostal>79300</CodePostal>
+        <NomCommune>BRESSUIRE</NomCommune>
+        <Localisation>
+            <Latitude>46.83937</Latitude>
+            <Longitude>-0.4890378</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 49 65 87 32</Téléphone>
+        <Télécopie>+33 5 49 80 61 95</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="08:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

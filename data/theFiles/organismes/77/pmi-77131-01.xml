@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-77131-01" codeInsee="77131" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Coulommiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26-28 rue du Palais-de-Justice</Ligne>
+      <Ligne>Maison départementale des solidarités</Ligne>
+      <CodePostal>77120</CodePostal>
+      <NomCommune>Coulommiers</NomCommune>
+      <Localisation>
+         <Latitude>48.8130949</Latitude>
+         <Longitude>3.0866069</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 65 35 66</Téléphone>
+      <Télécopie>+33 1 64 65 35 49</Télécopie>
+      <Url>http://www.seine-et-marne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Le matin, accueil en permanence par une puéricultrice sans rendez-vous. L'après-midi, consultations médicales uniquement sur rendez vous.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

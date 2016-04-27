@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="49328" dateMiseAJour="2015-01-26" id="bav-49328-01" idPresta="54201a52b473e41de13b08ae" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Saumur</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place St Michel</Ligne>
+        <CodePostal>49412</CodePostal>
+        <NomCommune>SAUMUR CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.258099</Latitude>
+            <Longitude>-0.071844</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 41 83 47 47</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

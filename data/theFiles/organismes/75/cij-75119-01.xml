@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-75119-01" codeInsee="75119" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Centre information jeunesse de Paris - Flandre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Antenne jeunes Flandre</Ligne>
+      <Ligne>49 ter, avenue de Flandre</Ligne>
+      <CodePostal>75019</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8883282</Latitude>
+         <Longitude>2.374122</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 40 37 29 74</Téléphone>
+      <Télécopie>+33 1 40 37 38 02</Télécopie>
+      <Email>ajflandre@laligue.org</Email>
+      <Url>http://www.jeunes.paris.fr/antenne-jeunes-flandre</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:30:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:30:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

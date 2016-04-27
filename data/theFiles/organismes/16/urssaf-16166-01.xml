@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-16166-01" codeInsee="16166" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Poitou-Charentes - accueil de Charente</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>ZI n°3</Ligne>
+      <Ligne>Rue Victor-Hugo</Ligne>
+      <CodePostal>16340</CodePostal>
+      <NomCommune>L'Isle-d'Espagnac</NomCommune>
+      <Localisation>
+         <Latitude>45.66435</Latitude>
+         <Longitude>0.19523</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Urssaf de Poitou-Charentes</Ligne>
+      <CodePostal>16901</CodePostal>
+      <NomCommune>Angoulême Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.poitoucharentes.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Accueil physique sur rendez-vous du lundi au jeudi de 12h30 à 17h, le vendredi jusqu'à 16h et accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

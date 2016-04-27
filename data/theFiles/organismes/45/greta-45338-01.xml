@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-45338-01" codeInsee="45338" dateMiseAJour="2011-10-04"
+           pivotLocal="greta">
+   <Nom>Greta Loiret Est</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue Léonard de Vinci</Ligne>
+      <Ligne>Lycée Durzy</Ligne>
+      <Ligne>BP 22063</Ligne>
+      <CodePostal>45702</CodePostal>
+      <NomCommune>VILLEMANDEUR CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>48.0003639</Latitude>
+         <Longitude>2.7159501</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 93 56 72</Téléphone>
+      <Télécopie>+33 2 38 89 25 13</Télécopie>
+      <Email>greta-loiret-est@ac-orleans-tours.fr</Email>
+      <Url>http://www.ac-orleans-tours.fr/dafco</Url>
+   </CoordonnéesNum>
+</Organisme>

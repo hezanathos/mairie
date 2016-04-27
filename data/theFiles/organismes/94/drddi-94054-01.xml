@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="drddi-94054-01" codeInsee="94054" dateMiseAJour="2015-11-18"
+           pivotLocal="drddi">
+   <Nom>Direction interrégionale des douanes - Orly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 405</Ligne>
+      <Ligne>7, allée du Commandant-Mouchotte</Ligne>
+      <CodePostal>94546</CodePostal>
+      <NomCommune>Orly Aérogare Ouest Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7415714</Latitude>
+         <Longitude>2.3612952</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée seulement</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 49 75 84 00</Téléphone>
+      <Télécopie>+33 1 49 75 84 01</Télécopie>
+      <Email>dr-orly@douane.finances.gouv.fr</Email>
+      <Url>http://www.douane.finances.gouv.fr</Url>
+      <Sve>https://pro.douane.gouv.fr/</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:00:00" fin="20:00:00"/>
+         <Note>Accueil téléphonique de 9h à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

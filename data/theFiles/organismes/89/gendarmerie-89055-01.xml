@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-89055-01" codeInsee="89055" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Brienon-sur-Armançon</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, boulevard du Général-de-Gaulle</Ligne>
+      <CodePostal>89210</CodePostal>
+      <NomCommune>Brienon-sur-Armançon</NomCommune>
+      <Localisation>
+         <Latitude>47.9913376</Latitude>
+         <Longitude>3.613101</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 56 13 17</Téléphone>
+      <Télécopie>+33 3 86 56 09 59</Télécopie>
+      <Email>cob.migennes@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

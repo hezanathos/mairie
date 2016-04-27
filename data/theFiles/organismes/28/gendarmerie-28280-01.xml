@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-28280-01" codeInsee="28280" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Nogent-le-Rotrou</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Gendarme Dujardin</Ligne>
+      <Ligne>53 rue de Sully</Ligne>
+      <CodePostal>28400</CodePostal>
+      <NomCommune>Nogent-le-Rotrou</NomCommune>
+      <Localisation>
+         <Latitude>48.317771</Latitude>
+         <Longitude>0.8302875</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 53 54 00</Téléphone>
+      <Télécopie>+33 2 37 53 54 09</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

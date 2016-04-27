@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="bsn-76540-01" codeInsee="76540" dateMiseAJour="2015-12-15" pivotLocal="bsn">
+   <Nom>Centre du service national de Rouen (27, 28, 76)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mindef-csn rouen</Ligne>
+      <Ligne>CS 11313</Ligne>
+      <Ligne>Caserne Philippon</Ligne>
+      <Ligne>56 rue Saint-Vivien</Ligne>
+      <CodePostal>76178</CodePostal>
+      <NomCommune>Rouen Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.4421588</Latitude>
+         <Longitude>1.1048719</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 08 20 40</Téléphone>
+      <Télécopie>+33 2 32 08 20 43</Télécopie>
+      <Email>csn-rou.sga@defense.gouv.fr</Email>
+      <Url>http://www.defense.gouv.fr/jdc</Url>
+      <Sve>http://www.defense.gouv.fr/portail-defense/rubriques-complementaires/contact</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+         <Note>Accueil téléphonique uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil téléphonique uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

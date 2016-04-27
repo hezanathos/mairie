@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-61029-01" codeInsee="61029" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bazoches-sur-Hoëne</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23, rue du Presbytère</Ligne>
+      <CodePostal>61560</CodePostal>
+      <NomCommune>Bazoches-sur-Hoëne</NomCommune>
+      <Localisation>
+         <Latitude>48.5513756</Latitude>
+         <Longitude>0.4715067</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 85 88 60</Téléphone>
+      <Télécopie>+33 2 33 85 88 64</Télécopie>
+      <Email>cob.mortagne-au-perche@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

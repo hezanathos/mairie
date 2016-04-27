@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-14225-01" codeInsee="14225" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Dives-sur-Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Albert-1er</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>14160</CodePostal>
+      <NomCommune>Dives-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>49.2845001221</Latitude>
+         <Longitude>-0.100115001202</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 91 17 95</Téléphone>
+      <Url>http://www.calvados.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

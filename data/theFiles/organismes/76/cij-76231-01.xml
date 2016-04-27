@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-76231-01" codeInsee="76231" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Elbeuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>61, cours Carnot</Ligne>
+      <CodePostal>76500</CodePostal>
+      <NomCommune>Elbeuf</NomCommune>
+      <Localisation>
+         <Latitude>49.2937011719</Latitude>
+         <Longitude>0.999207019806</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 96 02 70</Téléphone>
+      <Email>pij.elbeuf@animelbeuf.fr</Email>
+      <Url>http://www.animelbeuf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

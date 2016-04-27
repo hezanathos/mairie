@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="46127" dateMiseAJour="2015-11-03" id="permanence_juridique-46127-01" idPresta="4cac9e5f293594648a0002e1" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Gourdon</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison communautaire</Ligne>
+        <Ligne>98 avenue Gambetta</Ligne>
+        <CodePostal>46300</CodePostal>
+        <NomCommune>GOURDON</NomCommune>
+        <Localisation>
+            <Latitude>44.736701</Latitude>
+            <Longitude>1.3850892</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 65 50 05 40</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cr-31555-01" codeInsee="31555" dateMiseAJour="2016-01-06" pivotLocal="cr">
+   <Nom>Conseil régional - Languedoc-Roussillon Midi-Pyrénées</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Région Midi-Pyrénées</Ligne>
+      <Ligne>22 boulevard du Maréchal-Juin</Ligne>
+      <CodePostal>31406</CodePostal>
+      <NomCommune>Toulouse Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.5920428</Latitude>
+         <Longitude>1.4422462</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 33 50 50</Téléphone>
+      <Télécopie>+33 5 61 33 52 66</Télécopie>
+      <Email>http://www.regionlrmp.fr/Nous-contacter-33852</Email>
+      <Url>http://www.regionlrmp.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

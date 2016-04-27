@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdc-50545-01" codeInsee="50545" dateMiseAJour="2014-10-14" pivotLocal="fdc">
+   <Nom>Fédération départementale des chasseurs - Manche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>31, rue des Aumônes</Ligne>
+      <CodePostal>50750</CodePostal>
+      <NomCommune>Saint-Romphaire</NomCommune>
+      <Localisation>
+         <Latitude>49.0364281</Latitude>
+         <Longitude>-1.09705469999994</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 72 63 63</Téléphone>
+      <Télécopie>+33 2 33 72 04 84</Télécopie>
+      <Email>fdc50@chasseurdefrance.com</Email>
+      <Url>http://www.fdc50.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

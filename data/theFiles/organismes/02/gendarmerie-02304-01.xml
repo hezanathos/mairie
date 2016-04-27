@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02304-01" codeInsee="02304" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Fère</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 avenue du Maréchal-Leclerc</Ligne>
+      <CodePostal>02800</CodePostal>
+      <NomCommune>La Fère</NomCommune>
+      <Localisation>
+         <Latitude>49.661256</Latitude>
+         <Longitude>3.367175</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 39 19 17</Téléphone>
+      <Télécopie>+33 3 23 39 19 19</Télécopie>
+      <Email>cob.chauny@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

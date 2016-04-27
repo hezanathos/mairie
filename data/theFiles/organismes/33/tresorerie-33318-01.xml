@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-33318-01" codeInsee="33318" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Pessac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue Georges-Pompidou</Ligne>
+      <CodePostal>33604</CodePostal>
+      <NomCommune>Pessac Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.8019233</Latitude>
+         <Longitude>-0.6313747</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 15 11 22</Téléphone>
+      <Email>t033041@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

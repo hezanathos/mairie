@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-32013-01" codeInsee="32013" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Auch</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Général-Lagrange</Ligne>
+      <Ligne>2 rue Jean-de-La-Fontaine</Ligne>
+      <CodePostal>32000</CodePostal>
+      <NomCommune>Auch</NomCommune>
+      <Localisation>
+         <Latitude>43.6398894</Latitude>
+         <Longitude>0.594734</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 60 50 00</Téléphone>
+      <Télécopie>+33 5 62 60 50 69</Télécopie>
+      <Email>bta.auch@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

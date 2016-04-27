@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="92050" dateMiseAJour="2014-01-28" id="tribunal_commerce-92050-01" idPresta="4eb2632b2935944ef500013e" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Nanterre</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>4 rue Pablo Néruda</Ligne>
+        <CodePostal>92020</CodePostal>
+        <NomCommune>NANTERRE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.895933</Latitude>
+            <Longitude>2.216926</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 40 97 17 17</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

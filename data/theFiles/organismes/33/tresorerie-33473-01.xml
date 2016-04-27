@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-33473-01" codeInsee="33473" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Saint Savin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 rue Jacques-Vergeron</Ligne>
+      <CodePostal>33920</CodePostal>
+      <NomCommune>Saint-Savin</NomCommune>
+      <Localisation>
+         <Latitude>45.1384553</Latitude>
+         <Longitude>-0.4454235</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 58 91 46</Téléphone>
+      <Email>t033075@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

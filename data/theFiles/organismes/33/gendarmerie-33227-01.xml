@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33227-01" codeInsee="33227" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Langon</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue Jules-Ferry</Ligne>
+      <CodePostal>33210</CodePostal>
+      <NomCommune>Langon</NomCommune>
+      <Localisation>
+         <Latitude>44.5507369</Latitude>
+         <Longitude>-0.2506942</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 98 12 60</Téléphone>
+      <Télécopie>+33 5 57 98 12 83</Télécopie>
+      <Email>bp.langon@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

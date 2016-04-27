@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-34172-03" codeInsee="34172" dateMiseAJour="2015-08-06"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Montpellier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Comédie</Ligne>
+      <Ligne>Allée de Lattre-de-Tassigny</Ligne>
+      <CodePostal>34000</CodePostal>
+      <NomCommune>Montpellier</NomCommune>
+      <Localisation>
+         <Latitude>43.611331</Latitude>
+         <Longitude>3.881363</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 99 74 26 74</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

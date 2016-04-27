@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-50147-01" codeInsee="50147" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-384">
+   <Nom>Point d'information local dédié aux personnes âgées - Coutances</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2bis rue Rémy-de-Gourmont</Ligne>
+      <Ligne>Centre local d'information et de coordination du Coutancais</Ligne>
+      <CodePostal>50200</CodePostal>
+      <NomCommune>Coutances</NomCommune>
+      <Localisation>
+         <Latitude>49.052</Latitude>
+         <Longitude>-1.441544</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 45 08 39</Téléphone>
+      <Email>clicducoutancais@yahoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

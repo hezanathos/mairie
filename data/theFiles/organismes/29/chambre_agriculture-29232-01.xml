@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-29232-01" codeInsee="29232" dateMiseAJour="2015-04-19"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d'agriculture - Finistère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 allée Sully</Ligne>
+      <CodePostal>29322</CodePostal>
+      <NomCommune>Quimper Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.010799408</Latitude>
+         <Longitude>-4.10647010803</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 52 49 49</Téléphone>
+      <Télécopie>+33 2 98 52 49 90</Télécopie>
+      <Email>accueil@finistere.chambagri.fr</Email>
+      <Url>http://www.synagri.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

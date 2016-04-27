@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-61297-01" codeInsee="61297" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Moulins-la-Marche</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33, rue du Stade</Ligne>
+      <CodePostal>61380</CodePostal>
+      <NomCommune>Moulins-la-Marche</NomCommune>
+      <Localisation>
+         <Latitude>48.6531212</Latitude>
+         <Longitude>0.4736402</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 84 14 60</Téléphone>
+      <Télécopie>+33 2 33 84 14 64</Télécopie>
+      <Email>cob.l-aigle@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="adil-59178-01" codeInsee="59178" dateMiseAJour="2016-03-10"
+           pivotLocal="adil">
+   <Nom>Agence départementale d’information sur le logement (Adil) - Nord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>64 rue de Canteleu</Ligne>
+      <CodePostal>59500</CodePostal>
+      <NomCommune>Douai</NomCommune>
+      <Localisation>
+         <Latitude>50.3692795</Latitude>
+         <Longitude>3.08346099999994</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>7 bis rue Racine</Ligne>
+      <CodePostal>59800</CodePostal>
+      <NomCommune>Lille</NomCommune>
+      <Localisation>
+         <Latitude>50.6250835</Latitude>
+         <Longitude>3.05089269999996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 59 61 62 59</Téléphone>
+      <Email>contact@adilnord.fr</Email>
+      <Url>http://www.adilnord.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

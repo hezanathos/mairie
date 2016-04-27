@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-83130-01" codeInsee="83130" dateMiseAJour="2016-02-08"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Solliès-Pont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>avenue Joseph Aillaud</Ligne>
+      <CodePostal>83210</CodePostal>
+      <NomCommune>Solliès-Pont</NomCommune>
+      <Localisation>
+         <Latitude>43.193276</Latitude>
+         <Longitude>6.040713</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 28 93 30</Téléphone>
+      <Email>t083016@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

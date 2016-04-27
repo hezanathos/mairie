@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-08302-01" codeInsee="08302" dateMiseAJour="2015-08-13"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Meuse et Semoy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Étienne-Dolet</Ligne>
+      <CodePostal>08800</CodePostal>
+      <NomCommune>Montherme</NomCommune>
+      <Localisation>
+         <Latitude>49.8853251</Latitude>
+         <Longitude>4.740155</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 36 08 61</Téléphone>
+      <Télécopie>+33 3 24 36 08 94</Télécopie>
+      <Email>contact@cc-meuse-semoy.com</Email>
+      <Url>http://www.cc-meuse-semoy.com</Url>
+   </CoordonnéesNum>
+</Organisme>

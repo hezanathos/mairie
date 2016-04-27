@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-86137-01" codeInsee="86137" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Loudun</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Fontaine-d'Adam</Ligne>
+      <Ligne>Mission locale</Ligne>
+      <Ligne>Téléport 6</Ligne>
+      <CodePostal>86200</CodePostal>
+      <NomCommune>Loudun</NomCommune>
+      <Localisation>
+         <Latitude>47.0224415</Latitude>
+         <Longitude>0.0902255</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 22 40 89</Téléphone>
+      <Télécopie>+33 5 49 22 58 80</Télécopie>
+      <Email>missionlocalenordienne@orange.fr</Email>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

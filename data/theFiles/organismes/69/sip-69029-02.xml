@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-69029-02" codeInsee="69029" dateMiseAJour="2016-02-23" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Lyon Est</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 12</Ligne>
+      <Ligne>14, rue Albert-Camus</Ligne>
+      <CodePostal>69676</CodePostal>
+      <NomCommune>Bron Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.727549</Latitude>
+         <Longitude>4.918782</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 15 20 05</Téléphone>
+      <Email>sip.lyon-est@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Fermé le mercredi</Commentaire>
+</Organisme>

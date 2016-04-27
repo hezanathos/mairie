@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-73236-01" codeInsee="73236" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Saint-Genix-sur-Guiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre de protection maternelle et infantile</Ligne>
+      <Ligne>Immeuble la Tissandière</Ligne>
+      <Ligne>50 B rue du Stade</Ligne>
+      <CodePostal>73240</CodePostal>
+      <NomCommune>Saint-Genix-sur-Guiers</NomCommune>
+      <Localisation>
+         <Latitude>45.5998001099</Latitude>
+         <Longitude>5.63471984863</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 31 60 42</Téléphone>
+      <Télécopie>+33 4 76 31 51 98</Télécopie>
+      <Email>dvs-tds-avant-pays@savoie.fr</Email>
+      <Url>http://www.savoie.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-38517-01" codeInsee="38517" dateMiseAJour="2015-10-16"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Tullins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Clos-des-Chartreux</Ligne>
+      <Ligne>BP 65</Ligne>
+      <CodePostal>38210</CodePostal>
+      <NomCommune>Tullins</NomCommune>
+      <Localisation>
+         <Latitude>45.302888</Latitude>
+         <Longitude>5.4863037</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 07 01 30</Téléphone>
+      <Email>t038046@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

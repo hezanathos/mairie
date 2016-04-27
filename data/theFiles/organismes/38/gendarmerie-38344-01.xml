@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38344-01" codeInsee="38344" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Roussillon</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue Fernand Léger</Ligne>
+      <CodePostal>38150</CodePostal>
+      <NomCommune>Roussillon</NomCommune>
+      <Localisation>
+         <Latitude>45.3699077</Latitude>
+         <Longitude>4.8131433</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 86 20 17</Téléphone>
+      <Télécopie>+33 4 74 29 86 41</Télécopie>
+      <Email>bta.roussillon@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

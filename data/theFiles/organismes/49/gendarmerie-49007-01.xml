@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-49007-01" codeInsee="49007" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Angers</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Bouthet du Rivault</Ligne>
+      <Ligne>33 rue du Nid-de-Pie</Ligne>
+      <CodePostal>49000</CodePostal>
+      <NomCommune>Angers</NomCommune>
+      <Localisation>
+         <Latitude>47.4708023</Latitude>
+         <Longitude>-0.6056685</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 22 94 40</Téléphone>
+      <Télécopie>+33 2 41 22 94 64</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

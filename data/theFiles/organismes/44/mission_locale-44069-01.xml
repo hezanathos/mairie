@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-44069-01" codeInsee="44069" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de la Presqu'île Guérandaise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Louis-Éon</Ligne>
+      <CodePostal>44350</CodePostal>
+      <NomCommune>Guérande</NomCommune>
+      <Localisation>
+         <Latitude>47.3287010193</Latitude>
+         <Longitude>-2.42672991753</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 42 96 76</Téléphone>
+      <Télécopie>+33 2 40 62 02 86</Télécopie>
+      <Email>mission@ml-guerande.fr</Email>
+      <Url>http://www.cnml.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

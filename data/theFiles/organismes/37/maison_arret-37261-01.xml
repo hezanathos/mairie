@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="37261" dateMiseAJour="2014-01-28" id="maison_arret-37261-01" idPresta="4eb2632d2935944ef5000159" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Tours</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>20 rue Henri Martin</Ligne>
+        <Ligne>BP 3413</Ligne>
+        <CodePostal>37034</CodePostal>
+        <NomCommune>TOURS CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>47.376932</Latitude>
+            <Longitude>0.690975</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 47 60 12 80</Téléphone>
+        <Télécopie>+33 2 47 20 33 57</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

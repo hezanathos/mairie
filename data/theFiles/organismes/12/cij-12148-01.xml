@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-12148-01" codeInsee="12148" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Montbazens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social du plateau de Montbazens</Ligne>
+      <Ligne>16, chemin de Tournevic</Ligne>
+      <CodePostal>12220</CodePostal>
+      <NomCommune>Montbazens</NomCommune>
+      <Localisation>
+         <Latitude>44.4748967</Latitude>
+         <Longitude>2.2289583</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 80 45 47</Téléphone>
+      <Télécopie>+33 5 65 80 45 51</Télécopie>
+      <Email>contact@centresocial-montbazens.fr</Email>
+      <Url>http://www.centresocial-montbazens.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

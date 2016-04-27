@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-66025-01" codeInsee="66025" dateMiseAJour="2006-03-31" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Bourg-Madame</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue du Collège Ancienne Piscine</Ligne>
+      <CodePostal>66760</CodePostal>
+      <NomCommune>BOURG MADAME</NomCommune>
+      <Localisation>
+         <Latitude>42.4338340759</Latitude>
+         <Longitude>1.94395899773</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 04 13 81</Téléphone>
+      <Télécopie>+33 4 68 04 13 81</Télécopie>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-02064-01" codeInsee="02064" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Belleu - Soissons Ble</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Albert-Ledoux-Belleu</Ligne>
+      <CodePostal>02208</CodePostal>
+      <NomCommune>Soissons Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.376636</Latitude>
+         <Longitude>3.32342</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 73 69 99</Téléphone>
+      <Email>t002047@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

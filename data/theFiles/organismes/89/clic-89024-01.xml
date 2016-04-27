@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-89024-01" codeInsee="89024" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-806">
+   <Nom>Point d'information local dédié aux personnes âgées - Auxerre</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Unité territoriale de solidarité de l'Auverrois</Ligne>
+      <Ligne>4 avenue de Perrigny</Ligne>
+      <CodePostal>89000</CodePostal>
+      <NomCommune>Auxerre</NomCommune>
+      <Localisation>
+         <Latitude>47.821125</Latitude>
+         <Longitude>3.558868</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 49 58 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="dimanche">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

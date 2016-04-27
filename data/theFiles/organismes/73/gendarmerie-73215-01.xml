@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-73215-01" codeInsee="73215" dateMiseAJour="2015-01-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Rochette</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29, avenue de la Grangette</Ligne>
+      <CodePostal>73110</CodePostal>
+      <NomCommune>La Rochette</NomCommune>
+      <Localisation>
+         <Latitude>45.4581289</Latitude>
+         <Longitude>6.1098414</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 25 50 17</Téléphone>
+      <Télécopie>+33 4 79 25 77 19</Télécopie>
+      <Email>cob.la-rochette@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="31254" dateMiseAJour="2015-11-03" id="permanence_juridique-31254-01" idPresta="4cac9e5f293594648a00023d" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Labège</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>rue de la Croix Rose</Ligne>
+        <CodePostal>31670</CodePostal>
+        <NomCommune>LABEGE</NomCommune>
+        <Localisation>
+            <Latitude>43.53088</Latitude>
+            <Longitude>1.5300698</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 62 24 44 44</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-50129-01" codeInsee="50129" dateMiseAJour="2013-06-10" pivotLocal="cij">
+   <Nom>Point information jeunesse de l'agglomération cherbourgeoise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>74 quai Alexandre III</Ligne>
+      <CodePostal>50100</CodePostal>
+      <NomCommune>CHERBOURG OCTEVILLE</NomCommune>
+      <Localisation>
+         <Latitude>49.6352694</Latitude>
+         <Longitude>-1.6221261</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+ 33 2 33 01 64 76</Téléphone>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

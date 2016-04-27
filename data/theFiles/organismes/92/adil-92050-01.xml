@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="adil-92050-01" codeInsee="92050" dateMiseAJour="2016-03-10"
+           pivotLocal="adil">
+   <Nom>Agence départementale d’information sur le logement (Adil) - Hauts-de-Seine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10-12 rue des Trois-Fontanots</Ligne>
+      <CodePostal>92000</CodePostal>
+      <NomCommune>Nanterre</NomCommune>
+      <Localisation>
+         <Latitude>48.896229</Latitude>
+         <Longitude>2.2191346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 41 45 06 10</Téléphone>
+      <Télécopie>+33 1 40 90 78 50</Télécopie>
+      <Email>adil92@adil92.org</Email>
+      <Url>http://www.adil92.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

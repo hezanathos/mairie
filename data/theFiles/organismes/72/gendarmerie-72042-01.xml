@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72042-01" codeInsee="72042" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Bouloire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>58, rue du jeu de Paume</Ligne>
+      <CodePostal>72440</CodePostal>
+      <NomCommune>Bouloire</NomCommune>
+      <Localisation>
+         <Latitude>47.9700255</Latitude>
+         <Longitude>0.5503828</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 35 40 06</Téléphone>
+      <Télécopie>+33 2 43 35 92 67</Télécopie>
+      <Email>cob.st-calais@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

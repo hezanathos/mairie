@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69202-01" codeInsee="69202" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-603">
+   <Nom>Point d'information local dédié aux personnes âgées - Sainte-Foy-lès-Lyon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Rhône du Canton de Sainte-Foy-lès-Lyon</Ligne>
+      <Ligne>4 chemin de Montray</Ligne>
+      <CodePostal>69110</CodePostal>
+      <NomCommune>Sainte-Foy-lès-Lyon</NomCommune>
+      <Localisation>
+         <Latitude>45.734621</Latitude>
+         <Longitude>4.798474</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 16 32 40</Téléphone>
+      <Email>mdr.ste-foy-les-lyon@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

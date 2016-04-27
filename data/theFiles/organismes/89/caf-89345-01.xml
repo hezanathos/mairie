@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-89345-01" codeInsee="89345" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de l'Yonne - accueil de Saint-Florentin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Maison des associassions</Ligne>
+      <Ligne>7 rue de l'Île-de-France</Ligne>
+      <CodePostal>89600</CodePostal>
+      <NomCommune>Saint-Florentin</NomCommune>
+      <Localisation>
+         <Latitude>47.9986991882</Latitude>
+         <Longitude>3.71846008301</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de l'Yonne</Ligne>
+      <Ligne>BP 80087</Ligne>
+      <Ligne>12 rue du Clos</Ligne>
+      <CodePostal>89021</CodePostal>
+      <NomCommune>Auxerre Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.7899296</Latitude>
+         <Longitude>3.5696226</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 89 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Borne en libre service durant les heures d'ouverture de la Maison des associations.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-07324-01" codeInsee="07324" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Tournon-sur-Rhône</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 chemin de la Pichonnière</Ligne>
+      <CodePostal>07300</CodePostal>
+      <NomCommune>Tournon-sur-Rhône</NomCommune>
+      <Localisation>
+         <Latitude>45.0962706</Latitude>
+         <Longitude>4.8159321</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 08 02 21</Téléphone>
+      <Télécopie>+33 4 75 06 92 33</Télécopie>
+      <Email>bta.tournon-sur-rhone@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

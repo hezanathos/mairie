@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-24010-01" codeInsee="24010"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-882">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Annesse-et-Beaulieu</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 route de Balans</Ligne>
+      <Ligne>EHPAD du verger de Balans</Ligne>
+      <CodePostal>24430</CodePostal>
+      <NomCommune>Annesse-et-Beaulieu</NomCommune>
+      <Localisation>
+         <Latitude>45.171778</Latitude>
+         <Longitude>0.576893</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 02 66 00</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

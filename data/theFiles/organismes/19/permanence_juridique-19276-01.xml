@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="19276" dateMiseAJour="2015-11-03" id="permanence_juridique-19276-01" idPresta="4cac9e5f293594648a0001b9" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit d&#39;Uzerche</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison du Département</Ligne>
+        <Ligne>avenue de la Borie Blanche</Ligne>
+        <CodePostal>19140</CodePostal>
+        <NomCommune>UZERCHE</NomCommune>
+        <Localisation>
+            <Latitude>45.4150215</Latitude>
+            <Longitude>1.5646495</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 73 00 14</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-69264-01" codeInsee="69264" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Pôle information loisirs de Villefranche-sur-Saône</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>230, rue de la Quarantaine</Ligne>
+      <CodePostal>69400</CodePostal>
+      <NomCommune>Villefranche-sur-Saône</NomCommune>
+      <Localisation>
+         <Latitude>45.989200592</Latitude>
+         <Longitude>4.72458982468</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 62 26 31</Téléphone>
+      <Télécopie>+33 4 74 09 05 37</Télécopie>
+      <Email>pil@villefranche.net</Email>
+      <Url>http://www.villefranche.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

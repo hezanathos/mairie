@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="30189" dateMiseAJour="2015-11-03" id="permanence_juridique-30189-06" idPresta="4cd18fb22935940531010967" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Nîmes</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre médico-social Trait d&#39;Union - quartier Pissevin</Ligne>
+        <Ligne>4 place Roger Bastide</Ligne>
+        <CodePostal>30903</CodePostal>
+        <NomCommune>NIMES CEDEX 2</NomCommune>
+        <Localisation>
+            <Latitude>43.825973</Latitude>
+            <Longitude>4.33448</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 66 76 48 90</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-24291-01" codeInsee="24291" dateMiseAJour="2015-04-27"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Montignac - Plazac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Tourny</Ligne>
+      <Ligne>BP 16</Ligne>
+      <CodePostal>24290</CodePostal>
+      <NomCommune>Montignac</NomCommune>
+      <Localisation>
+         <Latitude>45.0650913</Latitude>
+         <Longitude>1.1643443</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 51 81 18</Téléphone>
+      <Email>t024018@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

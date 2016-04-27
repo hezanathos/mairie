@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-49092-01" codeInsee="49092" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Chemillé-Melay</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>49120</CodePostal>
+      <NomCommune>Chemillé-Melay</NomCommune>
+      <Localisation>
+         <Latitude>47.2168847</Latitude>
+         <Longitude>-0.7252398</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 30 63 17</Téléphone>
+      <Télécopie>+33 2 41 30 63 23</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

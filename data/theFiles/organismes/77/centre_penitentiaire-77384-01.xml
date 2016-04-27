@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="77384" dateMiseAJour="2014-01-28" id="centre_penitentiaire-77384-01" idPresta="4ef301622935942b7b0000be" pivotLocal="centre_penitentiaire">
+    <Nom>Centre pénitentiaire du Sud-Francilien</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Le Plessis Picard</Ligne>
+        <Ligne>Réau</Ligne>
+        <CodePostal>77558</CodePostal>
+        <NomCommune>MOISSY CRAMAYEL CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.624673</Latitude>
+            <Longitude>2.600115</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 72 62 60 00</Téléphone>
+        <Télécopie>+33 1 72 62 61 00</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

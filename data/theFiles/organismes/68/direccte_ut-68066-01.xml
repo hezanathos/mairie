@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="direccte_ut-68066-01" codeInsee="68066" dateMiseAJour="2016-03-10"
+           pivotLocal="direccte_ut">
+   <Nom>Unité territoriale - Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Direccte) - Haut-Rhin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bâtiment Tour</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>3 rue Fleischhauer</Ligne>
+      <CodePostal>68026</CodePostal>
+      <NomCommune>Colmar Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.0807</Latitude>
+         <Longitude>7.35997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 68 35 45 00</Téléphone>
+      <Télécopie>+33 3 68 34 05 10</Télécopie>
+      <Email>alsace-ut68.renseignements@direccte.gouv.fr</Email>
+      <Url>http://www.alsace.direccte.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

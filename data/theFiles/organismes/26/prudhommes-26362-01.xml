@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="26362" dateMiseAJour="2014-01-28" id="prudhommes-26362-01" idPresta="4cac9e5f293594648a00022a" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Valence</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>&#34;Le Forum&#34; 7 avenue de Verdun</Ligne>
+        <Ligne>BP 2140</Ligne>
+        <CodePostal>26021</CodePostal>
+        <NomCommune>VALENCE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.930308</Latitude>
+            <Longitude>4.927628</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 75 43 09 85</Téléphone>
+        <Télécopie>+33 4 75 43 34 58</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:15:00" fin="17:15:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

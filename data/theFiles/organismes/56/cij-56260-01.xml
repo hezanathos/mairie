@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-56260-01" codeInsee="56260" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Vannes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22, avenue Victor-Hugo</Ligne>
+      <Ligne>BP 509</Ligne>
+      <CodePostal>56019</CodePostal>
+      <NomCommune>Vannes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6606234</Latitude>
+         <Longitude>-2.7575104</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 01 61 00</Téléphone>
+      <Télécopie>+33 2 97 01 61 01</Télécopie>
+      <Email>bij@mairie-vannes.fr</Email>
+      <Url>http://www.mairie-vannes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="27056" dateMiseAJour="2014-01-28" id="ti-27056-01" idPresta="4cac9ed7293594648a00ee3b" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Bernay</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Gustave Héon</Ligne>
+        <Ligne>BP 761</Ligne>
+        <CodePostal>27307</CodePostal>
+        <NomCommune>BERNAY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.08966</Latitude>
+            <Longitude>0.597699</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 32 47 52 20</Téléphone>
+        <Télécopie>+33 2 32 45 85 84</Télécopie>
+        <Email>mailto:ti-bernay@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:15:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

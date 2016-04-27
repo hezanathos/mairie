@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="71270" dateMiseAJour="2014-12-08" id="spip-71270-01" idPresta="4d257cb52935941b0b010bb7" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de la Saône-et-Loire</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>24 place Mathias</Ligne>
+        <CodePostal>71100</CodePostal>
+        <NomCommune>CHALON SUR SAONE</NomCommune>
+        <Localisation>
+            <Latitude>46.309752</Latitude>
+            <Longitude>4.836592</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 85 97 09 50</Téléphone>
+        <Télécopie>+33 3 85 97 09 59</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-41256-01" codeInsee="41256" dateMiseAJour="2006-03-29" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Theillay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 Rue de la Gare</Ligne>
+      <CodePostal>41300</CodePostal>
+      <NomCommune>THEILLAY</NomCommune>
+      <Localisation>
+         <Latitude>47.314201355</Latitude>
+         <Longitude>2.04134011269</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 83 39 51</Téléphone>
+      <Url>http://www.informationjeunesse-centre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

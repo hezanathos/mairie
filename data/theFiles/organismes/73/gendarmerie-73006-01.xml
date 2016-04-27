@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-73006-01" codeInsee="73006" dateMiseAJour="2015-01-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Aime</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>500, avenue de la Tarentaise</Ligne>
+      <CodePostal>73210</CodePostal>
+      <NomCommune>Aime</NomCommune>
+      <Localisation>
+         <Latitude>45.5550551</Latitude>
+         <Longitude>6.6444112</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 55 61 17</Téléphone>
+      <Télécopie>+33 4 79 55 75 57</Télécopie>
+      <Email>bta.aime@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-35210-01" codeInsee="35210" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-296">
+   <Nom>Point d'information local dédié aux personnes âgées - Pacé</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 Boulevard Domaine de la Josserie</Ligne>
+      <Ligne>Centre local d'information et de coordination</Ligne>
+      <CodePostal>35740</CodePostal>
+      <NomCommune>Pacé</NomCommune>
+      <Localisation>
+         <Latitude>48.14449</Latitude>
+         <Longitude>-1.77058</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 35 49 52</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-26148-01" codeInsee="26148" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie du Grand Serre-Moras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 route de Boyron</Ligne>
+      <Ligne>BP 13</Ligne>
+      <CodePostal>26390</CodePostal>
+      <NomCommune>Hauterives</NomCommune>
+      <Localisation>
+         <Latitude>45.257343</Latitude>
+         <Longitude>5.028907</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 68 82 12</Téléphone>
+      <Email>t026011@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

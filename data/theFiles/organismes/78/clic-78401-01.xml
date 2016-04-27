@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-78401-01" codeInsee="78401" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-712">
+   <Nom>Point d'information local dédié aux personnes âgées - Meulan-en-Yvelines</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Coordination Gérontologique Seine et Mauldre (ALDS)</Ligne>
+      <Ligne>25 avenue des Aulnes</Ligne>
+      <CodePostal>78250</CodePostal>
+      <NomCommune>Meulan-en-Yvelines</NomCommune>
+      <Localisation>
+         <Latitude>49.011309</Latitude>
+         <Longitude>1.902772</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 74 80 60</Téléphone>
+      <Email>coordination@alds.org</Email>
+      <Url>http://www.alds.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

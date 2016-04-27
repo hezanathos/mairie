@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97362-01" codeInsee="97362" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Papaichton</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Fromager</Ligne>
+      <CodePostal>97316</CodePostal>
+      <NomCommune>Papaichton</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 37 30 38</Téléphone>
+      <Télécopie>+594 5 94 37 30 37</Télécopie>
+      <Email>bta.papaichton@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

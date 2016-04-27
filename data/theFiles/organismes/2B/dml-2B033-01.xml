@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dml-2B033-01" codeInsee="2B033" dateMiseAJour="2013-04-25" pivotLocal="dml">
+   <Nom>Délégation à la mer et au littoral de Haute-Corse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Vieux-Port</Ligne>
+      <CodePostal>20200</CodePostal>
+      <NomCommune>Bastia</NomCommune>
+      <Localisation>
+         <Latitude>42.7021365</Latitude>
+         <Longitude>9.4507475</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 60008</Ligne>
+      <Ligne>8, boulevard Benoite-Danési</Ligne>
+      <CodePostal>20411</CodePostal>
+      <NomCommune>Bastia Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>42.6975398</Latitude>
+         <Longitude>9.444771</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 32 84 60</Téléphone>
+      <Télécopie>+33 4 95 32 79 12</Télécopie>
+      <Email>ddtm-dml@haute-corse.gouv.fr</Email>
+      <Url>http://www.affaires-maritimes.mediterranee.equipement.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

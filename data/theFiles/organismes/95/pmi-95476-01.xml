@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-95476-01" codeInsee="95476" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) d'Osny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bâtiment 11</Ligne>
+      <Ligne>Rue du Général-de-Gaulle</Ligne>
+      <Ligne>Terrasses de la Ravinière</Ligne>
+      <CodePostal>95520</CodePostal>
+      <NomCommune>Osny</NomCommune>
+      <Localisation>
+         <Latitude>49.0568861</Latitude>
+         <Longitude>2.0660963</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 31 07 83</Téléphone>
+      <Url>http://www.valdoise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture du mardi après-midi, accueil ouvert uniquement sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

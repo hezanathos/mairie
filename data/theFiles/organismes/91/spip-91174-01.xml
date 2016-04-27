@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="91174" dateMiseAJour="2015-03-20" id="spip-91174-01" idPresta="4d2575692935941a920001de" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de l&#39;Essonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Bâtiment Rushmore</Ligne>
+        <Ligne>5 rue Ventoux</Ligne>
+        <CodePostal>91080</CodePostal>
+        <NomCommune>COURCOURONNES</NomCommune>
+        <Localisation>
+            <Latitude>48.597716</Latitude>
+            <Longitude>2.467501</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 78 05 43 40</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

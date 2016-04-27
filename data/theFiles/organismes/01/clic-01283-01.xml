@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-01283-01" codeInsee="01283" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-2">
+   <Nom>Point d'information local dédié aux personnes âgées - Oyonnax</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Haut Bugey</Ligne>
+      <Ligne>10 rue de l'Orme</Ligne>
+      <CodePostal>01100</CodePostal>
+      <NomCommune>Oyonnax</NomCommune>
+      <Localisation>
+         <Latitude>46.251047</Latitude>
+         <Longitude>5.654267</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 75 67 79</Téléphone>
+      <Email>clicduhautbugey@orange.fr</Email>
+      <Url>http://www.clicduhautbugey.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

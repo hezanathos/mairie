@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="64417" dateMiseAJour="2015-11-03" id="permanence_juridique-64417-01" idPresta="4cac9e60293594648a0003d3" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Nay</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre multiservices</Ligne>
+        <Ligne>8 cours Pasteur</Ligne>
+        <CodePostal>64800</CodePostal>
+        <NomCommune>NAY</NomCommune>
+        <Localisation>
+            <Latitude>43.1801416</Latitude>
+            <Longitude>-0.2580434</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 59 13 02 70</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

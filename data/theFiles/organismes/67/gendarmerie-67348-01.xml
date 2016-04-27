@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67348-01" codeInsee="67348" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Obernai</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>39,, avenue des Roselières</Ligne>
+      <CodePostal>67210</CodePostal>
+      <NomCommune>Obernai</NomCommune>
+      <Localisation>
+         <Latitude>48.461481</Latitude>
+         <Longitude>7.503191</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 95 51 90</Téléphone>
+      <Télécopie>+33 3 88 49 44 35</Télécopie>
+      <Email>bta.obernai@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

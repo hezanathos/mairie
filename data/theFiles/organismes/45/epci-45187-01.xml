@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-45187-01" codeInsee="45187" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Lorris</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>155 rue des Erables</Ligne>
+      <Ligne>BP 7</Ligne>
+      <Ligne>Parc d'activités du Pays de Lorris</Ligne>
+      <CodePostal>45260</CodePostal>
+      <NomCommune>Lorris</NomCommune>
+      <Localisation>
+         <Latitude>47.889431</Latitude>
+         <Longitude>2.51326800000004</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 92 31 11</Téléphone>
+      <Télécopie>+33 2 38 92 38 88</Télécopie>
+      <Email>contact@comcomlorris.fr</Email>
+      <Url>http://www.comcomlorris.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:45:00"/>
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

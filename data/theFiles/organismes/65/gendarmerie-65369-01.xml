@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-65369-01" codeInsee="65369" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Pouyastruc</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19, route de Bigorre</Ligne>
+      <CodePostal>65350</CodePostal>
+      <NomCommune>Pouyastruc</NomCommune>
+      <Localisation>
+         <Latitude>43.2667093</Latitude>
+         <Longitude>0.157489</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 33 25 18</Téléphone>
+      <Télécopie>+33 5 62 33 25 73</Télécopie>
+      <Email>cob.tournay@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

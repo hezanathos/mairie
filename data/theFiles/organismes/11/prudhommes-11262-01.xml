@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="11262" dateMiseAJour="2014-01-28" id="prudhommes-11262-01" idPresta="4cac9e5f293594648a0001fd" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Narbonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>40 boulevard Général de Gaulle</Ligne>
+        <CodePostal>11100</CodePostal>
+        <NomCommune>NARBONNE</NomCommune>
+        <Localisation>
+            <Latitude>43.184576</Latitude>
+            <Longitude>3.008973</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 68 41 05 45</Téléphone>
+        <Télécopie>+33 4 68 40 47 38</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="mercredi">
+            <PlageH début="08:15:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="08:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:15:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

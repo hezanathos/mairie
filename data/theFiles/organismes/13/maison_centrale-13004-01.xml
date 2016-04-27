@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13004" dateMiseAJour="2014-01-28" id="maison_centrale-13004-01" idPresta="4eb2632d2935944ef5000162" pivotLocal="maison_centrale">
+    <Nom>Maison centrale d&#39;Arles</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue Copernic</Ligne>
+        <Ligne>BP 90241</Ligne>
+        <CodePostal>13637</CodePostal>
+        <NomCommune>ARLES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.70696</Latitude>
+            <Longitude>4.634151</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 99 07 00</Téléphone>
+        <Télécopie>+33 4 90 99 07 09</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

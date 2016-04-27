@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-35360-01" codeInsee="35360" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) d'Ille-et-Vilaine - accueil de Vitré</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>16 rue du 70e-Régiment-d'Infanterie</Ligne>
+      <CodePostal>35500</CodePostal>
+      <NomCommune>Vitré</NomCommune>
+      <Localisation>
+         <Latitude>48.1216949</Latitude>
+         <Longitude>-1.2098435</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie d'Ille-et-Vilaine</Ligne>
+      <CodePostal>35024</CodePostal>
+      <NomCommune>Rennes Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Accueil ouvert à 10h30 le 1er jeudi du mois et accueil téléphonique du lundi au vendredi de 8h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

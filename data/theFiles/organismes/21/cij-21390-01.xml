@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-21390-01" codeInsee="21390" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Marsannay-la-Côte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social Bachlard</Ligne>
+      <Ligne>Place Schweich-an-der-Mosel</Ligne>
+      <CodePostal>21160</CodePostal>
+      <NomCommune>Marsannay-la-Côte</NomCommune>
+      <Localisation>
+         <Latitude>47.270302</Latitude>
+         <Longitude>4.988667</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 59 64 79</Téléphone>
+      <Télécopie>+33 3 80 51 23 82</Télécopie>
+      <Email>pij_marsennaylacote@ijbourgogne.com</Email>
+      <Url>http://www.crijbourgogne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

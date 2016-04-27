@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ars_antenne-70550-01" codeInsee="70550" dateMiseAJour="2014-03-03"
+           pivotLocal="ars_antenne">
+   <Nom>Délégation territoriale de l'Agence régionale de santé - Haute-Saône</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 10412</Ligne>
+      <Ligne>3, rue Leblond</Ligne>
+      <CodePostal>70014</CodePostal>
+      <NomCommune>Vesoul Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6233889</Latitude>
+         <Longitude>6.1584254</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 78 53 00</Téléphone>
+      <Télécopie>+33 3 84 76 38 05</Télécopie>
+      <Email>arsfc-dt70@sante.gouv.fr</Email>
+      <Url>http://www.ars.franche-comte.sante.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:15:00" fin="11:45:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

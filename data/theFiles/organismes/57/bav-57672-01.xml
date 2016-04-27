@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="57672" dateMiseAJour="2014-06-09" id="bav-57672-01" idPresta="51b08cb9b473e41478000b7f" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Thionville</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>quai Pierre Marchal</Ligne>
+        <Ligne>BP 80348</Ligne>
+        <CodePostal>57125</CodePostal>
+        <NomCommune>THIONVILLE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.357635</Latitude>
+            <Longitude>6.169133</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 82 82 43 50</Téléphone>
+        <Télécopie>+33 3 82 82 49 65</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

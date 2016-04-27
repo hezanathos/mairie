@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69290-01" codeInsee="69290" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-636">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint -Priest</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du Rhône du Canton de Saint-Priest</Ligne>
+      <Ligne>21 rue Maréchal-Leclerc</Ligne>
+      <CodePostal>69800</CodePostal>
+      <NomCommune>Saint-Priest</NomCommune>
+      <Localisation>
+         <Latitude>45.693668</Latitude>
+         <Longitude>4.935128</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 20 07 11</Téléphone>
+      <Email>mdr.st-priest@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

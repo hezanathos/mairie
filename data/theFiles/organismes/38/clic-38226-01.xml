@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-38226-01" codeInsee="38226" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-315">
+   <Nom>Point d'information local dédié aux personnes âgées - Mens</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lieu-dit les Levas</Ligne>
+      <Ligne>Service Autonomie</Ligne>
+      <Ligne>BP 8</Ligne>
+      <Ligne>Trièves</Ligne>
+      <CodePostal>38710</CodePostal>
+      <NomCommune>Mens</NomCommune>
+      <Localisation>
+         <Latitude>44.817582</Latitude>
+         <Longitude>5.751556</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 80 34 85 02</Téléphone>
+      <Email>am.gontard@cg38.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

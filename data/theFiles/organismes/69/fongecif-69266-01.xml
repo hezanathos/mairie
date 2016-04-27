@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fongecif-69266-01" codeInsee="69266" dateMiseAJour="2016-03-10"
+           pivotLocal="fongecif">
+   <Nom>Fongecif - Rhône-Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>131 boulevard Stalingrad</Ligne>
+      <Ligne>Le Premium</Ligne>
+      <CodePostal>69624</CodePostal>
+      <NomCommune>Villeurbanne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.771944</Latitude>
+         <Longitude>4.8901709</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 82 50 50</Téléphone>
+      <Télécopie>+33 4 72 82 50 79</Télécopie>
+      <Url>http://www.fongecifrhonealpes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

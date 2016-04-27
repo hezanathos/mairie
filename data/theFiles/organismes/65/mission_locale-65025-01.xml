@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-65025-01" codeInsee="65025" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Argeles-Gazost</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Saint-Orens</Ligne>
+      <Ligne>Mission locale des Hautes-Pyrérénées</Ligne>
+      <CodePostal>65400</CodePostal>
+      <NomCommune>Argeles-Gazost</NomCommune>
+      <Localisation>
+         <Latitude>43.0082130432</Latitude>
+         <Longitude>-0.0997240021825</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 97 93 36</Téléphone>
+      <Url>http://www.mlmidipy.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

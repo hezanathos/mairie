@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-87085-01" codeInsee="87085" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Baubreuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 allée Marcel-Proust</Ligne>
+      <CodePostal>87280</CodePostal>
+      <NomCommune>Limoges</NomCommune>
+      <Localisation>
+         <Latitude>45.8811563</Latitude>
+         <Longitude>1.2987309999999752</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 37 56 81</Téléphone>
+      <Télécopie>+33 5 55 65 20 61</Télécopie>
+      <Url>http://www.cnml.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil fermé uniquement le jeudi matin en semaine impaire.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

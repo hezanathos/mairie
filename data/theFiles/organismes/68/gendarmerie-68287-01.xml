@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-68287-01" codeInsee="68287" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Rouffach</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue de l'Europe</Ligne>
+      <CodePostal>68250</CodePostal>
+      <NomCommune>Rouffach</NomCommune>
+      <Localisation>
+         <Latitude>47.9615284</Latitude>
+         <Longitude>7.3068884</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 49 60 19</Téléphone>
+      <Télécopie>+33 3 89 78 55 25</Télécopie>
+      <Email>cob.rouffach@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

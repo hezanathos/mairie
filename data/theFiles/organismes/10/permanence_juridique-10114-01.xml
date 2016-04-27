@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="10114" dateMiseAJour="2015-11-03" id="permanence_juridique-10114-01" idPresta="4cac9e5e293594648a0000dc" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Crancey</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>30 rue Faverolles</Ligne>
+        <CodePostal>10100</CodePostal>
+        <NomCommune>CRANCEY</NomCommune>
+        <Localisation>
+            <Latitude>48.5165527</Latitude>
+            <Longitude>3.6431717</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 24 81 20</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

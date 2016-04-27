@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-01004-01" codeInsee="01004" dateMiseAJour="2015-05-21"
+           pivotLocal="clic"
+           idPresta="clic-7">
+   <Nom>Point d'information local dédié aux personnes âgées - Ambérieu-en-Bugey</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de la Plaine de l'Ain</Ligne>
+      <Ligne>62 avenue du Général-Sarrail</Ligne>
+      <CodePostal>01500</CodePostal>
+      <NomCommune>Ambérieu-en-Bugey</NomCommune>
+      <Localisation>
+         <Latitude>45.955258</Latitude>
+         <Longitude>5.336202</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 46 19 04</Téléphone>
+      <Email>clic@cc-plainedelain.fr</Email>
+      <Url>http://www.clic-plainedelain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-77305-01" codeInsee="77305" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Deux Fleuves</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>77130</CodePostal>
+      <NomCommune>Montereau-Fault-Yonne</NomCommune>
+      <Localisation>
+         <Latitude>48.381231</Latitude>
+         <Longitude>2.9490936</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 73 44 00</Téléphone>
+      <Télécopie>+33 1 60 57 24 51</Télécopie>
+      <Email>contact@cc2f.fr</Email>
+      <Url>http://www.cc2f.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

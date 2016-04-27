@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-84087-01" codeInsee="84087" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Vaucluse - accueil d'Orange</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Allée Ambroise-Croizat</Ligne>
+      <CodePostal>84100</CodePostal>
+      <NomCommune>Orange</NomCommune>
+      <Localisation>
+         <Latitude>44.134248</Latitude>
+         <Longitude>4.800974</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Vaucluse</Ligne>
+      <Ligne>6 rue Saint-Charles</Ligne>
+      <CodePostal>84049</CodePostal>
+      <NomCommune>Avignon Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.9449005127</Latitude>
+         <Longitude>4.80357980728</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 84 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous. Borne interactive.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Borne interactive.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Borne interactive.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

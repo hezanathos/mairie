@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-86092-01" codeInsee="86092" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Les Portes du Poitou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de la Promenade</Ligne>
+      <CodePostal>86220</CodePostal>
+      <NomCommune>Dangé-Saint-Romain</NomCommune>
+      <Localisation>
+         <Latitude>46.9124553</Latitude>
+         <Longitude>0.5618771</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 19 72 14</Téléphone>
+      <Télécopie>+33 5 79 61 00 06</Télécopie>
+      <Email>dgf@mable-et-vienne.fr</Email>
+      <Url>http://www.cclesportesdupoitou.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

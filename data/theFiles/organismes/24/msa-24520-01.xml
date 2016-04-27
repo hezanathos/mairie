@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-24520-01" codeInsee="24520" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Dordogne - Lot-et-Garonne - accueil de Sarlat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de la Calprenède</Ligne>
+      <CodePostal>24200</CodePostal>
+      <NomCommune>Sarlat</NomCommune>
+      <Localisation>
+         <Latitude>44.8912501</Latitude>
+         <Longitude>1.2128881</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 67 77 77</Téléphone>
+      <Url>http://www.msa24-47.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le dernier jeudi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

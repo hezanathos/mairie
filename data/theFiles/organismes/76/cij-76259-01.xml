@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-76259-01" codeInsee="76259" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Fécamp</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social du Ramponneau</Ligne>
+      <Ligne>1, rue Traversière</Ligne>
+      <CodePostal>76400</CodePostal>
+      <NomCommune>Fécamp</NomCommune>
+      <Localisation>
+         <Latitude>49.7483225</Latitude>
+         <Longitude>0.3673976</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 10 40 98</Téléphone>
+      <Télécopie>+33 2 35 27 00 53</Télécopie>
+      <Email>pij@ville-fecamp.fr</Email>
+      <Url>http://www.ville-fecamp.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

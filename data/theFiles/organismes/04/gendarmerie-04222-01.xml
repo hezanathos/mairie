@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-04222-01" codeInsee="04222" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Turriers</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Maréchal-Leclerc</Ligne>
+      <CodePostal>04250</CodePostal>
+      <NomCommune>Turriers</NomCommune>
+      <Localisation>
+         <Latitude>44.400578</Latitude>
+         <Longitude>6.167096</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 55 11 01</Téléphone>
+      <Télécopie>+33 4 92 55 14 56</Télécopie>
+      <Email>cob.turriers@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

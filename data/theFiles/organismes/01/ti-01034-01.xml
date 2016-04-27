@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="01034" dateMiseAJour="2014-01-28" id="ti-01034-01" idPresta="4cac9e6a293594648a0017c9" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Belley</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>boulevard du Mail</Ligne>
+        <Ligne>BP 137</Ligne>
+        <CodePostal>01306</CodePostal>
+        <NomCommune>BELLEY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.7602077</Latitude>
+            <Longitude>5.6890103</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 79 81 23 05</Téléphone>
+        <Télécopie>+33 4 79 81 56 59</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

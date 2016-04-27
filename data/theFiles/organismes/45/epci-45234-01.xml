@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-45234-01" codeInsee="45234" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération Orléans Val de Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 place du 6-juin-1944</Ligne>
+      <Ligne>Espace Saint-Marc</Ligne>
+      <Ligne>CS 95801</Ligne>
+      <CodePostal>45058</CodePostal>
+      <NomCommune>Orléans Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>47.902964</Latitude>
+         <Longitude>1.909251</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 78 75 75</Téléphone>
+      <Télécopie>+33 2 38 78 76 00</Télécopie>
+      <Email>contact@agglo-orleans.fr</Email>
+      <Url>http://www.agglo-orleans.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

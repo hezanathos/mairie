@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-73034-01" codeInsee="73034" dateMiseAJour="2015-01-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Beaufort</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Montée La Roche</Ligne>
+      <CodePostal>73270</CodePostal>
+      <NomCommune>Beaufort</NomCommune>
+      <Localisation>
+         <Latitude>45.7203464</Latitude>
+         <Longitude>6.5738983</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 38 34 89</Téléphone>
+      <Télécopie>+33 4 79 38 78 77</Télécopie>
+      <Email>bta.beaufort@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

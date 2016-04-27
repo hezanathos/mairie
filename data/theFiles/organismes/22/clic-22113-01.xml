@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-22113-01" codeInsee="22113" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-173">
+   <Nom>Point d'information local dédié aux personnes âgées - Lannion</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Ouest</Ligne>
+      <Ligne>Trégor</Ligne>
+      <Ligne>1 rue Chappe</Ligne>
+      <CodePostal>22300</CodePostal>
+      <NomCommune>Lannion</NomCommune>
+      <Localisation>
+         <Latitude>48.756185</Latitude>
+         <Longitude>-3.452411</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 46 22 10</Téléphone>
+      <Email>clic-ouest-tregor@wanadoo.fr</Email>
+      <Url>http://www.clictregor.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

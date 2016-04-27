@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-08362-01" codeInsee="08362"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Rethel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Sous-préfecture de Rethel</Ligne>
+      <Ligne>Boulevard de la 4e-Armée</Ligne>
+      <Ligne>Service des associations</Ligne>
+      <CodePostal>08300</CodePostal>
+      <NomCommune>Rethel</NomCommune>
+      <Localisation>
+         <Latitude>49.509532</Latitude>
+         <Longitude>4.364014</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 39 51 70</Téléphone>
+      <Télécopie>+33 3 24 39 51 77</Télécopie>
+      <Email>myriam.cornille@ardennes.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-01419-01" codeInsee="01419" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Thoiry</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>117 rue des Chenaillettes</Ligne>
+      <CodePostal>01710</CodePostal>
+      <NomCommune>Thoiry</NomCommune>
+      <Localisation>
+         <Latitude>46.230735</Latitude>
+         <Longitude>5.985729</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 42 12 01</Téléphone>
+      <Télécopie>+33 4 50 42 26 24</Télécopie>
+      <Email>cob.thoiry@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

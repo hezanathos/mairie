@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-68154-01" codeInsee="68154" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale d'Illzach</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue Victor-Hugo</Ligne>
+      <CodePostal>68110</CodePostal>
+      <NomCommune>Illzach</NomCommune>
+      <Localisation>
+         <Latitude>47.7721508</Latitude>
+         <Longitude>7.3592398</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 57 10 05</Téléphone>
+      <Télécopie>+33 3 89 56 44 06</Télécopie>
+      <Email>reagir.ef@reagir.fr</Email>
+      <Url>http://www.reagir.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

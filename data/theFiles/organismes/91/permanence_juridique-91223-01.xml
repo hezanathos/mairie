@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="91223" dateMiseAJour="2015-11-03" id="permanence_juridique-91223-01" idPresta="4cac9e61293594648a000524" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit d&#39;Etampes</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 rue du Coq</Ligne>
+        <CodePostal>91150</CodePostal>
+        <NomCommune>ETAMPES</NomCommune>
+        <Localisation>
+            <Latitude>48.4316804</Latitude>
+            <Longitude>2.1520043</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 69 92 11 70</Téléphone>
+        <Email>mailto:pad@mairie-etampes.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="08:30:00" fin="19:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

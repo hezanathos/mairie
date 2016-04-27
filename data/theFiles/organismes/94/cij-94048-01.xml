@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-94048-01" codeInsee="94048" dateMiseAJour="2006-06-23" pivotLocal="cij">
+   <Nom>Point information ieunesse de Marolles-en-Brie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des Jeunes</Ligne>
+      <Ligne>7 rue des Orfèvres</Ligne>
+      <CodePostal>94440</CodePostal>
+      <NomCommune>MAROLLES EN BRIE</NomCommune>
+      <Localisation>
+         <Latitude>48.7352981567</Latitude>
+         <Longitude>2.55068993568</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="null">+33 1 45 13 88 68</Téléphone>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

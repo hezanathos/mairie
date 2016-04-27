@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-91272-01" codeInsee="91272" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Gif-sur-Yvette</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16, rue Raoul Dautry</Ligne>
+      <CodePostal>91190</CodePostal>
+      <NomCommune>Gif-sur-Yvette</NomCommune>
+      <Localisation>
+         <Latitude>48.6990793</Latitude>
+         <Longitude>2.1374109</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 07 76 41</Téléphone>
+      <Télécopie>+33 1 60 92 37 80</Télécopie>
+      <Email>cob.gif-sur-yvette@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

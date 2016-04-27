@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-42187-01" codeInsee="42187" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta - Roannais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue de la Résistance</Ligne>
+      <CodePostal>42300</CodePostal>
+      <NomCommune>Roanne</NomCommune>
+      <Localisation>
+         <Latitude>46.0402018</Latitude>
+         <Longitude>4.0654622</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 23 05 05</Téléphone>
+      <Télécopie>+33 4 77 23 26 98</Télécopie>
+      <Email>greta-roannais@ac-lyon.fr</Email>
+      <Url>http://www.ac-lyon.fr/greta/roannais</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

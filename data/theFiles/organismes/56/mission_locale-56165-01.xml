@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-56165-01" codeInsee="56165" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Pays de Ploërmel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue du Val</Ligne>
+      <Ligne>BP 120</Ligne>
+      <CodePostal>56804</CodePostal>
+      <NomCommune>Ploërmel Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.9332008362</Latitude>
+         <Longitude>-2.39925003052</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 73 57 00</Téléphone>
+      <Télécopie>+33 2 97 73 57 09</Télécopie>
+      <Email>ml-ploermel@mlceb.org</Email>
+      <Url>http://www.mlceb.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

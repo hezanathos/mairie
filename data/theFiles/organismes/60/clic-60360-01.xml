@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-60360-01" codeInsee="60360" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-514">
+   <Nom>Point d'information local dédié aux personnes âgées - Liancourt</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>35 rue Élise-Lhôtelier</Ligne>
+      <Ligne>Maison Départementale de la Solidarité de Liancourt</Ligne>
+      <CodePostal>60140</CodePostal>
+      <NomCommune>Liancourt</NomCommune>
+      <Localisation>
+         <Latitude>49.330099</Latitude>
+         <Longitude>2.465925</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 10 78 70</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

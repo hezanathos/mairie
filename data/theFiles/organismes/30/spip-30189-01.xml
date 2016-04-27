@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="30189" dateMiseAJour="2014-12-08" id="spip-30189-01" idPresta="4d2575682935941a92000087" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation du Gard</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>150 rue Louis Landi</Ligne>
+        <Ligne>Immeuble AXIOME - 2è Etage</Ligne>
+        <Ligne>CS 18200</Ligne>
+        <CodePostal>30021</CodePostal>
+        <NomCommune>NIMES CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>43.842852</Latitude>
+            <Longitude>4.347361</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 66 70 63 63</Téléphone>
+        <Télécopie>+33 4 66 70 63 70</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

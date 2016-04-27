@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-93032-01" codeInsee="93032" dateMiseAJour="2015-08-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Gagny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue de la Croix-Saint-Siméon</Ligne>
+      <CodePostal>93220</CodePostal>
+      <NomCommune>Gagny</NomCommune>
+      <Localisation>
+         <Latitude>48.8851203</Latitude>
+         <Longitude>2.5375635</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 43 81 67 62</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Sur rendez-vous uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Le jeudi sur rendez-vous uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

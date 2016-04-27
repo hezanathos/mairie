@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-38314-01" codeInsee="38314" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du centre social René Cassin de Pontcharra</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue Laurent-Gayet</Ligne>
+      <CodePostal>38530</CodePostal>
+      <NomCommune>Pontcharra</NomCommune>
+      <Localisation>
+         <Latitude>45.4320763</Latitude>
+         <Longitude>6.0220225</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 97 79 79</Téléphone>
+      <Télécopie>+33 4 76 97 30 88</Télécopie>
+      <Email>pijcs.pontcharra@wanadoo.fr</Email>
+      <Url>http://www.centresocial-renecassin.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

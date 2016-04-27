@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-27198-01" codeInsee="27198" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Damville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>75 rue du Lieutenant-Morin</Ligne>
+      <Ligne>BP 48</Ligne>
+      <CodePostal>27240</CodePostal>
+      <NomCommune>Damville</NomCommune>
+      <Localisation>
+         <Latitude>48.870057</Latitude>
+         <Longitude>1.073417</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 34 51 33</Téléphone>
+      <Email>t027004@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

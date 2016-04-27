@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-78029-01" codeInsee="78029" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Seine Mauldre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 bis avenue de la Division-Leclerc</Ligne>
+      <Ligne>CS 20516</Ligne>
+      <CodePostal>78410</CodePostal>
+      <NomCommune>Aubergenville</NomCommune>
+      <Localisation>
+         <Latitude>48.9584323</Latitude>
+         <Longitude>1.8558349</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 04 06 00</Téléphone>
+      <Télécopie>+33 1 30 04 06 19</Télécopie>
+      <Email>dgs@seinemauldre.fr</Email>
+      <Url>http://www.seinemauldre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour le service enfance et urbanisme.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

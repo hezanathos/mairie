@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-01427-01" codeInsee="01427" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Trévoux</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>240 rue des Frères Bacheville</Ligne>
+      <CodePostal>01600</CodePostal>
+      <NomCommune>Trévoux</NomCommune>
+      <Localisation>
+         <Latitude>45.9352729</Latitude>
+         <Longitude>4.7848352</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 00 13 99</Téléphone>
+      <Télécopie>+33 4 74 08 73 52</Télécopie>
+      <Email>cob.trevoux@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="2A212" dateMiseAJour="2015-11-03" id="permanence_juridique-2A212-01" idPresta="4cac9e5f293594648a0001fc" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Piana</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>place de la Mairie</Ligne>
+        <CodePostal>20115</CodePostal>
+        <NomCommune>PIANA</NomCommune>
+        <Localisation>
+            <Latitude>42.2380341</Latitude>
+            <Longitude>8.636382</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 95 27 80 28</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-78310-01" codeInsee="78310" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-715">
+   <Nom>Point d'information local dédié aux personnes âgées - Houdan</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Coordination gérontologique de Houdan</Ligne>
+      <Ligne>42 rue de Paris</Ligne>
+      <CodePostal>78550</CodePostal>
+      <NomCommune>Houdan</NomCommune>
+      <Localisation>
+         <Latitude>48.792811</Latitude>
+         <Longitude>1.600648</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 46 18 21</Téléphone>
+      <Email>contact@cglcentre-yvelines.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

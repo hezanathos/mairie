@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-11069-02" codeInsee="11069" dateMiseAJour="2006-04-24" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Carcassonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>avenue Jules Verne</Ligne>
+      <Ligne>Association Culture Plus</Ligne>
+      <CodePostal>11000</CodePostal>
+      <NomCommune>CARCASSONNE</NomCommune>
+      <Localisation>
+         <Latitude>43.2080993652</Latitude>
+         <Longitude>2.33031010628</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 71 58 38</Téléphone>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

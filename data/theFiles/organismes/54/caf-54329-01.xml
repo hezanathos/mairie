@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-54329-01" codeInsee="54329" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Meurthe-et-Moselle - accueil de Lunéville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Service Meurthe</Ligne>
+      <Ligne>46 rue Ernest-Bichat</Ligne>
+      <CodePostal>54300</CodePostal>
+      <NomCommune>Lunéville</NomCommune>
+      <Localisation>
+         <Latitude>48.5850325</Latitude>
+         <Longitude>6.5060645</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>21 rue de Saint-Lambert</Ligne>
+      <Ligne>Caisse d'allocations familiales de Meurthe-et-Moselle</Ligne>
+      <CodePostal>54046</CodePostal>
+      <NomCommune>Nancy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6869010925</Latitude>
+         <Longitude>6.16654014587</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 54 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous.</Commentaire>
+</Organisme>

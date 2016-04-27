@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-62041-01" codeInsee="62041" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté urbaine d'Arras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Boulevard du Général-de-Gaulle</Ligne>
+      <Ligne>La Citadelle</Ligne>
+      <Ligne>BP 10345</Ligne>
+      <CodePostal>62026</CodePostal>
+      <NomCommune>Arras Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.286452</Latitude>
+         <Longitude>2.7612499</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe, ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 21 87 00</Téléphone>
+      <Télécopie>+33 3 21 21 87 87</Télécopie>
+      <Email>communication@cu-arras.fr</Email>
+      <Url>http://www.cu-arras.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

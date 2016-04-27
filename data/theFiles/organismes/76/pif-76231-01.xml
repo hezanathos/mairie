@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-76231-01" codeInsee="76231" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille d'Elbeuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CSC du Puchot</Ligne>
+      <Ligne>5 rue de la Rochelle</Ligne>
+      <Ligne>BP 354</Ligne>
+      <CodePostal>76500</CodePostal>
+      <NomCommune>Elbeuf</NomCommune>
+      <Localisation>
+         <Latitude>49.2930335999</Latitude>
+         <Longitude>1.00027096272</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 77 23 48</Téléphone>
+      <Télécopie>+33 2 35 77 31 44</Télécopie>
+      <Email>cspuchot@wanadoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

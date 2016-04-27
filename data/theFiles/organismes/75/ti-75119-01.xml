@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="75119" dateMiseAJour="2014-01-28" id="ti-75119-01" idPresta="4cac9e62293594648a000690" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Paris 19ème</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Immeuble Le Brabant</Ligne>
+        <Ligne>11 rue Cambrai</Ligne>
+        <CodePostal>75019</CodePostal>
+        <NomCommune>PARIS</NomCommune>
+        <Localisation>
+            <Latitude>48.895903</Latitude>
+            <Longitude>2.381425</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 53 38 80 60</Téléphone>
+        <Télécopie>+33 1 42 45 43 80</Télécopie>
+        <Email>mailto:ti-paris19@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

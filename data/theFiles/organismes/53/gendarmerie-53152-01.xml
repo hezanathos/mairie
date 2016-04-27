@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-53152-01" codeInsee="53152" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Meslay-du-Maine</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>52 rue de Laval</Ligne>
+      <CodePostal>53170</CodePostal>
+      <NomCommune>Meslay-du-Maine</NomCommune>
+      <Localisation>
+         <Latitude>47.952006</Latitude>
+         <Longitude>-0.5569653</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 98 40 10</Téléphone>
+      <Télécopie>+33 2 43 98 12 75</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

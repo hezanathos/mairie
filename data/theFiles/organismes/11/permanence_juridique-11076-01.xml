@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="11076" dateMiseAJour="2015-11-03" id="permanence_juridique-11076-01" idPresta="4ed74aa52935940d4300001f" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Castelnaudary</Nom>
+    <EditeurSource>Comarquage.fr</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de justice</Ligne>
+        <Ligne>Square Victor Hugo</Ligne>
+        <CodePostal>11400</CodePostal>
+        <NomCommune>CASTELNAUDARY</NomCommune>
+        <Localisation>
+            <Latitude>43.317458</Latitude>
+            <Longitude>1.956216</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 68 47 00 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>Deuxième mercredi de 14h à 17h</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

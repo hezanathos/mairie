@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-35251-01" codeInsee="35251" dateMiseAJour="2007-07-05" pivotLocal="pmi">
+   <Nom>Centre départemental d'action sociale de Saint Aubin d'Aubigné - PMI</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de l'étang</Ligne>
+      <CodePostal>35250</CodePostal>
+      <NomCommune>ST AUBIN D AUBIGNE</NomCommune>
+      <Localisation>
+         <Latitude>48.2617988586</Latitude>
+         <Longitude>-1.60271000862</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 55 21 72</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

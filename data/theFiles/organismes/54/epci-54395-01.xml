@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-54395-01" codeInsee="54395" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté urbaine du Grand Nancy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CO 80036</Ligne>
+      <Ligne>22-24 viaduc Kennedy</Ligne>
+      <CodePostal>54035</CodePostal>
+      <NomCommune>Nancy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6864547729</Latitude>
+         <Longitude>6.17484712601</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 91 83 91</Téléphone>
+      <Télécopie>+33 3 83 91 83 96</Télécopie>
+      <Url>http://www.grand-nancy.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

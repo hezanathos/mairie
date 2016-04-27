@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="60159" dateMiseAJour="2014-01-28" id="te-60159-01" idPresta="4cac9ed7293594648a00edd0" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Compiègne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>11 rue Henri de Séroux</Ligne>
+        <Ligne>BP 80059</Ligne>
+        <CodePostal>60321</CodePostal>
+        <NomCommune>COMPIEGNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.417087</Latitude>
+            <Longitude>2.82813</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 44 38 35 35</Téléphone>
+        <Télécopie>+33 3 44 38 35 40</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

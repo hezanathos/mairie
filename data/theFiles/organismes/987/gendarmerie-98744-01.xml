@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-98744-01" codeInsee="98744" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Rurutu</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Île de Rurutu Zone de Moerai Archipel des Australes</Ligne>
+      <CodePostal>98753</CodePostal>
+      <NomCommune>Rurutu</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+689 93 02 05</Téléphone>
+      <Télécopie>+681 93 02 07</Télécopie>
+      <Email>bta.rurutu@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

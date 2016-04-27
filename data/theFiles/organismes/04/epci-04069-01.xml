@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-04069-01" codeInsee="04069" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Teillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 rue Haute</Ligne>
+      <Ligne>BP 29</Ligne>
+      <CodePostal>04120</CodePostal>
+      <NomCommune>Demandolx</NomCommune>
+      <Localisation>
+         <Latitude>43.3047295</Latitude>
+         <Longitude>5.37498210000001</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 83 63 66</Téléphone>
+      <Télécopie>+33 4 92 83 77 06</Télécopie>
+      <Email>com.com.teillon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

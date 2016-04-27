@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-95598-01" codeInsee="95598" dateMiseAJour="2011-07-21" pivotLocal="pif">
+   <Nom>Point Info Famille Centre Social Municipal Les Campanules</Nom>
+   <EditeurSource>Point Info Famille Centre Social Municipal Les Campanules</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 avenue du Général de Gaulle</Ligne>
+      <CodePostal>95230</CodePostal>
+      <NomCommune>SOISY SOUS MONTMORENCY</NomCommune>
+      <Localisation>
+         <Latitude>48.9726988</Latitude>
+         <Longitude>2.3101294</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 15 20 00</Téléphone>
+      <Télécopie>+33 1 34 15 20 01</Télécopie>
+      <Email>marie@soisy-sous-montmorency.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

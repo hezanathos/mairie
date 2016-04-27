@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commission_conciliation-57463-01" codeInsee="57463"
+           dateMiseAJour="2011-07-21"
+           pivotLocal="commission_conciliation">
+   <Nom>Commission départementale de conciliation -  Moselle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Direction départementale de la cohésion sociale</Ligne>
+      <Ligne>27 place Saint-Thiébault</Ligne>
+      <CodePostal>57045</CodePostal>
+      <NomCommune>METZ CEDEX 01</NomCommune>
+      <Localisation>
+         <Latitude>49.119666</Latitude>
+         <Longitude>6.176905</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 75 41 55</Téléphone>
+      <Email>ddcs@moselle.gouv.fr</Email>
+      <Url>http://www.moselle.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

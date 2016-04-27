@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06023-01" codeInsee="06023" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Breil-sur-Roya</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>53 rue du Commandant-Hardy</Ligne>
+      <CodePostal>06540</CodePostal>
+      <NomCommune>Breil-sur-Roya</NomCommune>
+      <Localisation>
+         <Latitude>43.9471079</Latitude>
+         <Longitude>7.5158269</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 04 40 24</Téléphone>
+      <Télécopie>+33 4 93 04 41 75</Télécopie>
+      <Email>cob.breil-sur-roya@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-67437-01" codeInsee="67437" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saverne</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Moll 29A, rue Saint-Nicolas</Ligne>
+      <CodePostal>67700</CodePostal>
+      <NomCommune>Saverne</NomCommune>
+      <Localisation>
+         <Latitude>48.7345225</Latitude>
+         <Longitude>7.3714686</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 91 19 12</Téléphone>
+      <Télécopie>+33 3 88 02 80 95</Télécopie>
+      <Email>cob.saverne@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

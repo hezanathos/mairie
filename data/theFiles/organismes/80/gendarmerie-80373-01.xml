@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-80373-01" codeInsee="80373" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Gamaches</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Antonin Gombert</Ligne>
+      <CodePostal>80220</CodePostal>
+      <NomCommune>Gamaches</NomCommune>
+      <Localisation>
+         <Latitude>49.9945719</Latitude>
+         <Longitude>1.5424511</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 61 64 17</Téléphone>
+      <Télécopie>+33 3 22 61 64 19</Télécopie>
+      <Email>cob.friville-escarbotin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

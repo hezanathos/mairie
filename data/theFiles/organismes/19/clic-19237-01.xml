@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-19237-01" codeInsee="19237" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-145">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Privat</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Instance de Coordination de l'Autonomie du canton de SAINT-PRIVAT</Ligne>
+      <Ligne>11 rue de Bellevue</Ligne>
+      <CodePostal>19220</CodePostal>
+      <NomCommune>Saint-Privat</NomCommune>
+      <Localisation>
+         <Latitude>45.138235</Latitude>
+         <Longitude>2.091339</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 28 16 51</Téléphone>
+      <Email>icgsaintprivat@aol.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-71120-01" codeInsee="71120" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Chauffailles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Elie-Maurette</Ligne>
+      <CodePostal>71170</CodePostal>
+      <NomCommune>Chauffailles</NomCommune>
+      <Localisation>
+         <Latitude>46.2068543</Latitude>
+         <Longitude>4.3394494</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 26 52 20</Téléphone>
+      <Télécopie>+33 3 85 26 52 21</Télécopie>
+      <Email>cc@sudbrionnais.fr</Email>
+      <Url>http://www.cc-canton-chauffailles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

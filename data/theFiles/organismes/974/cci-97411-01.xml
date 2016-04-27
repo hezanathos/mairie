@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cci-97411-01" codeInsee="97411" dateMiseAJour="2015-08-12" pivotLocal="cci">
+   <Nom>Chambre de commerce et d'industrie (CCI) - Réunion</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 bis rue de Paris</Ligne>
+      <Ligne>BP 120</Ligne>
+      <CodePostal>97463</CodePostal>
+      <NomCommune>Saint-Denis Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-20.8857724</Latitude>
+         <Longitude>55.457993</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro vert : appel et service gratuits depuis un fixe ou un mobile.">0800 02 62 00</Téléphone>
+      <Télécopie>+262 262 94 22 90</Télécopie>
+      <Email>http://www.reunion.cci.fr/index.php?id=617</Email>
+      <Url>http://www.reunion.cci.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

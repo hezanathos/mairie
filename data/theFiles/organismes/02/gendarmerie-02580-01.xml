@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02580-01" codeInsee="02580" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Oulchy-le-Château</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 route de Soissons</Ligne>
+      <CodePostal>02210</CodePostal>
+      <NomCommune>Oulchy-le-Château</NomCommune>
+      <Localisation>
+         <Latitude>49.2108597</Latitude>
+         <Longitude>3.3698253</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 55 48 17</Téléphone>
+      <Télécopie>+33 3 23 55 48 19</Télécopie>
+      <Email>cob.soissons@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-45028-01" codeInsee="45028" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-351">
+   <Nom>Point d'information local dédié aux personnes âgées - Beaugency</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>73 Grande rue d'Orléans</Ligne>
+      <Ligne>Centre local d'information et de coordination Relais Entour'Âge</Ligne>
+      <CodePostal>45190</CodePostal>
+      <NomCommune>Beaugency</NomCommune>
+      <Localisation>
+         <Latitude>47.788772</Latitude>
+         <Longitude>1.642173</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 44 90 20</Téléphone>
+      <Email>relais.entourage@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="maia-75115-01" codeInsee="75115" dateMiseAJour="2014-01-20"
+           pivotLocal="maia">
+   <Nom>Mission d'accueil et d'information des associations (Maia) - Paris</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Leblanc</Ligne>
+      <Ligne>Direction départementale de la cohésion sociale</Ligne>
+      <CodePostal>75911</CodePostal>
+      <NomCommune>Paris Cedex 15</NomCommune>
+      <Localisation>
+         <Latitude>48.8399558</Latitude>
+         <Longitude>2.2722899</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 82 52 40 00</Téléphone>
+      <Télécopie>+33 1 82 52 47 35</Télécopie>
+      <Email>marie.boutaud@paris-idf.gouv.fr</Email>
+      <Url>http://www.associations.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-79101-01" codeInsee="79101" dateMiseAJour="2015-10-20"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Coulonges-sur-l'Autize</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue du Marché-Neuf</Ligne>
+      <CodePostal>79160</CodePostal>
+      <NomCommune>Coulonges-sur-l'Autize</NomCommune>
+      <Localisation>
+         <Latitude>46.4823456</Latitude>
+         <Longitude>-0.5976562</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 06 10 17</Téléphone>
+      <Télécopie>+33 5 49 06 01 25</Télécopie>
+      <Email>t079016@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

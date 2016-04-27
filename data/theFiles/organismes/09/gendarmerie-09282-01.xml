@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-09282-01" codeInsee="09282" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saverdun</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Gendarme Saint-Martin</Ligne>
+      <Ligne>1076 route d'Espagne</Ligne>
+      <CodePostal>09700</CodePostal>
+      <NomCommune>Saverdun</NomCommune>
+      <Localisation>
+         <Latitude>49.6044822</Latitude>
+         <Longitude>4.9572869</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 60 30 17</Téléphone>
+      <Télécopie>+33 5 61 60 39 48</Télécopie>
+      <Email>bta.saverdun@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

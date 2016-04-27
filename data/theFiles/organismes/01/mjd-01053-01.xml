@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="01053" dateMiseAJour="2007-04-02" id="mjd-01053-01" idPresta="51b08cb8b473e41478000b45" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Bourg en Bresse</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>34 cours de Verdun</Ligne>
+        <CodePostal>01000</CodePostal>
+        <NomCommune>BOURG EN BRESSE</NomCommune>
+        <Localisation>
+            <Latitude>46.2064358</Latitude>
+            <Longitude>5.2272134</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 74 14 01 40</Téléphone>
+        <Télécopie>+33 4 74 14 01 48</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

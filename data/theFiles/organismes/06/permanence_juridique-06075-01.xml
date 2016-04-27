@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06075" dateMiseAJour="2015-11-03" id="permanence_juridique-06075-01" idPresta="4cac9e70293594648a00219e" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Levens</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison du Département</Ligne>
+        <Ligne>368 route de la Porte des Alpes</Ligne>
+        <Ligne>Plan-du-Var</Ligne>
+        <CodePostal>06670</CodePostal>
+        <NomCommune>LEVENS</NomCommune>
+        <Localisation>
+            <Latitude>43.8556461</Latitude>
+            <Longitude>7.1971399</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 97 10 24 90</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-38034-01" codeInsee="38034" dateMiseAJour="2014-01-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Beaurepaire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Jeu-de-Paume</Ligne>
+      <Ligne>Maison des habitants</Ligne>
+      <CodePostal>38270</CodePostal>
+      <NomCommune>Beaurepaire</NomCommune>
+      <Localisation>
+         <Latitude>45.339295</Latitude>
+         <Longitude>5.056763</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 79 51 84</Téléphone>
+      <Email>pij@centreilebattoir.net</Email>
+      <Url>http://www.centreilebattoir.net</Url>
+   </CoordonnéesNum>
+</Organisme>

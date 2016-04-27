@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-31080-01" codeInsee="31080" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Boulonnais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Boulevard Jésus-Mujica</Ligne>
+      <CodePostal>31350</CodePostal>
+      <NomCommune>Boulogne-sur-Gesse</NomCommune>
+      <Localisation>
+         <Latitude>43.290551</Latitude>
+         <Longitude>0.645481</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 94 74 40</Téléphone>
+      <Télécopie>+33 5 61 94 74 44</Télécopie>
+      <Email>accueil@cc-boulonnais.fr</Email>
+      <Url>http://www.cc-boulonnais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

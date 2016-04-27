@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-13108-01" codeInsee="13108" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Tarascon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Pôle social</Ligne>
+      <Ligne>Avenue Pierre-Sémard</Ligne>
+      <CodePostal>13150</CodePostal>
+      <NomCommune>Tarascon</NomCommune>
+      <Localisation>
+         <Latitude>43.801977</Latitude>
+         <Longitude>4.658481</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 91 02 96</Téléphone>
+      <Télécopie>+33 4 90 43 52 20</Télécopie>
+      <Email>ass.teef@wanadoo.fr</Email>
+      <Url>http://www.crijpa.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

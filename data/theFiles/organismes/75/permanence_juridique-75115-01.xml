@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="75115" dateMiseAJour="2015-11-03" id="permanence_juridique-75115-01" idPresta="4cac9e60293594648a000470" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit des Jeunes – Paris CIDJ</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>101 quai Branly</Ligne>
+        <CodePostal>75015</CodePostal>
+        <NomCommune>PARIS</NomCommune>
+        <Localisation>
+            <Latitude>48.854876</Latitude>
+            <Longitude>2.2892094</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 44 49 12 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

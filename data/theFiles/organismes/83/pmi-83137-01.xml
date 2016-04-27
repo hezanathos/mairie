@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-83137-01" codeInsee="83137" dateMiseAJour="2012-10-22" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile de Toulon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Traverse les Minimes</Ligne>
+      <Ligne>ZAC Mayol</Ligne>
+      <Ligne>Unité territoriale sociale</Ligne>
+      <CodePostal>83000</CodePostal>
+      <NomCommune>Toulon</NomCommune>
+      <Localisation>
+         <Latitude>43.120098114</Latitude>
+         <Longitude>5.93576002121</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 98 00 47 50</Téléphone>
+      <Télécopie>+33 4 98 00 47 59</Télécopie>
+      <Url>http://www.var.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

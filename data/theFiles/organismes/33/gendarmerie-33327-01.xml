@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33327-01" codeInsee="33327" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Podensac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 cours du Maréchal-Foch</Ligne>
+      <CodePostal>33720</CodePostal>
+      <NomCommune>Podensac</NomCommune>
+      <Localisation>
+         <Latitude>44.650754</Latitude>
+         <Longitude>-0.354514</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 98 10 40</Téléphone>
+      <Télécopie>+33 5 57 98 10 48</Télécopie>
+      <Email>bp.podensac@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

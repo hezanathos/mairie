@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-59606-01" codeInsee="59606" dateMiseAJour="2015-05-20"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération Valenciennes Métropole</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>84 rue du Faubourg-de-Paris</Ligne>
+      <Ligne>BP 60227</Ligne>
+      <CodePostal>59305</CodePostal>
+      <NomCommune>Valenciennes</NomCommune>
+      <Localisation>
+         <Latitude>50.3616705876</Latitude>
+         <Longitude>3.50772857666</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 09 60 96</Téléphone>
+      <Télécopie>+33 3 27 09 60 97</Télécopie>
+      <Email>communication@valenciennes-metropole.fr</Email>
+      <Url>http://www.valenciennes-metropole.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

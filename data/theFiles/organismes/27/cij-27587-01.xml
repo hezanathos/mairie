@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-27587-01" codeInsee="27587" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Montfort-sur-Risle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Saint-Pierre</Ligne>
+      <Ligne>Espace jeunesse Val-de-Risle</Ligne>
+      <CodePostal>27290</CodePostal>
+      <NomCommune>Montfort-sur-Risle</NomCommune>
+      <Localisation>
+         <Latitude>49.2948989868</Latitude>
+         <Longitude>0.649124026299</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 41 39 53</Téléphone>
+      <Télécopie>+33 2 32 41 50 45</Télécopie>
+      <Email>pij@mjcvalderisle.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="11:30:00" fin="13:30:00"/>
+         <PlageH début="17:00:00" fin="19:00:00"/>
+         <Note>Accueil ouvert de 9h30 à 12h30 du lundi au vendredi pendant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

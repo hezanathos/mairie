@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-16292-01" codeInsee="16292" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Ruffec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 passage du Chêne-Vert</Ligne>
+      <CodePostal>16700</CodePostal>
+      <NomCommune>Ruffec</NomCommune>
+      <Localisation>
+         <Latitude>46.0294</Latitude>
+         <Longitude>0.199943</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 29 55 10</Téléphone>
+      <Télécopie>+33 5 45 29 05 47</Télécopie>
+      <Email>site-ruffec@mlarccharente.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

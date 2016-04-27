@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-81266-01" codeInsee="81266" dateMiseAJour="2015-05-11"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Saint-Cap-de-Joux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 place du Foirail</Ligne>
+      <Ligne>BP 1</Ligne>
+      <CodePostal>81220</CodePostal>
+      <NomCommune>Saint-Paul-Cap-de-Joux</NomCommune>
+      <Localisation>
+         <Latitude>43.6467619</Latitude>
+         <Longitude>1.9738071</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 70 60 30</Téléphone>
+      <Télécopie>+33 5 63 70 59 87</Télécopie>
+      <Email>t081033@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

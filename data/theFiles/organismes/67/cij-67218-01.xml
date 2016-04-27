@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-67218-01" codeInsee="67218" dateMiseAJour="2009-08-06" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Illkirch-Graffenstaden</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>146 d route de Lyon</Ligne>
+      <CodePostal>67400</CodePostal>
+      <NomCommune>ILLKIRCH GRAFFENSTADEN</NomCommune>
+      <Localisation>
+         <Latitude>48.5319887</Latitude>
+         <Longitude>7.7168431</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 66 38 10</Téléphone>
+      <Télécopie>+33 3 88 67 83 68</Télécopie>
+      <Email>sspill@relaisemploi-strasbourg.org</Email>
+      <Url>http://www.cija.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

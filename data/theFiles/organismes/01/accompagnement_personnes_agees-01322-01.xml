@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-01322-01" codeInsee="01322"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-854">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Reyrieux</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Collège</Ligne>
+      <Ligne>Aux Lucioles</Ligne>
+      <Ligne>Accueil de jour</Ligne>
+      <CodePostal>01600</CodePostal>
+      <NomCommune>Reyrieux</NomCommune>
+      <Localisation>
+         <Latitude>45.930657</Latitude>
+         <Longitude>4.814821</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 00 85 01</Téléphone>
+      <Email>auxlucioles@orange.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-83062-01" codeInsee="83062" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-735">
+   <Nom>Point d'information local dédié aux personnes âgées - La Garde</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Coudon</Ligne>
+      <Ligne>81 rue Marius-Tardivier</Ligne>
+      <CodePostal>83130</CodePostal>
+      <NomCommune>La Garde</NomCommune>
+      <Localisation>
+         <Latitude>43.123058</Latitude>
+         <Longitude>6.010658</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 8 25 30 14 14</Téléphone>
+      <Email>clicducoudon@neuf.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

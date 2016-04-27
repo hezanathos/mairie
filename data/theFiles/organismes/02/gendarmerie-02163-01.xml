@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02163-01" codeInsee="02163" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Charly-sur-Marne</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>70 avenue Fernand-Drouet</Ligne>
+      <CodePostal>02310</CodePostal>
+      <NomCommune>Charly-sur-Marne</NomCommune>
+      <Localisation>
+         <Latitude>48.9769581</Latitude>
+         <Longitude>3.2913542</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 70 78 17</Téléphone>
+      <Télécopie>+33 3 23 70 78 19</Télécopie>
+      <Email>bta.charly-sur-marne@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

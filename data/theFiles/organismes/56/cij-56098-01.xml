@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-56098-01" codeInsee="56098" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Lanester</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Louis-Pergaud</Ligne>
+      <Ligne>Maison de quartier l'Eskale</Ligne>
+      <CodePostal>56600</CodePostal>
+      <NomCommune>Lanester</NomCommune>
+      <Localisation>
+         <Latitude>47.7678462</Latitude>
+         <Longitude>-3.342791199999965</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 76 30 29</Téléphone>
+      <Email>pij@ville-lanester.fr</Email>
+      <Url>http://www.crij-bretagne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="18:00:00"/>
+         <Note>Accueil ouvert pendant les vacances scolaires de 10h à 12h et de 13h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

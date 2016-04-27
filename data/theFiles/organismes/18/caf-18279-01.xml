@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-18279-01" codeInsee="18279" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Cher - accueil de Vierzon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place du Tunnel-Château</Ligne>
+      <CodePostal>18100</CodePostal>
+      <NomCommune>Vierzon</NomCommune>
+      <Localisation>
+         <Latitude>47.221438</Latitude>
+         <Longitude>2.069791</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>TSA 22203</Ligne>
+      <Ligne>Caisse d'allocations familiales du Cher</Ligne>
+      <Ligne>21 boulevard de la République</Ligne>
+      <CodePostal>18931</CodePostal>
+      <NomCommune>Bourges Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 18 10</Téléphone>
+      <Télécopie>+33 2 48 71 86 56</Télécopie>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au jeudi de 8h30 à 16h30 et le vendredi de 8h30 à 16h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

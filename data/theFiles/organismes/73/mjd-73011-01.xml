@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="73011" dateMiseAJour="2014-05-01" id="mjd-73011-01" idPresta="51b08cc8b473e41478000ed1" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  d&#39;Albertville (La Tarentaise)</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 avenue Victor Hugo</Ligne>
+        <CodePostal>73200</CodePostal>
+        <NomCommune>ALBERTVILLE</NomCommune>
+        <Localisation>
+            <Latitude>45.674581</Latitude>
+            <Longitude>6.387513</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 79 89 22 00</Téléphone>
+        <Télécopie>+33 4 79 31 81 36</Télécopie>
+        <Email>mailto:mjd-albertville@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

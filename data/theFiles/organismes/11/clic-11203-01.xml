@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-11203-01" codeInsee="11203" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-75">
+   <Nom>Point d'information local dédié aux personnes âgées - Lézignan-Corbières</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination des Corbières Minervois</Ligne>
+      <Ligne>Rue Augustin-Richou</Ligne>
+      <CodePostal>11200</CodePostal>
+      <NomCommune>Lézignan-Corbières</NomCommune>
+      <Localisation>
+         <Latitude>43.200318</Latitude>
+         <Longitude>2.758159</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 27 89 80</Téléphone>
+      <Url>clic-corbieres@aude.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

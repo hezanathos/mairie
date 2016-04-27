@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38548-01" codeInsee="38548" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Villard-de-Lans</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>162 rue de La Chapelle-en-Vercors</Ligne>
+      <CodePostal>38250</CodePostal>
+      <NomCommune>Villard-de-Lans</NomCommune>
+      <Localisation>
+         <Latitude>45.0709866</Latitude>
+         <Longitude>5.5506323</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 95 11 23</Téléphone>
+      <Télécopie>+33 4 76 95 51 64</Télécopie>
+      <Email>bta.villard-de-lans@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-89025-01" codeInsee="89025" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Avallon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>55, Grande rue</Ligne>
+      <Ligne>Mission locale du Tonnerrois Avallonnais</Ligne>
+      <CodePostal>89200</CodePostal>
+      <NomCommune>Avallon</NomCommune>
+      <Localisation>
+         <Latitude>48.35533</Latitude>
+         <Longitude>5.6814914</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 34 47 40</Téléphone>
+      <Télécopie>+33 3 86 31 68 92</Télécopie>
+      <Email>pij_avallon@ijbourgogne.com</Email>
+      <Url>http://www.ijbourgogne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

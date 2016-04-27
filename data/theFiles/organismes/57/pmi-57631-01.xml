@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-57631-01" codeInsee="57631" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Sarreguemines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison du département</Ligne>
+      <Ligne>BP 80001</Ligne>
+      <Ligne>51 rue du Bac</Ligne>
+      <CodePostal>57211</CodePostal>
+      <NomCommune>Sarreguemines Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.1117302</Latitude>
+         <Longitude>7.06261399999994</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 35 03 32</Téléphone>
+      <Télécopie>+33 3 87 35 03 39</Télécopie>
+      <Url>http://www.cg57.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

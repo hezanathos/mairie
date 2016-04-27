@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-91044-01" codeInsee="91044" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-816">
+   <Nom>Point d'information local dédié aux personnes âgées - Ballainvilliers</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Orgyvette</Ligne>
+      <Ligne>77 rue du Perray</Ligne>
+      <CodePostal>91160</CodePostal>
+      <NomCommune>Ballainvilliers</NomCommune>
+      <Localisation>
+         <Latitude>48.659125</Latitude>
+         <Longitude>2.283815</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 80 46 92</Téléphone>
+      <Email>clic.orgyvette@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:45:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

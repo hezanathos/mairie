@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-06088-02" codeInsee="06088" dateMiseAJour="2015-04-29"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat de police de Nice</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37-39 rue de Roquebilière</Ligne>
+      <CodePostal>06000</CodePostal>
+      <NomCommune>Nice</NomCommune>
+      <Localisation>
+         <Latitude>43.7108339</Latitude>
+         <Longitude>7.2881022</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 97 25 98 00</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

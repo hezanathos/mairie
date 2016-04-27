@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="94076" dateMiseAJour="2011-06-17" id="mjd-94076-01" idPresta="51b08cb9b473e41478000b9a" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Val de Bièvre</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>65 rue Jean-Jaurès</Ligne>
+        <CodePostal>94800</CodePostal>
+        <NomCommune>VILLEJUIF</NomCommune>
+        <Localisation>
+            <Latitude>48.793459</Latitude>
+            <Longitude>2.366477</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 43 90 25 25</Téléphone>
+        <Email>mailto:mjd.villejuif@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

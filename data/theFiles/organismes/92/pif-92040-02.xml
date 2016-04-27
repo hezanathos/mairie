@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-92040-02" codeInsee="92040" dateMiseAJour="2015-11-10" pivotLocal="pif">
+   <Nom>Point info famille d'Issy-les-Moulineaux - Espace Andrée Chedid - Pôle Aide et soutien aux familles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>60 rue du Général-Leclerc</Ligne>
+      <CodePostal>92130</CodePostal>
+      <NomCommune>Issy-les-Moulineaux</NomCommune>
+      <Localisation>
+         <Latitude>48.824529</Latitude>
+         <Longitude>2.2743295</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 41 23 82 82</Téléphone>
+      <Email>espace-andree-chedid@ville-issy.fr</Email>
+      <Url>http://www.issy.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

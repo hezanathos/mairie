@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-67482-04" codeInsee="67482" dateMiseAJour="2016-01-21"
+           pivotLocal="tresorerie">
+   <Nom>Paierie départementale - Bas-Rhin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Quartier-Blanc</Ligne>
+      <CodePostal>67964</CodePostal>
+      <NomCommune>Strasbourg Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.5792649</Latitude>
+         <Longitude>7.7393081</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 76 67 67</Téléphone>
+      <Email>t067090@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-14409-01" codeInsee="14409" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Campagne et Baie de l'Orne (Cabalor)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Cabourg</Ligne>
+      <Ligne>Villa Carolus</Ligne>
+      <CodePostal>14810</CodePostal>
+      <NomCommune>Merville-Franceville-Plage</NomCommune>
+      <Localisation>
+         <Latitude>49.2729355</Latitude>
+         <Longitude>-0.1980459</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 24 38 28</Téléphone>
+      <Télécopie>+33 2 31 24 38 30</Télécopie>
+      <Email>accueil@cabalor.fr</Email>
+      <Url>http://www.cabalor.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

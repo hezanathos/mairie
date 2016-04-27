@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98613" dateMiseAJour="2014-01-28" id="maison_arret-98613-01" idPresta="4eb263082935944ef50000f4" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Mata-Utu</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Gendarmerie de Mata-Utu</Ligne>
+        <Ligne>BP 8</Ligne>
+        <Ligne>MATA-UTU WALLIS ET FUTUNA</Ligne>
+        <CodePostal>98600</CodePostal>
+        <NomCommune>UVEA</NomCommune>
+        <Localisation>
+            <Latitude>-13.3</Latitude>
+            <Longitude>-176.2</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 81 72 09 00</Téléphone>
+        <Télécopie>+33 6 81 72 09 07</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

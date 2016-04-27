@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-51649-01" codeInsee="51649" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Vitry-le-François</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de l'Arquebuse</Ligne>
+      <CodePostal>51300</CodePostal>
+      <NomCommune>Vitry-le-François</NomCommune>
+      <Localisation>
+         <Latitude>48.7244612</Latitude>
+         <Longitude>4.5851964</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 74 00 23</Téléphone>
+      <Télécopie>+33 3 26 74 87 64</Télécopie>
+      <Email>bta.vitry-le-francois@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

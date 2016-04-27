@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-13002-01" codeInsee="13002" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Bureau de police d'Allauch</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>112 avenue Salvador-Allende</Ligne>
+      <Ligne>Le Logis-Neuf</Ligne>
+      <CodePostal>13190</CodePostal>
+      <NomCommune>Allauch</NomCommune>
+      <Localisation>
+         <Latitude>43.3561811</Latitude>
+         <Longitude>5.4854956</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 84 35 36 10</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

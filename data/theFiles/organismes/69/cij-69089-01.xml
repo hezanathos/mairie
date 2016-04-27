@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-69089-01" codeInsee="69089" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Francheville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de la Poste</Ligne>
+      <CodePostal>69340</CodePostal>
+      <NomCommune>Francheville</NomCommune>
+      <Localisation>
+         <Latitude>45.7382011414</Latitude>
+         <Longitude>4.77437019348</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 59 05 04</Téléphone>
+      <Télécopie>+33 4 78 59 91 02</Télécopie>
+      <Email>bureauinfosjeunesse@mairie-francheville69.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

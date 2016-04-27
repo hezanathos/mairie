@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="anah-86194-01" codeInsee="86194" dateMiseAJour="2016-03-10"
+           pivotLocal="anah">
+   <Nom>Agence nationale de l'habitat (Anah) - Vienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Direction départementale des territoires de la Vienne</Ligne>
+      <Ligne>BP 80523</Ligne>
+      <Ligne>20 rue de la Providence</Ligne>
+      <CodePostal>86020</CodePostal>
+      <NomCommune>Poitiers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.5625938</Latitude>
+         <Longitude>0.3688109</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 03 13 00</Téléphone>
+      <Télécopie>+33 5 49 03 13 12</Télécopie>
+      <Email>ddt-shlc-ph@vienne.gouv.fr</Email>
+      <Url>http://www.anah.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-57757-01" codeInsee="57757" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Yutz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre médico-social</Ligne>
+      <Ligne>107 avenue de la Nation</Ligne>
+      <CodePostal>57970</CodePostal>
+      <NomCommune>Yutz</NomCommune>
+      <Localisation>
+         <Latitude>49.3611984253</Latitude>
+         <Longitude>6.195499897</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 51 99 22</Téléphone>
+      <Télécopie>+33 3 82 50 02 36</Télécopie>
+      <Url>http://www.cg57.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

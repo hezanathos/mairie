@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-14514-01" codeInsee="14514" dateMiseAJour="2015-06-17"
+           pivotLocal="clic"
+           idPresta="CLIC-1089">
+   <Nom>Point d'information local dédié aux personnes âgées - Pont-l'Evèque</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Clic du Pays d'Auge Nord</Ligne>
+      <Ligne>14 rue de la Chaussée Nival</Ligne>
+      <CodePostal>14130</CodePostal>
+      <NomCommune>Pont-l'Evèque</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 65 38 71</Téléphone>
+      <Email>clicpaysdaugenord@calvados.fr</Email>
+      <Url>http://www.calvados.fr/cms/accueil-calvados/actions-departement/assurer-la-solidarite/personnes-agees/clic-au-service-des-personnes-agees-et-de-leur-famille</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76540" dateMiseAJour="2012-07-31" id="cour_appel-76540-01" idPresta="4cac9e5f293594648a0001db" pivotLocal="cour_appel">
+    <Nom>Cour d&#39;appel de Rouen</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>36 rue aux Juifs</Ligne>
+        <CodePostal>76037</CodePostal>
+        <NomCommune>ROUEN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.4419111</Latitude>
+            <Longitude>1.0928369</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 35 52 87 52</Téléphone>
+        <Télécopie>+33 2 35 52 87 53</Télécopie>
+        <Url>http://www.ca-rouen.justice.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-07010-01" codeInsee="07010" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Annonay</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>64 avenue de l'Europe</Ligne>
+      <CodePostal>07100</CodePostal>
+      <NomCommune>Annonay</NomCommune>
+      <Localisation>
+         <Latitude>45.2458389</Latitude>
+         <Longitude>4.6681035</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 33 50 42</Téléphone>
+      <Télécopie>+33 4 75 33 89 83</Télécopie>
+      <Email>cob.annonay@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

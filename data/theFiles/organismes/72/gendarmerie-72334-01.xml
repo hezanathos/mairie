@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72334-01" codeInsee="72334" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Sillé-le-Guillaume</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>85, rue du Général-de-Gaulle</Ligne>
+      <CodePostal>72140</CodePostal>
+      <NomCommune>Sillé-le-Guillaume</NomCommune>
+      <Localisation>
+         <Latitude>48.1917675</Latitude>
+         <Longitude>-0.1291911</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 20 10 33</Téléphone>
+      <Email>cob.la-chapelle-st-aubin@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

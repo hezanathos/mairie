@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-91573-01" codeInsee="91573" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Syndicat d'agglomération nouvelle de Sénart en Essonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de la Mare-à-Tissier</Ligne>
+      <CodePostal>91280</CodePostal>
+      <NomCommune>Saint-Pierre-du-Perray</NomCommune>
+      <Localisation>
+         <Latitude>48.6287276</Latitude>
+         <Longitude>2.5153153</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 89 88 00</Téléphone>
+      <Télécopie>+33 1 69 89 09 06</Télécopie>
+      <Email>san@senart-essonne.com</Email>
+      <Url>http://www.senart-essonne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

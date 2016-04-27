@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-69383-01" codeInsee="69383" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Prosport 69</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de la Libération</Ligne>
+      <CodePostal>69740</CodePostal>
+      <NomCommune>Genas</NomCommune>
+      <Localisation>
+         <Latitude>45.7322802</Latitude>
+         <Longitude>4.9955581</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 95 35 48</Téléphone>
+      <Télécopie>+33 4 78 60 92 44</Télécopie>
+      <Email>crib69@prosport69.com</Email>
+      <Url>http://www.prosport69.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

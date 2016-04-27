@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-91027-01" codeInsee="91027" dateMiseAJour="2006-06-14" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Athis-Mons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>48 avenue François MItterand</Ligne>
+      <CodePostal>91205</CodePostal>
+      <NomCommune>ATHIS MONS CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>48.7015991211</Latitude>
+         <Longitude>2.37196993828</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 38 44 48</Téléphone>
+      <Url>http://www.cidj.com/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

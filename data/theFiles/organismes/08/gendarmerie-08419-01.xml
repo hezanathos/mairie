@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-08419-01" codeInsee="08419" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Signy-l'Abbaye</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du 407e-RI</Ligne>
+      <CodePostal>08460</CodePostal>
+      <NomCommune>Signy-l'Abbaye</NomCommune>
+      <Localisation>
+         <Latitude>49.4624904</Latitude>
+         <Longitude>4.1087157</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 52 81 07</Téléphone>
+      <Télécopie>+33 3 24 52 08 14</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

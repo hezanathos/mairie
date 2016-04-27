@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-51649-01" codeInsee="51649" dateMiseAJour="2015-12-07"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Vitry-le-François - Mendès-France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue Marabais</Ligne>
+      <CodePostal>51308</CodePostal>
+      <NomCommune>Vitry-le-François Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7266385</Latitude>
+         <Longitude>4.582244</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="3949 pour les demandeurs d'emploi. 3995 pour les employeurs (services gratuits + prix d'un appel).">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accès libre du lundi au vendredi de 8h30 à 12h30</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Sur rendez-vous uniquement de 12h30 à 16h15 (sauf le jeudi).</Commentaire>
+</Organisme>

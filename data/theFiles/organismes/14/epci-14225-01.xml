@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-14225-01" codeInsee="14225" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de l'Estuaire de la Dives</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des entreprises</Ligne>
+      <Ligne>ZAC de la Vignarie</Ligne>
+      <Ligne>BP 10056</Ligne>
+      <CodePostal>14165</CodePostal>
+      <NomCommune>Dives-sur-Mer Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.284603673</Latitude>
+         <Longitude>-0.0920104980469</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 28 39 97</Téléphone>
+      <Télécopie>+33 2 31 28 50 25</Télécopie>
+      <Email>accueil@cced.fr</Email>
+      <Url>http://www.cc-estuairedeladives.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-34145-01" codeInsee="34145" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de l'Hérault - accueil de Lunel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>2 rue Henri-Reynaud</Ligne>
+      <CodePostal>34400</CodePostal>
+      <NomCommune>Lunel</NomCommune>
+      <Localisation>
+         <Latitude>43.6771888</Latitude>
+         <Longitude>4.1308015</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>29 cours Gambetta</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de l'Hérault</Ligne>
+      <CodePostal>34967</CodePostal>
+      <NomCommune>Montpellier Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>43.6068579</Latitude>
+         <Longitude>3.8706853</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Pour l'espace libre service. Uniquement sur rendez-vous l'après-midi.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="13:30:00"/>
+         <Note>Pour l'espace libre-service et accueil ouvert uniquement sur rendez-vous l'après-midi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-37261-01" codeInsee="37261" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Fédération des œuvres laïques de l'Indre-et-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 avenue de la République</Ligne>
+      <CodePostal>37300</CodePostal>
+      <NomCommune>Joué-lès-Tours</NomCommune>
+      <Localisation>
+         <Latitude>47.3563487</Latitude>
+         <Longitude>0.6655024</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 05 44 28</Téléphone>
+      <Télécopie>+33 2 47 66 51 16</Télécopie>
+      <Email>fol37@fol37.org</Email>
+      <Url>http://www.fol37.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

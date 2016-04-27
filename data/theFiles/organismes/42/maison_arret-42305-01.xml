@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="42305" dateMiseAJour="2014-01-28" id="maison_arret-42305-01" idPresta="4eb2632e2935944ef5000174" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Saint-Etienne-la-Talaudière</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue de la Sauvagère</Ligne>
+        <Ligne>BP 540</Ligne>
+        <CodePostal>42355</CodePostal>
+        <NomCommune>LA TALAUDIERE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.47159</Latitude>
+            <Longitude>4.420149</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 77 47 69 80</Téléphone>
+        <Télécopie>+33 4 77 38 67 14</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

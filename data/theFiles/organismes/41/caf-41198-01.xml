@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-41198-01" codeInsee="41198" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Loir-et-Cher - accueil de Saint-Aignan-sur-Cher</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Maison de l'emploi</Ligne>
+      <Ligne>3 rue Victor-Hugo</Ligne>
+      <Ligne>Relais de services publics</Ligne>
+      <CodePostal>41110</CodePostal>
+      <NomCommune>Saint-Aignan-sur-Cher</NomCommune>
+      <Localisation>
+         <Latitude>47.2658683</Latitude>
+         <Longitude>1.3729061</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>6 rue Louis-Armand</Ligne>
+      <Ligne>Caisse d'allocations familiales du Loir-et-Cher</Ligne>
+      <CodePostal>41015</CodePostal>
+      <NomCommune>Blois Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 41 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Avec la borne interactive, un conseiller Caf vous accueille à distance de 10h30 à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Avec la borne interactive et sur rendez-vous, un conseiller Caf vous accueille à distance de 10h à 12h - renseignements auprès de l'accueil du Relais de services publics au 02 54 75 42 63.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

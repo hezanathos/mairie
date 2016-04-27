@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-21054-01" codeInsee="21054" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Beaune</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Saint-Jacques</Ligne>
+      <Ligne>Centre social Saint-Jacques</Ligne>
+      <CodePostal>21200</CodePostal>
+      <NomCommune>Beaune</NomCommune>
+      <Localisation>
+         <Latitude>47.02603</Latitude>
+         <Longitude>4.840004</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 24 55 90</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

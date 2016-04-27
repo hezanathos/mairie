@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-48095-01" codeInsee="48095" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Mende</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Rovère</Ligne>
+      <Ligne>BP 24</Ligne>
+      <CodePostal>48001</CodePostal>
+      <NomCommune>Mende Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.5177001953</Latitude>
+         <Longitude>3.49850988388</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 49 42 10</Téléphone>
+      <Télécopie>+33 4 66 49 33 37</Télécopie>
+      <Email>ase@lozere.fr</Email>
+      <Url>http://www.lozere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

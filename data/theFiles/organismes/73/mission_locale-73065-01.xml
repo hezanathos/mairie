@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-73065-01" codeInsee="73065" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Jeunes Bassin Chambérien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>72 rue Paulette-Besson</Ligne>
+      <Ligne>BP 9438</Ligne>
+      <CodePostal>73094</CodePostal>
+      <NomCommune>Chambéry Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>45.5696983337</Latitude>
+         <Longitude>5.93383979797</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 33 50 84</Téléphone>
+      <Télécopie>+33 4 79 85 88 94</Télécopie>
+      <Email>mlchambery@mlchambery.org</Email>
+      <Url>http://www.mlchambery.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

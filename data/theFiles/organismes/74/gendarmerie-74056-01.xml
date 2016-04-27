@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-74056-01" codeInsee="74056" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Chamonix-Mont-Blanc</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Guillermin 111, rue de La Mollard</Ligne>
+      <CodePostal>74400</CodePostal>
+      <NomCommune>Chamonix-Mont-Blanc</NomCommune>
+      <Localisation>
+         <Latitude>45.923697</Latitude>
+         <Longitude>6.869433</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 53 00 55</Téléphone>
+      <Télécopie>+33 4 50 55 38 26</Télécopie>
+      <Email>bta.chamonix-mont-blanc@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-55500-01" codeInsee="55500" dateMiseAJour="2016-02-10"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Spincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Crouée</Ligne>
+      <Ligne>BP 01</Ligne>
+      <CodePostal>55230</CodePostal>
+      <NomCommune>Spincourt</NomCommune>
+      <Localisation>
+         <Latitude>49.3295578</Latitude>
+         <Longitude>5.6676986</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 85 91 27</Téléphone>
+      <Email>t055042@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Permanence dans les locaux de la CODECOM place Louis Bertrand 55230 Spincourt. Du lundi au vendredi de 08h30 à 12h00, téléphone 03 29 87 11 17</Commentaire>
+</Organisme>

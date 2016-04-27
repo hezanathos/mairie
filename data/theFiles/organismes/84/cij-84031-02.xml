@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-84031-02" codeInsee="84031" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Carpentras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des jeunes et de la culture</Ligne>
+      <Ligne>8, place des Pénitents-Noirs</Ligne>
+      <CodePostal>84200</CodePostal>
+      <NomCommune>Carpentras</NomCommune>
+      <Localisation>
+         <Latitude>44.0541367</Latitude>
+         <Longitude>5.0486027</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 63 04 55</Téléphone>
+      <Télécopie>+33 4 90 60 66 71</Télécopie>
+      <Email>mjc-carpentras@wanadoo.fr</Email>
+      <Url>http://www.mjccarpentras.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="12:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

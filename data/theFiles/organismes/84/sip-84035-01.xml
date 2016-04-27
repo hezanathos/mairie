@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-84035-01" codeInsee="84035" dateMiseAJour="2015-06-22" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Cavaillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>72, avenue du Languedoc</Ligne>
+      <CodePostal>84952</CodePostal>
+      <NomCommune>Cavaillon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.8326204</Latitude>
+         <Longitude>5.0425003</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 76 38 80</Téléphone>
+      <Email>sip.cavaillon@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil également sur rendez-vous.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>et sur RDV</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-97422-01" codeInsee="97422" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Centre information jeunesse du Tampon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mission locale Sud antenne de Tampon</Ligne>
+      <Ligne>2 rue Victor le Vigoureux</Ligne>
+      <CodePostal>97430</CodePostal>
+      <NomCommune>LE TAMPON</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 27 04 63</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:45:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

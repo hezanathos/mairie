@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="56260" dateMiseAJour="2012-06-20" id="bav-56260-01" idPresta="51b08c9bb473e4147800050b" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Vannes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>22 place de la République</Ligne>
+        <Ligne>BP 503</Ligne>
+        <CodePostal>56019</CodePostal>
+        <NomCommune>VANNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.656295</Latitude>
+            <Longitude>-2.761452</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 97 43 77 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

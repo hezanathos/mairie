@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-95063-01" codeInsee="95063" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération Argenteuil Bezons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>203 rue Michel-Carré</Ligne>
+      <CodePostal>95870</CodePostal>
+      <NomCommune>Bezons</NomCommune>
+      <Localisation>
+         <Latitude>48.9258830031</Latitude>
+         <Longitude>2.21632003784</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseurs</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 96 26 00</Téléphone>
+      <Télécopie>+33 1 39 96 25 82</Télécopie>
+      <Email>contact@ca-ab.fr</Email>
+      <Url>http://www.agglo-argenteuil-bezons.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

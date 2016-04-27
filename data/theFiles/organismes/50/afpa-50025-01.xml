@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-50025-01" codeInsee="50025" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre d'Avranches</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Sablonnières</Ligne>
+      <CodePostal>50300</CodePostal>
+      <NomCommune>Avranches</NomCommune>
+      <Localisation>
+         <Latitude>48.6812898</Latitude>
+         <Longitude>-1.3458542</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Url>http://www.basse-normandie.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

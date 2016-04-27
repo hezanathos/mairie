@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-08105-01" codeInsee="08105" dateMiseAJour="2016-01-04"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Champagne-Ardenne - accueil des Ardennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>34 bis rue Ferroul</Ligne>
+      <CodePostal>08000</CodePostal>
+      <NomCommune>Charleville-Mézières</NomCommune>
+      <Localisation>
+         <Latitude>49.7445473</Latitude>
+         <Longitude>4.7223578</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 60001</Ligne>
+      <Ligne>202 rue des Capucins</Ligne>
+      <Ligne>Urssaf des Ardennes</Ligne>
+      <CodePostal>51089</CodePostal>
+      <NomCommune>Reims Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.champagneardenne.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Uniquement sur rendez-vous, par téléphone au 3957, par messagerie www.contact.urssaf.fr</Commentaire>
+</Organisme>

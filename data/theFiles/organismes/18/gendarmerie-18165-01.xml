@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-18165-01" codeInsee="18165" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Neuvy-sur-Barangeon</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 route de Ménétréol</Ligne>
+      <CodePostal>18330</CodePostal>
+      <NomCommune>Neuvy-sur-Barangeon</NomCommune>
+      <Localisation>
+         <Latitude>47.3163857</Latitude>
+         <Longitude>2.2543301</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 53 08 85</Téléphone>
+      <Télécopie>+33 2 48 53 08 88</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

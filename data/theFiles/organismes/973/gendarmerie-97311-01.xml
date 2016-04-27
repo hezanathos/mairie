@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97311-01" codeInsee="97311" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saint-Laurent-du-Maroni</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Joffre 14, avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>97320</CodePostal>
+      <NomCommune>Saint-Laurent-du-Maroni</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 34 10 54</Téléphone>
+      <Email>bta.st-laurent-du-maroni@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

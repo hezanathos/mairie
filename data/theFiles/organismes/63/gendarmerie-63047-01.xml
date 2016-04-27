@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-63047-01" codeInsee="63047" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Bourboule</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>446, boulevard des Vernières</Ligne>
+      <CodePostal>63150</CodePostal>
+      <NomCommune>La Bourboule</NomCommune>
+      <Localisation>
+         <Latitude>45.5906346</Latitude>
+         <Longitude>2.7542555</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 81 03 71</Téléphone>
+      <Télécopie>+33 4 73 81 33 69</Télécopie>
+      <Email>cob.la-bourboule@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

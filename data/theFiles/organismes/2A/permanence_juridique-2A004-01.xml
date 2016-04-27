@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="2A004" dateMiseAJour="2015-11-03" id="permanence_juridique-2A004-01" idPresta="4cac9e5f293594648a0001f0" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques d&#39;Ajaccio</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Conseil Départemental d&#39;Accès au Droit (CDAD) de Corse-du-Sud</Ligne>
+        <Ligne>Tribunal de grande instance</Ligne>
+        <Ligne>6 rue de la Pietrina</Ligne>
+        <CodePostal>20000</CodePostal>
+        <NomCommune>AJACCIO</NomCommune>
+        <Localisation>
+            <Latitude>41.9261065</Latitude>
+            <Longitude>8.7368782</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 95 20 08 59</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

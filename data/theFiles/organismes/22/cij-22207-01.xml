@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-22207-01" codeInsee="22207" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Point information jeunesse de Plouaret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 4</Ligne>
+      <Ligne>Communauté de communes de Beg Ar C'hra</Ligne>
+      <Ligne>Rue Louis Prigent</Ligne>
+      <CodePostal>22420</CodePostal>
+      <NomCommune>PLOUARET</NomCommune>
+      <Localisation>
+         <Latitude>48.6117443747</Latitude>
+         <Longitude>-3.47371280193</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 87 38 33 80</Téléphone>
+      <Télécopie>+33 2 96 38 35 19</Télécopie>
+      <Email>pij@begarchra-tregor.fr</Email>
+      <Url>http://www.crij-bretagne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-59378-01" codeInsee="59378" dateMiseAJour="2009-09-28" pivotLocal="cij">
+   <Nom>Centre d Information Jeunesse - Point information jeunesse de Marcq en Baroeul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue des Entrepreneurs</Ligne>
+      <CodePostal>59700</CodePostal>
+      <NomCommune>MARCQ EN BAROEUL</NomCommune>
+      <Localisation>
+         <Latitude>50.6599006653</Latitude>
+         <Longitude>3.08282995224</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 14 09 00</Téléphone>
+      <Url>http://www.crij-npdc.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

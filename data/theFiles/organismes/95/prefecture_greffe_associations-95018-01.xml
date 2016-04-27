@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-95018-01" codeInsee="95018"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations d'Argenteuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Sous-préfecture d'Argenteuil</Ligne>
+      <Ligne>BP 80150</Ligne>
+      <Ligne>CS 11709</Ligne>
+      <Ligne>2, rue Alfred-Labrière</Ligne>
+      <CodePostal>95100</CodePostal>
+      <NomCommune>Argenteuil Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.943574</Latitude>
+         <Longitude>2.2555458</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 23 36 26</Téléphone>
+      <Télécopie>+33 1 34 23 36 32</Télécopie>
+      <Email>nathalie.le-croguennec@vald-doise.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+         <Note>Uniquement sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

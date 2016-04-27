@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="82094" dateMiseAJour="2015-11-03" id="permanence_juridique-82094-01" idPresta="4cac9e61293594648a0004e3" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Lauzerte</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité des Nauzes</Ligne>
+        <CodePostal>82110</CodePostal>
+        <NomCommune>LAUZERTE</NomCommune>
+        <Localisation>
+            <Latitude>44.2552578</Latitude>
+            <Longitude>1.1392247</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 63 94 30 59</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

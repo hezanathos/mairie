@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-47157-01" codeInsee="47157" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-362">
+   <Nom>Point d'information local dédié aux personnes âgées - Marmande</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 Place Henri-Birac</Ligne>
+      <Ligne>Centre local d'information et de coordination Moyenne Garonne</Ligne>
+      <CodePostal>47200</CodePostal>
+      <NomCommune>Marmande</NomCommune>
+      <Localisation>
+         <Latitude>44.495995</Latitude>
+         <Longitude>0.167312</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 83 47 47</Téléphone>
+      <Email>clic-moyenne-garonne@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

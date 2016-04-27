@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-67482-01" codeInsee="67482" dateMiseAJour="2011-10-11"
+           pivotLocal="suio">
+   <Nom>Université Strasbourg 1 - Service universitaire d'information et d'orientation (SUIO)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Blaise-Pascal</Ligne>
+      <CodePostal>67070</CodePostal>
+      <NomCommune>STRASBOURG CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>48.5490524</Latitude>
+         <Longitude>7.688339</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 90 24 11 50</Téléphone>
+      <Email>sioe@adm-ulp.u-strasbg.fr</Email>
+      <Url>http://www-ulp.u-strasbg.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

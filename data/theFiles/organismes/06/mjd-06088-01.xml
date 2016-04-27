@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06088" dateMiseAJour="2015-08-28" id="mjd-06088-01" idPresta="51b08cd9b473e41478001286" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Nice (Ariane)</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>52 rue Anatole de Monzie</Ligne>
+        <Ligne>Résidence St Pierre BT 3 RDC</Ligne>
+        <CodePostal>06300</CodePostal>
+        <NomCommune>NICE</NomCommune>
+        <Localisation>
+            <Latitude>43.7371191564</Latitude>
+            <Longitude>7.30050769906</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 97 00 03 90</Téléphone>
+        <Télécopie>+33 4 97 00 03 99</Télécopie>
+        <Email>mailto:mjd-nice@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="10:00:00" fin="12:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-46182-01" codeInsee="46182" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-358">
+   <Nom>Point d'information local dédié aux personnes âgées - Luzech</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>153 rue de la Ville</Ligne>
+      <Ligne>Espace Personnes Âgées de Luzech Sud Lot</Ligne>
+      <CodePostal>46140</CodePostal>
+      <NomCommune>Luzech</NomCommune>
+      <Localisation>
+         <Latitude>44.480054</Latitude>
+         <Longitude>1.285843</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 53 51 00</Téléphone>
+      <Email>epa.sudlot@cg46.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

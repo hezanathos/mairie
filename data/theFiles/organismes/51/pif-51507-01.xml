@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-51507-01" codeInsee="51507" dateMiseAJour="2015-01-15" pivotLocal="pif">
+   <Nom>Point info famille (PIF) voix du quartier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre commercial du Mont-l'Hermite</Ligne>
+      <Ligne>Rue du Mont-l'Hermite</Ligne>
+      <CodePostal>51800</CodePostal>
+      <NomCommune>Sainte-Menehould</NomCommune>
+      <Localisation>
+         <Latitude>49.090822</Latitude>
+         <Longitude>4.892978</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 60 59 92</Téléphone>
+      <Email>les-vertes-voiyes@ste-menehould.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

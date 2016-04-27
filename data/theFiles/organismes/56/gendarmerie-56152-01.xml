@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-56152-01" codeInsee="56152" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie du Palais</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Résidence Les Glacis</Ligne>
+      <CodePostal>56360</CodePostal>
+      <NomCommune>Palais</NomCommune>
+      <Localisation>
+         <Latitude>47.3501864</Latitude>
+         <Longitude>-3.158833</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 31 80 22</Téléphone>
+      <Télécopie>+33 2 97 31 46 16</Télécopie>
+      <Email>bta.le-palais@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

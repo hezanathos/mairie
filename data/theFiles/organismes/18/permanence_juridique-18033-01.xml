@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18033" dateMiseAJour="2015-11-03" id="permanence_juridique-18033-01" idPresta="4cd18fb329359405310109a9" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice et CDAD du Cher</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie de Bourges_Annexe du Val d&#39;Auron</Ligne>
+        <Ligne>place Martin Luther King</Ligne>
+        <CodePostal>18000</CodePostal>
+        <NomCommune>BOURGES</NomCommune>
+        <Localisation>
+            <Latitude>47.0636906813</Latitude>
+            <Longitude>2.39789905026</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 07 66 96 43</Téléphone>
+        <Email>mailto:cdad@cdad18.fr</Email>
+        <Url>http://www.cdad18.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

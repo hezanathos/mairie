@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-86246-01" codeInsee="86246" dateMiseAJour="2014-02-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Savin</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18, rue Prosper-Mérimée</Ligne>
+      <CodePostal>86310</CodePostal>
+      <NomCommune>Saint-Savin</NomCommune>
+      <Localisation>
+         <Latitude>46.5646367</Latitude>
+         <Longitude>0.8589854</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 48 44 24</Téléphone>
+      <Télécopie>+33 5 49 48 90 41</Télécopie>
+      <Email>cob.st-savin86@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

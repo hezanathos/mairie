@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76157" dateMiseAJour="2014-01-28" id="mjd-76157-01" idPresta="51b08cb2b473e41478000a26" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Canteleu</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 ancienne route de Duclair</Ligne>
+        <CodePostal>76380</CodePostal>
+        <NomCommune>CANTELEU</NomCommune>
+        <Localisation>
+            <Latitude>49.4479916</Latitude>
+            <Longitude>1.0341981</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 32 83 20 31</Téléphone>
+        <Télécopie>+33 2 35 08 19 13</Télécopie>
+        <Email>mailto:mjd-canteleu@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="mardi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:45:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:45:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="14:00:00" fin="16:45:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

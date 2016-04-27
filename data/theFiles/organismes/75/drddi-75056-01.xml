@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="drddi-75056-01" codeInsee="75056" dateMiseAJour="2015-11-18"
+           pivotLocal="drddi">
+   <Nom>Direction interrégionale des douanes - Île-de-France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, rue Yves-Toudic</Ligne>
+      <CodePostal>75010</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8695983887</Latitude>
+         <Longitude>2.36406993866</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 70 27 16 00</Téléphone>
+      <Télécopie>+33 1 42 40 19 20</Télécopie>
+      <Email>di-ile-de-france@douane.finances.gouv.fr</Email>
+      <Url>http://www.douane.gouv.fr</Url>
+      <Sve>https://pro.douane.gouv.fr/</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="91667" dateMiseAJour="2014-05-01" id="mjd-91667-01" idPresta="51b08cb7b473e41478000b11" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  du Val d&#39;Orge</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Trianon</Ligne>
+        <Ligne>72 route de Corbeil</Ligne>
+        <CodePostal>91360</CodePostal>
+        <NomCommune>VILLEMOISSON SUR ORGE</NomCommune>
+        <Localisation>
+            <Latitude>48.658651</Latitude>
+            <Longitude>2.339659</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 69 46 81 50</Téléphone>
+        <Télécopie>+33 1 69 46 81 57</Télécopie>
+        <Email>mailto:mjd@agglo-valdorge.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="14:00:00" fin="17:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="maison_handicapees-06088-01" codeInsee="06088" dateMiseAJour="2016-04-12"
+           pivotLocal="maison_handicapees">
+   <Nom>Maison départementale des personnes handicapées (MDPH) - Alpes-Maritimes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Nice Leader</Ligne>
+      <Ligne>27 boulevard Paul-Montel</Ligne>
+      <Ligne>Bâtiment Ariane</Ligne>
+      <CodePostal>06200</CodePostal>
+      <NomCommune>Nice</NomCommune>
+      <Localisation>
+         <Latitude>43.6737053</Latitude>
+         <Longitude>7.2082271</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro vert : appel et service gratuits depuis un fixe ou un mobile.">08 05 56 05 80</Téléphone>
+      <Url>http://www.mdph06.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous. Permanence téléphonique du lundi au samedi de 8h30 à 20h au 0805 560 580.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

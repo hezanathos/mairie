@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="45234" dateMiseAJour="2014-01-28" id="prudhommes-45234-01" idPresta="4cac9ed6293594648a00ed6a" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes d&#39;Orléans</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>44 rue de la Bretonnerie</Ligne>
+        <CodePostal>45044</CodePostal>
+        <NomCommune>ORLEANS CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>47.9047677</Latitude>
+            <Longitude>1.9054466</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 38 74 58 92</Téléphone>
+        <Télécopie>+33 2 38 74 57 17</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

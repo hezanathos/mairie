@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49023-01" codeInsee="49023" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Centre Mauges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZI La Grande-Lande-Andrezé</Ligne>
+      <CodePostal>49602</CodePostal>
+      <NomCommune>Beaupreau Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.202038</Latitude>
+         <Longitude>-0.991111</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 71 76 80</Téléphone>
+      <Télécopie>+33 2 41 71 76 82</Télécopie>
+      <Email>accueil@cc-centre-mauges.fr</Email>
+      <Url>http://www.cc-centre-mauges.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-57628-01" codeInsee="57628" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de l'Albe et des Lacs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la République</Ligne>
+      <CodePostal>57430</CodePostal>
+      <NomCommune>Sarralbe</NomCommune>
+      <Localisation>
+         <Latitude>48.999639</Latitude>
+         <Longitude>7.029931</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 97 80 17</Téléphone>
+      <Télécopie>+33 3 87 97 81 54</Télécopie>
+      <Email>http://www.cc-albe-lacs.com/communaute-communes-albe-et-lacs/contacter-le-redacteur-de-la-comm-comm-de-lalbe-et-des-lacs.html</Email>
+      <Url>http://www.cc-albe-lacs.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

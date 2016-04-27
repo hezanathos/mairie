@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-13004-02" codeInsee="13004" dateMiseAJour="2015-10-23"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie Arles Municipale et Camargue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 boulevard Victor Hugo</Ligne>
+      <Ligne>BP 60222</Ligne>
+      <CodePostal>13637</CodePostal>
+      <NomCommune>Arles Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6748892</Latitude>
+         <Longitude>4.6329614</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Email>t013201@dgfip.finances.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Fermeture le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

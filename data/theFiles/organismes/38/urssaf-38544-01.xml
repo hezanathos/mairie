@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-38544-01" codeInsee="38544" dateMiseAJour="2015-07-29"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Rhône-Alpes - accueil de l'Isère - Vienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>59 quai Claude-Bernard</Ligne>
+      <CodePostal>38200</CodePostal>
+      <NomCommune>Vienne</NomCommune>
+      <Localisation>
+         <Latitude>45.5382675</Latitude>
+         <Longitude>4.8664683</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>TSA 40001</Ligne>
+      <Ligne>Urssaf de Rhône-Alpes</Ligne>
+      <CodePostal>38046</CodePostal>
+      <NomCommune>Grenoble Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.rhonealpes.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

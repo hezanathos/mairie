@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-61486-01" codeInsee="61486" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Tinchebray</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36, rue de Paris</Ligne>
+      <CodePostal>61800</CodePostal>
+      <NomCommune>Tinchebray</NomCommune>
+      <Localisation>
+         <Latitude>48.7649576</Latitude>
+         <Longitude>-0.7303658</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 62 37 00</Téléphone>
+      <Télécopie>+33 2 33 62 37 04</Télécopie>
+      <Email>cob.flers@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

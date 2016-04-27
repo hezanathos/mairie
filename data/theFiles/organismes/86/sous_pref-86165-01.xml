@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sous_pref-86165-01" codeInsee="86165" dateMiseAJour="2013-04-24"
+           pivotLocal="sous_pref">
+   <Nom>Sous-préfecture de Montmorillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, boulevard de Strasbourg</Ligne>
+      <CodePostal>86500</CodePostal>
+      <NomCommune>Montmorillon</NomCommune>
+      <Localisation>
+         <Latitude>46.424257</Latitude>
+         <Longitude>0.869994399999996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 91 12 44</Téléphone>
+      <Télécopie>+33 5 49 91 20 75</Télécopie>
+      <Url>http://www.vienne.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

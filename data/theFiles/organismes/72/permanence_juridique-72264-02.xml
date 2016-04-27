@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="72264" dateMiseAJour="2015-11-03" id="permanence_juridique-72264-02" idPresta="535785abb473e47224a9dc88" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Comarquage.fr</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>25 rue Pasteur</Ligne>
+        <CodePostal>72300</CodePostal>
+        <NomCommune>SABLE SUR SARTHE</NomCommune>
+        <Localisation>
+            <Latitude>47.842393</Latitude>
+            <Longitude>-0.33272</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 43 62 50 37</Téléphone>
+        <Email>mailto:vac@sablesursarthe.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

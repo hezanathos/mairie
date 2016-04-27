@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-35196-01" codeInsee="35196" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Mordelles</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>91 avenue du Maréchal-Leclerc</Ligne>
+      <CodePostal>35310</CodePostal>
+      <NomCommune>Mordelles</NomCommune>
+      <Localisation>
+         <Latitude>48.077239</Latitude>
+         <Longitude>-1.8376776</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 60 40 12</Téléphone>
+      <Télécopie>+33 2 99 60 58 91</Télécopie>
+      <Email>bta.mordelles@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

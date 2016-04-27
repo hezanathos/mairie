@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59606" dateMiseAJour="2014-01-28" id="tgi-59606-01" idPresta="4cac9e61293594648a0005ad" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance de Valenciennes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 avenue des dentellieres</Ligne>
+        <Ligne>BP 10349</Ligne>
+        <CodePostal>59304</CodePostal>
+        <NomCommune>VALENCIENNES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>50.356406</Latitude>
+            <Longitude>3.520207</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 27 14 67 00</Téléphone>
+        <Télécopie>+33 3 27 29 31 55</Télécopie>
+        <Email>mailto:tgi-valenciennes@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:15:00" fin="12:00:00"/>
+            <PlageH début="13:15:00" fin="16:55:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:15:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:50:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

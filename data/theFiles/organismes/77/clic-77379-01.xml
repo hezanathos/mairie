@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-77379-01" codeInsee="77379" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-702">
+   <Nom>Point d'information local dédié aux personnes âgées - Provins</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route des Grattons</Ligne>
+      <Ligne>Centre local d'information et de coordination Sillage</Ligne>
+      <CodePostal>77160</CodePostal>
+      <NomCommune>Provins</NomCommune>
+      <Localisation>
+         <Latitude>48.542807</Latitude>
+         <Longitude>3.297926</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 58 00 95</Téléphone>
+      <Email>sillage.clic@gmail.com</Email>
+      <Url>http://www.clicsillage77.wordpress.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00"/>
+         <PlageH début="13:30:00" fin="17:30"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

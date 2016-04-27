@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-19261-01" codeInsee="19261" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-149">
+   <Nom>Point d'information local dédié aux personnes âgées - Sornac</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de la République</Ligne>
+      <Ligne>Instance de Coordination de l'Autonomie</Ligne>
+      <CodePostal>19290</CodePostal>
+      <NomCommune>Sornac</NomCommune>
+      <Localisation>
+         <Latitude>45.666791</Latitude>
+         <Longitude>2.193292</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 96 95 95</Téléphone>
+      <Email>icgcantonsornac@aliceadsl.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

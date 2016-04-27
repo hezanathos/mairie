@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-54425-01" codeInsee="54425" dateMiseAJour="2015-05-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Bassin de Landres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Colonel-Fabien</Ligne>
+      <Ligne>BP 70039</Ligne>
+      <CodePostal>54490</CodePostal>
+      <NomCommune>Piennes</NomCommune>
+      <Localisation>
+         <Latitude>49.305627</Latitude>
+         <Longitude>5.784325</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée et rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 21 73 11</Téléphone>
+      <Télécopie>+33 3 82 21 88 34</Télécopie>
+      <Email>e.p.c.i@epci-bl.eu</Email>
+      <Url>http://www.epci-bassin-landres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+         <Note>Accueils physique et téléphonique</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

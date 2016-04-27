@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="24037" dateMiseAJour="2014-01-28" id="te-24037-01" idPresta="4cac9ed6293594648a00edb8" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Bergerac</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place de la République</Ligne>
+        <CodePostal>24112</CodePostal>
+        <NomCommune>BERGERAC CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.8533557</Latitude>
+            <Longitude>0.4830045</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 53 74 40 00</Téléphone>
+        <Télécopie>+33 5 53 74 40 29</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-04112-01" codeInsee="04112" dateMiseAJour="2016-03-30" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Manosque</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 40001</Ligne>
+      <Ligne>132, boulevard des Cougourdelles</Ligne>
+      <CodePostal>04107</CodePostal>
+      <NomCommune>Manosque Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.8362942</Latitude>
+         <Longitude>5.7854664</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>0811 36 36 00</Téléphone>
+      <Email>financespubliques04@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil ouvert également sur rendez-vous. Fermé le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

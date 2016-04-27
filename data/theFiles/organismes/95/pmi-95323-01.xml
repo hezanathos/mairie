@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-95323-01" codeInsee="95323" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Jouy-le-Moutier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 allée des Eguerets</Ligne>
+      <CodePostal>95280</CodePostal>
+      <NomCommune>Jouy-Le-Moutier</NomCommune>
+      <Localisation>
+         <Latitude>49.0121878</Latitude>
+         <Longitude>2.0446899</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 43 50 40</Téléphone>
+      <Url>http://www.valdoise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Accueil téléphonique de 9h à 12h30 et de 13h30 à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique de 9h à 12h30 et de 13h30 à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique de 9h à 12h30 et de 13h30 à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique de 9h à 12h30 et de 13h30 à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

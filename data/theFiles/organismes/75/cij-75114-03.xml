@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-75114-03" codeInsee="75114" dateMiseAJour="2009-10-12" pivotLocal="cij">
+   <Nom>cidj de Paris Bouchor</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1-3 rue Maurice Bouchor</Ligne>
+      <CodePostal>75014</CodePostal>
+      <NomCommune>PARIS</NomCommune>
+      <Localisation>
+         <Latitude>48.8262969</Latitude>
+         <Longitude>2.3089107</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 43 13 73</Téléphone>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>également ouvert les lundi et jeudi matins de 10h30 à 13h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

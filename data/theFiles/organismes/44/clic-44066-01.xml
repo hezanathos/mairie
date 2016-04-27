@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-44066-01" codeInsee="44066" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-333">
+   <Nom>Point d'information local dédié aux personnes âgées - Grandchamps-des-Fontaines</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Marie-Curie</Ligne>
+      <Ligne>Centre local d'information et de coordination d'Erdre et Gesvres et Du Pays de Blain</Ligne>
+      <CodePostal>44119</CodePostal>
+      <NomCommune>Grandchamps-des-Fontaines</NomCommune>
+      <Localisation>
+         <Latitude>47.376493</Latitude>
+         <Longitude>-1.644559</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 28 02 25 45</Téléphone>
+      <Email>clic.cceg.ccpb@cceg.fr</Email>
+      <Url>http://www.cceg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

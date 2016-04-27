@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-72039-01" codeInsee="72039" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-653">
+   <Nom>Point d'information local dédié aux personnes âgées - Bonnétable</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue Mazagran</Ligne>
+      <Ligne>Centre local d'information et de coordination des 2 Territoires</Ligne>
+      <CodePostal>72110</CodePostal>
+      <NomCommune>Bonnétable</NomCommune>
+      <Localisation>
+         <Latitude>48.174015</Latitude>
+         <Longitude>0.427953</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 29 00 01</Téléphone>
+      <Email>clic.2territoires.bonnetable@cg72.fr</Email>
+      <Url>http://www.cidpacclic.sarthe.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

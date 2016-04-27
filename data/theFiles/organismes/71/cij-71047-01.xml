@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-71047-01" codeInsee="71047" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Bourbon-Lancy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bâtiment A</Ligne>
+      <Ligne>Le Carrage</Ligne>
+      <CodePostal>71140</CodePostal>
+      <NomCommune>Bourbon-Lancy</NomCommune>
+      <Localisation>
+         <Latitude>46.625846</Latitude>
+         <Longitude>3.765624</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 89 92 51</Téléphone>
+      <Télécopie>+33 3 85 89 92 52</Télécopie>
+      <Email>pij_bourbonlancy@ij.bourgogne.com</Email>
+      <Url>http://www.ijbourgogne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

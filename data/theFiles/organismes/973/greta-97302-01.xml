@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-97302-01" codeInsee="97302" dateMiseAJour="2011-10-04"
+           pivotLocal="greta">
+   <Nom>Greta Centre Est</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BO 7022</Ligne>
+      <Ligne>Avenue André Aron</Ligne>
+      <CodePostal>97307</CodePostal>
+      <NomCommune>CAYENNE CEDEX</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 35 11 68</Téléphone>
+      <Télécopie>+594 5 94 37 87 53</Télécopie>
+      <Email>greta.centreestguyane@orange.fr</Email>
+      <Url>http://www.greta-gipfcip-guyane.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-30334-01" codeInsee="30334" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Maison des jeunes et de la culture d'Uzès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des jeunes et de la culture d'Uzès</Ligne>
+      <Ligne>Place de Verdun</Ligne>
+      <Ligne>Point information jeunesse</Ligne>
+      <Ligne>BP 43114</Ligne>
+      <CodePostal>30703</CodePostal>
+      <NomCommune>Uzès Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.0145529</Latitude>
+         <Longitude>4.4206567</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 22 57 23</Téléphone>
+      <Email>mjc.uzes@aliceadls.fr</Email>
+      <Url>http://www.mjc-uzes.eklablog.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="12:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-97415-01" codeInsee="97415"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Saint-Paul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Évariste-de-Parny</Ligne>
+      <Ligne>Bureau des associations</Ligne>
+      <Ligne>Sous-préfecture de Saint-Paul</Ligne>
+      <Ligne>CS 71044</Ligne>
+      <CodePostal>97864</CodePostal>
+      <NomCommune>Saint-Paul Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-21.0084059</Latitude>
+         <Longitude>55.2706839</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 35 89 10</Téléphone>
+      <Télécopie>+262 2 62 45 53 41</Télécopie>
+      <Email>laurence.monie@reunion.pref.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

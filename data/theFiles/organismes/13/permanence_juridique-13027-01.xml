@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13027" dateMiseAJour="2015-11-03" id="permanence_juridique-13027-01" idPresta="4cd18fb329359405310109dd" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie annexe de Chateaurenard</Ligne>
+        <Ligne>rue Jentelin</Ligne>
+        <Ligne>Rez-de-chaussée n°4</Ligne>
+        <CodePostal>13160</CodePostal>
+        <NomCommune>CHATEAURENARD</NomCommune>
+        <Localisation>
+            <Latitude>43.8819591</Latitude>
+            <Longitude>4.8553598</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 24 35 35</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

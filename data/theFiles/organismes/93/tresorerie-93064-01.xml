@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-93064-01" codeInsee="93064" dateMiseAJour="2016-02-11"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie Amendes de Seine-Saint-Denis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de Lisbonne</Ligne>
+      <CodePostal>93564</CodePostal>
+      <NomCommune>Rosny-sous-Bois</NomCommune>
+      <Localisation>
+         <Latitude>48.87881</Latitude>
+         <Longitude>2.475511</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 82 46 69 69</Téléphone>
+      <Email>t093039@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="14:30:00"/>
+         <Note>Fermé le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-12021-01" codeInsee="12021" dateMiseAJour="2015-09-03"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Bas Ségala</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>12200</CodePostal>
+      <NomCommune>La Bastide-l'Évêque</NomCommune>
+      <Localisation>
+         <Latitude>44.341409</Latitude>
+         <Longitude>2.13672</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 29 93 01</Téléphone>
+      <Télécopie>+33 5 65 29 96 52</Télécopie>
+      <Email>cc.bassegala@orange.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

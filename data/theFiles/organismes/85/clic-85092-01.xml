@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-85092-01" codeInsee="85092" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-755">
+   <Nom>Point d'information local dédié aux personnes âgées - Fontenay-le-Comte</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination des Trois Rivières</Ligne>
+      <Ligne>46 rue Rabelais</Ligne>
+      <CodePostal>85200</CodePostal>
+      <NomCommune>Fontenay-le-Comte</NomCommune>
+      <Localisation>
+         <Latitude>46.468115</Latitude>
+         <Longitude>-0.819238</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 00 53 57</Téléphone>
+      <Email>clic.trois-rivieres@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

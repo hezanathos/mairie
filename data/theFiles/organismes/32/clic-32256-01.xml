@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-32256-01" codeInsee="32256" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-266">
+   <Nom>Point d'information local dédié aux personnes âgées - Mirande</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Sud 32</Ligne>
+      <Ligne>8 avenue Chanzy</Ligne>
+      <Ligne>BP 52</Ligne>
+      <CodePostal>32300</CodePostal>
+      <NomCommune>Mirande</NomCommune>
+      <Localisation>
+         <Latitude>43.510319</Latitude>
+         <Longitude>0.403204</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 81 67 12 10</Téléphone>
+      <Email>clic.mirande@mdph32.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

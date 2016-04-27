@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-45082-01" codeInsee="45082" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Châteauneuf-sur-Loire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>91 boulevard de Verdun</Ligne>
+      <CodePostal>45110</CodePostal>
+      <NomCommune>Châteauneuf-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.8608484</Latitude>
+         <Longitude>2.2386164</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 46 86 70</Téléphone>
+      <Télécopie>+33 2 38 46 86 74</Télécopie>
+      <Email>bta.chateauneuf-sur-loire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

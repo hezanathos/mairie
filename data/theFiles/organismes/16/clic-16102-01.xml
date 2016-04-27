@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-16102-01" codeInsee="16102" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-110">
+   <Nom>Point d'information local dédié aux personnes âgées - Cognac</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>121 boulevard Denfert-Rochereau</Ligne>
+      <Ligne>Maison départementale des Solidarités</Ligne>
+      <CodePostal>16100</CodePostal>
+      <NomCommune>Cognac</NomCommune>
+      <Localisation>
+         <Latitude>45.698448</Latitude>
+         <Longitude>-0.328553</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 16 09 51 25</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

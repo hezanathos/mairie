@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-92026-01" codeInsee="92026" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Rives-de-Seine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>31 avenue Marceau</Ligne>
+      <CodePostal>92400</CodePostal>
+      <NomCommune>Courbevoie</NomCommune>
+      <Localisation>
+         <Latitude>48.8994349</Latitude>
+         <Longitude>2.2457167000000027</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 47 89 23 85</Téléphone>
+      <Télécopie>+33 1 47 89 86 28</Télécopie>
+      <Email>a.accueil@mlrivesdeseine.reseau-idf.org</Email>
+      <Url>http://www.mlrivesdeseine.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

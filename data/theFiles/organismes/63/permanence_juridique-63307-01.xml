@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="63307" dateMiseAJour="2015-11-03" id="permanence_juridique-63307-01" idPresta="4cac9e60293594648a0003b4" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Romagnat</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>allée du Château</Ligne>
+        <CodePostal>63540</CodePostal>
+        <NomCommune>ROMAGNAT</NomCommune>
+        <Localisation>
+            <Latitude>45.7338382</Latitude>
+            <Longitude>3.1052172</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 73 62 79 79</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

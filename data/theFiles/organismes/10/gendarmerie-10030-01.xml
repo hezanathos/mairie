@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-10030-01" codeInsee="10030" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Barberey-Saint-Sulpice</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Val-de-Seine</Ligne>
+      <CodePostal>10600</CodePostal>
+      <NomCommune>Barberey-Saint-Sulpice</NomCommune>
+      <Localisation>
+         <Latitude>49.9216663</Latitude>
+         <Longitude>4.5225063</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 42 32 90</Téléphone>
+      <Télécopie>+33 3 25 42 32 95</Télécopie>
+      <Email>bp.barberey-st-sulpice@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

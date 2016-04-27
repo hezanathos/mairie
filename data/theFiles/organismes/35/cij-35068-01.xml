@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-35068-01" codeInsee="35068" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Point information jeunesse de Châteaubourg</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue Pasteur</Ligne>
+      <CodePostal>35220</CodePostal>
+      <NomCommune>CHATEAUBOURG</NomCommune>
+      <Localisation>
+         <Latitude>48.1088066639</Latitude>
+         <Longitude>-1.40714049339</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 00 91 15</Téléphone>
+      <Télécopie>+33 2 99 00 80 30</Télécopie>
+      <Email>pij-chateaubourg@vitrecommunaute.org</Email>
+      <Url>http://www.crij-bretagne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Sur rendez-vous uniquement l'après-midi.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Sur rendez-vous le matin uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

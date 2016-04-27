@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-62649-01" codeInsee="62649" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Pas-en-Artois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue d'En-Haut</Ligne>
+      <Ligne>Foyer de jeunes et d'éducation populaire</Ligne>
+      <CodePostal>62760</CodePostal>
+      <NomCommune>Pas-en-Artois</NomCommune>
+      <Localisation>
+         <Latitude>50.1542093</Latitude>
+         <Longitude>2.4883395</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 55 72 68</Téléphone>
+      <Email>sjep@nordnet.fr</Email>
+      <Url>http://www.asso.nordnet.fr/sjep</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

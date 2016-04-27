@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="31395" dateMiseAJour="2015-11-03" id="permanence_juridique-31395-01" idPresta="4cac9e5f293594648a000241" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Muret</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre communal d&#39;action sociale (CCAS) - Point d&#39;Accès au Droit renforcé de Muret</Ligne>
+        <Ligne>22 rue Joseph Gasc</Ligne>
+        <CodePostal>31600</CodePostal>
+        <NomCommune>MURET</NomCommune>
+        <Localisation>
+            <Latitude>43.4593159</Latitude>
+            <Longitude>1.3266708</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 61 51 90 50</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

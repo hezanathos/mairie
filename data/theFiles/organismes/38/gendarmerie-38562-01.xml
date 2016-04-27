@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38562-01" codeInsee="38562" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Vizille</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>244 avenue Pasteur</Ligne>
+      <CodePostal>38220</CodePostal>
+      <NomCommune>Vizille</NomCommune>
+      <Localisation>
+         <Latitude>45.069106</Latitude>
+         <Longitude>5.7666901</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 78 98 50</Téléphone>
+      <Télécopie>+33 4 76 78 71 77</Télécopie>
+      <Email>bta.vizille@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

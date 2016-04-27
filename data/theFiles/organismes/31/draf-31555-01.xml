@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="draf-31555-01" codeInsee="31555" dateMiseAJour="2016-01-12"
+           pivotLocal="draf">
+   <Nom>Direction régionale de l'alimentation, de l'agriculture et de la forêt - Languedoc-Roussillon Midi-Pyrénées</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>Bâtiment E</Ligne>
+      <Ligne>Boulevard Armand-Duportal</Ligne>
+      <CodePostal>31074</CodePostal>
+      <NomCommune>Toulouse Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6073197</Latitude>
+         <Longitude>1.4348183</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 10 61 10</Téléphone>
+      <Télécopie>+33 5 61 10 61 00</Télécopie>
+      <Email>draaf-midi-pyrenees@agriculture.gouv.fr</Email>
+      <Url>http://draaf.languedoc-roussillon-midi-pyrenees.agriculture.gouv.fr/</Url>
+      <Sve>http://draaf.languedoc-roussillon-midi-pyrenees.agriculture.gouv.fr/Contacts</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

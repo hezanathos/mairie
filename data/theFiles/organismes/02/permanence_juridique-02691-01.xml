@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="02691" dateMiseAJour="2015-11-03" id="permanence_juridique-02691-01" idPresta="4cd18fb22935940531010981" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre social Europe</Ligne>
+        <Ligne>rue Archimède</Ligne>
+        <CodePostal>02100</CodePostal>
+        <NomCommune>ST QUENTIN</NomCommune>
+        <Localisation>
+            <Latitude>49.8589971</Latitude>
+            <Longitude>3.3032084</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 23 62 03 43</Téléphone>
+        <Email>mailto:cdad-aisne@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

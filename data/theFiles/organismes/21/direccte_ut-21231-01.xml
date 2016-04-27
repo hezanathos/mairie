@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="direccte_ut-21231-01" codeInsee="21231" dateMiseAJour="2016-03-10"
+           pivotLocal="direccte_ut">
+   <Nom>Unité territoriale - Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Direccte) - Côte-d'Or</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 boulevard Voltaire</Ligne>
+      <Ligne>BP 81110</Ligne>
+      <CodePostal>21011</CodePostal>
+      <NomCommune>Dijon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.3157003</Latitude>
+         <Longitude>5.0510803</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 45 75 00</Téléphone>
+      <Télécopie>+33 3 80 45 75 20</Télécopie>
+      <Email>dd-21.direction@direccte.gouv.fr</Email>
+      <Url>http://www.bourgogne.direccte.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

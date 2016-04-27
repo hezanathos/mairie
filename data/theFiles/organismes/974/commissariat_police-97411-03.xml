@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-97411-03" codeInsee="97411" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Sainte-Clotilde</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 bis avenue Georges-Brassens</Ligne>
+      <Ligne>Quartier du Chaudron</Ligne>
+      <CodePostal>97490</CodePostal>
+      <NomCommune>Sainte-Clotilde</NomCommune>
+      <Localisation>
+         <Latitude>-20.9011432</Latitude>
+         <Longitude>55.4875366</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 2 62 48 40 40</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

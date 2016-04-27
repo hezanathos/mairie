@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="24352" dateMiseAJour="2015-11-03" id="permanence_juridique-24352-01" idPresta="4e0dcfb7293594197d000000" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Ribérac</Nom>
+    <EditeurSource>Ministère de la Justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>7, rue Mobiles de Coulmiers</Ligne>
+        <CodePostal>24600</CodePostal>
+        <NomCommune>RIBERAC</NomCommune>
+        <Localisation>
+            <Latitude>45.247709</Latitude>
+            <Longitude>0.337785</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 53 06 39 33</Téléphone>
+        <Télécopie>+33 5 53 09 05 71</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

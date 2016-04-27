@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="48095" dateMiseAJour="2014-01-28" id="te-48095-01" idPresta="4cac9e6a293594648a001775" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Mende</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>boulevard Henri Bourillon</Ligne>
+        <CodePostal>48000</CodePostal>
+        <NomCommune>MENDE</NomCommune>
+        <Localisation>
+            <Latitude>44.516188</Latitude>
+            <Longitude>3.49822</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 66 65 28 11</Téléphone>
+        <Télécopie>+33 4 66 49 38 74</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

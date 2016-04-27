@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cio-80001-01" codeInsee="80001" dateMiseAJour="2015-01-15" pivotLocal="cio">
+   <Nom>Centre d’information et d’orientation (CIO) d’Abbeville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17, rue Charlet</Ligne>
+      <CodePostal>80100</CodePostal>
+      <NomCommune>Abbeville</NomCommune>
+      <Localisation>
+         <Latitude>50.1085192</Latitude>
+         <Longitude>1.836704</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 20 10 00</Téléphone>
+      <Télécopie>+33 3 22 20 10 09</Télécopie>
+      <Email>ce.0800072U@ac-amiens.fr</Email>
+      <Url>http://www.education.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé pendant les congés scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Horaires pendant les congés scolaires de 9h à 12h et de 14h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

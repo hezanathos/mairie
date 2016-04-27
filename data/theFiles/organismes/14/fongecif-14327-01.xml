@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fongecif-14327-01" codeInsee="14327" dateMiseAJour="2016-03-10"
+           pivotLocal="fongecif">
+   <Nom>Fongecif - Basse-Normandie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 avenue de Cambridge</Ligne>
+      <Ligne>BP 250</Ligne>
+      <Ligne>Immeuble Les Managers</Ligne>
+      <CodePostal>14209</CodePostal>
+      <NomCommune>Hérouville-Saint-Clair</NomCommune>
+      <Localisation>
+         <Latitude>49.2148337</Latitude>
+         <Longitude>-0.3558186</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 46 26 46</Téléphone>
+      <Télécopie>+33 2 31 46 26 40</Télécopie>
+      <Email>infos@fongecifbassenormandie.com</Email>
+      <Url>http://www.fongecifbassenormandie.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

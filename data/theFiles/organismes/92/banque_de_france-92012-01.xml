@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="banque_de_france-92012-01" codeInsee="92012" dateMiseAJour="2016-03-30"
+           pivotLocal="banque_de_france">
+   <Nom>Banque de France, bureau d'accueil et d'information de Boulogne-Billancourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>82, rue de Sèvres</Ligne>
+      <Ligne>Sous-préfecture</Ligne>
+      <CodePostal>92100</CodePostal>
+      <NomCommune>Boulogne-Billancourt</NomCommune>
+      <Localisation>
+         <Latitude>48.8324136</Latitude>
+         <Longitude>2.2293323</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 60012</Ligne>
+      <Ligne>51, avenue Aristide-Briand</Ligne>
+      <CodePostal>92541</CodePostal>
+      <NomCommune>Montrouge Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8182827</Latitude>
+         <Longitude>2.3257137</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Montrouge. Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.">+33 1 46 12 80 00</Téléphone>
+      <Email>infos@banque-france.fr</Email>
+      <Url>http://www.banque-france.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>à compter du 5 avril
+Horaires d'ouverture : idem
+Par correspondance : Tour Eqho, 2 Avenue Gambetta CS 20069- 92066 PARIS LA DEFENSE CEDEX
+Téléphone : (Nanterre 01 46 41 15 00 (Paris La Défense. Accueil téléphonique au 0811 901 801…..</Commentaire>
+</Organisme>

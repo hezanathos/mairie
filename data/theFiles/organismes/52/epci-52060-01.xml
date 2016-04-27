@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-52060-01" codeInsee="52060" dateMiseAJour="2015-05-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Région de Bourbonne-les-Bains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Impasse du Château</Ligne>
+      <CodePostal>52400</CodePostal>
+      <NomCommune>Bourbonne-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>47.954361</Latitude>
+         <Longitude>5.748685</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 88 46 43</Téléphone>
+      <Télécopie>+33 3 25 84 62 50</Télécopie>
+      <Email>cc-bourbonne@wanadoo.fr</Email>
+      <Url>http://www.bourbonne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-38039-01" codeInsee="38039" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-305">
+   <Nom>Point d'information local dédié aux personnes âgées - Bernin</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>71 chemin des Sources</Ligne>
+      <Ligne>Grésivaudan</Ligne>
+      <Ligne>Service Autonomie</Ligne>
+      <CodePostal>38190</CodePostal>
+      <NomCommune>Bernin</NomCommune>
+      <Localisation>
+         <Latitude>45.262771</Latitude>
+         <Longitude>5.881554</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 56 58 16 41</Téléphone>
+      <Email>sce.aut08@cg38.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

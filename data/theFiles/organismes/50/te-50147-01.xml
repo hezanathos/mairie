@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="50147" dateMiseAJour="2014-01-28" id="te-50147-01" idPresta="4cac9e6a293594648a001778" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Coutances</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue du palais de justice</Ligne>
+        <Ligne>CS 40719</Ligne>
+        <CodePostal>50207</CodePostal>
+        <NomCommune>COUTANCES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.049673</Latitude>
+            <Longitude>-1.442634</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 33 76 68 23</Téléphone>
+        <Télécopie>+33 2 33 76 68 35</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

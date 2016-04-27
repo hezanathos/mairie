@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-13202-01" codeInsee="13202" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté urbaine de Marseille Provence Métropole</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 place de la Joliette</Ligne>
+      <Ligne>BP 48014</Ligne>
+      <CodePostal>13567</CodePostal>
+      <NomCommune>Marseille Cedex 02</NomCommune>
+      <Localisation>
+         <Latitude>43.3052543</Latitude>
+         <Longitude>5.36601930000006</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 99 99 00</Téléphone>
+      <Télécopie>+33 4 91 99 99 04</Télécopie>
+      <Url>http://www.marseille-provence.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

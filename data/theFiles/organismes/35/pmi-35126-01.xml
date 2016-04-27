@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-35126-01" codeInsee="35126" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Guichen</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue du Commandant-Charcot</Ligne>
+      <Ligne>Centre départemental d'action sociale</Ligne>
+      <CodePostal>35580</CodePostal>
+      <NomCommune>Guichen</NomCommune>
+      <Localisation>
+         <Latitude>47.9636001587</Latitude>
+         <Longitude>-1.79695999622</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 52 02 22</Téléphone>
+      <Télécopie>+33 2 99 57 33 56</Télécopie>
+      <Email>cdasguichen@cg35.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

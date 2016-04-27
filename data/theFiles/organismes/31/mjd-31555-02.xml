@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="31555" dateMiseAJour="2010-02-03" id="mjd-31555-02" idPresta="51b08cc8b473e41478000ee5" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Toulouse-Reynerie</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 impasse Abbé Salvat</Ligne>
+        <CodePostal>31100</CodePostal>
+        <NomCommune>TOULOUSE</NomCommune>
+        <Localisation>
+            <Latitude>43.571977</Latitude>
+            <Longitude>1.400936</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 61 43 06 94</Téléphone>
+        <Télécopie>+33 5 61 43 07 02</Télécopie>
+        <Email>mailto:mjd-toulouse-reynerie@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

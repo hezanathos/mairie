@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-09194-01" codeInsee="09194" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Mirepoix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 cours Louis-Pons-Tande</Ligne>
+      <CodePostal>09500</CodePostal>
+      <NomCommune>Mirepoix</NomCommune>
+      <Localisation>
+         <Latitude>43.0863418579</Latitude>
+         <Longitude>1.87599802017</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 68 14 58</Téléphone>
+      <Télécopie>+33 5 61 68 29 78</Télécopie>
+      <Email>clmirepoix@cg09.fr</Email>
+      <Url>http://www.cg09.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="07:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="07:30:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:00:00"/>
+         <Note>Consultations des nourrissons uniquement sur rendez-vous le mardi de 9h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="07:30:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

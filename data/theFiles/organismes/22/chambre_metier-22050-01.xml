@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-22050-01" codeInsee="22050" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Côtes-d'Armor</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Aucaleuc</Ligne>
+      <Ligne>La Croix-Fresche-Blanc</Ligne>
+      <Ligne>BP 43155</Ligne>
+      <CodePostal>22103</CodePostal>
+      <NomCommune>Dinan Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.4538497925</Latitude>
+         <Longitude>-2.04599404335</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 76 27 37</Téléphone>
+      <Télécopie>+33 2 96 85 25 91</Télécopie>
+      <Email>cma.dinan@pma22.fr</Email>
+      <Url>http://www.cma22.bzh</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

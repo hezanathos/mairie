@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-24322-01" codeInsee="24322" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Dordogne - Lot-et-Garonne - accueil de Périgueux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 place Général-Leclerc</Ligne>
+      <CodePostal>24012</CodePostal>
+      <NomCommune>Périgueux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.1867265</Latitude>
+         <Longitude>0.7193385</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 67 77 77</Téléphone>
+      <Url>http://www.msa24-47.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+         <Note>Fermé le dernier jeudi de chaque mois.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

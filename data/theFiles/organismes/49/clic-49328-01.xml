@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-49328-01" codeInsee="49328" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-378">
+   <Nom>Point d'information local dédié aux personnes âgées - Saumur</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>165 rue Antoine-Parmentier</Ligne>
+      <Ligne>Centre local d'information et de coordination du Pays Saumurois</Ligne>
+      <CodePostal>49400</CodePostal>
+      <NomCommune>Saumur</NomCommune>
+      <Localisation>
+         <Latitude>47.241748</Latitude>
+         <Longitude>-0.078854</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 83 22 20</Téléphone>
+      <Email>clicpayssaumurois@orange.fr</Email>
+      <Url>http://www.cds.idhl.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

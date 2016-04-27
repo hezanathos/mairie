@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-44020-01" codeInsee="44020" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Bouguenais</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue Gutemberg</Ligne>
+      <CodePostal>44340</CodePostal>
+      <NomCommune>Bouguenais</NomCommune>
+      <Localisation>
+         <Latitude>47.1724066</Latitude>
+         <Longitude>-1.6174971</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 65 16 79</Téléphone>
+      <Télécopie>+33 2 40 65 32 76</Télécopie>
+      <Email>bta.bouguenais@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-11266-01" codeInsee="11266" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de l'Aude - accueil de Port-la-Nouvelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>106 rue de la Liberté</Ligne>
+      <CodePostal>11210</CodePostal>
+      <NomCommune>Port-la-Nouvelle</NomCommune>
+      <Localisation>
+         <Latitude>43.0218042</Latitude>
+         <Longitude>3.0434361</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC">équipé d’une boucle magnétique</Accessibilité>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de l'Aude</Ligne>
+      <Ligne>18 avenue des Berges-de-l'Aude</Ligne>
+      <CodePostal>11872</CodePostal>
+      <NomCommune>Carcassonne Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 11 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="19:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

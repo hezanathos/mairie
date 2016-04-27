@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-78640-01" codeInsee="78640" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Vélizy-Villacoublay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, rue Marcel-Sembat</Ligne>
+      <CodePostal>78140</CodePostal>
+      <NomCommune>Vélizy-Villacoublay</NomCommune>
+      <Localisation>
+         <Latitude>48.7869457</Latitude>
+         <Longitude>2.1792457</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 70 86 22</Téléphone>
+      <Email>bij@velizy-villacoublay.fr</Email>
+      <Url>http://www.velizy-villacoublay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

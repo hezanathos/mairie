@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-62560-01" codeInsee="62560" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Marquise</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Ferber N 1 Le Cardo</Ligne>
+      <CodePostal>62250</CodePostal>
+      <NomCommune>Marquise</NomCommune>
+      <Localisation>
+         <Latitude>50.81451</Latitude>
+         <Longitude>1.704929</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 92 87 17</Téléphone>
+      <Télécopie>+33 3 21 92 47 20</Télécopie>
+      <Email>bta.marquise@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

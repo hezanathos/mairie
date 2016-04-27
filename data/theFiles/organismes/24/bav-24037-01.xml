@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="24037" dateMiseAJour="2012-06-14" id="bav-24037-01" idPresta="51b08cc8b473e41478000ef8" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Bergerac</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du palais</Ligne>
+        <Ligne>BP 207</Ligne>
+        <CodePostal>24112</CodePostal>
+        <NomCommune>BERGERAC CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.852822</Latitude>
+            <Longitude>0.485626</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 53 74 40 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

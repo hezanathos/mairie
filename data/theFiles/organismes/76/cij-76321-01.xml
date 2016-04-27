@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-76321-01" codeInsee="76321" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse des Grandes-Ventes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de l'Église</Ligne>
+      <CodePostal>76950</CodePostal>
+      <NomCommune>Les Grandes-Ventes</NomCommune>
+      <Localisation>
+         <Latitude>49.7714635</Latitude>
+         <Longitude>1.1829084</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 85 99 85</Téléphone>
+      <Télécopie>+33 2 35 04 32 57</Télécopie>
+      <Email>mlr@talou.org</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

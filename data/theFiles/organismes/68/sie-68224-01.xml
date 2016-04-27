@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-68224-01" codeInsee="68224" dateMiseAJour="2015-11-06" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de Mulhouse Plaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bâtiment D</Ligne>
+      <Ligne>12, rue Coehorn</Ligne>
+      <Ligne>Cité administrative</Ligne>
+      <CodePostal>68085</CodePostal>
+      <NomCommune>Mulhouse Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.7579901</Latitude>
+         <Longitude>7.3375947</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 33 30 39</Téléphone>
+      <Télécopie>+33 3 89 33 33 59</Télécopie>
+      <Email>sie.mulhouse-plaine@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+         <Note>Accueil ouvert également sur rendez-vous. Fermé les mardi et les jeudi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

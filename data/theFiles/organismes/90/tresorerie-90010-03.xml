@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-90010-03" codeInsee="90010" dateMiseAJour="2016-02-22"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Belfort Territoire Habitat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>44 bis rue Parant</Ligne>
+      <CodePostal>90005</CodePostal>
+      <NomCommune>Belfort Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.638383</Latitude>
+         <Longitude>6.8739556</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 28 18 16</Téléphone>
+      <Télécopie>+33 3 84 28 18 17</Télécopie>
+      <Email>t090011@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Fermé mercredi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

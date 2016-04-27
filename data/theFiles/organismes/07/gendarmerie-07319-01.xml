@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-07319-01" codeInsee="07319" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du Teil</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route Nationale 102</Ligne>
+      <Ligne>Quartier Champeaux</Ligne>
+      <CodePostal>07400</CodePostal>
+      <NomCommune>Le Teil</NomCommune>
+      <Localisation>
+         <Latitude>44.5520286</Latitude>
+         <Longitude>4.6702686</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 49 00 10</Téléphone>
+      <Télécopie>+33 4 75 49 59 75</Télécopie>
+      <Email>cob.le-teil@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

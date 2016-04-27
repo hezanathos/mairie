@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-48140-01" codeInsee="48140" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Chély-d'Apcher</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>49 rue du Docteur-Yves-Dalle</Ligne>
+      <Ligne>Quartier Bellevue</Ligne>
+      <CodePostal>48200</CodePostal>
+      <NomCommune>Saint-Chély-d'Apcher</NomCommune>
+      <Localisation>
+         <Latitude>44.801726</Latitude>
+         <Longitude>3.275227</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 31 01 86</Téléphone>
+      <Télécopie>+33 4 66 31 86 45</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

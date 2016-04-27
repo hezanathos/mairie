@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="71076" dateMiseAJour="2015-08-31" id="bav-71076-01" idPresta="51b08cd4b473e41478001182" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Chalon sur Saone</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue Emiland-Menand</Ligne>
+        <CodePostal>71100</CodePostal>
+        <NomCommune>CHALON SUR SAONE</NomCommune>
+        <Localisation>
+            <Latitude>46.784605</Latitude>
+            <Longitude>4.853629</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 85 93 77 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

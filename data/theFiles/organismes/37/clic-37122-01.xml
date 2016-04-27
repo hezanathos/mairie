@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-37122-01" codeInsee="37122" dateMiseAJour="2015-07-13"
+           pivotLocal="clic"
+           idPresta="Clic-1141">
+   <Nom>Point d'information local dédié aux personnes âgées - Joué-les-Tours</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue de la Rotière</Ligne>
+      <Ligne>Maison Départementale de la Solidarité</Ligne>
+      <CodePostal>37122</CodePostal>
+      <NomCommune>Joué-les-Tours</NomCommune>
+      <Localisation>
+         <Latitude>47.3478</Latitude>
+         <Longitude>0.663117</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 73 37 37</Téléphone>
+      <Url>http://www.touraine-reperage.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33424-01" codeInsee="33424" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Laurent-Médoc</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Docteur-Destouesse</Ligne>
+      <CodePostal>33112</CodePostal>
+      <NomCommune>Saint-Laurent-Médoc</NomCommune>
+      <Localisation>
+         <Latitude>45.1487671</Latitude>
+         <Longitude>-0.8224004</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 75 14 90</Téléphone>
+      <Télécopie>+33 5 57 75 14 98</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

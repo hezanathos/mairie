@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-35238-01" codeInsee="35238" dateMiseAJour="2015-05-19"
+           pivotLocal="epci">
+   <Nom>Rennes Métropole</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 avenue Henri-Fréville</Ligne>
+      <CodePostal>35207</CodePostal>
+      <NomCommune>Rennes Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>48.0879325867</Latitude>
+         <Longitude>-1.67384600639</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 86 60 60</Téléphone>
+      <Télécopie>+33 2 99 86 61 61</Télécopie>
+      <Email>metropole@rennesmetropole.fr</Email>
+      <Url>http://www.rennes-metropole.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

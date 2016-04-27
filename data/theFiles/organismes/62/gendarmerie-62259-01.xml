@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-62259-01" codeInsee="62259" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Croisilles</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1,, rue Léo-Ferré</Ligne>
+      <CodePostal>62128</CodePostal>
+      <NomCommune>Croisilles</NomCommune>
+      <Localisation>
+         <Latitude>50.1986002</Latitude>
+         <Longitude>2.8793265</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 48 91 17</Téléphone>
+      <Télécopie>+33 3 21 48 98 89</Télécopie>
+      <Email>cob.vis-en-artois@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

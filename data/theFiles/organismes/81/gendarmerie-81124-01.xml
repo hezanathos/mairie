@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-81124-01" codeInsee="81124" dateMiseAJour="2013-08-27"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lacaune</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Flandre-Dunkerque</Ligne>
+      <CodePostal>81230</CodePostal>
+      <NomCommune>Lacaune</NomCommune>
+      <Localisation>
+         <Latitude>43.7075483</Latitude>
+         <Longitude>2.7005549</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 37 63 17</Téléphone>
+      <Télécopie>+33 5 63 37 63 19</Télécopie>
+      <Email>cob.lacaune@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

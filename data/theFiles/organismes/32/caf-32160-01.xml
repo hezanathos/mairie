@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-32160-01" codeInsee="32160" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Gers - accueil de L'Isle-Jourdain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Avenue du Courdé</Ligne>
+      <Ligne>Centre social</Ligne>
+      <CodePostal>32600</CodePostal>
+      <NomCommune>L'Isle-Jourdain</NomCommune>
+      <Localisation>
+         <Latitude>43.6108096</Latitude>
+         <Longitude>1.0883944</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Gers</Ligne>
+      <Ligne>11 rue de Châteaudun</Ligne>
+      <CodePostal>32013</CodePostal>
+      <NomCommune>Auch Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 32 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Permanence du technicien conseil le jeudi de 13h30 à 17h et sur rendez-vous de 11h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

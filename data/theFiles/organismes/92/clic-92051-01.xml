@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-92051-01" codeInsee="92051" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-825">
+   <Nom>Point d'information local dédié aux personnes âgées - Neuilly-sur-Seine</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Espace Solidarités Séniors</Ligne>
+      <Ligne>96 avenue Achille-Peretti</Ligne>
+      <CodePostal>92200</CodePostal>
+      <NomCommune>Neuilly-sur-Seine</NomCommune>
+      <Localisation>
+         <Latitude>48.884743</Latitude>
+         <Longitude>2.26941</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 40 88 87 07</Téléphone>
+      <Email>clic@ville-neuillysurseine.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-62826-01" codeInsee="62826" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse du Touquet-Paris-Plage</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Aéroport international</Ligne>
+      <Ligne>Centre d'affaires du Touquet</Ligne>
+      <CodePostal>62520</CodePostal>
+      <NomCommune>Le Touquet-Paris-Plage</NomCommune>
+      <Localisation>
+         <Latitude>50.5270139</Latitude>
+         <Longitude>1.5871237</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 06 85 92</Téléphone>
+      <Télécopie>+33 3 21 09 76 59</Télécopie>
+      <Email>letouquetcentredaffaires@letouquet.com</Email>
+      <Url>http://www.crij-npdc.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

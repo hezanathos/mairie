@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="63113" dateMiseAJour="2015-11-03" id="permanence_juridique-63113-03" idPresta="4cac9e60293594648a0003a4" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Clermont Ferrand</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre associatif Jean Richepin</Ligne>
+        <Ligne>12 rue Jean Richepin</Ligne>
+        <CodePostal>63000</CodePostal>
+        <NomCommune>CLERMONT FERRAND</NomCommune>
+        <Localisation>
+            <Latitude>45.781629</Latitude>
+            <Longitude>3.087922</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 73 42 63 63</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-17347-01" codeInsee="17347" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Saint-Jean-d'Angély</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue du Jeu-de-Billes</Ligne>
+      <Ligne>BP 83</Ligne>
+      <CodePostal>17400</CodePostal>
+      <NomCommune>Saint-Jean-d'Angély</NomCommune>
+      <Localisation>
+         <Latitude>45.9449996948</Latitude>
+         <Longitude>-0.524851024151</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 59 00 39</Téléphone>
+      <Télécopie>+33 5 46 59 13 14</Télécopie>
+      <Email>mission-locale-saintonge@milo-saintonge.asso.fr</Email>
+      <Url>http://www.milo-saintonge.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

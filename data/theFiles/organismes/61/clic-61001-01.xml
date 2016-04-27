@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-61001-01" codeInsee="61001" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-538">
+   <Nom>Point d'information local dédié aux personnes âgées - Alençon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Pays d'Alençon</Ligne>
+      <Ligne>13 rue de l'Isle</Ligne>
+      <Ligne>Coordination Entour'Âge</Ligne>
+      <CodePostal>61000</CodePostal>
+      <NomCommune>Alençon</NomCommune>
+      <Localisation>
+         <Latitude>48.427439</Latitude>
+         <Longitude>0.090061</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 29 01 14</Téléphone>
+      <Email>alencon.clic@laposte.net</Email>
+      <Url>http://www.clic-pays-alencon.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

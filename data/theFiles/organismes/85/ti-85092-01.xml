@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="85092" dateMiseAJour="2014-01-28" id="ti-85092-01" idPresta="4cac9e62293594648a0006c0" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Fontenay-le-Comte</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>26 rue Rabelais</Ligne>
+        <Ligne>BP 49</Ligne>
+        <CodePostal>85201</CodePostal>
+        <NomCommune>FONTENAY LE COMTE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.46781</Latitude>
+            <Longitude>-0.812517</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 51 69 00 33</Téléphone>
+        <Télécopie>+33 2 51 69 48 74</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

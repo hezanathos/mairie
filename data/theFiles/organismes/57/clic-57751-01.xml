@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-57751-01" codeInsee="57751" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-451">
+   <Nom>Point d'information local dédié aux personnes âgées - Woippy</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 route de Thionville</Ligne>
+      <Ligne>Centre local d'information et de coordination Moselle Metz Campagne</Ligne>
+      <CodePostal>57140</CodePostal>
+      <NomCommune>Woippy</NomCommune>
+      <Localisation>
+         <Latitude>49.175167</Latitude>
+         <Longitude>6.161626</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 34 03 46</Téléphone>
+      <Email>clicmosellemetzcampagne@cg57.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

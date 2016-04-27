@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-38053-01" codeInsee="38053" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Bourgoin-Jallieu</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue de l'Etissey</Ligne>
+      <CodePostal>38300</CodePostal>
+      <NomCommune>Bourgoin-Jallieu</NomCommune>
+      <Localisation>
+         <Latitude>45.5946314</Latitude>
+         <Longitude>5.2717692</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 43 80 17</Téléphone>
+      <Télécopie>+33 4 37  03 35 13</Télécopie>
+      <Email>bta.bourgoin-jallieu@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

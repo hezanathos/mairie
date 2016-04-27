@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-42147-01" codeInsee="42147" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Montbrison</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 place des Comtes-de-Forez</Ligne>
+      <CodePostal>42600</CodePostal>
+      <NomCommune>Montbrison</NomCommune>
+      <Localisation>
+         <Latitude>45.604121</Latitude>
+         <Longitude>4.068139</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 58 12 88</Téléphone>
+      <Télécopie>+33 4 77 96 69 20</Télécopie>
+      <Email>bta.montbrison@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-76114-02" codeInsee="76114" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Bolbec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Fontaine - Martel</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <Ligne>41 rue du Maréchal-de-Lattre-de-Tassigny</Ligne>
+      <CodePostal>76210</CodePostal>
+      <NomCommune>Bolbec</NomCommune>
+      <Localisation>
+         <Latitude>49.5717658997</Latitude>
+         <Longitude>0.470506995916</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 31 55 80</Téléphone>
+      <Télécopie>+33 2 32 84 09 97</Télécopie>
+      <Url>http://www.seinemaritime.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

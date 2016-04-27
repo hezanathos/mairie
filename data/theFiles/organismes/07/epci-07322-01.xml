@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-07322-01" codeInsee="07322" dateMiseAJour="2015-08-18"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Ardèche des Sources et Volcans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Château de Blou</Ligne>
+      <CodePostal>07330</CodePostal>
+      <NomCommune>Thueyts</NomCommune>
+      <Localisation>
+         <Latitude>44.675752</Latitude>
+         <Longitude>4.221803</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 89 01 48</Téléphone>
+      <Email>cdc@ardechedessourcesetvolcans.com</Email>
+      <Url>http://www.ardechedessourcesetvolcans.com</Url>
+   </CoordonnéesNum>
+</Organisme>

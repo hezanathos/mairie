@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-19118-01" codeInsee="19118" dateMiseAJour="2015-08-11"
+           pivotLocal="clic"
+           idPresta="clic-156">
+   <Nom>Point d'information local dédié aux personnes âgées - Le Lonzac</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Instance de Coordination de l'Autonomie</Ligne>
+      <Ligne>4 rue Antoine-Deshors</Ligne>
+      <CodePostal>19470</CodePostal>
+      <NomCommune>Le Lonzac</NomCommune>
+      <Localisation>
+         <Latitude>45.46997</Latitude>
+         <Longitude>1.739215</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 98 89 33</Téléphone>
+      <Email>icacantondetreignac@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

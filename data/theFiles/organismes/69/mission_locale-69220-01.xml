@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-69220-01" codeInsee="69220" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Nord-Ouest-Rhône</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Victor-Hugo</Ligne>
+      <CodePostal>69170</CodePostal>
+      <NomCommune>Tarare</NomCommune>
+      <Localisation>
+         <Latitude>45.7389984131</Latitude>
+         <Longitude>4.46575021744</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 05 00 30</Téléphone>
+      <Télécopie>+33 4 74 05 37 40</Télécopie>
+      <Email>contact@missionlocale.org</Email>
+      <Url>http://www.missionlocale.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="15:30:00" fin="17:00:00"/>
+         <Note>Permanences hebdomaires du conseiller de la mission locale à L'Arbresle, Lentilly, Sain Bel, Saint-Laurent-de-Chamousset, Amplepuis, Thizy-les-Bourgs, Cours-la-Ville. Se renseigner par téléphone préalablement.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

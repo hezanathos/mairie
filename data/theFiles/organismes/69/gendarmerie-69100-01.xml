@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-69100-01" codeInsee="69100" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie d'Irigny</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, avenue Jean Gotail</Ligne>
+      <CodePostal>69540</CodePostal>
+      <NomCommune>Irigny</NomCommune>
+      <Localisation>
+         <Latitude>45.6699879</Latitude>
+         <Longitude>4.8245712</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 50 30 33</Téléphone>
+      <Télécopie>+33 4 72 66 18 69</Télécopie>
+      <Email>bta.irigny@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59309-01" codeInsee="59309" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Hondschoote</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, avenue de l'Europe</Ligne>
+      <CodePostal>59122</CodePostal>
+      <NomCommune>Hondschoote</NomCommune>
+      <Localisation>
+         <Latitude>50.976268</Latitude>
+         <Longitude>2.5819745</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 68 30 04</Téléphone>
+      <Télécopie>+33 3 28 68 56 35</Télécopie>
+      <Email>cob.ghyvelde@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

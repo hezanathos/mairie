@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="14762" dateMiseAJour="2015-11-03" id="permanence_juridique-14762-01" idPresta="4cac9e5e293594648a00017a" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Vire</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Bibliothèque Henry Lesage</Ligne>
+        <Ligne>14 rue Chênedollé</Ligne>
+        <CodePostal>14500</CodePostal>
+        <NomCommune>VIRE</NomCommune>
+        <Localisation>
+            <Latitude>48.8389865</Latitude>
+            <Longitude>-0.8908234</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 31 68 59 28</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

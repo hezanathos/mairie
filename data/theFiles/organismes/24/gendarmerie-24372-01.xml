@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-24372-01" codeInsee="24372" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saint-Astier</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 rue Paul-Bert</Ligne>
+      <CodePostal>24110</CodePostal>
+      <NomCommune>Saint-Astier</NomCommune>
+      <Localisation>
+         <Latitude>45.1399721</Latitude>
+         <Longitude>0.5203854</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 03 81 40</Téléphone>
+      <Télécopie>+33 5 53 03 81 49</Télécopie>
+      <Email>bta.st-astier@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

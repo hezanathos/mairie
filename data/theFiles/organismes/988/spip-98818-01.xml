@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="98818" dateMiseAJour="2014-12-08" id="spip-98818-01" idPresta="4d2575682935941a920000b0" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de Nouvelle-Calédonie</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue capitaine Bois Nouville</Ligne>
+        <Ligne>BP 164</Ligne>
+        <CodePostal>98845</CodePostal>
+        <NomCommune>NOUMEA CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>-22.2705838529</Latitude>
+            <Longitude>166.426144433</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+687 232 060</Téléphone>
+        <Télécopie>+687 232 068</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

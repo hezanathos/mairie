@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="inspection_academique-05061-01" codeInsee="05061"
+           dateMiseAJour="2016-03-10"
+           pivotLocal="inspection_academique">
+   <Nom>Direction des services départementaux de l'Éducation nationale, ex-Inspection académique - Hautes-Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 avenue Maréchal-Foch</Ligne>
+      <Ligne>BP 1001</Ligne>
+      <CodePostal>05010</CodePostal>
+      <NomCommune>Gap Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.5638999939</Latitude>
+         <Longitude>6.0887298584</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 56 57 57</Téléphone>
+      <Télécopie>+33 4 92 56 57 58</Télécopie>
+      <Email>ce.ia05@ac-aix-marseille.fr</Email>
+      <Url>http://www.ac-aix-marseille.fria05</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

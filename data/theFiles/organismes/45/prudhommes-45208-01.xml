@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="45208" dateMiseAJour="2014-01-28" id="prudhommes-45208-01" idPresta="4cac9e6a293594648a0016f1" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Montargis</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>84 rue du Général Leclerc</Ligne>
+        <CodePostal>45200</CodePostal>
+        <NomCommune>MONTARGIS</NomCommune>
+        <Localisation>
+            <Latitude>47.9988918</Latitude>
+            <Longitude>2.7297794</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 38 85 49 41</Téléphone>
+        <Télécopie>+33 2 38 85 28 31</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

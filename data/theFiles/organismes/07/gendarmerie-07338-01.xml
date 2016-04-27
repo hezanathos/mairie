@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-07338-01" codeInsee="07338" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vernoux-en-Vivarais</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 avenue Mirabel-Chambaud</Ligne>
+      <CodePostal>07240</CodePostal>
+      <NomCommune>Vernoux-en-Vivarais</NomCommune>
+      <Localisation>
+         <Latitude>44.8989366</Latitude>
+         <Longitude>4.6514645</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 58 11 55</Téléphone>
+      <Télécopie>+33 4 75 58 37 64</Télécopie>
+      <Email>cob.lamastre@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-91027-01" codeInsee="91027" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-817">
+   <Nom>Point d'information local dédié aux personnes âgées - Athis-Mons</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Les Portes de l'Essonne</Ligne>
+      <Ligne>3 rue Lefèvre-Utile</Ligne>
+      <Ligne>BP 300</Ligne>
+      <CodePostal>91200</CodePostal>
+      <NomCommune>Athis-Mons</NomCommune>
+      <Localisation>
+         <Latitude>48.705524</Latitude>
+         <Longitude>2.395604</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 57 80 92</Téléphone>
+      <Email>clic@portesessonne.fr</Email>
+      <Url>http://www.portesessonne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

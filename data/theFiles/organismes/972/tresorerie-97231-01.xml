@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-97231-01" codeInsee="97231" dateMiseAJour="2016-03-07"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie mixte des Trois-Ilets</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Pointe Desgrottes</Ligne>
+      <CodePostal>97229</CodePostal>
+      <NomCommune>Les Trois-Ilets</NomCommune>
+      <Localisation>
+         <Latitude>14.538434</Latitude>
+         <Longitude>-61.03572</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 68 31 10</Téléphone>
+      <Télécopie>+596 5 96 68 42 24</Télécopie>
+      <Email>t103011@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:15:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

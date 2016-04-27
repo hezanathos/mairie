@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-16028-01" codeInsee="16028" dateMiseAJour="2009-10-02" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Barbezieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 Rue Trarieux</Ligne>
+      <CodePostal>16300</CodePostal>
+      <NomCommune>BARBEZIEUX ST HILAIRE</NomCommune>
+      <Localisation>
+         <Latitude>45.4714012146</Latitude>
+         <Longitude>-0.150171995163</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 78 58 25</Téléphone>
+      <Url>http://www.cidj.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

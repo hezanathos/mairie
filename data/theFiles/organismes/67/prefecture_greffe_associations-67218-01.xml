@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-67218-01" codeInsee="67218"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations d'Illkirch-Graffenstaden</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Tribunal d'instance d'Illkirch-Graffenstaden</Ligne>
+      <Ligne>Registre des associations</Ligne>
+      <Ligne>144 A, route de Lyon</Ligne>
+      <CodePostal>67401</CodePostal>
+      <NomCommune>Illkirch-Graffenstaden Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.5297408</Latitude>
+         <Longitude>7.7112717</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 55 94 40</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Uniquement sur rendez-vous pour les dépôts Créations d'associations</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

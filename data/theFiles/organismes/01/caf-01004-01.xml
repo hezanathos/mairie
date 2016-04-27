@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-01004-01" codeInsee="01004" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de l'Ain - accueil d'Ambérieu-en-Bugey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre de paiement de la caisse primaire d'assurance maladie</Ligne>
+      <Ligne>46 rue Aristide-Briand</Ligne>
+      <CodePostal>01500</CodePostal>
+      <NomCommune>Ambérieu-en-Bugey</NomCommune>
+      <Localisation>
+         <Latitude>45.958168</Latitude>
+         <Longitude>5.3539725</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>4 rue Aristide-Briand</Ligne>
+      <Ligne>Caisse d'allocations familiales de l'Ain</Ligne>
+      <Ligne>CS 50314</Ligne>
+      <CodePostal>01014</CodePostal>
+      <NomCommune>Bourg-en-Bresse Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.2106268</Latitude>
+         <Longitude>5.2247334</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 01 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

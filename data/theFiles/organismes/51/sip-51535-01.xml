@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-51535-01" codeInsee="51535" dateMiseAJour="2015-07-08" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Sézanne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue des Récollets</Ligne>
+      <Ligne>BP 103</Ligne>
+      <CodePostal>51122</CodePostal>
+      <NomCommune>Sézanne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7225921</Latitude>
+         <Longitude>3.7258304</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 80 50 33</Téléphone>
+      <Télécopie>+33 3 26 80 68 80</Télécopie>
+      <Email>sip-sie.sezanne@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

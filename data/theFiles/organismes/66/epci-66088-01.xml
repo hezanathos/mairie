@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-66088-01" codeInsee="66088" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Roussillon-Conflent</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 05</Ligne>
+      <Ligne>1, rue Michel-Blanc</Ligne>
+      <CodePostal>66130</CodePostal>
+      <NomCommune>Ille-sur-Tet</NomCommune>
+      <Localisation>
+         <Latitude>42.6699934</Latitude>
+         <Longitude>2.6225884</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 57 86 85</Téléphone>
+      <Télécopie>+33 4 68 92 80 70</Télécopie>
+      <Email>accueil@roussillon-conflent.fr</Email>
+      <Url>http://www.roussillon-conflent.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

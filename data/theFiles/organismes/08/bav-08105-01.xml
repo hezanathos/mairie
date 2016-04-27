@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="08105" dateMiseAJour="2012-12-03" id="bav-08105-01" idPresta="51b08cc7b473e41478000e9a" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Charleville Mézières</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>9 Esplanade du Palais de Justice</Ligne>
+        <Ligne>BP 11</Ligne>
+        <CodePostal>08011</CodePostal>
+        <NomCommune>CHARLEVILLE MEZIERES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.760994</Latitude>
+            <Longitude>4.721555</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 24 57 69 00</Téléphone>
+        <Télécopie>+33 3 24 57 69 60</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-30189-01" codeInsee="30189" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Nîmes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue de l'Horloge</Ligne>
+      <Ligne>Office Ressources Loisirs Jeunesse</Ligne>
+      <Ligne>Service Jeunesse</Ligne>
+      <CodePostal>30000</CodePostal>
+      <NomCommune>Nîmes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.8386984</Latitude>
+         <Longitude>4.3579455</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 27 76 86</Téléphone>
+      <Télécopie>+33 4 66 27 76 90</Télécopie>
+      <Email>orloj@ville-nimes.fr</Email>
+      <Url>http://www.nimes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

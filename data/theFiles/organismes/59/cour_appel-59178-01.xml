@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59178" dateMiseAJour="2014-10-06" id="cour_appel-59178-01" idPresta="4cac9e60293594648a000346" pivotLocal="cour_appel">
+    <Nom>Cour d&#39;appel de Douai</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place Charles de Pollinchove</Ligne>
+        <Ligne>BP 705</Ligne>
+        <CodePostal>59507</CodePostal>
+        <NomCommune>DOUAI CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>50.370402</Latitude>
+            <Longitude>3.078225</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 27 93 27 00</Téléphone>
+        <Télécopie>+33 3 33 27 13 01</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

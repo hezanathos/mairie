@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="78551" dateMiseAJour="2014-01-28" id="prudhommes-78551-01" idPresta="4cac9e6a293594648a001708" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Saint-Germain-en-Laye</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue Stéphane Mony</Ligne>
+        <CodePostal>78100</CodePostal>
+        <NomCommune>ST GERMAIN EN LAYE</NomCommune>
+        <Localisation>
+            <Latitude>48.899478</Latitude>
+            <Longitude>2.074866</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 34 51 94 64</Téléphone>
+        <Télécopie>+33 1 34 51 66 03</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

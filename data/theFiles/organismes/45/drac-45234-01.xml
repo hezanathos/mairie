@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="drac-45234-01" codeInsee="45234" dateMiseAJour="2015-08-12"
+           pivotLocal="drac">
+   <Nom>Direction régionale des affaires culturelles - Centre-Val de Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de la Manufacture</Ligne>
+      <CodePostal>45043</CodePostal>
+      <NomCommune>Orléans Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>47.9050936</Latitude>
+         <Longitude>1.9157297</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 78 85 00</Téléphone>
+      <Télécopie>+33 2 38 78 85 99</Télécopie>
+      <Email>drac.centre@culture.gouv.fr</Email>
+      <Url>http://www.culturecommunication.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-50041-01" codeInsee="50041" dateMiseAJour="2015-05-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Beaumont-Hague</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 rue d'Aurigny</Ligne>
+      <CodePostal>50440</CodePostal>
+      <NomCommune>Beaumont-Hague</NomCommune>
+      <Localisation>
+         <Latitude>49.6642664</Latitude>
+         <Longitude>-1.8449697</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 01 89 30</Téléphone>
+      <Télécopie>+33 2 33 01 89 32</Télécopie>
+      <Email>bta.beaumont-hague@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

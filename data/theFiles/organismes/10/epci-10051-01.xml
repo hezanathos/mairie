@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-10051-01" codeInsee="10051" dateMiseAJour="2015-08-20"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Bouilly Mogne Aumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42 bis rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>10320</CodePostal>
+      <NomCommune>Bouilly</NomCommune>
+      <Localisation>
+         <Latitude>48.1938225</Latitude>
+         <Longitude>3.9987897</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 80 09 52</Téléphone>
+      <Email>http://www.cc-bouillymogneaumont.fr/fr/nous-contacter</Email>
+      <Url>http://www.cc-bouillymogneaumont.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

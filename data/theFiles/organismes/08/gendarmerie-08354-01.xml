@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-08354-01" codeInsee="08354" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Raucourt-et-Flaba</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue des Marronniers</Ligne>
+      <CodePostal>08450</CodePostal>
+      <NomCommune>Raucourt-et-Flaba</NomCommune>
+      <Localisation>
+         <Latitude>49.6044822</Latitude>
+         <Longitude>4.9572869</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 26 71 20</Téléphone>
+      <Télécopie>+33 3 24 26 92 34</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

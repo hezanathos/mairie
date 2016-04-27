@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-97311-01" codeInsee="97311" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Guyane - accueil de Saint-Laurent-du-Maroni</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>1 avenue Félix-Éboué</Ligne>
+      <CodePostal>97320</CodePostal>
+      <NomCommune>Saint-Laurent-du-Maroni</NomCommune>
+      <Localisation>
+         <Latitude>5.4973579</Latitude>
+         <Longitude>-54.0318901</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Marais Leblond</Ligne>
+      <Ligne>BP 5009</Ligne>
+      <Ligne>Caisse d'allocations familiales de Guyane</Ligne>
+      <CodePostal>97305</CodePostal>
+      <NomCommune>Cayenne Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 97 30</Téléphone>
+      <Télécopie>+594 5 94 31 59 89</Télécopie>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous les jeudis et vendredis.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

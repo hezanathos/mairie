@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-90033-01" codeInsee="90033" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Delle</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Eugène Claret</Ligne>
+      <CodePostal>90100</CodePostal>
+      <NomCommune>Delle</NomCommune>
+      <Localisation>
+         <Latitude>47.5071499</Latitude>
+         <Longitude>7.0039863</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 36 00 37</Téléphone>
+      <Télécopie>+33 3 84 36 90 97</Télécopie>
+      <Email>cob.delle@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

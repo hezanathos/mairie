@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-63353-01" codeInsee="63353" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Germain-L'Herm</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Fournols</Ligne>
+      <CodePostal>63630</CodePostal>
+      <NomCommune>Saint-Germain-l'Herm</NomCommune>
+      <Localisation>
+         <Latitude>45.458094</Latitude>
+         <Longitude>3.54216</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 72 00 02</Téléphone>
+      <Télécopie>+33 4 73 72 70 62</Télécopie>
+      <Email>cob.st-germain-l-herm@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

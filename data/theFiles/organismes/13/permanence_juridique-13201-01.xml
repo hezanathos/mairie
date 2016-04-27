@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13201" dateMiseAJour="2015-11-03" id="permanence_juridique-13201-01" idPresta="4cac9e5e293594648a00015d" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats Jeunes 16-25 ans</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Régional d’Information Jeunesse (CRIJ)</Ligne>
+        <Ligne>96 La Canebière</Ligne>
+        <CodePostal>13001</CodePostal>
+        <NomCommune>MARSEILLE</NomCommune>
+        <Localisation>
+            <Latitude>43.298608</Latitude>
+            <Longitude>5.384017</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 91 24 33 50</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

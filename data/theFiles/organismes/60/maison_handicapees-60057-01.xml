@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="maison_handicapees-60057-01" codeInsee="60057" dateMiseAJour="2015-04-19"
+           pivotLocal="maison_handicapees">
+   <Nom>Maison départementale des personnes handicapées (MDPH) - Oise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace Saint-Quentin</Ligne>
+      <Ligne>1 rue des Filatures</Ligne>
+      <Ligne>CS 10628</Ligne>
+      <CodePostal>60006</CodePostal>
+      <NomCommune>Beauvais Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.4301986694</Latitude>
+         <Longitude>2.070499897</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro vert : appel et service gratuits depuis un fixe ou un mobile.">0800 89 44 21</Téléphone>
+      <Télécopie>+33 3 44 15 05 32</Télécopie>
+      <Email>contact@mdph.cg60.fr</Email>
+      <Url>http://www.mdph.oise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

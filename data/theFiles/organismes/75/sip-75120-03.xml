@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-75120-03" codeInsee="75120" dateMiseAJour="2015-02-24" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Paris 20e arrondissement Saint-Fargeau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue Paganini</Ligne>
+      <CodePostal>75972</CodePostal>
+      <NomCommune>Paris Cedex 20</NomCommune>
+      <Localisation>
+         <Latitude>48.8512797</Latitude>
+         <Longitude>2.4118796</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 44 64 51 30</Téléphone>
+      <Télécopie>+33 1 44 64 53 12</Télécopie>
+      <Email>sip.paris-20e-saint-fargeau@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

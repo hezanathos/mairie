@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdc-29232-01" codeInsee="29232" dateMiseAJour="2014-10-14" pivotLocal="fdc">
+   <Nom>Fédération départementale des chasseurs - Finistère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative de Ty-Nay</Ligne>
+      <Ligne>18, rue Anne-Robert-Jacques-Turgot</Ligne>
+      <CodePostal>29337</CodePostal>
+      <NomCommune>Quimper  Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.0157969112</Latitude>
+         <Longitude>-4.09177422523</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 95 85 35</Téléphone>
+      <Télécopie>+33 2 98 95 96 64</Télécopie>
+      <Email>federation.chasseurs29@fdc29.com</Email>
+      <Url>http://www.chasserenbretagne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

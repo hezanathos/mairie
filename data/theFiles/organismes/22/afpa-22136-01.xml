@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-22136-01" codeInsee="22136" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Loudéac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZA de Saint-Bugan</Ligne>
+      <Ligne>Rue Châteaubriand</Ligne>
+      <CodePostal>22600</CodePostal>
+      <NomCommune>Loudéac</NomCommune>
+      <Localisation>
+         <Latitude>48.1851883</Latitude>
+         <Longitude>-2.7674132</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 2 96 66 14 10</Télécopie>
+      <Url>http://www.bretagne.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

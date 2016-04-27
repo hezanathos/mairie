@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-59009-02" codeInsee="59009" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Villeneuve-d'Ascq</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier la Cousinerie</Ligne>
+      <Ligne>58 chemin des Crieurs</Ligne>
+      <CodePostal>59650</CodePostal>
+      <NomCommune>Villeneuve-D'Ascq</NomCommune>
+      <Localisation>
+         <Latitude>50.6397136</Latitude>
+         <Longitude>3.1571461</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 19 11 55</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

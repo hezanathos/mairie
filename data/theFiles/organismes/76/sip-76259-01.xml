@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-76259-01" codeInsee="76259" dateMiseAJour="2015-07-21" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Fécamp</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue Jean-Louis-Leclerc</Ligne>
+      <CodePostal>76400</CodePostal>
+      <NomCommune>Fécamp</NomCommune>
+      <Localisation>
+         <Latitude>49.7553367</Latitude>
+         <Longitude>0.3769206</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 10 48 00</Téléphone>
+      <Email>sip-sie.fecamp@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

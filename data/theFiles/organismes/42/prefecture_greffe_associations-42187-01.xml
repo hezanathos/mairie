@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-42187-01" codeInsee="42187"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Roanne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Joseph-Séchelette</Ligne>
+      <Ligne>Bureau des libertés et de la sécurité publique</Ligne>
+      <Ligne>Sous-préfecture de Roanne</Ligne>
+      <CodePostal>42028</CodePostal>
+      <NomCommune>Roanne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.0351952</Latitude>
+         <Longitude>4.0700436</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 23 64 64</Téléphone>
+      <Télécopie>+33 4 77 71 42 78</Télécopie>
+      <Email>sous-prefecture-de-roanne@loire.pref.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

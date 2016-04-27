@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-82121-01" codeInsee="82121" dateMiseAJour="2014-08-06"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale pour l'insertion professionnelle et sociale des jeunes de Montauban</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, allée de l'Empereur</Ligne>
+      <CodePostal>82000</CodePostal>
+      <NomCommune>Montauban</NomCommune>
+      <Localisation>
+         <Latitude>44.016079</Latitude>
+         <Longitude>1.35295</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 31 78 00 00</Téléphone>
+      <Télécopie>+33 5 63 03 85 40</Télécopie>
+      <Email>montauban@missionlocale82.org</Email>
+      <Url>http://www.missionlocale82.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Accueil possible sur les permanences à la maison des associations et à Beausoleil</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

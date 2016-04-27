@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="73007" dateMiseAJour="2014-01-28" id="centre_penitentiaire-73007-01" idPresta="4eb263332935944ef50001b6" pivotLocal="centre_penitentiaire">
+    <Nom>Centre pénitentiaire d&#39;Aiton</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Les Gabelins</Ligne>
+        <Ligne>BP2</Ligne>
+        <CodePostal>73221</CodePostal>
+        <NomCommune>AIGUEBELLE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.536006</Latitude>
+            <Longitude>6.304251</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 79 36 27 08</Téléphone>
+        <Télécopie>+33 4 79 36 34 57</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

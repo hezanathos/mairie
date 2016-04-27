@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-74056-01" codeInsee="74056" dateMiseAJour="2015-02-11"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Chamonix-Mont-Blanc</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>164 avenue de Courmayeur</Ligne>
+      <Ligne>CS 30120</Ligne>
+      <CodePostal>74403</CodePostal>
+      <NomCommune>Chamonix Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.9033794</Latitude>
+         <Longitude>6.856169</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 53 03 06</Téléphone>
+      <Email>t074012@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Accueil téléphonique de 8h30 à 12h30 et 13h30 à 16h30</Commentaire>
+</Organisme>

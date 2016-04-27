@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-61258-01" codeInsee="61258" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie du Mêle-sur-Sarthe</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue de Falkenstein</Ligne>
+      <CodePostal>61170</CodePostal>
+      <NomCommune>Mêle-sur-Sarthe</NomCommune>
+      <Localisation>
+         <Latitude>48.510204</Latitude>
+         <Longitude>0.353892</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 82 28 60</Téléphone>
+      <Télécopie>+33 2 33 82 28 64</Télécopie>
+      <Email>cob.sees@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

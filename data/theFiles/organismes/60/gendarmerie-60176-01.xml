@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-60176-01" codeInsee="60176" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Crépy-en-Valois</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue des Érables</Ligne>
+      <CodePostal>60800</CodePostal>
+      <NomCommune>Crépy-en-Valois</NomCommune>
+      <Localisation>
+         <Latitude>49.2234208</Latitude>
+         <Longitude>2.8992484</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 94 50 17</Téléphone>
+      <Télécopie>+33 3 44 94 50 19</Télécopie>
+      <Email>cob.crepy-en-valois@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

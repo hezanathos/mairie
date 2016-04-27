@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-74241-01" codeInsee="74241" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Jeoire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>85, avenue de Tremercier</Ligne>
+      <CodePostal>74490</CodePostal>
+      <NomCommune>Saint-Jeoire</NomCommune>
+      <Localisation>
+         <Latitude>46.1375938</Latitude>
+         <Longitude>6.4617015</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 35 80 04</Téléphone>
+      <Télécopie>+33 4 50 35 37 93</Télécopie>
+      <Email>cob.marignier@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

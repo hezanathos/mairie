@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="84007" dateMiseAJour="2014-01-28" id="te-84007-01" idPresta="4cac9e87293594648a004cbe" pivotLocal="te">
+    <Nom>Tribunal pour enfants d&#39;Avignon</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>2 boulevard Limbert</Ligne>
+        <CodePostal>84078</CodePostal>
+        <NomCommune>AVIGNON CEDEX 9</NomCommune>
+        <Localisation>
+            <Latitude>43.944784</Latitude>
+            <Longitude>4.816066</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 32 74 75 06</Téléphone>
+        <Télécopie>+33 4 32 74 75 07</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

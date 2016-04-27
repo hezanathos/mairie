@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="12300" dateMiseAJour="2015-11-03" id="permanence_juridique-12300-01" idPresta="4f7d5fc72935943a46000022" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Villefranche de Rouergue</Nom>
+    <EditeurSource>Ministère de la Justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Bâtiment &#34;INTERACTIS&#34; - chemin de Treize Pierres</Ligne>
+        <CodePostal>12200</CodePostal>
+        <NomCommune>VILLEFRANCHE DE ROUERGUE</NomCommune>
+        <Localisation>
+            <Latitude>44.3593586889</Latitude>
+            <Longitude>2.02252663217</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Email>mailto:cdad-aveyron@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-77350-01" codeInsee="77350" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Ozoir-la-Ferrière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, avenue du Général-Leclerc</Ligne>
+      <CodePostal>77330</CodePostal>
+      <NomCommune>Ozoir-la-Ferrière</NomCommune>
+      <Localisation>
+         <Latitude>48.7650707</Latitude>
+         <Longitude>2.6726613</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 02 51 24</Téléphone>
+      <Télécopie>+33 1 60 02 56 93</Télécopie>
+      <Email>pij-ozoir@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Fermeture à 17h30 pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

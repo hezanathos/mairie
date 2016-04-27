@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-78158-01" codeInsee="78158" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d'agriculture - Île-de-France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 avenue Jeanne-d'Arc</Ligne>
+      <Ligne>BP 111</Ligne>
+      <CodePostal>78153</CodePostal>
+      <NomCommune>Le Chesnay Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8180007935</Latitude>
+         <Longitude>2.13235998154</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 23 42 00</Téléphone>
+      <Télécopie>+33 1 39 23 42 42</Télécopie>
+      <Email>accueil@ile-de-france.chambagri.fr</Email>
+      <Url>http://www.ile-de-france.chambagri.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:45:00" fin="16:15:00"/>
+         <Note>Accueil ouvert jusqu'à 16h20.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

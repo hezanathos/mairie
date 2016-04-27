@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-08490-02" codeInsee="08490" dateMiseAJour="2016-02-01"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie du Vouzinois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 40010</Ligne>
+      <Ligne>86 rue Gambetta</Ligne>
+      <CodePostal>08400</CodePostal>
+      <NomCommune>Vouziers</NomCommune>
+      <Localisation>
+         <Latitude>49.393206</Latitude>
+         <Longitude>4.701046</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 71 53 83</Téléphone>
+      <Télécopie>+33 3 24 30 26 99</Télécopie>
+      <Email>t008064@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

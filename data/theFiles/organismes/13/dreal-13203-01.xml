@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal-13203-01" codeInsee="13203" dateMiseAJour="2016-01-11"
+           pivotLocal="dreal">
+   <Nom>Direction régionale de l'environnement, de l'aménagement et du logement - Provence-Alpes-Côte-d'Azur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 70248</Ligne>
+      <Ligne>16 rue Antoine-Zattara</Ligne>
+      <CodePostal>13331</CodePostal>
+      <NomCommune>Marseille Cedex 3</NomCommune>
+      <Localisation>
+         <Latitude>43.303545</Latitude>
+         <Longitude>5.3775138</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 28 40 40</Téléphone>
+      <Télécopie>+33 4 91 50 09 54</Télécopie>
+      <Url>http://www.paca.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.paca.developpement-durable.gouv.fr/contactez-nous-a220.html?lang=fr&amp;forcer_lang=true</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

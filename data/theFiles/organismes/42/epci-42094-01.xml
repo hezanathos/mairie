@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-42094-01" codeInsee="42094" dateMiseAJour="2014-11-05"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Feurs-en-Forez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, avenue Jean-Jaurès</Ligne>
+      <CodePostal>42110</CodePostal>
+      <NomCommune>Feurs</NomCommune>
+      <Localisation>
+         <Latitude>45.744082</Latitude>
+         <Longitude>4.2282783</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 28 29 30</Téléphone>
+      <Télécopie>+33 4 77 28 29 40</Télécopie>
+      <Email>direction@feursenforez.fr</Email>
+      <Url>http://www.feursenforez.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

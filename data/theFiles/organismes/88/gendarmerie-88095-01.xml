@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88095-01" codeInsee="88095" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Châtenois</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>47, rue de Lorraine</Ligne>
+      <CodePostal>88170</CodePostal>
+      <NomCommune>Châtenois</NomCommune>
+      <Localisation>
+         <Latitude>48.3012884</Latitude>
+         <Longitude>5.8373726</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 94 50 17</Téléphone>
+      <Télécopie>+33 3 29 94 79 56</Télécopie>
+      <Email>cob.neufchateau@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

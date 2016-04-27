@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="agefiph-45234-01" codeInsee="45234" dateMiseAJour="2015-09-09"
+           pivotLocal="agefiph">
+   <Nom>Agefiph - Centre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>35 avenue de Paris</Ligne>
+      <Ligne>Abc 2</Ligne>
+      <CodePostal>45058</CodePostal>
+      <NomCommune>Orléans Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>47.9035606</Latitude>
+         <Longitude>1.9211189</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro vert : appel et service gratuits depuis un fixe ou un mobile.">0800 11 10 09</Téléphone>
+      <Télécopie>+33 2 38 78 04 41</Télécopie>
+      <Email>centre@agefiph.asso.fr</Email>
+      <Url>http://www.agefiph.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="18:00:00"/>
+         <Note>Accueil téléphonique uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

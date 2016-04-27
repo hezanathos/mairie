@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="87085" dateMiseAJour="2014-01-28" id="te-87085-01" idPresta="4cac9e6a293594648a001789" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Limoges</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Annexe du Palais de Justice</Ligne>
+        <Ligne>23 place Winston Churchill</Ligne>
+        <CodePostal>87031</CodePostal>
+        <NomCommune>LIMOGES CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>45.8312905</Latitude>
+            <Longitude>1.2542406</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 11 81 50</Téléphone>
+        <Télécopie>+33 5 55 79 40 82</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

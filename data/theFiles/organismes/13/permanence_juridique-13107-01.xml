@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13107" dateMiseAJour="2015-11-03" id="permanence_juridique-13107-01" idPresta="4cac9e5e293594648a00014f" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>place de Sévigné</Ligne>
+        <CodePostal>13109</CodePostal>
+        <NomCommune>SIMIANE COLLONGUE</NomCommune>
+        <Localisation>
+            <Latitude>43.4300609</Latitude>
+            <Longitude>5.4347678</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 94 91 91</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

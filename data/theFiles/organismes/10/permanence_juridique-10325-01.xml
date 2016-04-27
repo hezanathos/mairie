@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="10325" dateMiseAJour="2015-11-03" id="permanence_juridique-10325-01" idPresta="4cac9e5e293594648a0000f6" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Rosières-Près-Troyes</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>place Charles de Gaulle</Ligne>
+        <CodePostal>10430</CodePostal>
+        <NomCommune>ROSIERES PRES TROYES</NomCommune>
+        <Localisation>
+            <Latitude>48.2618184</Latitude>
+            <Longitude>4.0741885</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 82 48 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

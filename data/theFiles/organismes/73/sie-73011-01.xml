@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-73011-01" codeInsee="73011" dateMiseAJour="2013-05-29" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques d'Albertville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>148, rue Docteur-Jean-Baptiste-Mathias</Ligne>
+      <Ligne>BP 141</Ligne>
+      <CodePostal>73208</CodePostal>
+      <NomCommune>Albertville</NomCommune>
+      <Localisation>
+         <Latitude>45.675535</Latitude>
+         <Longitude>6.392726</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 10 01 00</Téléphone>
+      <Email>sip-sie.albertville@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

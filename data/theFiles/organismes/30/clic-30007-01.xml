@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-30007-01" codeInsee="30007" dateMiseAJour="2016-03-22"
+           pivotLocal="clic"
+           idPresta="clic-231">
+   <Nom>Point d'information local dédié aux personnes âgées - Alès</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>EPAPH/Service Personnes âgées-Personnes handicapées</Ligne>
+      <Ligne>CMS Les Volubilis</Ligne>
+      <Ligne>5 Rue du Bougès</Ligne>
+      <CodePostal>30100</CodePostal>
+      <NomCommune>Alès</NomCommune>
+      <Localisation>
+         <Latitude>44.139646</Latitude>
+         <Longitude>4.085021</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 25 42 88</Téléphone>
+      <Email>equipepaphales@gard.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

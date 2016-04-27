@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-75117-01" codeInsee="75117" dateMiseAJour="2014-07-09"
+           pivotLocal="greta">
+   <Nom>Greta METEHOR Paris - Métiers du tertiaire, de l'hôtellerie et de la restauration</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>École nationale de commerce</Ligne>
+      <Ligne>70, boulevard Bessières</Ligne>
+      <CodePostal>75847</CodePostal>
+      <NomCommune>Paris Cedex 17</NomCommune>
+      <Localisation>
+         <Latitude>48.8971407</Latitude>
+         <Longitude>2.3208752</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 44 85 85 40</Téléphone>
+      <Télécopie>+33 1 44 85 85 17</Télécopie>
+      <Email>info@gretametehor.com</Email>
+      <Url>http://www.gretametehor.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

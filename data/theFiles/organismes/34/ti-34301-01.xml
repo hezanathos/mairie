@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="34301" dateMiseAJour="2016-01-15" id="ti-34301-01" idPresta="4cac9e6a293594648a0017e4" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Sète</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>RDC Villa d&#39;Este</Ligne>
+        <Ligne>220 avenue Maréchal Juin</Ligne>
+        <CodePostal>34200</CodePostal>
+        <NomCommune>SETE</NomCommune>
+        <Localisation>
+            <Latitude>43.3983972</Latitude>
+            <Longitude>3.6952403</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 34 08 31 86</Téléphone>
+        <Télécopie>+33 4 67 74 50 49</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

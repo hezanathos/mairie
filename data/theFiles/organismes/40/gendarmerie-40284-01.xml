@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-40284-01" codeInsee="40284" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Vincent-de-Tyrosse</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>115 avenue Nationale</Ligne>
+      <CodePostal>40230</CodePostal>
+      <NomCommune>Saint-Vincent-de-Tyrosse</NomCommune>
+      <Localisation>
+         <Latitude>43.660301</Latitude>
+         <Longitude>-1.306185</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 77 58 28</Téléphone>
+      <Télécopie>+33 5 58 77 58 31</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

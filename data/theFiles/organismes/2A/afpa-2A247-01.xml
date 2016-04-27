@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-2A247-01" codeInsee="2A247" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Porto-Vecchio</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Maréchal-Juin</Ligne>
+      <CodePostal>20137</CodePostal>
+      <NomCommune>Porto-Vecchio</NomCommune>
+      <Localisation>
+         <Latitude>41.58388</Latitude>
+         <Longitude>9.27579</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Url>http://corse.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

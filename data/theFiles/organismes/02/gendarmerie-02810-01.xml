@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02810-01" codeInsee="02810" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Villers-Cotterêts</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 avenue Jean-Jaurès</Ligne>
+      <CodePostal>02600</CodePostal>
+      <NomCommune>Villers-Cotterêts</NomCommune>
+      <Localisation>
+         <Latitude>49.2539493</Latitude>
+         <Longitude>3.088277</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 76 46 17</Téléphone>
+      <Télécopie>+33 3 23 76 46 19</Télécopie>
+      <Email>cob.villers-cotterets@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

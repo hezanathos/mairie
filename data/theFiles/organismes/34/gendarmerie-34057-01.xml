@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-34057-01" codeInsee="34057" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Castelnau-le-Lez</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>635 avenue de la Monnaie</Ligne>
+      <CodePostal>34170</CodePostal>
+      <NomCommune>Castelnau-le-Lez</NomCommune>
+      <Localisation>
+         <Latitude>43.6453334</Latitude>
+         <Longitude>3.9177735</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 99 74 29 50</Téléphone>
+      <Télécopie>+33 4 99 74 29 64</Télécopie>
+      <Email>bta.castelnau-le-lez@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

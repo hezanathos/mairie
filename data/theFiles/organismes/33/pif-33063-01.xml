@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-33063-01" codeInsee="33063" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Bordeaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Jean-Jacques-Rousseau</Ligne>
+      <Ligne>CIDFF de Gironde</Ligne>
+      <CodePostal>33000</CodePostal>
+      <NomCommune>Bordeaux</NomCommune>
+      <Localisation>
+         <Latitude>44.8434257507</Latitude>
+         <Longitude>-0.577656984329</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 44 30 30</Téléphone>
+      <Télécopie>+33 5 56 48 40 60</Télécopie>
+      <Email>cidff33bordeaux@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

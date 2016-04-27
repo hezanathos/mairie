@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-17197-01" codeInsee="17197" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Jonzac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 90101</Ligne>
+      <Ligne>Bâtiment C</Ligne>
+      <Ligne>Route de Mosnac</Ligne>
+      <CodePostal>17503</CodePostal>
+      <NomCommune>Jonzac Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.4451293945</Latitude>
+         <Longitude>-0.435948014259</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 48 90 35</Téléphone>
+      <Télécopie>+33 5 46 48 90 00</Télécopie>
+      <Email>pmi.hautesaintonge@charente-maritime.fr</Email>
+      <Url>http://charente-maritime.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

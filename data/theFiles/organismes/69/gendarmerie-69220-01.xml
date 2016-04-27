@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-69220-01" codeInsee="69220" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saint-Laurent-de-Chamousset</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Sainte-Foy-l'Argentière</Ligne>
+      <CodePostal>69930</CodePostal>
+      <NomCommune>Saint-Laurent-de-Chamousset</NomCommune>
+      <Localisation>
+         <Latitude>45.73376</Latitude>
+         <Longitude>4.4674126</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 70 50 17</Téléphone>
+      <Télécopie>+33 4 74 70 59 98</Télécopie>
+      <Email>bta.st-laurent-de-chamousset@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

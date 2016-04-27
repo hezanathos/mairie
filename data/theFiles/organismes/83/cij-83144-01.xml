@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-83144-01" codeInsee="83144" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de La Valette-du-Var</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>38, avenue Char-Verdun</Ligne>
+      <CodePostal>83160</CodePostal>
+      <NomCommune>La Valette-du-Var</NomCommune>
+      <Localisation>
+         <Latitude>43.1380062</Latitude>
+         <Longitude>5.9831606</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Service jeunesse</Ligne>
+      <Ligne>BP 152</Ligne>
+      <Ligne>Mairie de La Valette-du-Var</Ligne>
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>83167</CodePostal>
+      <NomCommune>La Valette-du-Var Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.137538</Latitude>
+         <Longitude>5.984145</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 14 01 52</Téléphone>
+      <Télécopie>+33 4 94 23 59 34</Télécopie>
+      <Email>bij@lavalette83.fr</Email>
+      <Url>http://www.lavalette83.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

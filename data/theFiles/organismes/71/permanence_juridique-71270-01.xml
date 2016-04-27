@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="71270" dateMiseAJour="2015-11-03" id="permanence_juridique-71270-01" idPresta="531d9272b473e47b8c682b3c" pivotLocal="permanence_juridique">
+    <Nom>Pont d&#39;accès au droit de MACON</Nom>
+    <EditeurSource>Comarquage.fr</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison de Justice et du Droit</Ligne>
+        <Ligne>1550 avenue Charles de Gaulle</Ligne>
+        <CodePostal>71000</CodePostal>
+        <NomCommune>MACON</NomCommune>
+        <Localisation>
+            <Latitude>46.315227</Latitude>
+            <Longitude>4.836301</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>03-85-21-90-88 et 06-40-48-40-23</Téléphone>
+        <Email>mailto:adad.macon@orange.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>de 9 h à 12 H et de 13 h 30 à 17 H 30 (sur RDV)</Note>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>de 9 h à 12 h (sur RDV)</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

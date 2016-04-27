@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-51030-01" codeInsee="51030" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse d'Ay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>L'Entrepôt</Ligne>
+      <Ligne>Ruelle du Café</Ligne>
+      <CodePostal>51160</CodePostal>
+      <NomCommune>Ay</NomCommune>
+      <Localisation>
+         <Latitude>49.0541821</Latitude>
+         <Longitude>4.0057147</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 54 28 34</Téléphone>
+      <Email>pij@espace-jeunes-ay.fr</Email>
+      <Url>http://www.entrepot-ay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

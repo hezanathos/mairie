@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49149-01" codeInsee="49149" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Gennois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue Napoléon</Ligne>
+      <CodePostal>49350</CodePostal>
+      <NomCommune>Gennes</NomCommune>
+      <Localisation>
+         <Latitude>47.339079</Latitude>
+         <Longitude>-0.2299655</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 38 08 57</Téléphone>
+      <Télécopie>+33 2 41 38 08 58</Télécopie>
+      <Email>info@cc-gennois.fr</Email>
+      <Url>http://www.cc-gennois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-13015-01" codeInsee="13015" dateMiseAJour="2014-08-06"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Bouc-Bel-Air</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du 8-Mai-1945</Ligne>
+      <CodePostal>13320</CodePostal>
+      <NomCommune>Bouc-Bel-Air</NomCommune>
+      <Localisation>
+         <Latitude>43.451677</Latitude>
+         <Longitude>5.412962</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 94 96 60</Téléphone>
+      <Télécopie>+33 4 42 94 96 61</Télécopie>
+      <Email>bouc@ml-pa.org</Email>
+      <Url>http://www.ml-pa.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

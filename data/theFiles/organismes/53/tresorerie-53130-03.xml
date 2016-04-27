@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-53130-03" codeInsee="53130" dateMiseAJour="2015-04-29"
+           pivotLocal="tresorerie">
+   <Nom>Paierie départementale - Mayenne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>60 rue Mac-Donald</Ligne>
+      <Ligne>BP 70819</Ligne>
+      <CodePostal>53090</CodePostal>
+      <NomCommune>Laval Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.0632098</Latitude>
+         <Longitude>-0.7556666</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 49 68 68</Téléphone>
+      <Email>t053090@dgfip.finances.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

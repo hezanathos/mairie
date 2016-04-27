@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-91228-01" codeInsee="91228" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Île-de-France - accueil de l'Essonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>1 clos de la Cathédrale</Ligne>
+      <CodePostal>91000</CodePostal>
+      <NomCommune>Évry</NomCommune>
+      <Localisation>
+         <Latitude>48.6246114</Latitude>
+         <Longitude>2.4284449</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Urssaf d'Ile-de-France</Ligne>
+      <CodePostal>93518</CodePostal>
+      <NomCommune>Montreuil Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.iledefrance.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil exclusivement sur rendez-vous, prise de rendez-vous sur www.iledefrance.urssaf.fr, accueil téléphonique du lundi au vendredi de 9h à 17h.</Commentaire>
+</Organisme>

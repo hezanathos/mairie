@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-23096-01" codeInsee="23096" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Creuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Conventionnel-Huguet</Ligne>
+      <CodePostal>23000</CodePostal>
+      <NomCommune>Guéret</NomCommune>
+      <Localisation>
+         <Latitude>46.1708803</Latitude>
+         <Longitude>1.8672467</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 52 65 05</Téléphone>
+      <Télécopie>+33 5 55 52 02 03</Télécopie>
+      <Email>mlcreuse@missionlocale23.fr</Email>
+      <Url>http://www.cnml.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-86137-01" codeInsee="86137" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-768">
+   <Nom>Point d'information local dédié aux personnes âgées - Loudun</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Pays Loudunais</Ligne>
+      <Ligne>14 boulevard du 8-mai-1945</Ligne>
+      <CodePostal>86200</CodePostal>
+      <NomCommune>Loudun</NomCommune>
+      <Localisation>
+         <Latitude>47.007865</Latitude>
+         <Longitude>0.075683</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 98 84 59</Téléphone>
+      <Email>clicploudunais@cg86.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

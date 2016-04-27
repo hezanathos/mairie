@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-29026-01" codeInsee="29026" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Châteaulin et du Porzay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Camille-Danguillaume</Ligne>
+      <Ligne>CS 60043</Ligne>
+      <CodePostal>29150</CodePostal>
+      <NomCommune>Châteaulin</NomCommune>
+      <Localisation>
+         <Latitude>48.212671</Latitude>
+         <Longitude>-4.058993</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 16 14 00</Téléphone>
+      <Télécopie>+33 2 98 86 36 46</Télécopie>
+      <Email>accueil@cc-chateaulinporzay.fr</Email>
+      <Url>http://www.cc-chateaulin-porzay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

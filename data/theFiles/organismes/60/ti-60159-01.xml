@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="60159" dateMiseAJour="2014-01-28" id="ti-60159-01" idPresta="4cac9e62293594648a000664" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Compiègne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>11 rue Henri de Séroux</Ligne>
+        <Ligne>BP 70031</Ligne>
+        <CodePostal>60321</CodePostal>
+        <NomCommune>COMPIEGNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.417087</Latitude>
+            <Longitude>2.82813</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 44 38 58 00</Téléphone>
+        <Télécopie>+33 3 44 40 22 17</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

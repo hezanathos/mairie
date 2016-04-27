@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-61006-01" codeInsee="61006" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes d'Argentan Intercom</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 route de Sées</Ligne>
+      <Ligne>BP 220</Ligne>
+      <CodePostal>61203</CodePostal>
+      <NomCommune>Argentan Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7244533</Latitude>
+         <Longitude>-0.0132925</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 12 25 25</Téléphone>
+      <Télécopie>+33 2 33 12 25 26</Télécopie>
+      <Email>informations@cc-argentan.fr</Email>
+      <Url>http://www.argentan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

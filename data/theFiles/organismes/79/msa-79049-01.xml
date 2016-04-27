@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-79049-01" codeInsee="79049" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Bressuire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>146 boulevard de Poitiers</Ligne>
+      <CodePostal>79300</CodePostal>
+      <NomCommune>Bressuire</NomCommune>
+      <Localisation>
+         <Latitude>46.834686</Latitude>
+         <Longitude>-0.4710632</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>MSA Sèvres-Vienne</Ligne>
+      <Ligne>37 rue du Touffenet</Ligne>
+      <CodePostal>86042</CodePostal>
+      <NomCommune>Poitiers Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 43 86 79</Téléphone>
+      <Url>http://www.msa79-86.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique ouvert du lundi au vendredi de 8h30 à 12h15 et de 13h30 à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-17300-01" codeInsee="17300" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Association profession sport et loisirs de La Rochelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 place des Cordeliers</Ligne>
+      <Ligne>Cité administrative Duperré</Ligne>
+      <CodePostal>17000</CodePostal>
+      <NomCommune>La Rochelle</NomCommune>
+      <Localisation>
+         <Latitude>46.1630274</Latitude>
+         <Longitude>-1.1456672</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 27 29 79</Téléphone>
+      <Télécopie>+33 5 46 28 04 62</Télécopie>
+      <Email>apsl17@profession-sport-loisirs.fr</Email>
+      <Url>http://www.apsl17.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

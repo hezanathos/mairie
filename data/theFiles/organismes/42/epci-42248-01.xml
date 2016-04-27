@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-42248-01" codeInsee="42248" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays d'Urfé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier du Château</Ligne>
+      <Ligne>Maison cantonale</Ligne>
+      <CodePostal>42430</CodePostal>
+      <NomCommune>Saint-Just-en-Chevalet</NomCommune>
+      <Localisation>
+         <Latitude>45.9141229</Latitude>
+         <Longitude>3.845841</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 65 12 24</Téléphone>
+      <Télécopie>+33 4 77 65 07 77</Télécopie>
+      <Email>contact@ccpu.fr</Email>
+      <Url>http://www.ccpu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

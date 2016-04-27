@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-64063-01" codeInsee="64063" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Arzacq-Arraziguet</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Vialé</Ligne>
+      <CodePostal>64410</CodePostal>
+      <NomCommune>Arzacq-Arraziguet</NomCommune>
+      <Localisation>
+         <Latitude>43.550341</Latitude>
+         <Longitude>-0.413643</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 04 47 40</Téléphone>
+      <Télécopie>+33 5 59 04 47 44</Télécopie>
+      <Email>cob.theze@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

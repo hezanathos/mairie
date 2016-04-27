@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-50218-01" codeInsee="50218" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Centre information jeunesse de Granville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace jeune Christian-Ridel</Ligne>
+      <Ligne>92, rue Paul-de-Vidon</Ligne>
+      <CodePostal>50400</CodePostal>
+      <NomCommune>Granville</NomCommune>
+      <Localisation>
+         <Latitude>48.8339004517</Latitude>
+         <Longitude>-1.56808996201</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 90 86 74</Téléphone>
+      <Télécopie>+33 2 33 50 96 04</Télécopie>
+      <Email>pij.granville@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

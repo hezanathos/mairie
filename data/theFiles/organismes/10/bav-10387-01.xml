@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="10387" dateMiseAJour="2012-06-06" id="bav-10387-01" idPresta="51b08cd5b473e414780011ac" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Troyes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>85 rue du Général de Gaulle</Ligne>
+        <CodePostal>10026</CodePostal>
+        <NomCommune>TROYES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.297127</Latitude>
+            <Longitude>4.069168</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 43 55 70</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

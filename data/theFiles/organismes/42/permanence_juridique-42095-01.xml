@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="42095" dateMiseAJour="2015-11-03" id="permanence_juridique-42095-01" idPresta="4cac9e5f293594648a0002b6" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Firminy</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Bourse du Travail</Ligne>
+        <Ligne>place du Marché</Ligne>
+        <Ligne>Salle n°2</Ligne>
+        <CodePostal>42700</CodePostal>
+        <NomCommune>FIRMINY</NomCommune>
+        <Localisation>
+            <Latitude>45.3892733</Latitude>
+            <Longitude>4.2873327</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-02381-01" codeInsee="02381" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Hirson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue aux Loups</Ligne>
+      <Ligne>Unité territoriale d'action sociale</Ligne>
+      <CodePostal>02500</CodePostal>
+      <NomCommune>Hirson</NomCommune>
+      <Localisation>
+         <Latitude>49.9250984192</Latitude>
+         <Longitude>4.07381010056</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 58 86 90</Téléphone>
+      <Télécopie>+33 3 23 98 77 44</Télécopie>
+      <Email>utas.thierache.hirson@cg02.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

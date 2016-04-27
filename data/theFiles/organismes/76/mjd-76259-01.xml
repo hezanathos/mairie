@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76259" dateMiseAJour="2012-06-05" id="mjd-76259-01" idPresta="51b08ca2b473e4147800068a" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Fécamp</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>36 rue des galeries</Ligne>
+        <CodePostal>76400</CodePostal>
+        <NomCommune>FECAMP</NomCommune>
+        <Localisation>
+            <Latitude>49.757105</Latitude>
+            <Longitude>0.379996</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 35 28 89 57</Téléphone>
+        <Email>mailto:mjd-fecamp@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

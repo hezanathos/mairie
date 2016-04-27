@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-31555-07" codeInsee="31555" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-251">
+   <Nom>Point d'information local dédié aux personnes âgées - Toulouse</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison des Solidarités de Pont-Vieux</Ligne>
+      <Ligne>5 rue du Pont-Vieux</Ligne>
+      <CodePostal>31300</CodePostal>
+      <NomCommune>Toulouse</NomCommune>
+      <Localisation>
+         <Latitude>43.597623</Latitude>
+         <Longitude>1.435831</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 13 23 00</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

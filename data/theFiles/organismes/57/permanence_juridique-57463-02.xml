@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="57463" dateMiseAJour="2015-11-03" id="permanence_juridique-57463-02" idPresta="4d760aa2293594568a000014" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Metz-Borny</Nom>
+    <EditeurSource>Ministère de la Justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3bis, rue d&#39;Anjou</Ligne>
+        <Ligne>Pôle des Lauriers</Ligne>
+        <CodePostal>57036</CodePostal>
+        <NomCommune>METZ</NomCommune>
+        <Localisation>
+            <Latitude>49.1161273</Latitude>
+            <Longitude>6.1726955</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 87 55 55 98</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

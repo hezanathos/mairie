@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-82033-01" codeInsee="82033" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Castelsarrasin</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>61, avenue de Courbieu</Ligne>
+      <CodePostal>82100</CodePostal>
+      <NomCommune>Castelsarrasin</NomCommune>
+      <Localisation>
+         <Latitude>44.0449699</Latitude>
+         <Longitude>1.1014035</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 32 81 40</Téléphone>
+      <Télécopie>+33 5 63 32 81 45</Télécopie>
+      <Email>cob.moissac@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

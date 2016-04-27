@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-67046-01" codeInsee="67046" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Bischwiller</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 place de la Mairie</Ligne>
+      <Ligne>Mairie</Ligne>
+      <CodePostal>67240</CodePostal>
+      <NomCommune>Bischwiller</NomCommune>
+      <Localisation>
+         <Latitude>48.7678652</Latitude>
+         <Longitude>7.8598296</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 53 99 40</Téléphone>
+      <Télécopie>+33 3 88 63 52 12</Télécopie>
+      <Email>comcom@bischwiller.com</Email>
+      <Url>http://www.cc-bischwiller.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour le service des passeports.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

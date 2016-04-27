@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-86140-01" codeInsee="86140" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Vienne - accueil de Lussac-les-Châteaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Foyer la Noiseraie</Ligne>
+      <Ligne>17 avenue du Docteur-Dupont</Ligne>
+      <CodePostal>86140</CodePostal>
+      <NomCommune>Lussac-les-Châteaux</NomCommune>
+      <Localisation>
+         <Latitude>46.4034818</Latitude>
+         <Longitude>0.7184649</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>41 rue du Touffenet</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de la Vienne</Ligne>
+      <CodePostal>86043</CodePostal>
+      <NomCommune>Poitiers Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>46.5821232</Latitude>
+         <Longitude>0.3671226</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

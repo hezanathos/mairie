@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-06152-01" codeInsee="06152" dateMiseAJour="2014-08-06"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Valbonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Méjane</Ligne>
+      <Ligne>Centre de vie</Ligne>
+      <CodePostal>06560</CodePostal>
+      <NomCommune>Valbonne</NomCommune>
+      <Localisation>
+         <Latitude>43.6216</Latitude>
+         <Longitude>7.04473</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 91 79 75</Téléphone>
+      <Email>mission.locale@mlantipolis.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

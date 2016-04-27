@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18109" dateMiseAJour="2015-11-03" id="permanence_juridique-18109-01" idPresta="4cac9e5f293594648a000193" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice et CDAD du Cher</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Siège de la Communauté de communes</Ligne>
+        <Ligne>6 place de l&#39;Hôtel de Ville</Ligne>
+        <CodePostal>18250</CodePostal>
+        <NomCommune>HENRICHEMONT</NomCommune>
+        <Localisation>
+            <Latitude>47.3038457973</Latitude>
+            <Longitude>2.52467238941</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 07 66 96 43</Téléphone>
+        <Email>mailto:cdad@cdad18.fr</Email>
+        <Url>http://www.cdad18.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

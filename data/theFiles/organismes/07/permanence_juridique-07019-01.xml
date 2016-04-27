@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="07019" dateMiseAJour="2015-11-03" id="permanence_juridique-07019-01" idPresta="4cac9e5e293594648a0000a6" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques d&#39;Aubenas</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tribunal d&#39;instance</Ligne>
+        <Ligne>10 rue Georges Couderc</Ligne>
+        <CodePostal>07200</CodePostal>
+        <NomCommune>AUBENAS</NomCommune>
+        <Localisation>
+            <Latitude>44.616971</Latitude>
+            <Longitude>4.3895166</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

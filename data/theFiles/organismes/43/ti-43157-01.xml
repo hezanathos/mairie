@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="43157" dateMiseAJour="2014-01-28" id="ti-43157-01" idPresta="4cac9e87293594648a004ce3" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance du Puy-en-Velay</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>6 place du Clauzel</Ligne>
+        <Ligne>CS 10309</Ligne>
+        <CodePostal>43009</CodePostal>
+        <NomCommune>LE PUY EN VELAY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.043496</Latitude>
+            <Longitude>3.883991</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 63 20 70 00</Téléphone>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

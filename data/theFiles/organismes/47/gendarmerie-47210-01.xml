@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-47210-01" codeInsee="47210" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Port-Sainte-Marie</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>43 avenue du 11-Novembre-1918</Ligne>
+      <CodePostal>47130</CodePostal>
+      <NomCommune>Port-Sainte-Marie</NomCommune>
+      <Localisation>
+         <Latitude>44.2531514</Latitude>
+         <Longitude>0.379485</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 68 42 20</Téléphone>
+      <Télécopie>+33 5 53 68 42 22</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93007" dateMiseAJour="2015-05-07" id="mjd-93007-01" idPresta="51b08cd0b473e414780010b0" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  du Blanc-Mesnil</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>7 rue Emile Kahn</Ligne>
+        <CodePostal>93150</CodePostal>
+        <NomCommune>LE BLANC MESNIL</NomCommune>
+        <Localisation>
+            <Latitude>48.941704</Latitude>
+            <Longitude>2.463108</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 45 91 93 50</Téléphone>
+        <Télécopie>+33 1 45 91 93 55</Télécopie>
+        <Email>mailto:mjdblancmesnil@yahoo.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+            <Note>1er et 3ème mardi de 9H00 à 12H30 et de 13H30 à 17H30
+1er et 3ème mardi de 9H00 à 12H30 et de 13H30 à 17H30
+2ème et 4ème mardi de 9H00 à 12H30 et de 13H30 à 17H00
+Du Mercredi et Jeudi : de 9h00 à 12h30 et de 13h30 à 17h30</Note>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:30:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

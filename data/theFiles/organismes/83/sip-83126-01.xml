@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-83126-01" codeInsee="83126" dateMiseAJour="2016-02-08" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de La Seyne-sur-Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 80210</Ligne>
+      <Ligne>2, rue Charles-Gide</Ligne>
+      <CodePostal>83506</CodePostal>
+      <NomCommune>La Seyne-sur-Mer Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.1019334</Latitude>
+         <Longitude>5.8733546</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 11 06 00</Téléphone>
+      <Email>sip.la-seyne-sur-mer@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

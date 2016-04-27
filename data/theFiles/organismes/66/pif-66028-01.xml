@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-66028-01" codeInsee="66028" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de Cabestany</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place des Droits-de-l'Homme</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>66330</CodePostal>
+      <NomCommune>Cabestany</NomCommune>
+      <Localisation>
+         <Latitude>42.6791163</Latitude>
+         <Longitude>2.9373461</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 63 47 03</Téléphone>
+      <Email>michel.martinez@cabestany.com</Email>
+      <Url>http://www.ville-cabestany.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

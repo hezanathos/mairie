@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-51507-01" codeInsee="51507" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Sainte-Menehould</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Renard</Ligne>
+      <Ligne>Groupe Buirette</Ligne>
+      <Ligne>BP 52</Ligne>
+      <CodePostal>51801</CodePostal>
+      <NomCommune>Sainte-Menehould Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.0927009583</Latitude>
+         <Longitude>4.89963006973</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 60 75 64</Téléphone>
+      <Télécopie>+33 3 26 60 46 20</Télécopie>
+      <Email>contact.sainte-menehould@ml-chalons.fr</Email>
+      <Url>http://www.missionslocales-champagneardenne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-04070-01" codeInsee="04070" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Asse Bléone Verdon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue Klein</Ligne>
+      <Ligne>BP 153</Ligne>
+      <CodePostal>04000</CodePostal>
+      <NomCommune>Digne-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>44.0896876</Latitude>
+         <Longitude>6.2330285</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 32 05 05</Téléphone>
+      <Télécopie>+33 4 92 32 57 84</Télécopie>
+      <Email>contact@ccabv.fr</Email>
+      <Url>http://www.ccabv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

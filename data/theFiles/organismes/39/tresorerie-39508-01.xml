@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-39508-01" codeInsee="39508" dateMiseAJour="2016-02-15"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Sellières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 9</Ligne>
+      <Ligne>Rue des Remparts</Ligne>
+      <CodePostal>39230</CodePostal>
+      <NomCommune>Sellières</NomCommune>
+      <Localisation>
+         <Latitude>46.8273451</Latitude>
+         <Longitude>5.5625445</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 85 51 51</Téléphone>
+      <Email>t039024@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commission_conciliation-62041-01" codeInsee="62041"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="commission_conciliation">
+   <Nom>Commission départementale de conciliation - Pas-de-Calais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, voie Bossuet</Ligne>
+      <Ligne>Direction départementale de la cohésion sociale</Ligne>
+      <Ligne>Résidence Saint-Pol</Ligne>
+      <Ligne>BP 20960</Ligne>
+      <CodePostal>62033</CodePostal>
+      <NomCommune>Arras Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.3005602</Latitude>
+         <Longitude>2.7452022</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 23 87 87</Téléphone>
+      <Télécopie>+33 3 21 60 75 20</Télécopie>
+      <Email>ddcs@pas-de-calais.gouv.fr</Email>
+      <Url>http://www.ddjs-pasdecalais.jeunesse-sports.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

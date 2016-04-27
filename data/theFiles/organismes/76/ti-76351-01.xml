@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="76351" dateMiseAJour="2016-04-15" id="ti-76351-01" idPresta="4cac9ed7293594648a00ee56" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance du Havre</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>nathalie.grosbois@justice.gouv.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 rue du 129ème</Ligne>
+        <Ligne>CS 40007</Ligne>
+        <CodePostal>76083</CodePostal>
+        <NomCommune>LE HAVRE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.498363</Latitude>
+            <Longitude>0.139595</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 35 19 73 00</Téléphone>
+        <Télécopie>+33 2 35 21 48 79</Télécopie>
+        <Email>mailto:ti-le-havre@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

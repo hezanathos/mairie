@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-33063-01" codeInsee="33063"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-892">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bordeaux</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>COS  Villa-Pia</Ligne>
+      <Ligne>les dames de la foi</Ligne>
+      <Ligne>52 rue des Treuils</Ligne>
+      <Ligne>EHPAD</Ligne>
+      <CodePostal>33000</CodePostal>
+      <NomCommune>Bordeaux</NomCommune>
+      <Localisation>
+         <Latitude>44.825161</Latitude>
+         <Longitude>-0.583399</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 96 13 59</Téléphone>
+      <Email>accueil-plateforme@cos-asso.org</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

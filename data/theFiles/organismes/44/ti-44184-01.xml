@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="44184" dateMiseAJour="2015-02-02" id="ti-44184-01" idPresta="4cac9e6a293594648a0017e9" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Saint-Nazaire</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>54 rue de la Paix et des Arts</Ligne>
+        <Ligne>CS 60282</Ligne>
+        <CodePostal>44616</CodePostal>
+        <NomCommune>ST NAZAIRE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.277669</Latitude>
+            <Longitude>-2.215712</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 72 27 31 31</Téléphone>
+        <Télécopie>+33 2 72 27 31 10</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

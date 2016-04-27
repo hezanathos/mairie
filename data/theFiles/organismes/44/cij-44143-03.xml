@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-44143-03" codeInsee="44143" dateMiseAJour="2009-09-18" pivotLocal="cij">
+   <Nom>Point Information Jeunesse de Rezé - Pont Rousseau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Pôle jeunesse Pont Rousseau</Ligne>
+      <Ligne>49 rue Alsace Lorraine</Ligne>
+      <CodePostal>44400</CodePostal>
+      <NomCommune>REZE</NomCommune>
+      <Localisation>
+         <Latitude>47.1919234</Latitude>
+         <Longitude>-1.5460314</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 05 15 12</Téléphone>
+      <Email>pj.pontrousseau@arpej-reze.asso.fr</Email>
+      <Url>http://pij.reze.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+         <Note>Vacances scolaires : du lundi au vendredi de 10h à 12h et de 16h à 18h30</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

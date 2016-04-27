@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-68224-01" codeInsee="68224" dateMiseAJour="2015-11-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Alsace - site du Haut-Rhin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>26 avenue Robert-Schuman</Ligne>
+      <CodePostal>68200</CodePostal>
+      <NomCommune>Mulhouse</NomCommune>
+      <Localisation>
+         <Latitude>47.7519521</Latitude>
+         <Longitude>7.3422791</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Urssaf Alsace</Ligne>
+      <CodePostal>67945</CodePostal>
+      <NomCommune>Strasbourg Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.alsace.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+         <Note>Exclusivement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

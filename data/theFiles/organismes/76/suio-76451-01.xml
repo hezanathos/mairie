@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-76451-01" codeInsee="76451" dateMiseAJour="2011-10-11"
+           pivotLocal="suio">
+   <Nom>Université de Rouen - Service universitaire d'information et d'orientation (SUIO)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Lavoisier</Ligne>
+      <CodePostal>76821</CodePostal>
+      <NomCommune>MONT ST AIGNAN CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>49.4582777</Latitude>
+         <Longitude>1.0680183</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 14 81 67</Téléphone>
+      <Email>suio@univ-rouen.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

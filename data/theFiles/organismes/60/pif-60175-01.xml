@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-60175-01" codeInsee="60175" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de la caisse d'allocations familiales de Creil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Charles-Auguste-Duguet</Ligne>
+      <CodePostal>60832</CodePostal>
+      <NomCommune>Creil</NomCommune>
+      <Localisation>
+         <Latitude>49.2603111267</Latitude>
+         <Longitude>2.47639298439</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 61 26 78</Téléphone>
+      <Télécopie>+33 3 44 61 26 85</Télécopie>
+      <Email>pif.cafcreil@cafcreil.cnafmail.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

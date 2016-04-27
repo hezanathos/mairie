@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-13047-01" codeInsee="13047"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations d'Istres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 90003</Ligne>
+      <Ligne>Avenue des Bolles</Ligne>
+      <Ligne>Bureau de la réglementation et des relations avec les usagers - Service des associations</Ligne>
+      <Ligne>Sous-préfecture d'Istres</Ligne>
+      <CodePostal>13808</CodePostal>
+      <NomCommune>Istres Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.5039778</Latitude>
+         <Longitude>4.994962</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 86 57 52</Téléphone>
+      <Télécopie>+33 4 42 86 57 28</Télécopie>
+      <Email>sp-istres-bbru@bouches-du-rhone.pref.gouv.fr</Email>
+      <Url>http://www.bouches-du-rhone.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

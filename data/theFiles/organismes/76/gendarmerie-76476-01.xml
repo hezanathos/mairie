@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-76476-01" codeInsee="76476" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Notre-Dame-de-Gravenchon</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, avenue Victor-Hugo</Ligne>
+      <CodePostal>76330</CodePostal>
+      <NomCommune>Notre-Dame-de-Gravenchon</NomCommune>
+      <Localisation>
+         <Latitude>49.4911076</Latitude>
+         <Longitude>0.5700736</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 38 64 66</Téléphone>
+      <Email>cob.notre-dame-de-gravenchon@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

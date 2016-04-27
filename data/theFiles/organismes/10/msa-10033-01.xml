@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-10033-01" codeInsee="10033" dateMiseAJour="2015-08-17" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Sud-Champagne - accueil de Bar-sur-Aube</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Nationale</Ligne>
+      <CodePostal>10200</CodePostal>
+      <NomCommune>Bar-sur-Aube</NomCommune>
+      <Localisation>
+         <Latitude>48.2326813</Latitude>
+         <Longitude>4.7074711</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro magenta ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit).">0810 00 52 10</Téléphone>
+      <Télécopie>+33 3 25 43 54 71</Télécopie>
+      <Email>webmaster@msa10-52.msa.fr</Email>
+      <Url>http://www.msa.10-52.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

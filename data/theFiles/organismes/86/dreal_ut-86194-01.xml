@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-86194-01" codeInsee="86194" dateMiseAJour="2016-01-12"
+           pivotLocal="dreal_ut">
+   <Nom>Unité bidépartementale de la Charente et de la Vienne - Direction régionale de l'environnement, de l'aménagement et du logement - Vienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 50378</Ligne>
+      <Ligne>20, rue de la Providence</Ligne>
+      <CodePostal>86009</CodePostal>
+      <NomCommune>Poitiers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.5626</Latitude>
+         <Longitude>0.368811</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 43 86 00</Téléphone>
+      <Télécopie>+33 5 49 43 86 01</Télécopie>
+      <Url>http://www.aquitaine-limousin-poitou-charentes.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

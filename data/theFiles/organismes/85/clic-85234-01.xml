@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-85234-01" codeInsee="85234" dateMiseAJour="2015-08-11"
+           pivotLocal="clic"
+           idPresta="clic-1199">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Jean-de-Monts</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Henry-Dunant</Ligne>
+      <Ligne>Clic du Pays du Pont d'Yeu</Ligne>
+      <CodePostal>85160</CodePostal>
+      <NomCommune>Saint-Jean-de-Monts</NomCommune>
+      <Localisation>
+         <Latitude>46.792561</Latitude>
+         <Longitude>-2.033118</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 58 45 89</Téléphone>
+      <Email>clicpayspontdyeu@outlook.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-22262-01" codeInsee="22262" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Quintin communauté</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Saint-Eutrope</Ligne>
+      <Ligne>BP 153</Ligne>
+      <CodePostal>22800</CodePostal>
+      <NomCommune>Quintin</NomCommune>
+      <Localisation>
+         <Latitude>48.399703</Latitude>
+         <Longitude>-2.9002509</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 79 67 00</Téléphone>
+      <Télécopie>+33 2 96 79 63 11</Télécopie>
+      <Email>accueil@quintin-communaute.fr</Email>
+      <Url>http://www.quintin-communaute.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

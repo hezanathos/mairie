@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-40192-01" codeInsee="40192" dateMiseAJour="2015-12-07" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de Mont-de-Marsan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, avenue de Dagas</Ligne>
+      <CodePostal>40022</CodePostal>
+      <NomCommune>Mont-de-Marsan Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.882126</Latitude>
+         <Longitude>-0.4847521</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 06 61 70</Téléphone>
+      <Email>sie.mont-de-marsan@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous. Fermé les mercredi et les vendredi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

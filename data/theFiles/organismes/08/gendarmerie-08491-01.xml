@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-08491-01" codeInsee="08491" dateMiseAJour="2015-03-19"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vrigne-aux-Bois</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Pierre-Viénot</Ligne>
+      <CodePostal>08330</CodePostal>
+      <NomCommune>Vrigne-aux-Bois</NomCommune>
+      <Localisation>
+         <Latitude>49.774905</Latitude>
+         <Longitude>4.7023495</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 52 10 32</Téléphone>
+      <Télécopie>+33 3 24 52 08 23</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13103" dateMiseAJour="2014-01-28" id="ti-13103-01" idPresta="4cac9e6a293594648a0017d6" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Salon-de-Provence</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>481 boulevard de la République</Ligne>
+        <Ligne>BP 19</Ligne>
+        <CodePostal>13651</CodePostal>
+        <NomCommune>SALON DE PROVENCE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.640473</Latitude>
+            <Longitude>5.089142</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 56 05 46</Téléphone>
+        <Télécopie>+33 4 90 56 02 99</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

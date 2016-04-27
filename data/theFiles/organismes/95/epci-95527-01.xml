@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-95527-01" codeInsee="95527" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Roissy Porte de France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 bis avenue Charles-de-Gaulle</Ligne>
+      <CodePostal>95700</CodePostal>
+      <NomCommune>Roissy-en-France</NomCommune>
+      <Localisation>
+         <Latitude>49.0022943792</Latitude>
+         <Longitude>2.51226425171</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 29 03 06</Téléphone>
+      <Télécopie>+33 1 34 29 45 82</Télécopie>
+      <Email>adurand@roissy-online.com</Email>
+      <Url>http://www.cc-roissyportedefrance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

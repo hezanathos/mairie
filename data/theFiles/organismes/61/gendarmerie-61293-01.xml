@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-61293-01" codeInsee="61293" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Mortagne-au-Perche</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Beaupré</Ligne>
+      <CodePostal>61400</CodePostal>
+      <NomCommune>Mortagne-au-Perche</NomCommune>
+      <Localisation>
+         <Latitude>48.522485</Latitude>
+         <Longitude>0.5430779</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 83 11 71</Téléphone>
+      <Télécopie>+33 2 33 83 11 75</Télécopie>
+      <Email>cob.mortagne-au-perche@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

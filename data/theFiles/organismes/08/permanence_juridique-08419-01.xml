@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="08419" dateMiseAJour="2015-11-03" id="permanence_juridique-08419-01" idPresta="4cac9e5e293594648a0000b1" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Signy L&#39;Abbaye</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>2 place de l&#39;Hôtel de Ville</Ligne>
+        <CodePostal>08460</CodePostal>
+        <NomCommune>SIGNY L ABBAYE</NomCommune>
+        <Localisation>
+            <Latitude>49.6985374</Latitude>
+            <Longitude>4.4189571</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 24 52 81 25</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="14118" dateMiseAJour="2014-01-28" id="tribunal_commerce-14118-01" idPresta="4eb262992935944ef50000ce" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Caen</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>place Gambetta BP555</Ligne>
+        <CodePostal>14037</CodePostal>
+        <NomCommune>CAEN CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>49.180561</Latitude>
+            <Longitude>-0.370968</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 31 85 40 00</Téléphone>
+        <Télécopie>+33 2 31 79 16 19</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

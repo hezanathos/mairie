@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="58194" dateMiseAJour="2015-11-03" id="permanence_juridique-58194-01" idPresta="4cd18fb329359405310109a4" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de NEVERS - Mairie de quartier des COURLIS-BARATTE</Nom>
+    <EditeurSource>CDAD 58</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie de quartier Est (Courlis) - Maison des Services Publics et de la Citoyenneté</Ligne>
+        <Ligne>1 rue Louis Francis</Ligne>
+        <CodePostal>58000</CodePostal>
+        <NomCommune>NEVERS</NomCommune>
+        <Localisation>
+            <Latitude>46.983466</Latitude>
+            <Longitude>3.186224</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 86 68 43 50</Téléphone>
+        <Email>mailto:cdad-nievre@justice.fr</Email>
+        <Url>http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html#cmq_path=liste&amp;cmq_territory=58%20NIEVRE&amp;cmq_submit=Submit</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

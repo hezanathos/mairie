@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="85194" dateMiseAJour="2014-01-28" id="tgi-85194-01" idPresta="4cac9e61293594648a0005fd" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance des Sables-d&#39;Olonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du Palais de Justice</Ligne>
+        <Ligne>BP 10365</Ligne>
+        <CodePostal>85109</CodePostal>
+        <NomCommune>LES SABLES D OLONNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.495087</Latitude>
+            <Longitude>-1.788672</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 51 23 77 00</Téléphone>
+        <Télécopie>+33 2 51 95 54 85</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

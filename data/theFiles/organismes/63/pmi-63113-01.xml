@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-63113-01" codeInsee="63113" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Clermont-Ferrand - Vaucanson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue Vaucanson</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>63100</CodePostal>
+      <NomCommune>Clermont-Ferrand</NomCommune>
+      <Localisation>
+         <Latitude>45.7879981995</Latitude>
+         <Longitude>3.10717010498</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 14 50 50</Téléphone>
+      <Télécopie>+33 4 73 14 50 19</Télécopie>
+      <Url>http://www.cg63.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires des différends services.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

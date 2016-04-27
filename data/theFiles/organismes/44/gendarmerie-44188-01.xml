@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-44188-01" codeInsee="44188" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Philbert-de-Grand-Lieu</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Garangeoires</Ligne>
+      <CodePostal>44310</CodePostal>
+      <NomCommune>Saint-Philbert-de-Grand-Lieu</NomCommune>
+      <Localisation>
+         <Latitude>47.036878</Latitude>
+         <Longitude>-1.642905</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 78 70 17</Téléphone>
+      <Télécopie>+33 2 40 78 02 74</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

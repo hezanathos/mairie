@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-75107-01" codeInsee="75107" dateMiseAJour="2011-10-28"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) de Paris - Service central</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel national des Invalides</Ligne>
+      <Ligne>Escalier K</Ligne>
+      <CodePostal>75700</CodePostal>
+      <NomCommune>PARIS SP 07</NomCommune>
+      <Localisation>
+         <Latitude>48.8593608</Latitude>
+         <Longitude>2.3138127</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 49 55 75 15</Téléphone>
+      <Email>http://www.onac-vg.fr/fr/contact/sid:99</Email>
+   </CoordonnéesNum>
+</Organisme>

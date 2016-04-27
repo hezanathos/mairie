@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-79299-01" codeInsee="79299" dateMiseAJour="2006-03-13" pivotLocal="cij">
+   <Nom>Point d'Information Jeunesse de Saint Varent</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 Rue de l'Avenir</Ligne>
+      <CodePostal>79330</CodePostal>
+      <NomCommune>ST VARENT</NomCommune>
+      <Localisation>
+         <Latitude>46.8907012939</Latitude>
+         <Longitude>-0.232442006469</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 66 59 34</Téléphone>
+      <Url>http://www.cidj.com</Url>
+   </CoordonnéesNum>
+</Organisme>

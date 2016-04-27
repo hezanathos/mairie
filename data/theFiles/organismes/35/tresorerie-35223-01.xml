@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-35223-01" codeInsee="35223" dateMiseAJour="2015-07-16"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Plélan-le-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de la Chèze</Ligne>
+      <Ligne>BP 80</Ligne>
+      <CodePostal>35380</CodePostal>
+      <NomCommune>Plélan-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>48.0025048</Latitude>
+         <Longitude>-2.0958173</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 06 82 62</Téléphone>
+      <Email>t035026@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

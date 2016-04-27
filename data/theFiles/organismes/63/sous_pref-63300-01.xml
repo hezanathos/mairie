@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sous_pref-63300-01" codeInsee="63300" dateMiseAJour="2012-11-14"
+           pivotLocal="sous_pref">
+   <Nom>Sous-préfecture - Riom</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue Gilbert-Romme</Ligne>
+      <CodePostal>63201</CodePostal>
+      <NomCommune>Riom Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.8932685852</Latitude>
+         <Longitude>3.11515808105</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 64 65 00</Téléphone>
+      <Télécopie>+33 4 73 38 85 70</Télécopie>
+      <Email>sous-prefecture-de-riom@puy-de-dome.pref.gouv.fr</Email>
+      <Url>http://www.puy-de-dome.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="15:30:00"/>
+         <Note>Attention : le guichet des cartes grises est ouvert uniquement de 8h30 à 12h15.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-59309-01" codeInsee="59309" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Hondschoote</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, avenue du Quai</Ligne>
+      <CodePostal>59122</CodePostal>
+      <NomCommune>Hondschoote</NomCommune>
+      <Localisation>
+         <Latitude>50.9795331</Latitude>
+         <Longitude>2.5802448</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 20 27 66</Téléphone>
+      <Télécopie>+33 3 28 20 27 67</Télécopie>
+      <Email>p.i.j.hds@gmail.com</Email>
+      <Url>http://www.crij-npdc.asso.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

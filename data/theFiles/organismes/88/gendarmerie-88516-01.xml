@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-88516-01" codeInsee="88516" dateMiseAJour="2014-08-28"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Vittel</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>351, rue du Lieutenant Gauffre</Ligne>
+      <CodePostal>88800</CodePostal>
+      <NomCommune>Vittel</NomCommune>
+      <Localisation>
+         <Latitude>48.194571</Latitude>
+         <Longitude>5.942013</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 08 15 17</Téléphone>
+      <Télécopie>+33 3 29 08 86 88</Télécopie>
+      <Email>cob.vittel@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

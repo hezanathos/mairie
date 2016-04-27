@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="19031" dateMiseAJour="2010-02-03" id="mjd-19031-01" idPresta="51b08c91b473e414780002d3" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Brive-la-Gaillarde</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre Socio-culturel J.Cartier</Ligne>
+        <Ligne>place Jacques Cartier</Ligne>
+        <CodePostal>19100</CodePostal>
+        <NomCommune>BRIVE LA GAILLARDE</NomCommune>
+        <Localisation>
+            <Latitude>45.15709</Latitude>
+            <Longitude>1.49912</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 74 98 32</Téléphone>
+        <Télécopie>+33 5 55 74 98 32</Télécopie>
+        <Email>mailto:mjd-brive-la-gaillarde@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>matin de 8h15 à 12 heures</Note>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>matin de 8h15 à 12 heures</Note>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>matin de 8h15 à 12 heures</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

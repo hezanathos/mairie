@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-65440-02" codeInsee="65440" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Tarbes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 boulevard du Martinet</Ligne>
+      <Ligne>Résidence les Bigerrions</Ligne>
+      <CodePostal>65000</CodePostal>
+      <NomCommune>Tarbes</NomCommune>
+      <Localisation>
+         <Latitude>43.2383995056</Latitude>
+         <Longitude>0.0821689963341</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 53 34 65</Téléphone>
+      <Télécopie>+33 5 62 53 34 66</Télécopie>
+      <Email>mds.lesbigerrions@ha-py.fr</Email>
+      <Url>http://www.cg65.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

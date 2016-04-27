@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="11069" dateMiseAJour="2015-03-13" id="bav-11069-01" idPresta="51b08c88b473e414780000ed" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Carcassonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>28 boulevard Jean-Jaurès</Ligne>
+        <Ligne>BP 818</Ligne>
+        <CodePostal>11012</CodePostal>
+        <NomCommune>CARCASSONNE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.214359</Latitude>
+            <Longitude>2.355012</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 34 42 49 00</Téléphone>
+        <Télécopie>+33 4 34 42 49 07</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

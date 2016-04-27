@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-98802-01" codeInsee="98802" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Bouloupari</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village 72 Voie Urbaine 18</Ligne>
+      <CodePostal>98812</CodePostal>
+      <NomCommune>Bouloupari</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+687 44 88 35</Téléphone>
+      <Télécopie>+681 44 88 37</Télécopie>
+      <Email>bta.bouloupari@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

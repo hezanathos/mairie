@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="commissariat_police-35238-05" codeInsee="35238" dateMiseAJour="2014-12-30"
+           pivotLocal="commissariat_police">
+   <Nom>Commissariat subdivisionnaire de police de Rennes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Villejean</Ligne>
+      <Ligne>Saint Martin</Ligne>
+      <Ligne>54 cours Kennedy</Ligne>
+      <CodePostal>35200</CodePostal>
+      <NomCommune>Rennes</NomCommune>
+      <Localisation>
+         <Latitude>48.1214686</Latitude>
+         <Longitude>-1.7120768</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 59 52 72</Téléphone>
+      <Url>http://www.police-nationale.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

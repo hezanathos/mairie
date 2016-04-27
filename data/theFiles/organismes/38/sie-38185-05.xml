@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-38185-05" codeInsee="38185" dateMiseAJour="2015-10-15" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de Grenoble Gresivaudan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Joseph-Chanrion</Ligne>
+      <CodePostal>38032</CodePostal>
+      <NomCommune>Grenoble Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>45.1914439</Latitude>
+         <Longitude>5.7353744</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chausée uniquement</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 54 91 59</Téléphone>
+      <Télécopie>+33 4 76 54 91 74</Télécopie>
+      <Email>sie.grenoble-gresivaudan@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil également sur rendez-vous. Fermé le mercredi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

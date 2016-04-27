@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-84003-01" codeInsee="84003" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-747">
+   <Nom>Point d'information local dédié aux personnes âgées - Apt</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Pres'Âge</Ligne>
+      <Ligne>Avenue Philippe-de-Girard</Ligne>
+      <CodePostal>84400</CodePostal>
+      <NomCommune>Apt</NomCommune>
+      <Localisation>
+         <Latitude>43.876421</Latitude>
+         <Longitude>5.391727</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 32 52 91 32</Téléphone>
+      <Email>presage84@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

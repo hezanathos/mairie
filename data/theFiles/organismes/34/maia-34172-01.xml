@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="maia-34172-01" codeInsee="34172" dateMiseAJour="2015-04-07"
+           pivotLocal="maia">
+   <Nom>Mission d'accueil et d'information des associations (Maia) - Hérault</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 97378</Ligne>
+      <Ligne>Rue Serge-Lifar</Ligne>
+      <CodePostal>34184</CodePostal>
+      <NomCommune>Montpellier Cedex 4</NomCommune>
+      <Localisation>
+         <Latitude>43.6206197</Latitude>
+         <Longitude>3.8389355</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 41 72 00</Téléphone>
+      <Télécopie>+33 4 67 41 72 90</Télécopie>
+      <Email>ddcs@herault.gouv.fr</Email>
+      <Url>http://www.associations.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

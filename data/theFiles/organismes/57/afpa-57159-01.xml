@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-57159-01" codeInsee="57159" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Faulquemont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mines de Faulquemont</Ligne>
+      <CodePostal>57690</CodePostal>
+      <NomCommune>Créhange</NomCommune>
+      <Localisation>
+         <Latitude>49.0784973</Latitude>
+         <Longitude>6.5927914</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Url>http://lorraine.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-78490-01" codeInsee="78490" dateMiseAJour="2014-12-04" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Plaisir</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 15</Ligne>
+      <Ligne>17, rue des Frères-Lumière</Ligne>
+      <CodePostal>78373</CodePostal>
+      <NomCommune>Plaisir Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8296371</Latitude>
+         <Longitude>1.9536335</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 81 89 00</Téléphone>
+      <Télécopie>+33 1 30 55 95 30</Télécopie>
+      <Email>sip.plaisir@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

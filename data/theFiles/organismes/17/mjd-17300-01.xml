@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="17300" dateMiseAJour="2015-12-04" id="mjd-17300-01" idPresta="51b08cb8b473e41478000b49" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de La Rochelle</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>&#34;La Passerelle&#34;</Ligne>
+        <Ligne>Square de la Passerelle Mireuil</Ligne>
+        <CodePostal>17000</CodePostal>
+        <NomCommune>LA ROCHELLE</NomCommune>
+        <Localisation>
+            <Latitude>46.16578</Latitude>
+            <Longitude>-1.179181</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 46 09 92 01</Téléphone>
+        <Télécopie>+33 5 46 09 93 20</Télécopie>
+        <Email>mailto:mjd-la-rochelle@justice.fr</Email>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-2B096-01" codeInsee="2B096" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Bureau information jeunesse de Corte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Caserne Padoue</Ligne>
+      <CodePostal>20250</CodePostal>
+      <NomCommune>Corte</NomCommune>
+      <Localisation>
+         <Latitude>42.3048674</Latitude>
+         <Longitude>9.1488371</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 47 72 39</Téléphone>
+      <Email>contact@cpie-centrecorse.fr</Email>
+      <Url>http://www.cpie-centrecorse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

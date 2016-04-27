@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-86070-01" codeInsee="86070" dateMiseAJour="2015-05-19" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de la Vienne - accueil de Chauvigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Mairie</Ligne>
+      <Ligne>1, rue Moulin-Saint-Léger</Ligne>
+      <CodePostal>86300</CodePostal>
+      <NomCommune>Chauvigny</NomCommune>
+      <Localisation>
+         <Latitude>46.5695724</Latitude>
+         <Longitude>0.6445303</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès par la rue Faydeau</Accessibilité>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>41, rue du Touffenet</Ligne>
+      <Ligne>Caisse d'allocations familiales de la Vienne</Ligne>
+      <Ligne>CS 40000</Ligne>
+      <CodePostal>86044</CodePostal>
+      <NomCommune>Poitiers Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>46.5824914</Latitude>
+         <Longitude>0.3648144</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0810 25 86 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

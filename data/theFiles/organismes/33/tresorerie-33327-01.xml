@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-33327-01" codeInsee="33327" dateMiseAJour="2015-01-14"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Podensac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 cours du Maréchal-Joffre</Ligne>
+      <CodePostal>33720</CodePostal>
+      <NomCommune>Podensac</NomCommune>
+      <Localisation>
+         <Latitude>44.650754</Latitude>
+         <Longitude>-0.354514</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 27 17 29</Téléphone>
+      <Télécopie>+33 5 56 27 26 22</Télécopie>
+      <Email>t033042@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+         <Note>Fermé le mercredi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

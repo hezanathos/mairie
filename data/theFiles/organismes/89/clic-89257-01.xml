@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-89257-01" codeInsee="89257" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-811">
+   <Nom>Point d'information local dédié aux personnes âgées - Migennes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>60 Rue Émile-Zola</Ligne>
+      <Ligne>BP 92</Ligne>
+      <Ligne>Unité territorriale de solidarité du Migennois</Ligne>
+      <CodePostal>89400</CodePostal>
+      <NomCommune>Migennes</NomCommune>
+      <Localisation>
+         <Latitude>47.963945</Latitude>
+         <Longitude>3.512317</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 92 08 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-68315-01" codeInsee="68315" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Soultz-Guebwiller</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41, route de Jungholtz</Ligne>
+      <CodePostal>68360</CodePostal>
+      <NomCommune>Soultz-Haut-Rhin</NomCommune>
+      <Localisation>
+         <Latitude>47.880427</Latitude>
+         <Longitude>7.2159304</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 76 92 01</Téléphone>
+      <Télécopie>+33 3 89 74 97 35</Télécopie>
+      <Email>bta.soultz-guebwiller@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="60057" dateMiseAJour="2014-01-28" id="tribunal_commerce-60057-01" idPresta="4eb263332935944ef50001be" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Beauvais</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>12 rue des teinturiers</Ligne>
+        <Ligne>BP 90458</Ligne>
+        <CodePostal>60004</CodePostal>
+        <NomCommune>BEAUVAIS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.42951</Latitude>
+            <Longitude>2.068495</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 44 06 74 00</Téléphone>
+        <Télécopie>+33 3 44 06 74 01</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

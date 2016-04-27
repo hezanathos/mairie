@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-44029-01" codeInsee="44029" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Loire Divatte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>84 rue Jean-Monnet</Ligne>
+      <CodePostal>44450</CodePostal>
+      <NomCommune>La Chapelle-Basse-Mer</NomCommune>
+      <Localisation>
+         <Latitude>47.271643</Latitude>
+         <Longitude>-1.33891</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 71 92 12</Téléphone>
+      <Télécopie>+33 2 51 71 90 10</Télécopie>
+      <Email>accueil@cc-loiredivatte.fr</Email>
+      <Url>http://www.cc-loiredivatte.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

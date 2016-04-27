@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-30189-01" codeInsee="30189" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Nîmes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>281 chemin du Mas-Coquillard</Ligne>
+      <CodePostal>30020</CodePostal>
+      <NomCommune>Nîmes Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>43.8296012878</Latitude>
+         <Longitude>4.35581016541</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 76 38 00</Téléphone>
+      <Télécopie>+33 4 66 76 38 19</Télécopie>
+      <Email>poste@mlinimes.com</Email>
+      <Url>http://www.cnml.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

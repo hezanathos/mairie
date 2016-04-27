@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-57463-01" codeInsee="57463" dateMiseAJour="2015-05-26"
+           pivotLocal="clic"
+           idPresta="clic-450">
+   <Nom>Point d'information local dédié aux personnes âgées - Metz</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 place Saint-Thibault</Ligne>
+      <Ligne>Centre local d'information et de coordination Moselle de  Metz</Ligne>
+      <CodePostal>57000</CodePostal>
+      <NomCommune>Metz</NomCommune>
+      <Localisation>
+         <Latitude>49.1122688</Latitude>
+         <Longitude>6.177064</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 56 87 76</Téléphone>
+      <Email>clicmosellemetz@cg57.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

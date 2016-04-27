@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-01384-01" codeInsee="01384" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Rambert-en-Bugey</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 quai Lamartine</Ligne>
+      <CodePostal>01230</CodePostal>
+      <NomCommune>Saint-Rambert-en-Bugey</NomCommune>
+      <Localisation>
+         <Latitude>45.9486402</Latitude>
+         <Longitude>5.441196</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 36 30 12</Téléphone>
+      <Télécopie>+33 4 74 37 44 54</Télécopie>
+      <Email>cob.lagnieu@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

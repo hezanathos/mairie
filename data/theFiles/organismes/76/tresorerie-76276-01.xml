@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-76276-01" codeInsee="76276" dateMiseAJour="2015-07-21"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Forges-les-Eaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 rue Marette</Ligne>
+      <Ligne>BP 56</Ligne>
+      <CodePostal>76440</CodePostal>
+      <NomCommune>Forges-les-Eaux</NomCommune>
+      <Localisation>
+         <Latitude>49.613509</Latitude>
+         <Longitude>1.5403416</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 90 52 23</Téléphone>
+      <Email>t076071@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

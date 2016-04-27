@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="80212" dateMiseAJour="2015-11-03" id="permanence_juridique-80212-01" idPresta="4cac9e61293594648a0004c2" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Corbie</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Centre communal d&#39;action sociale (CCAS)</Ligne>
+        <Ligne>1 rue Faidherbe</Ligne>
+        <CodePostal>80800</CodePostal>
+        <NomCommune>CORBIE</NomCommune>
+        <Localisation>
+            <Latitude>49.9075969</Latitude>
+            <Longitude>2.5117417</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 22 96 43 03</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

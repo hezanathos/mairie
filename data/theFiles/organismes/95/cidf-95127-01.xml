@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cidf-95127-01" codeInsee="95127" dateMiseAJour="2016-03-10"
+           pivotLocal="cidf">
+   <Nom>Centre d'information sur les droits des femmes et des familles (CIDFF) - Val-d'Oise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place des Arts</Ligne>
+      <Ligne>BP 50122</Ligne>
+      <CodePostal>95022</CodePostal>
+      <NomCommune>Cergy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.0360984802</Latitude>
+         <Longitude>2.07817006111</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 41 42 93</Téléphone>
+      <Télécopie>+33 1 34 41 92 92</Télécopie>
+      <Email>contact@cidff95.fr</Email>
+      <Url>http://www.cidff95.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

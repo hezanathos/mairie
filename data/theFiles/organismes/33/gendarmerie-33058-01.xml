@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33058-01" codeInsee="33058" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Blaye</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>56 rue Jaufré-Rudel</Ligne>
+      <CodePostal>33390</CodePostal>
+      <NomCommune>Blaye</NomCommune>
+      <Localisation>
+         <Latitude>45.126841</Latitude>
+         <Longitude>-0.662941</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 42 70 20</Téléphone>
+      <Télécopie>+33 5 57 42 70 39</Télécopie>
+      <Email>bta.blaye@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-83068-01" codeInsee="83068" dateMiseAJour="2016-02-08"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Grimaud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 10310</Ligne>
+      <Ligne>Avenue de la Cabre-d'Or</Ligne>
+      <CodePostal>83310</CodePostal>
+      <NomCommune>Grimaud</NomCommune>
+      <Localisation>
+         <Latitude>43.274308</Latitude>
+         <Longitude>6.521865</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 43 20 21</Téléphone>
+      <Email>t083111@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

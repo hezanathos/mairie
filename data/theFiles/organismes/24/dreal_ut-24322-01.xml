@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-24322-01" codeInsee="24322" dateMiseAJour="2014-07-18"
+           pivotLocal="dreal_ut">
+   <Nom>Unité territoriale - Direction régionale de l'environnement, de l'aménagement et du logement - Dordogne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative - Bâtiment A</Ligne>
+      <CodePostal>24016</CodePostal>
+      <NomCommune>Périgueux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.18046</Latitude>
+         <Longitude>0.70951</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 02 65 80</Téléphone>
+      <Télécopie>+33 5 53 02 25 89</Télécopie>
+      <Email>ut-perigueux.dreal-aquitaine@developpement-durable.gouv.fr</Email>
+      <Url>http://www.aquitaine.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

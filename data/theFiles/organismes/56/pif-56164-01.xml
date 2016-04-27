@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-56164-01" codeInsee="56164" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille du centre communal d'action sociale de Ploeren</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jules Gillet</Ligne>
+      <Ligne>Le Kreisker</Ligne>
+      <CodePostal>56880</CodePostal>
+      <NomCommune>Ploeren</NomCommune>
+      <Localisation>
+         <Latitude>47.6551933289</Latitude>
+         <Longitude>-2.86832904816</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 40 07 37</Téléphone>
+      <Télécopie>+33 2 97 40 11 50</Télécopie>
+      <Email>pif.ccas@fr.oleane.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil sur rendez-vous possible en dehors des heures d'ouverture habituelles.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

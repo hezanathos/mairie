@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-60057-01" codeInsee="60057" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Association profession sport et loisirs de l'Oise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue des Tanneurs</Ligne>
+      <Ligne>Centre des Tanneurs</Ligne>
+      <CodePostal>60000</CodePostal>
+      <NomCommune>Beauvais</NomCommune>
+      <Localisation>
+         <Latitude>49.4290422</Latitude>
+         <Longitude>2.0718564</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 15 11 38</Téléphone>
+      <Télécopie>+33 3 44 15 45 98</Télécopie>
+      <Email>picardie@profession-sport-loisirs.fr</Email>
+      <Url>http://www.picardie.profession-sport-loisirs.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

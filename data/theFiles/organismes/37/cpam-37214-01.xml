@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-37214-01" codeInsee="37214" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) d'Indre-et-Loire - accueil de Saint-Cyr-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>1 place André-Malraux</Ligne>
+      <Ligne>Centre social de Saint-Cyr-sur-Loire</Ligne>
+      <CodePostal>37540</CodePostal>
+      <NomCommune>Saint-Cyr-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.3975286</Latitude>
+         <Longitude>0.6959437000000435</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie d'Indre-et-Loire</Ligne>
+      <Ligne>36 rue Édouard-Vaillant</Ligne>
+      <CodePostal>37035</CodePostal>
+      <NomCommune>Tours Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>47.3902942</Latitude>
+         <Longitude>0.6888514</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h30 à 17h30.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

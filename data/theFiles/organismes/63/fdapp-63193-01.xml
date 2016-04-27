@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdapp-63193-01" codeInsee="63193" dateMiseAJour="2014-10-08"
+           pivotLocal="fdapp">
+   <Nom>Fédération départementale pour la pêche et la protection du milieu aquatique - Puy-de-Dôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Site de Marmilhat-Sud</Ligne>
+      <Ligne>14, allée des Eaux-et-Forêts</Ligne>
+      <CodePostal>63370</CodePostal>
+      <NomCommune>Lempdes</NomCommune>
+      <Localisation>
+         <Latitude>45.7697944641</Latitude>
+         <Longitude>3.19772410393</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 92 56 29</Téléphone>
+      <Télécopie>+33 4 73 90 47 08</Télécopie>
+      <Email>accueil@peche63.com</Email>
+      <Url>http://www.peche63.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

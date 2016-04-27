@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-80630-01" codeInsee="80630" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de la Somme - accueil de Poix-de-Picardie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue du Viaduc</Ligne>
+      <CodePostal>80290</CodePostal>
+      <NomCommune>Poix-de-Picardie</NomCommune>
+      <Localisation>
+         <Latitude>49.7802009583</Latitude>
+         <Longitude>1.98011004925</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de la Somme</Ligne>
+      <Ligne>9 boulevard Maignan-Larivière</Ligne>
+      <CodePostal>80022</CodePostal>
+      <NomCommune>Amiens Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>49.8898010254</Latitude>
+         <Longitude>2.29282999039</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 80 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

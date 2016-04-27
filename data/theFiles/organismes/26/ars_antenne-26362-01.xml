@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ars_antenne-26362-01" codeInsee="26362" dateMiseAJour="2014-03-03"
+           pivotLocal="ars_antenne">
+   <Nom>Délégation territoriale de l'Agence régionale de santé - Drôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, avenue Maurice-Faure</Ligne>
+      <Ligne>BP 1126</Ligne>
+      <CodePostal>26011</CodePostal>
+      <NomCommune>Valence Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.926484</Latitude>
+         <Longitude>4.8860514</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 79 71 00</Téléphone>
+      <Télécopie>+33 4 75 79 71 12</Télécopie>
+      <Url>http://www.ars.rhonealpes.sante.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

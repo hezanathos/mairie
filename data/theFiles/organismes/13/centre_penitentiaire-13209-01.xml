@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13209" dateMiseAJour="2014-01-28" id="centre_penitentiaire-13209-01" idPresta="4eb263332935944ef50001bf" pivotLocal="centre_penitentiaire">
+    <Nom>Centre pénitentiaire de Marseille-Baumettes</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>239 chemin de Morgiou</Ligne>
+        <CodePostal>13404</CodePostal>
+        <NomCommune>MARSEILLE CEDEX 09</NomCommune>
+        <Localisation>
+            <Latitude>43.266835</Latitude>
+            <Longitude>5.356915</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 91 40 81 00</Téléphone>
+        <Télécopie>+33 4 91 40 82 95</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

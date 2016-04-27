@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-34032-01" codeInsee="34032" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta 34 - Ouest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue des Martyrs-de-la-Résistance</Ligne>
+      <Ligne>BP 745</Ligne>
+      <Ligne>Lycée général et technique Jean-Moulin</Ligne>
+      <CodePostal>34521</CodePostal>
+      <NomCommune>Béziers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.3429502</Latitude>
+         <Longitude>3.233546</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 30 43 00</Téléphone>
+      <Télécopie>+33 4 67 30 38 47</Télécopie>
+      <Email>greta-beziers@ac-montpellier.fr</Email>
+      <Url>http://www.gretalr.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

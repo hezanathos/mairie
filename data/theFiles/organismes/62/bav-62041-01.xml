@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="62041" dateMiseAJour="2012-06-19" id="bav-62041-01" idPresta="51b08cb8b473e41478000b52" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance d&#39;Arras</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place des Etats d&#39;Artois</Ligne>
+        <Ligne>BP 924</Ligne>
+        <CodePostal>62022</CodePostal>
+        <NomCommune>ARRAS CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>50.290269</Latitude>
+            <Longitude>2.77629</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 21 51 52 06</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

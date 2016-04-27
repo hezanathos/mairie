@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="62767" dateMiseAJour="2015-11-03" id="permanence_juridique-62767-01" idPresta="4cac9e60293594648a00039c" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Saint-Pol-sur-Ternoise</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>CIAS</Ligne>
+        <Ligne>31 rue des Procureurs</Ligne>
+        <CodePostal>62130</CodePostal>
+        <NomCommune>ST POL SUR TERNOISE</NomCommune>
+        <Localisation>
+            <Latitude>50.3831948</Latitude>
+            <Longitude>2.3350469</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-89344-01" codeInsee="89344" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Fargeau</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Moulin-de-l'Arche</Ligne>
+      <CodePostal>89170</CodePostal>
+      <NomCommune>Saint-Fargeau</NomCommune>
+      <Localisation>
+         <Latitude>47.6427327</Latitude>
+         <Longitude>3.0700115</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 74 00 17</Téléphone>
+      <Télécopie>+33 3 86 74 29 63</Télécopie>
+      <Email>cob.toucy@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

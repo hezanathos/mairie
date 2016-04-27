@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-59350-04" codeInsee="59350" dateMiseAJour="2015-07-06" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Lille Seclin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Pierre-Legrand</Ligne>
+      <CodePostal>59046</CodePostal>
+      <NomCommune>Lille Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.632478</Latitude>
+         <Longitude>3.0845645</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 55 15 15</Téléphone>
+      <Email>sip.lille-seclin@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>également sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

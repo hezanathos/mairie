@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-51230-01" codeInsee="51230"
+           dateMiseAJour="2015-05-12"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations d'Épernay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Eugène-Mercier</Ligne>
+      <Ligne>Sous-préfecture d'Épernay</Ligne>
+      <CodePostal>51200</CodePostal>
+      <NomCommune>Épernay</NomCommune>
+      <Localisation>
+         <Latitude>49.0422511</Latitude>
+         <Longitude>3.956247</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 32 19 77</Téléphone>
+      <Télécopie>+33 3 26 54 28 50</Télécopie>
+      <Email>sp-epernay@marne.gouv.fr</Email>
+      <Url>http://www.marne.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-69385-01" codeInsee="69385" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-597">
+   <Nom>Point d'information local dédié aux personnes âgées - Lyon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5bis rue Cleberg</Ligne>
+      <Ligne>Maison du Rhône du Canton de Lyon 05 (5ième arrondissement)</Ligne>
+      <CodePostal>69005</CodePostal>
+      <NomCommune>Lyon</NomCommune>
+      <Localisation>
+         <Latitude>45.760311</Latitude>
+         <Longitude>4.821909</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 40 20 08</Téléphone>
+      <Email>mdr.lyon5@rhone.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

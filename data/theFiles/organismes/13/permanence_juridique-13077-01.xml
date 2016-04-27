@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13077" dateMiseAJour="2015-11-03" id="permanence_juridique-13077-01" idPresta="4cac9e5e293594648a000146" pivotLocal="permanence_juridique">
+    <Nom>Consultations avocats</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des Services Publics/Centre Elsa Triolet</Ligne>
+        <Ligne>rue Charles Nédélec</Ligne>
+        <CodePostal>13110</CodePostal>
+        <NomCommune>PORT DE BOUC</NomCommune>
+        <Localisation>
+            <Latitude>43.406524</Latitude>
+            <Longitude>4.9809295</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 40 65 12</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

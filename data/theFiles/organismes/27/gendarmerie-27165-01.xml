@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-27165-01" codeInsee="27165" dateMiseAJour="2016-03-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de territoriale autonome de gendarmerie de Conches-en-Ouche</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue Saint-Aubin</Ligne>
+      <CodePostal>27190</CodePostal>
+      <NomCommune>Conches-en-Ouche</NomCommune>
+      <Localisation>
+         <Latitude>48.9552135</Latitude>
+         <Longitude>0.9369548</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 30 20 17</Téléphone>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

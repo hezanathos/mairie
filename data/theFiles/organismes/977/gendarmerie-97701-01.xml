@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-97701-01" codeInsee="97701" dateMiseAJour="2013-11-26"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saint-Barthélémy</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Fort Oscar - Gustavia</Ligne>
+      <CodePostal>97133</CodePostal>
+      <NomCommune>Saint-Barthélemy</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 90 27 11 70</Téléphone>
+      <Télécopie>+33 5 90 27 11 75</Télécopie>
+      <Email>bta.st-barthelemy@gendarmerie.interieur.gouv.fr</Email>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

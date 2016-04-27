@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-73065-01" codeInsee="73065" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de l’association du quartier Centre-Ville de Chambéry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social</Ligne>
+      <Ligne>3 rue du Laurier</Ligne>
+      <CodePostal>73000</CodePostal>
+      <NomCommune>Chambéry</NomCommune>
+      <Localisation>
+         <Latitude>45.5665779114</Latitude>
+         <Longitude>5.9261431694</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 85 50 76</Téléphone>
+      <Télécopie>+33 4 79 33 26 48</Télécopie>
+      <Email>aqcv@wanadoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

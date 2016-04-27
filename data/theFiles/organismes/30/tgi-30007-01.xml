@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="30007" dateMiseAJour="2014-01-28" id="tgi-30007-01" idPresta="4cac9e6a293594648a001797" pivotLocal="tgi">
+    <Nom>Tribunal de grande instance d&#39;Alès</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>3 place Henri Barbusse</Ligne>
+        <CodePostal>30107</CodePostal>
+        <NomCommune>ALES CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.124222</Latitude>
+            <Longitude>4.080314</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 66 56 22 50</Téléphone>
+        <Télécopie>+33 4 66 52 81 34</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:15:00" fin="12:00:00"/>
+            <PlageH début="13:15:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

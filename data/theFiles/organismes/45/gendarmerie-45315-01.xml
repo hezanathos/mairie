@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-45315-01" codeInsee="45315" dateMiseAJour="2015-05-18"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Sully-sur-Loire</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Boucicaut</Ligne>
+      <CodePostal>45600</CodePostal>
+      <NomCommune>Sully-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.763082</Latitude>
+         <Longitude>2.373936</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 36 86 10</Téléphone>
+      <Télécopie>+33 2 38 36 86 16</Télécopie>
+      <Email>bta.sully-sur-loire@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

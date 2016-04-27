@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="60395" dateMiseAJour="2010-02-03" id="mjd-60395-01" idPresta="51b08cdeb473e414780013a2" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Méru et du Vexin-Thelle-Sablons</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Angle rues du Dr Graillon et</Ligne>
+        <Ligne>Louis Bloquet</Ligne>
+        <CodePostal>60110</CodePostal>
+        <NomCommune>MERU</NomCommune>
+        <Localisation>
+            <Latitude>49.231289</Latitude>
+            <Longitude>2.139121</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 44 52 33 90</Téléphone>
+        <Télécopie>+33 3 44 52 33 99</Télécopie>
+        <Email>mailto:mjd-meru@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="10:00:00" fin="13:00:00"/>
+            <PlageH début="14:00:00" fin="17:30:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="10:00:00" fin="17:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

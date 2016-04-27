@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-27355-01" codeInsee="27355" dateMiseAJour="2015-03-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Ivry-la-Bataille</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue Jules-Ferry</Ligne>
+      <CodePostal>27540</CodePostal>
+      <NomCommune>Ivry-la-Bataille</NomCommune>
+      <Localisation>
+         <Latitude>48.8899572</Latitude>
+         <Longitude>1.4614839</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 36 40 17</Téléphone>
+      <Télécopie>+33 2 32 36 91 02</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

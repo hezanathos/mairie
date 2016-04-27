@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-23089-01" codeInsee="23089" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Portes de la Creuse en Marche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue des Violettes</Ligne>
+      <CodePostal>23350</CodePostal>
+      <NomCommune>Genouillac</NomCommune>
+      <Localisation>
+         <Latitude>46.3518389</Latitude>
+         <Longitude>1.992298</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 80 88 01</Téléphone>
+      <Télécopie>+33 9 70 61 56 22</Télécopie>
+      <Email>cc.portesdelacreuse@orange.fr</Email>
+      <Url>http://www.cc-lapetitecreuse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="59183" dateMiseAJour="2012-06-20" id="bav-59183-01" idPresta="51b08c94b473e4147800037b" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Dunkerque</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place du palais de justice</Ligne>
+        <Ligne>BP 6365</Ligne>
+        <CodePostal>59385</CodePostal>
+        <NomCommune>DUNKERQUE CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>51.031147</Latitude>
+            <Longitude>2.374978</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>03285300</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

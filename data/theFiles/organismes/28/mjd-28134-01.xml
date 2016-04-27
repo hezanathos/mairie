@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="28134" dateMiseAJour="2010-02-03" id="mjd-28134-01" idPresta="51b08ccbb473e41478000f8c" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Dreux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 place Doumer</Ligne>
+        <CodePostal>28100</CodePostal>
+        <NomCommune>DREUX</NomCommune>
+        <Localisation>
+            <Latitude>48.736791</Latitude>
+            <Longitude>1.369694</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 37 38 84 21</Téléphone>
+        <Télécopie>+33 2 37 38 84 70</Télécopie>
+        <Email>mailto:mjd-dreux@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

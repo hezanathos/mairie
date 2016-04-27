@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-72269-01" codeInsee="72269" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-654">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Calais</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination Charles Garnier</Ligne>
+      <Ligne>9 rue des Halles</Ligne>
+      <CodePostal>72120</CodePostal>
+      <NomCommune>Saint-Calais</NomCommune>
+      <Localisation>
+         <Latitude>47.920623</Latitude>
+         <Longitude>0.743708</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 35 91 16</Téléphone>
+      <Email>cliccharlesgarnier@cg72.fr</Email>
+      <Url>http://www.cidpacclic.sarthe.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

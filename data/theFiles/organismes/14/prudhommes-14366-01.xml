@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="14366" dateMiseAJour="2014-10-20" id="prudhommes-14366-01" idPresta="4cac9e5f293594648a000204" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Lisieux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>49 rue de Paris</Ligne>
+        <Ligne>CS 36012</Ligne>
+        <CodePostal>14106</CodePostal>
+        <NomCommune>LISIEUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>49.147119</Latitude>
+            <Longitude>0.233451</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 31 48 55 70</Téléphone>
+        <Télécopie>+33 2 31 31 07 96</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="mardi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:30:00"/>
+        </PlageJ>
+        <PlageJ début="mercredi" fin="mercredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:30:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

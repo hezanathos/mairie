@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-2A269-01" codeInsee="2A269" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Côte des Nacres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie de Solenzara</Ligne>
+      <CodePostal>20145</CodePostal>
+      <NomCommune>Sari-Solenzara</NomCommune>
+      <Localisation>
+         <Latitude>41.837115</Latitude>
+         <Longitude>9.372646</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">contacter le standard avant de se déplacer pour accéder à une autre entrée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 48 26 99</Téléphone>
+      <Télécopie>+33 4 95 48 26 99</Télécopie>
+      <Email>info@cccotedesnacres.com</Email>
+      <Url>http://www.cccotedesnacres.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

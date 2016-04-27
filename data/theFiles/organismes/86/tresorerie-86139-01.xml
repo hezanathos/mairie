@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-86139-01" codeInsee="86139" dateMiseAJour="2015-08-25"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Lusignan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue Carnot</Ligne>
+      <Ligne>BP 50003</Ligne>
+      <CodePostal>86600</CodePostal>
+      <NomCommune>Lusignan</NomCommune>
+      <Localisation>
+         <Latitude>46.4350759</Latitude>
+         <Longitude>0.1206315</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 89 31 31</Téléphone>
+      <Télécopie>+33 5 49 89 31 32</Télécopie>
+      <Email>t086010@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

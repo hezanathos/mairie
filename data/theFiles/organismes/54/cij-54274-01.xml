@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-54274-01" codeInsee="54274" dateMiseAJour="2009-08-14" pivotLocal="cij">
+   <Nom>Kiosque Information Jeunesse deJarville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue des Forges</Ligne>
+      <CodePostal>54140</CodePostal>
+      <NomCommune>JARVILLE LA MALGRANGE</NomCommune>
+      <Localisation>
+         <Latitude>48.6721172</Latitude>
+         <Longitude>6.2060679</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 57 24 43</Téléphone>
+      <Télécopie>+33 3 83 57 24 37</Télécopie>
+      <Email>kij@jarville.com</Email>
+      <Url>http://www.informationjeunesselorraine.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

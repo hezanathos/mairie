@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-62041-01" codeInsee="62041" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Pas-de-Calais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Ferdinand-Buisson</Ligne>
+      <CodePostal>62018</CodePostal>
+      <NomCommune>Arrax Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>50.2916116</Latitude>
+         <Longitude>2.7639579</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 21 62 62</Téléphone>
+      <Télécopie>+33 3 21 21 62 99</Télécopie>
+      <Url>http://www.pasdecalais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil téléphonique de 7h30 à 20h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

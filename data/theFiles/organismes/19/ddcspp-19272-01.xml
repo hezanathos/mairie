@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcspp-19272-01" codeInsee="19272" dateMiseAJour="2013-04-25"
+           pivotLocal="ddcspp">
+   <Nom>Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de la Corrèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité adminitrative</Ligne>
+      <Ligne>BP 314</Ligne>
+      <CodePostal>19011</CodePostal>
+      <NomCommune>Tulle Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.2643829</Latitude>
+         <Longitude>1.768529</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 21 80 00</Téléphone>
+      <Télécopie>+33 5 87 01 90 32</Télécopie>
+      <Email>ddcspp@correze.gouv.fr</Email>
+      <Url>http://www.correze.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

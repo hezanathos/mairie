@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="drac-34172-01" codeInsee="34172" dateMiseAJour="2015-12-21"
+           pivotLocal="drac">
+   <Nom>Direction régionale des affaires culturelles - Languedoc-Roussillon Midi-Pyrénées</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Salle-l'Évêque</Ligne>
+      <Ligne>CS 49020</Ligne>
+      <CodePostal>34967</CodePostal>
+      <NomCommune>Montpellier Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>43.6125234</Latitude>
+         <Longitude>3.8796748</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 02 32 00</Téléphone>
+      <Télécopie>+33 4 67 02 32 04</Télécopie>
+      <Email>drac-languedoc@culture.gouv.fr</Email>
+      <Url>http://www.culturecommunication.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

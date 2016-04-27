@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="74243" dateMiseAJour="2011-05-31" id="mjd-74243-01" idPresta="51b08cd0b473e414780010ba" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Saint Julien en Genevois</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Immeuble Le Galien</Ligne>
+        <Ligne>26 avenue de Genève</Ligne>
+        <CodePostal>74160</CodePostal>
+        <NomCommune>ST JULIEN EN GENEVOIS</NomCommune>
+        <Localisation>
+            <Latitude>46.148422</Latitude>
+            <Longitude>6.086394</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 50 74 86 86</Téléphone>
+        <Télécopie>+33 4 50 36 40 32</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

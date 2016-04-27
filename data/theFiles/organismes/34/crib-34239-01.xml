@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-34239-01" codeInsee="34239" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Agence de développement économique</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de la Lucque</Ligne>
+      <Ligne>ZAE La Garrigue</Ligne>
+      <CodePostal>34725</CodePostal>
+      <NomCommune>Saint-André-de-Sangonis</NomCommune>
+      <Localisation>
+         <Latitude>43.6529839</Latitude>
+         <Longitude>3.508645</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 57 01 01</Téléphone>
+      <Télécopie>+33 4 67 57 69 67</Télécopie>
+      <Email>economie@coeur-herault.fr</Email>
+      <Url>http://www.coeur.herault.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

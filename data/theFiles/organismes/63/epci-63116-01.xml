@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-63116-01" codeInsee="63116" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Côtes de Combrailles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Poste</Ligne>
+      <CodePostal>63460</CodePostal>
+      <NomCommune>Combronde</NomCommune>
+      <Localisation>
+         <Latitude>45.9810315</Latitude>
+         <Longitude>3.0896632</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 97 19 30</Téléphone>
+      <Télécopie>+33 4 73 97 38 71</Télécopie>
+      <Email>administration@cotesdecombrailles.fr</Email>
+      <Url>http://www.cotesdecombrailles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

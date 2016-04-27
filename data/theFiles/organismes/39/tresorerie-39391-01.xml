@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-39391-01" codeInsee="39391" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Nozeroy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande Rue</Ligne>
+      <CodePostal>39250</CodePostal>
+      <NomCommune>Nozeroy</NomCommune>
+      <Localisation>
+         <Latitude>46.7748949</Latitude>
+         <Longitude>6.0373163</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 51 10 22</Téléphone>
+      <Email>t039016@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

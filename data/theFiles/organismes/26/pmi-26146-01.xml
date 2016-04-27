@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-26146-01" codeInsee="26146" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Grignan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 route de Taulignan</Ligne>
+      <CodePostal>26230</CodePostal>
+      <NomCommune>Grignan</NomCommune>
+      <Localisation>
+         <Latitude>44.4104946</Latitude>
+         <Longitude>4.9460135</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 46 52 31</Téléphone>
+      <Télécopie>+33 4 75 46 50 79</Télécopie>
+      <Email>cms.grignan@ladrome.fr</Email>
+      <Url>http://www.drome.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique ouvert uniquement le lundi et vendredi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

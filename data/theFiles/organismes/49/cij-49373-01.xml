@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-49373-01" codeInsee="49373" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Vihiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mission locale</Ligne>
+      <Ligne>Centre social</Ligne>
+      <Ligne>2 rue du Comte de Champagny</Ligne>
+      <CodePostal>49310</CodePostal>
+      <NomCommune>VIHIERS</NomCommune>
+      <Localisation>
+         <Latitude>47.1463678473</Latitude>
+         <Longitude>-0.533357262611</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 56 12 56</Téléphone>
+      <Télécopie>+33 2 41 75 13 46</Télécopie>
+      <Email>ml.layon.pijvero@orange.fr</Email>
+      <Url>http://www.infos-jeunes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accès libre les après-midi de 13h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

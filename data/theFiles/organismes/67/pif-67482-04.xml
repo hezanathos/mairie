@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-67482-04" codeInsee="67482" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de la CSF du quartier de l'Ill de Strasbourg</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38 rue de l'Ill</Ligne>
+      <CodePostal>67000</CodePostal>
+      <NomCommune>Strasbourg</NomCommune>
+      <Localisation>
+         <Latitude>48.613319397</Latitude>
+         <Longitude>7.77419185638</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 31 22 97</Téléphone>
+      <Email>csf.apfs@wanadoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

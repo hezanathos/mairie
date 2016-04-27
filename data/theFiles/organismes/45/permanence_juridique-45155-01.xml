@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="45155" dateMiseAJour="2015-11-03" id="permanence_juridique-45155-01" idPresta="4cac9e70293594648a00219f" pivotLocal="permanence_juridique">
+    <Nom>Point contact Visioconférence de Gien</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>chemin de Montfort</Ligne>
+        <CodePostal>45500</CodePostal>
+        <NomCommune>GIEN</NomCommune>
+        <Localisation>
+            <Latitude>47.7055909</Latitude>
+            <Longitude>2.6194187</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 38 69 01 22</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

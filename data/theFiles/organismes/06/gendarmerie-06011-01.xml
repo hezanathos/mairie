@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06011-01" codeInsee="06011" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Beaulieu-sur-Mer</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Marius-Maiffret</Ligne>
+      <CodePostal>06310</CodePostal>
+      <NomCommune>Beaulieu-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>43.7060361</Latitude>
+         <Longitude>7.3308929</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 01 35 40</Téléphone>
+      <Télécopie>+33 4 93 76 54 49</Télécopie>
+      <Email>bta.beaulieu-sur-mer@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

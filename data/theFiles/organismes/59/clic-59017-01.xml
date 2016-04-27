@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-59017-01" codeInsee="59017" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-495">
+   <Nom>Point d'information local dédié aux personnes âgées - Armentières</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 rue du Président-Kennedy</Ligne>
+      <Ligne>BP 70211</Ligne>
+      <Ligne>Centre local d'information et de coordination du Canton d'Armentières</Ligne>
+      <CodePostal>59280</CodePostal>
+      <NomCommune>Armentières</NomCommune>
+      <Localisation>
+         <Latitude>50.68653</Latitude>
+         <Longitude>2.885316</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 07 10 12</Téléphone>
+      <Email>contact@clic-armentieres.fr</Email>
+      <Url>http://www.clic-armentieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

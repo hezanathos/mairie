@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-87161-01" codeInsee="87161" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse de Saint-Léonard-de-Naublat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace Denis-Dussoubs</Ligne>
+      <CodePostal>87400</CodePostal>
+      <NomCommune>Saint-Léonard-de-Naublat</NomCommune>
+      <Localisation>
+         <Latitude>45.8367</Latitude>
+         <Longitude>1.486205</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 56 11 18</Téléphone>
+      <Télécopie>+33 5 55 56 89 74</Télécopie>
+      <Email>PIJ@foyer-rural-saint-leonard.fr</Email>
+      <Url>http://www.foyer-rural-saint-leonard.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

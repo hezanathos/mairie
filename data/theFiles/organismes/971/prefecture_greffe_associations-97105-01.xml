@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-97105-01" codeInsee="97105"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Basse-Terre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>94, rue Émilio-Martini</Ligne>
+      <Ligne>Direction de la jeunesse, des sports et de la cohésion sociale de Guadeloupe</Ligne>
+      <Ligne>BP 52</Ligne>
+      <CodePostal>97100</CodePostal>
+      <NomCommune>Basse-Terre</NomCommune>
+      <Localisation>
+         <Latitude>15.998761</Latitude>
+         <Longitude>-61.725646</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 590 80 88 27</Téléphone>
+      <Télécopie>+33 5 90 80 88 28</Télécopie>
+      <Email>ghislaine.larrouy@drjscs.gouv.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-59043-01" codeInsee="59043" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Bailleul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre communal d'action sociale</Ligne>
+      <Ligne>41 rue d'Ypres</Ligne>
+      <CodePostal>59270</CodePostal>
+      <NomCommune>Bailleul</NomCommune>
+      <Localisation>
+         <Latitude>50.7403921</Latitude>
+         <Longitude>2.7376354</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>2 rue de la Batellerie</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie des Flandres</Ligne>
+      <Ligne>CS 94523</Ligne>
+      <CodePostal>59386</CodePostal>
+      <NomCommune>Dunkerque Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>51.0286803</Latitude>
+         <Longitude>2.3628719</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous le jeudi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

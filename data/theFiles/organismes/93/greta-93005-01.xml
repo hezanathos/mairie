@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-93005-01" codeInsee="93005" dateMiseAJour="2011-10-04"
+           pivotLocal="greta">
+   <Nom>Greta Tertiaire Nord 93</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>136 route de Mitry</Ligne>
+      <Ligne>Lycée Voillaume</Ligne>
+      <CodePostal>93600</CodePostal>
+      <NomCommune>AULNAY SOUS BOIS</NomCommune>
+      <Localisation>
+         <Latitude>48.9440491</Latitude>
+         <Longitude>2.5075809</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 19 83 83</Téléphone>
+      <Télécopie>+33 1 48 19 83 80</Télécopie>
+      <Email>gtn93@ac-creteil.fr</Email>
+      <Url>http://www.forpro-creteil.org</Url>
+   </CoordonnéesNum>
+</Organisme>

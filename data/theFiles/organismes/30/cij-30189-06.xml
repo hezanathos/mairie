@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-30189-06" codeInsee="30189" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Point information jeunesse de Nîmes - Maison d'arrêt de Nîmes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison d'arrêt de Nîmes</Ligne>
+      <Ligne>BP 3010</Ligne>
+      <Ligne>131 chemin de Grezan</Ligne>
+      <CodePostal>30002</CodePostal>
+      <NomCommune>NIMES CEDEX 6</NomCommune>
+      <Localisation>
+         <Latitude>43.841999054</Latitude>
+         <Longitude>4.39530992508</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 02 12 50</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="10:30:00"/>
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="10:30:00"/>
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="10:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

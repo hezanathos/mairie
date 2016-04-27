@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="16015" dateMiseAJour="2014-01-28" id="tribunal_commerce-16015-01" idPresta="4eb262982935944ef50000c7" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce d&#39;Angoulême</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>13 rue place du Champs de Mars</Ligne>
+        <CodePostal>16000</CodePostal>
+        <NomCommune>ANGOULEME</NomCommune>
+        <Localisation>
+            <Latitude>45.64534</Latitude>
+            <Longitude>0.149659</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 45 92 66 03</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

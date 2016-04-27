@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-34157-01" codeInsee="34157" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Nord du Bassin de Thau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Complexe Oïkos</Ligne>
+      <Ligne>Chemin Départemental-5E</Ligne>
+      <CodePostal>34560</CodePostal>
+      <NomCommune>Villeveyrac</NomCommune>
+      <Localisation>
+         <Latitude>43.499587</Latitude>
+         <Longitude>3.606049</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée, ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 78 55 96</Téléphone>
+      <Télécopie>+33 4 67 78 81 99</Télécopie>
+      <Email>secretariat.daldigot@ccnbt.fr</Email>
+      <Url>http://www.ccnbt.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

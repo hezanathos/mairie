@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-14118-01" codeInsee="14118" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Caen</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 avenue du 43e-Régiment-d'Artillerie</Ligne>
+      <Ligne>Caserne Le Flem</Ligne>
+      <CodePostal>14000</CodePostal>
+      <NomCommune>Caen</NomCommune>
+      <Localisation>
+         <Latitude>49.1664109</Latitude>
+         <Longitude>-0.34588</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 35 94 98</Téléphone>
+      <Télécopie>+33 2 31 35 94 97</Télécopie>
+      <Email>bp.caen@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

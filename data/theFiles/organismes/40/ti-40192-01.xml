@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="40192" dateMiseAJour="2014-06-23" id="ti-40192-01" idPresta="4cac9e62293594648a000643" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Mont-de-Marsan</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité Galliane</Ligne>
+        <Ligne>3 avenue Dufau BP 301</Ligne>
+        <CodePostal>40011</CodePostal>
+        <NomCommune>MONT DE MARSAN CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>43.89366</Latitude>
+            <Longitude>-0.494947</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 58 85 75 75</Téléphone>
+        <Télécopie>+33 5 58 85 75 79</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="11:45:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

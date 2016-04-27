@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-27375-01" codeInsee="27375" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-200">
+   <Nom>Point d'information local dédié aux personnes âgées - Louviers</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Louviers</Ligne>
+      <Ligne>26 rue Guy-de-Maupassan</Ligne>
+      <CodePostal>27400</CodePostal>
+      <NomCommune>Louviers</NomCommune>
+      <Localisation>
+         <Latitude>49.217048</Latitude>
+         <Longitude>1.161392</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 09 46 63</Téléphone>
+      <Email>melanie.drouet@cg27.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

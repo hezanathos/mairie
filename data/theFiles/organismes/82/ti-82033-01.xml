@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="82033" dateMiseAJour="2015-05-07" id="ti-82033-01" idPresta="4cac9e6a293594648a001811" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Castelsarrasin</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 ter rue de la Fraternité</Ligne>
+        <CodePostal>82100</CodePostal>
+        <NomCommune>CASTELSARRASIN</NomCommune>
+        <Localisation>
+            <Latitude>44.039808</Latitude>
+            <Longitude>1.107335</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 63 32 72 10</Téléphone>
+        <Télécopie>+33 5 63 32 72 19</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:45:00" fin="12:00:00"/>
+            <PlageH début="13:45:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

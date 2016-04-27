@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-88181-01" codeInsee="88181" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Fraize</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3A rue Victor-Lalevee</Ligne>
+      <Ligne>BP10</Ligne>
+      <CodePostal>88230</CodePostal>
+      <NomCommune>Fraize</NomCommune>
+      <Localisation>
+         <Latitude>48.1867988</Latitude>
+         <Longitude>7.0023357</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 50 80 32</Téléphone>
+      <Email>t088053@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-11069-01" codeInsee="11069" dateMiseAJour="2015-09-09"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Languedoc-Roussillon - accueil de l'Aude</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>20 rue Saint-Michel</Ligne>
+      <CodePostal>11000</CodePostal>
+      <NomCommune>Carcassonne</NomCommune>
+      <Localisation>
+         <Latitude>43.22382</Latitude>
+         <Longitude>2.33363</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Urssaf de l'Aude</Ligne>
+      <Ligne>20 rue Saint-Michel</Ligne>
+      <CodePostal>11876</CodePostal>
+      <NomCommune>Carcassonne Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Télécopie>+33 4 68 11 24 01</Télécopie>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.languedocroussillon.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <Note>Sur rendez-vous l'après-midi. Accueil téléphonique du lundi au vendredi de 9h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

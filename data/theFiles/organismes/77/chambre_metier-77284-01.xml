@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_metier-77284-01" codeInsee="77284" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_metier">
+   <Nom>Chambre de métiers et de l'artisanat - Seine-et-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue des Cordeliers</Ligne>
+      <CodePostal>77100</CodePostal>
+      <NomCommune>Meaux</NomCommune>
+      <Localisation>
+         <Latitude>48.9602012634</Latitude>
+         <Longitude>2.88504004478</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 79 26 80</Téléphone>
+      <Télécopie>+33 1 64 33 40 24</Télécopie>
+      <Email>antenne.meaux@cma77.fr</Email>
+      <Url>http://www.cma77.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

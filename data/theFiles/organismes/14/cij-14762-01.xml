@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-14762-01" codeInsee="14762" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Vire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bâtiment Henry-Lesage</Ligne>
+      <Ligne>14, rue Chênedollé</Ligne>
+      <CodePostal>14500</CodePostal>
+      <NomCommune>Vire</NomCommune>
+      <Localisation>
+         <Latitude>48.8389577</Latitude>
+         <Longitude>-0.8907615</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 66 49 74</Téléphone>
+      <Email>pij@cc-vire.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

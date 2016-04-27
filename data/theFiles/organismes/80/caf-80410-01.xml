@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-80410-01" codeInsee="80410" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de la Somme - accueil de Ham</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>12 rue Louis-Braille</Ligne>
+      <CodePostal>80400</CodePostal>
+      <NomCommune>Ham</NomCommune>
+      <Localisation>
+         <Latitude>49.7429008484</Latitude>
+         <Longitude>3.07629990578</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de la Somme</Ligne>
+      <Ligne>9 boulevard Maignan-Larivière</Ligne>
+      <CodePostal>80022</CodePostal>
+      <NomCommune>Amiens Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>49.8898010254</Latitude>
+         <Longitude>2.29282999039</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 80 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <Note>Borne pour la consultation de dossiers et l'impression de documents accessible du lundi au vendredi de 8h30 à 12h15 et de 13h30 à 17h30 et le samedi de 13h30 à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <Note>Borne pour la consultation de dossiers et l'impression de documents accessible du lundi au vendredi de 8h30 à 12h15 et de 13h30 à 17h30 et le samedi de 13h30 à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

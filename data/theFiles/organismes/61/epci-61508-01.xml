@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-61508-01" codeInsee="61508" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays du Camembert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 98</Ligne>
+      <Ligne>15 rue Pernelle</Ligne>
+      <CodePostal>61120</CodePostal>
+      <NomCommune>Vimoutiers</NomCommune>
+      <Localisation>
+         <Latitude>48.9230712</Latitude>
+         <Longitude>0.1996532</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 67 54 85</Téléphone>
+      <Télécopie>+33 2 33 67 13 33</Télécopie>
+      <Email>http://www.cdc-camembert.fr/?theme=contact</Email>
+      <Url>http://www.cdc-camembert.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

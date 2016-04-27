@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-61153-01" codeInsee="61153" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Écouché</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28, avenue Léon Labbé</Ligne>
+      <CodePostal>61150</CodePostal>
+      <NomCommune>Écouché</NomCommune>
+      <Localisation>
+         <Latitude>48.7160546</Latitude>
+         <Longitude>-0.1176428</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 36 45 00</Téléphone>
+      <Télécopie>+33 2 33 36 45 04</Télécopie>
+      <Email>cob.argentan@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

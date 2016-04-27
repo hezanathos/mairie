@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dml-17219-01" codeInsee="17219" dateMiseAJour="2015-04-19" pivotLocal="dml">
+   <Nom>Délégation à la mer et au littoral - Charente-Maritime</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue du Maréchal-Foch</Ligne>
+      <CodePostal>17320</CodePostal>
+      <NomCommune>Marennes</NomCommune>
+      <Localisation>
+         <Latitude>45.8229469</Latitude>
+         <Longitude>-1.104982</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 85 14 33</Téléphone>
+      <Télécopie>+33 5 46 85 14 40</Télécopie>
+      <Email>ddtm-dmldd-mn-cmp@charente-maritime.gouv.fr</Email>
+      <Url>http://www.charente-maritime.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

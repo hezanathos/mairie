@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-50506-01" codeInsee="50506" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Canton de Saint-Malo-de-la-Lande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>50200</CodePostal>
+      <NomCommune>Saint-Malo-de-la-Lande</NomCommune>
+      <Localisation>
+         <Latitude>49.0711422</Latitude>
+         <Longitude>-1.5393919</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 76 85 00</Téléphone>
+      <Télécopie>+33 2 33 45 82 09</Télécopie>
+      <Email>contact@tc-saintmalodelalande.fr</Email>
+      <Url>http://www.cc-saintmalodelalande.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

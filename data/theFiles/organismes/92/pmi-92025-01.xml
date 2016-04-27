@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-92025-01" codeInsee="92025" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Colombes - Gros-Grès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>267 rue des Gros-Grès</Ligne>
+      <CodePostal>92700</CodePostal>
+      <NomCommune>Colombes</NomCommune>
+      <Localisation>
+         <Latitude>48.9142990112</Latitude>
+         <Longitude>2.23512005806</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 47 81 49 79</Téléphone>
+      <Télécopie>+33 1 47 81 91 38</Télécopie>
+      <Email>cpmig@cg92.fr</Email>
+      <Url>http://www.hauts-de-seine.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

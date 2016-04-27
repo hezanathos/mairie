@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-41075-01" codeInsee="41075" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Perche et Haut Vendômois Communauté</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Pierre-Genevée</Ligne>
+      <CodePostal>41160</CodePostal>
+      <NomCommune>Fréteval</NomCommune>
+      <Localisation>
+         <Latitude>47.889458</Latitude>
+         <Longitude>1.20887700000003</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 82 74 91</Téléphone>
+      <Télécopie>+33 2 54 82 74 93</Télécopie>
+      <Email>cchv@cchv41.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

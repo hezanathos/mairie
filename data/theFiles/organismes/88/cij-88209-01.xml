@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-88209-01" codeInsee="88209" dateMiseAJour="2011-09-02" pivotLocal="cij">
+   <Nom>Point information jeunesse de Golbey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre social Louise Michel</Ligne>
+      <Ligne>1 rue Louis Blériot</Ligne>
+      <CodePostal>88190</CodePostal>
+      <NomCommune>GOLBEY</NomCommune>
+      <Localisation>
+         <Latitude>48.1847317</Latitude>
+         <Longitude>6.4261472</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 34 60 85</Téléphone>
+      <Télécopie>+33 3 29 31 96 06</Télécopie>
+      <Email>centresociallouisemichel@wanadoo.fr</Email>
+      <Url>http://www.informationjeunesselorraine.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-57630-01" codeInsee="57630" dateMiseAJour="2015-09-09" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) Lorraine - accueil de Sarrebourg</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Le 1884</Ligne>
+      <Ligne>7 impasse des Marronniers</Ligne>
+      <CodePostal>57400</CodePostal>
+      <NomCommune>Sarrebourg</NomCommune>
+      <Localisation>
+         <Latitude>48.7379097</Latitude>
+         <Longitude>7.0542777</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>15 avenue Paul-Doumer</Ligne>
+      <Ligne>MSA Lorraine</Ligne>
+      <CodePostal>54507</CodePostal>
+      <NomCommune>Vandoeuvre-les-Nancy Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 03 17 28</Téléphone>
+      <Télécopie>+33 3 87 03 86 05</Télécopie>
+      <Email>http://www.msalorraine.fr/lfr/contact-particulier</Email>
+      <Url>http://www.msalorraine.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous.</Commentaire>
+</Organisme>

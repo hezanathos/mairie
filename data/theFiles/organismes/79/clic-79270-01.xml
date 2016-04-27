@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-79270-01" codeInsee="79270" dateMiseAJour="2015-07-06"
+           pivotLocal="clic"
+           idPresta="clic-722">
+   <Nom>Point d'information local dédié aux personnes âgées - Saint-Maixent-l'École</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Centenaire</Ligne>
+      <Ligne>Centre local d'information et de coordination du Haut Val de Sèvre</Ligne>
+      <CodePostal>79400</CodePostal>
+      <NomCommune>Saint-Maixent-l'École</NomCommune>
+      <Localisation>
+         <Latitude>46.41199</Latitude>
+         <Longitude>-0.202866</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 06 63 63</Téléphone>
+      <Email>clic.hautvaldesevre@gmail.com</Email>
+      <Url>http://www.clic-hautvaldesevre.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

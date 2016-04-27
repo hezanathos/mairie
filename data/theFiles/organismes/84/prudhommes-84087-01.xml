@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="84087" dateMiseAJour="2014-01-28" id="prudhommes-84087-01" idPresta="4cac9e6a293594648a00170d" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes d&#39;Orange</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>16 rue Henri Fabre</Ligne>
+        <CodePostal>84100</CodePostal>
+        <NomCommune>ORANGE</NomCommune>
+        <Localisation>
+            <Latitude>44.138083</Latitude>
+            <Longitude>4.812861</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 34 70 00</Téléphone>
+        <Télécopie>+33 4 90 51 84 94</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

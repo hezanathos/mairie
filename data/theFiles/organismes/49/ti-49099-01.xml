@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="49099" dateMiseAJour="2015-06-12" id="ti-49099-01" idPresta="4cac9e62293594648a00064e" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Cholet</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>rue François Tharreau</Ligne>
+        <Ligne>CS 61425</Ligne>
+        <CodePostal>49314</CodePostal>
+        <NomCommune>CHOLET CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.059815</Latitude>
+            <Longitude>-0.882626</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 41 65 06 62</Téléphone>
+        <Télécopie>+33 2 41 58 60 98</Télécopie>
+        <Email>mailto:ti-cholet@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:45:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

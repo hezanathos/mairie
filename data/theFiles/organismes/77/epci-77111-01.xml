@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-77111-01" codeInsee="77111" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Syndicat d'agglomération nouvelle du Val d’Europe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chessy</Ligne>
+      <Ligne>BP 40</Ligne>
+      <Ligne>Château de Chessy</Ligne>
+      <CodePostal>77701</CodePostal>
+      <NomCommune>Marne-la-Vallée Cedex 4</NomCommune>
+      <Localisation>
+         <Latitude>48.8761457</Latitude>
+         <Longitude>2.7649059</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 43 80 80</Téléphone>
+      <Télécopie>+33 1 60 43 66 43</Télécopie>
+      <Email>communication@valeurope-san.fr</Email>
+      <Url>http://www.valeurope-san.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

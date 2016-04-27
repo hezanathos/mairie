@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-43148-01" codeInsee="43148" dateMiseAJour="2015-11-02"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Paulhaguet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Jeanne-d'Arc</Ligne>
+      <CodePostal>43230</CodePostal>
+      <NomCommune>Paulhaguet</NomCommune>
+      <Localisation>
+         <Latitude>45.205626</Latitude>
+         <Longitude>3.516234</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 76 61 64</Téléphone>
+      <Télécopie>+33 4 71 76 87 72</Télécopie>
+      <Email>t043018@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

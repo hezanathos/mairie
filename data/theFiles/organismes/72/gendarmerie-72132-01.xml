@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72132-01" codeInsee="72132" dateMiseAJour="2015-04-23"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de La Ferté-Bernard</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Saint-Barthélémy</Ligne>
+      <CodePostal>72400</CodePostal>
+      <NomCommune>La Ferté-Bernard</NomCommune>
+      <Localisation>
+         <Latitude>48.1787156</Latitude>
+         <Longitude>0.6624848</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 93 00 41</Téléphone>
+      <Télécopie>+33 2 43 93 89 84</Télécopie>
+      <Email>cob.la-ferte-bernard@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

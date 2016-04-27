@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06126-01" codeInsee="06126" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Martin-du-Var</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue des Noyers</Ligne>
+      <CodePostal>06670</CodePostal>
+      <NomCommune>Saint-Martin-du-Var</NomCommune>
+      <Localisation>
+         <Latitude>43.5348974</Latitude>
+         <Longitude>6.3950653</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 08 91 20</Téléphone>
+      <Télécopie>+33 4 93 08 91 64</Télécopie>
+      <Email>cob.carros@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

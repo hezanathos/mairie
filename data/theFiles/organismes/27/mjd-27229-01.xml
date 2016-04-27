@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="27229" dateMiseAJour="2014-11-03" id="mjd-27229-01" idPresta="51b08c9eb473e414780005a6" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  d&#39;Evreux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>4 rue Georges Bernard</Ligne>
+        <CodePostal>27000</CodePostal>
+        <NomCommune>EVREUX</NomCommune>
+        <Localisation>
+            <Latitude>49.027784</Latitude>
+            <Longitude>1.152503</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 32 32 07 91</Téléphone>
+        <Email>mailto:mjd-evreux@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>La maison de justice et du droit d&#39;Evreux est ouverte :</Note>
+        </PlageJ>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+        </PlageJ>
+        <PlageJ début="mardi" fin="mardi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+        </PlageJ>
+        <PlageJ début="jeudi" fin="jeudi">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="17:00:00"/>
+            <Note>
+
+La MJD est fermée le mercredi</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-14712-01" codeInsee="14712" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Troarn</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Paul-Quellec</Ligne>
+      <Ligne>Centre médico social - pôle accueil nord</Ligne>
+      <CodePostal>14670</CodePostal>
+      <NomCommune>Troarn</NomCommune>
+      <Localisation>
+         <Latitude>49.181906</Latitude>
+         <Longitude>-0.182339</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 23 30 12</Téléphone>
+   </CoordonnéesNum>
+   <Commentaire>Accueil ouvert uniquement sur rendez-vous</Commentaire>
+</Organisme>

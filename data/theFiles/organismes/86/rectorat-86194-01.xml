@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="rectorat-86194-01" codeInsee="86194" dateMiseAJour="2015-12-15"
+           pivotLocal="rectorat">
+   <Nom>Rectorat - Académie de Poitiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 40625</Ligne>
+      <Ligne>22, rue Guillaume-VII-le-Troubadour</Ligne>
+      <CodePostal>86022</CodePostal>
+      <NomCommune>Poitiers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.5879439</Latitude>
+         <Longitude>0.3454644</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 16 52 66 00</Téléphone>
+      <Email>cabinet.recteur@ac-poitiers.fr</Email>
+      <Url>http://www.ac-poitiers.fr</Url>
+      <Sve>http://www.ac-poitiers.fr/pied-de-page/saisine-par-voie-electronique-196933.kjsp?RH=1174038579894&amp;RF=1180713880270</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique de 8h à 12h30 et de 13h30 à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

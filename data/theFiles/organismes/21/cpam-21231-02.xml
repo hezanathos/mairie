@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-21231-02" codeInsee="21231" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de la Côte-d'Or - accueil de Dijon-Est Champollion (Grésilles)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>BP 16530</Ligne>
+      <Ligne>6 place des Savoirs</Ligne>
+      <Ligne>Service médical de l'assurance maladie</Ligne>
+      <CodePostal>21065</CodePostal>
+      <NomCommune>Dijon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.327213</Latitude>
+         <Longitude>5.0439875</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 34548</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de Côte-d'Or</Ligne>
+      <CodePostal>21045</CodePostal>
+      <NomCommune>Dijon Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Permanence d'un écrivain public, tous les vendredis de 10h à 12h. Accueil téléphonique ouvert du lundi au vendredi de 8h30 à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

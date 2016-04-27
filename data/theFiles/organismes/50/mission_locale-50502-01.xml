@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-50502-01" codeInsee="50502" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Centre-Manche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue Octave-Feuillet</Ligne>
+      <Ligne>BP 376</Ligne>
+      <CodePostal>50006</CodePostal>
+      <NomCommune>Saint-Lô Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.113899231</Latitude>
+         <Longitude>-1.09026002884</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied au rez-de-chaussé</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 57 17 17</Téléphone>
+      <Télécopie>+33 1 77 65 67 69</Télécopie>
+      <Email>mle-saint-lo@ml-centremanche.fr</Email>
+      <Url>http://www.cnml.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

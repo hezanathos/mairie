@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-50218-01" codeInsee="50218" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-387">
+   <Nom>Point d'information local dédié aux personnes âgées - Granville</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination du Bassin Granvillais</Ligne>
+      <Ligne>15 avenue de la Gare</Ligne>
+      <CodePostal>50400</CodePostal>
+      <NomCommune>Granville</NomCommune>
+      <Localisation>
+         <Latitude>48.839779</Latitude>
+         <Longitude>-1.586693</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 59 49 49</Téléphone>
+      <Email>clicbassingranvillais@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

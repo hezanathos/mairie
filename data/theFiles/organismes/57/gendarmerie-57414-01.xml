@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-57414-01" codeInsee="57414" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lorquin</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>89, rue du Général-Leclerc</Ligne>
+      <CodePostal>57790</CodePostal>
+      <NomCommune>Lorquin</NomCommune>
+      <Localisation>
+         <Latitude>48.6694307</Latitude>
+         <Longitude>6.9966785</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 24 80 03</Téléphone>
+      <Télécopie>+33 3 87 24 96 35</Télécopie>
+      <Email>cob.sarrebourg@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

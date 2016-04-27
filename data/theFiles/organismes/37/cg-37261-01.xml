@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-37261-01" codeInsee="37261" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Indre-et-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Préfecture</Ligne>
+      <Ligne>Hôtel du département</Ligne>
+      <CodePostal>37927</CodePostal>
+      <NomCommune>Tours Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>47.3929710388</Latitude>
+         <Longitude>0.691299974918</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 31 47 31</Téléphone>
+      <Télécopie>+33 2 47 31 42 71</Télécopie>
+      <Email>contact37@cg37.fr</Email>
+      <Url>http://www.departement-touraine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

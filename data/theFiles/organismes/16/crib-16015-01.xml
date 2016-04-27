@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="crib-16015-01" codeInsee="16015" dateMiseAJour="2016-03-10"
+           pivotLocal="crib">
+   <Nom>Centre de ressources et d'information des bénévoles (Crib) - Association profession sports et loisirs de Charente - APSL 16</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>58 rue de l’Arsenal</Ligne>
+      <Ligne>Maison des sports de la Charente</Ligne>
+      <CodePostal>16000</CodePostal>
+      <NomCommune>Angoulême</NomCommune>
+      <Localisation>
+         <Latitude>45.6463803</Latitude>
+         <Longitude>0.1579621</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 25 32 49</Téléphone>
+      <Email>contact@professionsports16.fr</Email>
+      <Url>http://www.professionsports16.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

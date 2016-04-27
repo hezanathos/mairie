@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-60612-01" codeInsee="60612" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Trois Forêts</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 avenue Eugène-Gazeau</Ligne>
+      <CodePostal>60300</CodePostal>
+      <NomCommune>Senlis</NomCommune>
+      <Localisation>
+         <Latitude>49.2060466578</Latitude>
+         <Longitude>2.58213043213</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 99 08 60</Téléphone>
+      <Télécopie>+33 3 44 99 08 70</Télécopie>
+      <Email>accueil@cc3forets.fr</Email>
+      <Url>http://www.cc3forets.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

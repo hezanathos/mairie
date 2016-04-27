@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-72179-01" codeInsee="72179" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Malicorne-sur-Sarthe</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Oudinot</Ligne>
+      <CodePostal>72270</CodePostal>
+      <NomCommune>Malicorne-sur-Sarthe</NomCommune>
+      <Localisation>
+         <Latitude>47.8133263</Latitude>
+         <Longitude>-0.0824753</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 94 80 17</Téléphone>
+      <Télécopie>+33 2 43 94 94 36</Télécopie>
+      <Email>cob.noyen-sur-sarthe@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

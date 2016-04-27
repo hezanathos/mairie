@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="fdapp-32013-01" codeInsee="32013" dateMiseAJour="2013-04-25"
+           pivotLocal="fdapp">
+   <Nom>Fédération départementale des associations de pêche et de pisciculture du Gers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Toulouse</Ligne>
+      <Ligne>Larougeat</Ligne>
+      <CodePostal>32000</CodePostal>
+      <NomCommune>Auch</NomCommune>
+      <Localisation>
+         <Latitude>43.6539137</Latitude>
+         <Longitude>0.6221862</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 63 41 50</Téléphone>
+      <Télécopie>+33 5 62 63 41 91</Télécopie>
+      <Email>federationpeche32@wanadoo.fr</Email>
+      <Url>http://www.gers-peche.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

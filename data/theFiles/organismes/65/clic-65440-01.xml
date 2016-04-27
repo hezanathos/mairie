@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-65440-01" codeInsee="65440" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-565">
+   <Nom>Point d'information local dédié aux personnes âgées - Tarbes</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 place bois</Ligne>
+      <Ligne>Centre local d'information et de coordination Sage</Ligne>
+      <CodePostal>65000</CodePostal>
+      <NomCommune>Tarbes</NomCommune>
+      <Localisation>
+         <Latitude>43.22968</Latitude>
+         <Longitude>0.080381</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 31 09 83</Téléphone>
+      <Email>asso.clicsage@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

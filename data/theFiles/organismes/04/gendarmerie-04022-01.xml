@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-04022-01" codeInsee="04022" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Barrême</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lieu-dit Les Condamines</Ligne>
+      <CodePostal>04330</CodePostal>
+      <NomCommune>Barrême</NomCommune>
+      <Localisation>
+         <Latitude>43.951492</Latitude>
+         <Longitude>6.37178</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 34 20 02</Téléphone>
+      <Télécopie>+33 4 92 34 29 02</Télécopie>
+      <Email>cob.mezel@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

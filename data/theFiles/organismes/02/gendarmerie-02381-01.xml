@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-02381-01" codeInsee="02381" dateMiseAJour="2015-03-16"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Hirson</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue Camille-Desmoulins</Ligne>
+      <CodePostal>02500</CodePostal>
+      <NomCommune>Hirson</NomCommune>
+      <Localisation>
+         <Latitude>49.9237906</Latitude>
+         <Longitude>4.0768841</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 58 79 17</Téléphone>
+      <Télécopie>+33 3 23 58 79 19</Télécopie>
+      <Email>cob.hirson@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

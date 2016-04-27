@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93046" dateMiseAJour="2015-11-03" id="permanence_juridique-93046-01" idPresta="4cc0564e29359446b700f326" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Livry Gargan</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>8 place François Mittérand</Ligne>
+        <CodePostal>93190</CodePostal>
+        <NomCommune>LIVRY GARGAN</NomCommune>
+        <Localisation>
+            <Latitude>48.919582</Latitude>
+            <Longitude>2.536429</Longitude>
+            <Précision>7</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 41 70 88 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

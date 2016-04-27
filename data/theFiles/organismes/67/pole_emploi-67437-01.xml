@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pole_emploi-67437-01" codeInsee="67437" dateMiseAJour="2016-01-27"
+           pivotLocal="pole_emploi">
+   <Nom>Pôle emploi de Saverne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 80058</Ligne>
+      <Ligne>16 rue du Zornhoff</Ligne>
+      <CodePostal>67702</CodePostal>
+      <NomCommune>Saverne cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7443384</Latitude>
+         <Longitude>7.3692844</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="pour les demandeurs d'emploi, service gratuit + prix appel, composez le +33 1 77 86 39 49 depuis l'étranger. 3995 pour les employeurs, service gratuit + prix appel, composez le +33 1 77 86 39 95 depuis l'étranger">3949</Téléphone>
+      <Url>http://www.pole-emploi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Horaires d'ouverture - Accès libre du lundi au vendredi de 8h30 à 12h30.
+Sur rendez-vous uniquement, lundi, mardi, mercredi de 12h30 à 16h30 (jeudi : fermé au public) et vendredi de 12h30 à 16h00</Commentaire>
+</Organisme>

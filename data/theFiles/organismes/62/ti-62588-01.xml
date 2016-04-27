@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="62588" dateMiseAJour="2014-01-28" id="ti-62588-01" idPresta="4cac9ed7293594648a00ee4e" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Montreuil (62)</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 rue des Carmes</Ligne>
+        <CodePostal>62170</CodePostal>
+        <NomCommune>MONTREUIL</NomCommune>
+        <Localisation>
+            <Latitude>50.4642513</Latitude>
+            <Longitude>1.7656732</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 21 06 06 96</Téléphone>
+        <Télécopie>+33 3 21 81 26 08</Télécopie>
+        <Email>mailto:ti-montreuil-sur-mer@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

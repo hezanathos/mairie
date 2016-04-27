@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="direccte_ut-50129-01" codeInsee="50129" dateMiseAJour="2016-03-10"
+           pivotLocal="direccte_ut">
+   <Nom>Unité départementale - Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Direccte) - Manche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre d'affaires Atlantique</Ligne>
+      <Ligne>BP 240</Ligne>
+      <Ligne>Boulevard Félix-Amiot</Ligne>
+      <CodePostal>50102</CodePostal>
+      <NomCommune>Cherbourg Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.6387</Latitude>
+         <Longitude>-1.61424</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 88 32 00</Téléphone>
+      <Télécopie>+33 2 33 88 32 32</Télécopie>
+      <Email>dd-50.direction@direccte.gouv.fr</Email>
+      <Url>http://www.basse-normandie.direccte.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

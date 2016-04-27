@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-61169-01" codeInsee="61169" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération du Pays de Flers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 149</Ligne>
+      <Ligne>41 rue de la Boule</Ligne>
+      <CodePostal>61103</CodePostal>
+      <NomCommune>Flers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7506431135</Latitude>
+         <Longitude>-0.574378967285</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 98 44 55</Téléphone>
+      <Email>adm.capf@agglo-paysflers.fr</Email>
+      <Url>http://www.flers-agglomeration.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

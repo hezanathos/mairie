@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-74010-01" codeInsee="74010" dateMiseAJour="2016-02-23" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques d'Annecy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>7 rue Dupanloup</Ligne>
+      <CodePostal>74040</CodePostal>
+      <NomCommune>Annecy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.9039026</Latitude>
+         <Longitude>6.1339656</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 88 40 06</Téléphone>
+      <Email>sie.annecy@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Accueil téléphonique de 8h30 à 12h30 et 13h30 à 16h30</Commentaire>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-82013-01" codeInsee="82013" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Tarn-et-Garonne - accueil de Beaumont-de-Lomagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>12 rue de Toureilh</Ligne>
+      <Ligne>Centre médico-social</Ligne>
+      <CodePostal>82500</CodePostal>
+      <NomCommune>Beaumont-de-Lomagne</NomCommune>
+      <Localisation>
+         <Latitude>43.883032</Latitude>
+         <Longitude>0.9882461</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 780</Ligne>
+      <Ligne>37 avenue Gambetta</Ligne>
+      <Ligne>Caisse d'allocations familiales de Tarn-et-Garonne</Ligne>
+      <CodePostal>82047</CodePostal>
+      <NomCommune>Montauban Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 82 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

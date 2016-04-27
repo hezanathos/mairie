@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="carsat-51108-01" codeInsee="51108" dateMiseAJour="2015-09-09"
+           pivotLocal="carsat">
+   <Nom>Caisse d'assurance retraite et de la santé au travail (Carsat) - Nord-Est</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue du Gantelet</Ligne>
+      <CodePostal>51000</CodePostal>
+      <NomCommune>Châlons-en-Champagne</NomCommune>
+      <Localisation>
+         <Latitude>48.9568848</Latitude>
+         <Longitude>4.3609224</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="6 centimes d’euro par minute plus le prix de l’appel.">3960</Téléphone>
+      <Télécopie>+33 3 26 21 82 60</Télécopie>
+      <Email>agence.chalons@carsat-nordest.fr</Email>
+      <Url>http://www.carsat-nordest.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

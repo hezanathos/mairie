@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-43162-01" codeInsee="43162" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Retournac</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Craponne</Ligne>
+      <Ligne>Lotissement Le Clapier</Ligne>
+      <CodePostal>43130</CodePostal>
+      <NomCommune>Retournac</NomCommune>
+      <Localisation>
+         <Latitude>45.212318</Latitude>
+         <Longitude>4.0284653</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 59 42 39</Téléphone>
+      <Télécopie>+33 4 71 59 49 02</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

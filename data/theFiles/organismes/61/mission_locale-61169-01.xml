@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-61169-01" codeInsee="61169" dateMiseAJour="2014-08-06"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale des jeunes du Bocage</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18, rue Henri-Laforest</Ligne>
+      <CodePostal>61100</CodePostal>
+      <NomCommune>Flers</NomCommune>
+      <Localisation>
+         <Latitude>48.7502439</Latitude>
+         <Longitude>-0.568805200000043</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 64 43 33</Téléphone>
+      <Télécopie>+33 2 33 64 27 62</Télécopie>
+      <Email>info@missionlocale-flers.com</Email>
+      <Url>http://www.missionlocaledesjeunesdubocage.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cicas-09122-01" codeInsee="09122" dateMiseAJour="2015-09-09"
+           pivotLocal="cicas">
+   <Nom>Centre d'information de conseil et d'accueil des salariés (Cicas) - Ariège</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 bis allée de Villote</Ligne>
+      <Ligne>Résidence La Pyramide</Ligne>
+      <CodePostal>09000</CodePostal>
+      <NomCommune>Foix</NomCommune>
+      <Localisation>
+         <Latitude>42.9633263</Latitude>
+         <Longitude>1.6051486</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0820 20 01 89</Téléphone>
+      <Email>cicasinfo09@agirc-arrco.fr</Email>
+      <Url>http://www.agirc-arrco.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+         <Note>Accueil uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 18h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

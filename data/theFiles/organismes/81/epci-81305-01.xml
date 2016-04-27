@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-81305-01" codeInsee="81305" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Vals et Plateaux des Monts de Lacaune</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>81330</CodePostal>
+      <NomCommune>Vabre</NomCommune>
+      <Localisation>
+         <Latitude>43.6931255</Latitude>
+         <Longitude>2.4260319</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 37 63 30</Téléphone>
+      <Télécopie>+33 5 63 37 63 34</Télécopie>
+      <Email>ccvpml@wanadoo.fr</Email>
+      <Url>http://www.cc-vals-plateaux-monts-lacaune.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

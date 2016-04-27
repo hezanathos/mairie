@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-74010-01" codeInsee="74010" dateMiseAJour="2015-07-23" pivotLocal="cij">
+   <Nom>Bureau information jeunesse d'Annecy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre Bonlieu</Ligne>
+      <Ligne>1 rue Jean-Jaurès</Ligne>
+      <CodePostal>74000</CodePostal>
+      <NomCommune>Annecy</NomCommune>
+      <Localisation>
+         <Latitude>45.9018828</Latitude>
+         <Longitude>6.1286924</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 33 87 40</Téléphone>
+      <Email>infojeunes@ville-annecy.fr</Email>
+      <Url>http://www.bijannecy.over-blog.com</Url>
+   </CoordonnéesNum>
+</Organisme>

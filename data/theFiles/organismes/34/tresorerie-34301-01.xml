@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-34301-01" codeInsee="34301" dateMiseAJour="2015-11-26"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Sète</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 50574</Ligne>
+      <Ligne>207 quai d'Orient</Ligne>
+      <CodePostal>34204</CodePostal>
+      <NomCommune>Sète Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.4076249</Latitude>
+         <Longitude>3.7027115</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 51 65 45</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Fermé le mercredi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

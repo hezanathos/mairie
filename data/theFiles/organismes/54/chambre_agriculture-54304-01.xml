@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="chambre_agriculture-54304-01" codeInsee="54304" dateMiseAJour="2016-03-10"
+           pivotLocal="chambre_agriculture">
+   <Nom>Chambre d’agriculture - Meurthe-et-Moselle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de la Vologne</Ligne>
+      <CodePostal>54520</CodePostal>
+      <NomCommune>Laxou</NomCommune>
+      <Localisation>
+         <Latitude>48.6958999634</Latitude>
+         <Longitude>6.13500976562</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 93 34 10</Téléphone>
+      <Télécopie>+33 3 83 93 34 00</Télécopie>
+      <Email>accueil@meurthe-et-moselle.chambagri.fr</Email>
+      <Url>http://www.meurthe-et-moselle.chambagri.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

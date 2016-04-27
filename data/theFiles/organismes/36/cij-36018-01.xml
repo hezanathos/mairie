@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-36018-01" codeInsee="36018" dateMiseAJour="2012-12-20" pivotLocal="cij">
+   <Nom>Point information jeunesse du Blanc</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Maison de l'information sur la formation et pour l'emploi</Ligne>
+      <Ligne>BP115</Ligne>
+      <Ligne>28, rue Grande</Ligne>
+      <Ligne>Ville Basse</Ligne>
+      <CodePostal>36300</CodePostal>
+      <NomCommune>Le Blanc</NomCommune>
+      <Localisation>
+         <Latitude>46.6320217</Latitude>
+         <Longitude>1.0644701</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 37 27 27</Téléphone>
+      <Télécopie>+33 2 54 37 80 58</Télécopie>
+      <Email>mife.le.blanc@wanadoo.fr</Email>
+      <Url>http://www.informationjeunesse-centre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

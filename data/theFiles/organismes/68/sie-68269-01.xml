@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sie-68269-01" codeInsee="68269" dateMiseAJour="2015-11-06" pivotLocal="sie">
+   <Nom>Service des impôts des entreprises du centre des finances publiques de Ribeauvillé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue du Stangenweiher</Ligne>
+      <CodePostal>68150</CodePostal>
+      <NomCommune>Ribeauvillé</NomCommune>
+      <Localisation>
+         <Latitude>48.1912711</Latitude>
+         <Longitude>7.3344789</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 73 23 15</Téléphone>
+      <Télécopie>+33 3 89 73 23 19</Télécopie>
+      <Email>sip-sie.ribeauville@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil également sur rendez-vous. Fermé les mardi, jeudi et vendredi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

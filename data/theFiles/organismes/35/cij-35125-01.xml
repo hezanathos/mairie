@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-35125-01" codeInsee="35125" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de La Guerche-de-Bretagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue du Cheval-Blanc</Ligne>
+      <CodePostal>35130</CodePostal>
+      <NomCommune>La Guerche-de-Bretagne</NomCommune>
+      <Localisation>
+         <Latitude>47.9423402</Latitude>
+         <Longitude>-1.2300391</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 96 01 02</Téléphone>
+      <Télécopie>+33 2 99 96 15 06</Télécopie>
+      <Email>pij-laguerche@vitrecommunaute.org</Email>
+      <Url>http://www.vitrecommunaute.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

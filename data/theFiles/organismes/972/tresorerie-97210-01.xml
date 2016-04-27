@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-97210-01" codeInsee="97210" dateMiseAJour="2016-03-07"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie mixte du François</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Pont Séraphin</Ligne>
+      <Ligne>BP 34</Ligne>
+      <CodePostal>97240</CodePostal>
+      <NomCommune>Le François</NomCommune>
+      <Localisation>
+         <Latitude>14.591192</Latitude>
+         <Longitude>-60.855162</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 54 30 23</Téléphone>
+      <Télécopie>+596 5 96 54 60 77</Télécopie>
+      <Email>t103005@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:15:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

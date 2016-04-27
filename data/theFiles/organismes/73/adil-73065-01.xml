@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="adil-73065-01" codeInsee="73065" dateMiseAJour="2016-03-10"
+           pivotLocal="adil">
+   <Nom>Agence départementale d'information sur le logement (Adil) - Savoie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>131 rue Juiverie</Ligne>
+      <CodePostal>73000</CodePostal>
+      <NomCommune>Chambéry</NomCommune>
+      <Localisation>
+         <Latitude>45.5654983521</Latitude>
+         <Longitude>5.91817998886</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 69 90 20</Téléphone>
+      <Télécopie>+33 4 79 96 93 06</Télécopie>
+      <Email>accueil@adil73.org</Email>
+      <Url>http://www.adil73.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

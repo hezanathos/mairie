@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-22005-01" codeInsee="22005" dateMiseAJour="2009-09-08" pivotLocal="cij">
+   <Nom>PIJ de Belle-Isle-en-Terre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue Crec'h Ugen</Ligne>
+      <CodePostal>22810</CodePostal>
+      <NomCommune>BELLE ISLE EN TERRE</NomCommune>
+      <Localisation>
+         <Latitude>48.5452003479</Latitude>
+         <Longitude>-3.39623999596</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 43 31 03</Téléphone>
+      <Télécopie>+33 2 96 43 31 00</Télécopie>
+      <Email>pij@cc-belle-isle-en-terre.fr</Email>
+      <Url>http://www.cc-belle-isle-en-terre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="18207" dateMiseAJour="2015-11-03" id="permanence_juridique-18207-01" idPresta="4cac9e5f293594648a0001a9" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit</Nom>
+    <EditeurSource>Ministère de la justice et CDAD du Cher</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison des associations</Ligne>
+        <Ligne>Salle Roseville</Ligne>
+        <Ligne>rue des Lavoirs</Ligne>
+        <CodePostal>18400</CodePostal>
+        <NomCommune>ST FLORENT SUR CHER</NomCommune>
+        <Localisation>
+            <Latitude>46.9907949706</Latitude>
+            <Longitude>2.24664026292</Longitude>
+            <Précision>9</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 6 07 66 96 43</Téléphone>
+        <Email>mailto:cdad@cdad18.fr</Email>
+        <Url>http://www.cdad18.fr</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

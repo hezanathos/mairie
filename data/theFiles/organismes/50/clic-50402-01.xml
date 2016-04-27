@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-50402-01" codeInsee="50402" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-386">
+   <Nom>Point d'information local dédié aux personnes âgées - Les Pieux</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 route de Flamanville</Ligne>
+      <Ligne>Centre local d'information et de coordination Ouest Cotentin</Ligne>
+      <CodePostal>50340</CodePostal>
+      <NomCommune>Les Pieux</NomCommune>
+      <Localisation>
+         <Latitude>49.511991</Latitude>
+         <Longitude>-1.812638</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 01 00 00</Téléphone>
+      <Email>clic.ouest-cotentin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

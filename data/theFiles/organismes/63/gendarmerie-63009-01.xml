@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-63009-01" codeInsee="63009" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie d'Ardes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue du Regard</Ligne>
+      <CodePostal>63420</CodePostal>
+      <NomCommune>Ardes</NomCommune>
+      <Localisation>
+         <Latitude>45.40248</Latitude>
+         <Longitude>3.1270343</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 80 05</Téléphone>
+      <Télécopie>+33 4 73 71 89 82</Télécopie>
+      <Email>cob.st-germain-lembron@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

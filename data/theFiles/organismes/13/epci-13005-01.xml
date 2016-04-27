@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-13005-01" codeInsee="13005" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté d'agglomération du Pays d'Aubagne et de l'Étoile (CAPAE)</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZI les Paluds</Ligne>
+      <Ligne>BP 1415</Ligne>
+      <Ligne>932, avenue de la Fleuride</Ligne>
+      <CodePostal>13785</CodePostal>
+      <NomCommune>Aubagne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.2842254639</Latitude>
+         <Longitude>5.60170698166</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 62 80 00</Téléphone>
+      <Télécopie>+33 4 42 62 85 24</Télécopie>
+      <Email>contact@agglo-paysdaubagne.fr</Email>
+      <Url>http://www.agglo-paysdaubagne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-62193-01" codeInsee="62193" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-543">
+   <Nom>Point d'information local dédié aux personnes âgées - Calais</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre local d'information et de coordination de Calais</Ligne>
+      <Ligne>33 rue du Général Chanzy</Ligne>
+      <CodePostal>62100</CodePostal>
+      <NomCommune>Calais</NomCommune>
+      <Localisation>
+         <Latitude>50.948014</Latitude>
+         <Longitude>1.8586</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 96 73 13</Téléphone>
+      <Email>icgc.calais@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

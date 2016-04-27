@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-42059-01" codeInsee="42059" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de Forez-en-Lyonnais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Zone de Montfuron</Ligne>
+      <CodePostal>42140</CodePostal>
+      <NomCommune>Chazelles-sur-Lyon</NomCommune>
+      <Localisation>
+         <Latitude>45.6402471</Latitude>
+         <Longitude>4.3786838</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 54 28 99</Téléphone>
+      <Télécopie>+33 4 77 54 37 72</Télécopie>
+      <Email>ccfl@cc-forez-en-lyonnais.fr</Email>
+      <Url>http://www.cc-forez-en-lyonnais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

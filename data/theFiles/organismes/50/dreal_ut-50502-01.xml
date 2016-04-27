@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="dreal_ut-50502-01" codeInsee="50502" dateMiseAJour="2014-07-18"
+           pivotLocal="dreal_ut">
+   <Nom>Unité territoriale - Direction régionale de l'environnement, de l'aménagement et du logement - Manche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Résidence les Platanes</Ligne>
+      <Ligne>BP 506</Ligne>
+      <Ligne>Rue de la Marne</Ligne>
+      <CodePostal>50006</CodePostal>
+      <NomCommune>Saint-Lô Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.1136</Latitude>
+         <Longitude>-1.08414</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 50 71 50 54</Téléphone>
+      <Télécopie>+33 2 33 72 02 67</Télécopie>
+      <Url>http://www.basse-normandie.developpement-durable.gouv.fr</Url>
+      <Sve>http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html</Sve>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

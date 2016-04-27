@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="banque_de_france-30007-01" codeInsee="30007" dateMiseAJour="2015-10-23"
+           pivotLocal="banque_de_france">
+   <Nom>Banque de France, bureau d'accueil et d'information d'Alès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Sous-préfecture</Ligne>
+      <Ligne>Boulevard Louis-Blanc</Ligne>
+      <CodePostal>30100</CodePostal>
+      <NomCommune>Alès</NomCommune>
+      <Localisation>
+         <Latitude>44.1262142</Latitude>
+         <Longitude>4.079914</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>CS 10008</Ligne>
+      <Ligne>2, square du 11-Novembre-1918</Ligne>
+      <CodePostal>30040</CodePostal>
+      <NomCommune>Nîmes Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>43.834163</Latitude>
+         <Longitude>4.361379</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. (Tarif 5 cts d'euro par mn plus le prix d'un appel).">+33 4 66 76 82 33</Téléphone>
+      <Email>infos@banque-france.fr</Email>
+      <Url>http://www.banque-france.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Uniquement sur rendez-vous au 04 66 76 82 53</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Uniquement sur rendez-vous au 04 66 76 82 53</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

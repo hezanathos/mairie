@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-62525-01" codeInsee="62525" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Tatinghem</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Rembrandt</Ligne>
+      <CodePostal>62219</CodePostal>
+      <NomCommune>Longuenesse</NomCommune>
+      <Localisation>
+         <Latitude>50.741425</Latitude>
+         <Longitude>2.2718701</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 38 14 17</Téléphone>
+      <Télécopie>+33 3 21 38 71 68</Télécopie>
+      <Email>bta.tatinghem@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

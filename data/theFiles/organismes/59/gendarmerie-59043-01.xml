@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-59043-01" codeInsee="59043" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Bailleul</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>149, rue de la Gare</Ligne>
+      <CodePostal>59270</CodePostal>
+      <NomCommune>Bailleul</NomCommune>
+      <Localisation>
+         <Latitude>50.731281</Latitude>
+         <Longitude>2.7345119</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 49 00 72</Téléphone>
+      <Télécopie>+33 3 28 49 35 45</Télécopie>
+      <Email>bta.bailleul@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

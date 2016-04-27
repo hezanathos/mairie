@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-92024-01" codeInsee="92024" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta 92 - Nord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Défense</Ligne>
+      <Ligne>1, place Jules-Verne</Ligne>
+      <CodePostal>92110</CodePostal>
+      <NomCommune>Clichy</NomCommune>
+      <Localisation>
+         <Latitude>48.9087759</Latitude>
+         <Longitude>2.3072939</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 41 06 62 40</Téléphone>
+      <Télécopie>+33 1 47 30 17 67</Télécopie>
+      <Email>greta.nord.92@ac-versailles.fr</Email>
+      <Url>http://www.greta.ac-versailles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

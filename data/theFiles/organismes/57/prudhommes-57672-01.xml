@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="57672" dateMiseAJour="2015-09-11" id="prudhommes-57672-01" idPresta="4cac9e5f293594648a0002a1" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Thionville</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>12 allée Raymond Poincaré</Ligne>
+        <CodePostal>57100</CodePostal>
+        <NomCommune>THIONVILLE</NomCommune>
+        <Localisation>
+            <Latitude>49.356793</Latitude>
+            <Longitude>6.16298</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 55 84 30 20</Téléphone>
+        <Télécopie>+33 3 82 82 05 95</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="11:45:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

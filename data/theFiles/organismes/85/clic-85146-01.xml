@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-85146-01" codeInsee="85146" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-761">
+   <Nom>Point d'information local dédié aux personnes âgées - Montaigu</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Joseph-Gaillard</Ligne>
+      <Ligne>Centre local d'information et de coordination Guid'âge</Ligne>
+      <CodePostal>85600</CodePostal>
+      <NomCommune>Montaigu</NomCommune>
+      <Localisation>
+         <Latitude>46.982934</Latitude>
+         <Longitude>-1.321528</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 46 35 36</Téléphone>
+      <Email>clic.guidage@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

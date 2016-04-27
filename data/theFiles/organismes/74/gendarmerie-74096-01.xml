@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-74096-01" codeInsee="74096" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Cruseilles</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>515, avenue des Ebeaux</Ligne>
+      <CodePostal>74350</CodePostal>
+      <NomCommune>Cruseilles</NomCommune>
+      <Localisation>
+         <Latitude>46.0324837</Latitude>
+         <Longitude>6.0997196</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 44 10 08</Téléphone>
+      <Télécopie>+33 4 50 44 97 85</Télécopie>
+      <Email>cob.cruseilles@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

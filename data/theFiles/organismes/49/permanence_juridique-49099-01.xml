@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="49099" dateMiseAJour="2015-11-03" id="permanence_juridique-49099-01" idPresta="4cd18fb329359405310109b6" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Cholet</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Tour Emeraude</Ligne>
+        <Ligne>4 rue Val de Loire</Ligne>
+        <CodePostal>49300</CodePostal>
+        <NomCommune>CHOLET</NomCommune>
+        <Localisation>
+            <Latitude>47.026688</Latitude>
+            <Longitude>-0.881139</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 41 20 52 59</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

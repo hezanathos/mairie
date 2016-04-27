@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-57757-01" codeInsee="57757" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre de Thionville - Yutz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route d'Illange</Ligne>
+      <Ligne>CS 90157</Ligne>
+      <CodePostal>57974</CodePostal>
+      <NomCommune>Yutz</NomCommune>
+      <Localisation>
+         <Latitude>49.3421787</Latitude>
+         <Longitude>6.1777796</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 3 82 56 70 69</Télécopie>
+      <Url>http://lorraine.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

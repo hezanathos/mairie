@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-87154-01" codeInsee="87154" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Haute-Vienne - accueil de Saint-Junien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>Place Auguste-Roche</Ligne>
+      <CodePostal>87200</CodePostal>
+      <NomCommune>Saint-Junien</NomCommune>
+      <Localisation>
+         <Latitude>45.8869783</Latitude>
+         <Longitude>0.9008737</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>22 avenue Jean-Gagnant</Ligne>
+      <Ligne>Caisse primaire d'assurance maladie de la Haute-Vienne</Ligne>
+      <CodePostal>87037</CodePostal>
+      <NomCommune>Limoges Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

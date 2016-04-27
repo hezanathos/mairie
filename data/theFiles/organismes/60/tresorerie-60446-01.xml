@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-60446-01" codeInsee="60446" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Nanteuil-le-Haudouin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Gambetta</Ligne>
+      <CodePostal>60440</CodePostal>
+      <NomCommune>Nanteuil-le-Haudouin</NomCommune>
+      <Localisation>
+         <Latitude>49.140257</Latitude>
+         <Longitude>2.809346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 88 11 06</Téléphone>
+      <Email>t060038@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

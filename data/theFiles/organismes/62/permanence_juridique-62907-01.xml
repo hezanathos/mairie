@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="62907" dateMiseAJour="2015-11-03" id="permanence_juridique-62907-01" idPresta="4cac9e60293594648a00039e" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Libercourt</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 rue Jean Baptiste Delobel</Ligne>
+        <CodePostal>62820</CodePostal>
+        <NomCommune>LIBERCOURT</NomCommune>
+        <Localisation>
+            <Latitude>50.4780708</Latitude>
+            <Longitude>3.0094126</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 21 37 10 43</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

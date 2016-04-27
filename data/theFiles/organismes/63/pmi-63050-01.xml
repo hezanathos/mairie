@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-63050-01" codeInsee="63050" dateMiseAJour="2015-04-19" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Brassac-les-Mines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 route de Jumeaux</Ligne>
+      <CodePostal>63570</CodePostal>
+      <NomCommune>Brassac-les-Mines</NomCommune>
+      <Localisation>
+         <Latitude>45.4171981812</Latitude>
+         <Longitude>3.33615994453</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 54 50 80</Téléphone>
+      <Télécopie>+33 4 73 54 50 89</Télécopie>
+      <Email>sec-sancyvaldallier@cg63.fr</Email>
+      <Url>http://www.cg63.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-57160-01" codeInsee="57160" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Creutzwald</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18, rue de Longeville</Ligne>
+      <CodePostal>57150</CodePostal>
+      <NomCommune>Creutzwald</NomCommune>
+      <Localisation>
+         <Latitude>49.1970506</Latitude>
+         <Longitude>6.6944693</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 93 00 02</Téléphone>
+      <Télécopie>+33 3 87 93 97 18</Télécopie>
+      <Email>bta.creutzwald@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

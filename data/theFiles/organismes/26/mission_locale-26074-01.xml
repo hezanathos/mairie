@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-26074-01" codeInsee="26074" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de la Chapelle-en-Vercors</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue des Grands-Goulets</Ligne>
+      <Ligne>Communauté de communes du Vercors</Ligne>
+      <CodePostal>26420</CodePostal>
+      <NomCommune>La Chapelle-en-Vercors</NomCommune>
+      <Localisation>
+         <Latitude>44.9679985046</Latitude>
+         <Longitude>5.41335010529</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 48 24 70</Téléphone>
+      <Télécopie>+33 4 75 48 13 10</Télécopie>
+      <Email>contact@vercors.net</Email>
+      <Url>http://www.vercors.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

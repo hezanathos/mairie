@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="40197" dateMiseAJour="2015-11-03" id="permanence_juridique-40197-01" idPresta="4cac9e5f293594648a0002a2" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Morcenx</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>2 place Léo Bouyssou</Ligne>
+        <CodePostal>40110</CodePostal>
+        <NomCommune>MORCENX</NomCommune>
+        <Localisation>
+            <Latitude>44.0333781</Latitude>
+            <Longitude>-0.9115229</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 58 04 19 00</Téléphone>
+        <Email>mailto:cdadlandes@orange.fr</Email>
+        <Url>http://www.cdad-landes.justice.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-83099-01" codeInsee="83099" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Puget-sur-Argens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>UPS Var Esterel</Ligne>
+      <Ligne>127 boulevard du Commerce</Ligne>
+      <CodePostal>83480</CodePostal>
+      <NomCommune>Puget-sur-Argens</NomCommune>
+      <Localisation>
+         <Latitude>43.4477861</Latitude>
+         <Longitude>6.6992182</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 83 95 40 35</Téléphone>
+      <Télécopie>+33 4 83 95 40 59</Télécopie>
+      <Url>http://www.var.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

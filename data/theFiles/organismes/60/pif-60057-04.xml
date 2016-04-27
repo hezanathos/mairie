@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-60057-04" codeInsee="60057" dateMiseAJour="2011-01-06" pivotLocal="pif">
+   <Nom>Point Info Famille de l'Ecume du Jour</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>5 rue du Faubourg Saint Jacques</Ligne>
+      <CodePostal>60000</CodePostal>
+      <NomCommune>BEAUVAIS</NomCommune>
+      <Localisation>
+         <Latitude>49.4253082275</Latitude>
+         <Longitude>2.08438110352</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 02 07 37</Téléphone>
+      <Email>ecumedujour60@yahoo.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

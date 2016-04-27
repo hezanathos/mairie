@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-63113-01" codeInsee="63113" dateMiseAJour="2016-03-24"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Auvergne - siège du Puy-de-Dôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>La Pardieu</Ligne>
+      <Ligne>4 rue Patrick-Dépailler</Ligne>
+      <CodePostal>63000</CodePostal>
+      <NomCommune>Clermont-Ferrand</NomCommune>
+      <Localisation>
+         <Latitude>45.7612311</Latitude>
+         <Longitude>3.1334226</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>TSA 30012</Ligne>
+      <Ligne>Urssaf Auvergne</Ligne>
+      <CodePostal>63054</CodePostal>
+      <NomCommune>Clermont-Ferrand Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.auvergne.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Accueil exclusivement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 9h à 17h</Commentaire>
+</Organisme>

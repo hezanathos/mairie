@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-92023-01" codeInsee="92023" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Clamart</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 route du Pavé-Blanc</Ligne>
+      <CodePostal>92140</CodePostal>
+      <NomCommune>Clamart</NomCommune>
+      <Localisation>
+         <Latitude>48.7834014893</Latitude>
+         <Longitude>2.23834991455</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 37 38 00</Téléphone>
+      <Email>cpmi6@ohauts-de-seine.fr</Email>
+      <Url>http://www.hauts-de-seine.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

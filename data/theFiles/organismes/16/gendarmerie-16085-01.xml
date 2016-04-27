@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-16085-01" codeInsee="16085" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Chasseneuil-sur-Bonnieure</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Grand-Pré</Ligne>
+      <CodePostal>16260</CodePostal>
+      <NomCommune>Chasseneuil-sur-Bonnieure</NomCommune>
+      <Localisation>
+         <Latitude>45.8307251</Latitude>
+         <Longitude>0.381844</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 39 50 06</Téléphone>
+      <Télécopie>+33 5 45 39 95 38</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

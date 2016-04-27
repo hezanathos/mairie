@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-75118-01" codeInsee="75118" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Paris - 18e arrondissement - Carpeaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5-7 rue Carpeaux</Ligne>
+      <CodePostal>75018</CodePostal>
+      <NomCommune>Paris</NomCommune>
+      <Localisation>
+         <Latitude>48.8903007507</Latitude>
+         <Longitude>2.32992005348</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 44 85 37 44</Téléphone>
+      <Télécopie>+33 1 53 41 16 99</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil des pesées tous les matins de 9h à 11h30 et les après-midi de 14h à 16h45 les lundis mardis et mercredis.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

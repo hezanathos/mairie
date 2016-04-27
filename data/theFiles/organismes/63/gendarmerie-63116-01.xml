@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-63116-01" codeInsee="63116" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Combronde</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue de la Barre</Ligne>
+      <CodePostal>63460</CodePostal>
+      <NomCommune>Combronde</NomCommune>
+      <Localisation>
+         <Latitude>45.9773584</Latitude>
+         <Longitude>3.0923054</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 97 10 05</Téléphone>
+      <Télécopie>+33 4 73 97 38 62</Télécopie>
+      <Email>cob.combronde@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

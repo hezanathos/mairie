@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-63314-01" codeInsee="63314" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Amant-Roche-Savine</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, route de Grandval</Ligne>
+      <CodePostal>63890</CodePostal>
+      <NomCommune>Saint-Amant-Roche-Savine</NomCommune>
+      <Localisation>
+         <Latitude>45.5757652</Latitude>
+         <Longitude>3.6339319</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 95 70 03</Téléphone>
+      <Télécopie>+33 4 73 95 77 14</Télécopie>
+      <Email>cob.st-germain-l-herm@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

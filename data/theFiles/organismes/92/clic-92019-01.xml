@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-92019-01" codeInsee="92019" dateMiseAJour="2015-10-12"
+           pivotLocal="clic"
+           idPresta="Clic-1219">
+   <Nom>Point d'information local dédié aux personnes âgées - Châtenay-Malabry</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Square Henri Sellier</Ligne>
+      <Ligne>Espace Prévention Santé</Ligne>
+      <Ligne>Coordination gérontologique de Châtenay-Malabry</Ligne>
+      <CodePostal>92260</CodePostal>
+      <NomCommune>Châtenay-Malabry</NomCommune>
+      <Localisation>
+         <Latitude>48.764866</Latitude>
+         <Longitude>2.253562</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 46 32 93 49</Téléphone>
+      <Email>espacepreventionsante@wanadoo.fr</Email>
+      <Url>http://www.hauts-de-seine.fr/solidarites/personnes-agees/maintien-a-domicile/adresses-des-clic-et-coordinations-gerontologiques/</Url>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

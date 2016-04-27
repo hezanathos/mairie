@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-33447-01" codeInsee="33447" dateMiseAJour="2015-05-05"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Saint-Médard-de-Guizières</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>127 rue de la République</Ligne>
+      <CodePostal>33230</CodePostal>
+      <NomCommune>Saint-Médard-de-Guizières</NomCommune>
+      <Localisation>
+         <Latitude>45.0156683</Latitude>
+         <Longitude>-0.0641496</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 56 07 20</Téléphone>
+      <Télécopie>+33 5 57 56 07 24</Télécopie>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

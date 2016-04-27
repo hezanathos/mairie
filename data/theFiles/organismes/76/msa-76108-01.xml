@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="msa-76108-01" codeInsee="76108" dateMiseAJour="2014-07-21" pivotLocal="msa">
+   <Nom>Mutualité sociale agricole (MSA) - Haute-Normandie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>32, rue Politzer</Ligne>
+      <CodePostal>27000</CodePostal>
+      <NomCommune>Évreux</NomCommune>
+      <Localisation>
+         <Latitude>49.0066737</Latitude>
+         <Longitude>1.14622570000006</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 12 70 70</Téléphone>
+      <Télécopie>+33 2 35 61 59 55</Télécopie>
+      <Email>contact@hautenormandie.msa.fr</Email>
+      <Url>http://www.msa-haute-normandie.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

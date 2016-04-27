@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-59136-01" codeInsee="59136" dateMiseAJour="2015-04-19" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) du Nord - accueil du Cateau-Cambrésis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Centre administratif - Le Cateau</Ligne>
+      <Ligne>Rue du Marché-aux-Chevaux</Ligne>
+      <CodePostal>59360</CodePostal>
+      <NomCommune>Le Cateau-Cambrésis</NomCommune>
+      <Localisation>
+         <Latitude>50.1035403</Latitude>
+         <Longitude>3.5450742</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales du Nord</Ligne>
+      <CodePostal>59863</CodePostal>
+      <NomCommune>Lille Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0810 25 59 80</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé pendant les congés scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+         <Note>Accueil fermé pendant les congés scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

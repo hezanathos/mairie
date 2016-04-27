@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="91345" dateMiseAJour="2014-01-28" id="ti-91345-01" idPresta="4cac9e6a293594648a001819" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Longjumeau</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>11 Av. du Maréchal Leclerc</Ligne>
+        <Ligne>BP 282</Ligne>
+        <CodePostal>91162</CodePostal>
+        <NomCommune>LONGJUMEAU CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.698457</Latitude>
+            <Longitude>2.292174</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 69 10 26 50</Téléphone>
+        <Télécopie>+33 1 69 34 19 24</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:30:00" fin="17:30:00"/>
+            <PlageH début="08:30:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

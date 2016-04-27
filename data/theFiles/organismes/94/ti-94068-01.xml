@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="94068" dateMiseAJour="2014-01-28" id="ti-94068-01" idPresta="4cac9e6a293594648a00182a" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Saint-Maur-des-Fossés</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>1 avenue Gambetta</Ligne>
+        <CodePostal>94100</CodePostal>
+        <NomCommune>ST MAUR DES FOSSES</NomCommune>
+        <Localisation>
+            <Latitude>48.8017082</Latitude>
+            <Longitude>2.4869504</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 42 83 32 23</Téléphone>
+        <Télécopie>+33 1 48 85 52 59</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="13:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

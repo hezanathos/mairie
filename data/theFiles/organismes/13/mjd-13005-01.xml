@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="13005" dateMiseAJour="2010-02-03" id="mjd-13005-01" idPresta="51b08cccb473e41478000fc3" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  d&#39;Aubagne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>26 Cours Voltaire</Ligne>
+        <CodePostal>13400</CodePostal>
+        <NomCommune>AUBAGNE</NomCommune>
+        <Localisation>
+            <Latitude>43.2954246</Latitude>
+            <Longitude>5.5685548</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 42 36 98 10</Téléphone>
+        <Télécopie>+33 4 42 36 98 19</Télécopie>
+        <Email>mailto:mjd-aubagne@justice.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="dimanche">
+            <PlageH début="00:00:00" fin="00:00:00"/>
+            <Note>Avocats, médiateurs, travailleurs sociaux : sans rendez-vous, le deuxième et quatrième jeudi du mois, de 09h00 à 12h00</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cpam-31555-05" codeInsee="31555" dateMiseAJour="2016-02-08"
+           pivotLocal="cpam">
+   <Nom>Caisse primaire d'assurance maladie (CPAM) de Haute-Garonne - accueil de Toulouse - Bagatelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>33 rue du Lot</Ligne>
+      <CodePostal>31000</CodePostal>
+      <NomCommune>Toulouse</NomCommune>
+      <Localisation>
+         <Latitude>43.5804598</Latitude>
+         <Longitude>1.4107791</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse primaire d'assurance maladie de Haute-Garonne</Ligne>
+      <CodePostal>31093</CodePostal>
+      <NomCommune>Toulouse Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.">3646</Téléphone>
+      <Url>http://www.ameli.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+         <Note>Horaires susceptibles d'être modifiés pendant les vacances d'été. Renseignements au 3646 du lundi au vendredi de 8h à 18h sans interruption.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

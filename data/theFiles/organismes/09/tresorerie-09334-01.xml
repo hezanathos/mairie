@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-09334-01" codeInsee="09334" dateMiseAJour="2016-01-19"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Vicdessos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin de Mariotte</Ligne>
+      <CodePostal>09220</CodePostal>
+      <NomCommune>Vicdessos</NomCommune>
+      <Localisation>
+         <Latitude>42.770276</Latitude>
+         <Longitude>1.498343</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 64 88 24</Téléphone>
+      <Télécopie>+33 5 61 64 88 24</Télécopie>
+      <Email>t009021@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

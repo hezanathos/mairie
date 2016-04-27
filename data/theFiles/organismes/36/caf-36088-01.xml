@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-36088-01" codeInsee="36088" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de l'Indre - accueil d'Issoudun</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Avenue des Bernardines</Ligne>
+      <Ligne>Circonscription de travail social</Ligne>
+      <CodePostal>36100</CodePostal>
+      <NomCommune>Issoudun</NomCommune>
+      <Localisation>
+         <Latitude>46.9437738</Latitude>
+         <Longitude>2.0039574</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>TSA 42205</Ligne>
+      <Ligne>Caisse d'allocations familiales de l'Indre</Ligne>
+      <CodePostal>18931</CodePostal>
+      <NomCommune>Bourges Cedex 9</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 36 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 16h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

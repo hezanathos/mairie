@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-23030-01" codeInsee="23030" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-180">
+   <Nom>Point d'information local dédié aux personnes âgées - Bourganeuf</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Tournois</Ligne>
+      <Ligne>BP 21</Ligne>
+      <Ligne>Centre local d'information et de coordination de Bourganeuf</Ligne>
+      <CodePostal>23400</CodePostal>
+      <NomCommune>Bourganeuf</NomCommune>
+      <Localisation>
+         <Latitude>45.953495</Latitude>
+         <Longitude>1.750324</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 54 54 44</Téléphone>
+      <Email>clic@ch-bourganeuf.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

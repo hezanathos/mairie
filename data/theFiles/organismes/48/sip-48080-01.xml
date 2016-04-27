@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="sip-48080-01" codeInsee="48080" dateMiseAJour="2016-02-01" pivotLocal="sip">
+   <Nom>Service des impôts des particuliers du centre des finances publiques de Langogne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la République</Ligne>
+      <CodePostal>48300</CodePostal>
+      <NomCommune>Langogne</NomCommune>
+      <Localisation>
+         <Latitude>44.7245835</Latitude>
+         <Longitude>3.8545752</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 69 02 55</Téléphone>
+      <Email>sip-sie.langogne@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Egalement sur rendez-vous. Fermé le mercredi et le vendredi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

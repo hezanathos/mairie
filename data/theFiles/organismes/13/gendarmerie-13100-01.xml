@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-13100-01" codeInsee="13100" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Saint-Rémy-de-Provence</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Maréchal-Koening</Ligne>
+      <CodePostal>13210</CodePostal>
+      <NomCommune>Saint-Rémy-de-Provence</NomCommune>
+      <Localisation>
+         <Latitude>43.788652</Latitude>
+         <Longitude>4.831343</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 92 00 47</Téléphone>
+      <Télécopie>+33 4 90 92 78 28</Télécopie>
+      <Email>bta.st-remy-de-provence@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

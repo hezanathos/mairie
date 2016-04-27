@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="23096" dateMiseAJour="2014-12-08" id="spip-23096-01" idPresta="4d2575692935941a920001ea" pivotLocal="spip">
+    <Nom>service pénitentiaire d&#39;insertion et de probation de la Creuse</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>2 avenue Pierre Leroux</Ligne>
+        <CodePostal>23000</CodePostal>
+        <NomCommune>GUERET</NomCommune>
+        <Localisation>
+            <Latitude>46.173352</Latitude>
+            <Longitude>1.879365</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 41 13 48</Téléphone>
+        <Télécopie>+33 5 55 41 14 75</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

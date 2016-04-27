@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-26340-01" codeInsee="26340" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes des Hautes Baronnies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 allée du 10-Août-1944</Ligne>
+      <CodePostal>26560</CodePostal>
+      <NomCommune>Séderon</NomCommune>
+      <Localisation>
+         <Latitude>44.2018739</Latitude>
+         <Longitude>5.539135</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 28 54 90</Téléphone>
+      <Télécopie>+33 4 75 28 52 09</Télécopie>
+      <Email>cchb.26@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

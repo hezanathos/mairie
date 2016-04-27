@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-26362-01" codeInsee="26362" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta - Viva 5</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37-39, rue Barthélémy-de-Laffemas</Ligne>
+      <Ligne>BP 26</Ligne>
+      <CodePostal>26901</CodePostal>
+      <NomCommune>Valence Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>44.9170583</Latitude>
+         <Longitude>4.9155172</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 82 37 90</Téléphone>
+      <Télécopie>+33 4 75 82 03 04</Télécopie>
+      <Email>contact.viva5@greta-viva5.org</Email>
+      <Url>http://www.gretaformation.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

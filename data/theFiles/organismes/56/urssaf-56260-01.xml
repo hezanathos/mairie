@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-56260-01" codeInsee="56260" dateMiseAJour="2016-01-07"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Bretagne - accueil du Morbihan - Vannes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Anita-Conti</Ligne>
+      <Ligne>BP 10323</Ligne>
+      <Ligne>ZA de Laroiseau</Ligne>
+      <CodePostal>56018</CodePostal>
+      <NomCommune>Vannes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6676388</Latitude>
+         <Longitude>-2.7829764</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.">3957</Téléphone>
+      <Email>http://www.contact.urssaf.fr</Email>
+      <Url>http://www.bretagne.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Accueil uniquement sur rendez-vous</Commentaire>
+</Organisme>

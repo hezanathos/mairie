@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="23096" dateMiseAJour="2014-01-28" id="maison_arret-23096-01" idPresta="4eb2622c2935944ef500002f" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Guéret</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>9 avenue de la République</Ligne>
+        <Ligne>BP 251</Ligne>
+        <CodePostal>23005</CodePostal>
+        <NomCommune>GUERET CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.170513</Latitude>
+            <Longitude>1.871864</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 55 52 00 31</Téléphone>
+        <Télécopie>+33 5 55 52 86 47</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

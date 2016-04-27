@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-31555-01" codeInsee="31555" dateMiseAJour="2015-04-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale Haute-Garonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>61 rue Pierre-Cazaneuve</Ligne>
+      <CodePostal>31200</CodePostal>
+      <NomCommune>Toulouse</NomCommune>
+      <Localisation>
+         <Latitude>43.6158</Latitude>
+         <Longitude>1.4443</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 72 49 72</Téléphone>
+      <Télécopie>+33 5 61 13 17 05</Télécopie>
+      <Email>mlhg@ml31.org</Email>
+      <Url>http://www.ml31.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

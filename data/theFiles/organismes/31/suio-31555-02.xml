@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="suio-31555-02" codeInsee="31555" dateMiseAJour="2015-07-08"
+           pivotLocal="suio">
+   <Nom>Service universitaire d'information et d'orientation (SUIO) - Université Toulouse 2</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 allée Antonio-Machado</Ligne>
+      <CodePostal>31058</CodePostal>
+      <NomCommune>Toulouse Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.5776992</Latitude>
+         <Longitude>1.4040191</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 50 49 13</Téléphone>
+      <Télécopie>+33 5 61 50 43 50</Télécopie>
+      <Email>sic@univ-tlse2.fr</Email>
+      <Url>http://www.univ-tlse2.fr/sic</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

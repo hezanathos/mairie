@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="78551" dateMiseAJour="2014-01-28" id="ti-78551-01" idPresta="4cac9e6a293594648a00180e" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Saint-Germain-en-Laye</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>22 rue de la Maison Verte</Ligne>
+        <CodePostal>78951</CodePostal>
+        <NomCommune>ST GERMAIN EN LAYE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.8932611</Latitude>
+            <Longitude>2.0814143</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 30 87 42 10</Téléphone>
+        <Télécopie>+33 1 39 73 80 76</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:45:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

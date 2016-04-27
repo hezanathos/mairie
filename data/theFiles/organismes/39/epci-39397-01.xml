@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-39397-01" codeInsee="39397" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes de la Région d’Orgelet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 chemin du Quart</Ligne>
+      <CodePostal>39270</CodePostal>
+      <NomCommune>Orgelet</NomCommune>
+      <Localisation>
+         <Latitude>46.522526</Latitude>
+         <Longitude>5.612965</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">monte-personne</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 25 41 13</Téléphone>
+      <Télécopie>+33 3 84 25 54 38</Télécopie>
+      <Email>cc@orgelet.com</Email>
+      <Url>http://www.cc.region.orgelet.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

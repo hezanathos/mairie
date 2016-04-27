@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-60069-01" codeInsee="60069" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Betz</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27, rue du Valet</Ligne>
+      <CodePostal>60620</CodePostal>
+      <NomCommune>Betz</NomCommune>
+      <Localisation>
+         <Latitude>49.1587009</Latitude>
+         <Longitude>2.9524273</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 87 88 17</Téléphone>
+      <Télécopie>+33 3 44 87 88 19</Télécopie>
+      <Email>cob.crepy-en-valois@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

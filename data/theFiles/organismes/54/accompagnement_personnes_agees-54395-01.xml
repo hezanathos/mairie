@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-54395-01" codeInsee="54395"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-916">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nancy</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38 rue de Dieuze</Ligne>
+      <Ligne>Centre Germaine-Marchal</Ligne>
+      <Ligne>Accueil de jour</Ligne>
+      <CodePostal>54000</CodePostal>
+      <NomCommune>Nancy</NomCommune>
+      <Localisation>
+         <Latitude>48.697956</Latitude>
+         <Longitude>6.192702</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 36 65 60</Téléphone>
+      <Email>cjp@ohs.asso.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

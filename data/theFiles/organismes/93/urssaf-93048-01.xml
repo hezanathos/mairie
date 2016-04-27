@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="urssaf-93048-01" codeInsee="93048" dateMiseAJour="2016-03-18"
+           pivotLocal="urssaf">
+   <Nom>Urssaf Île-de-France - siège social - accueil de Seine-Saint-Denis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21-29 rue Jean Jacques Rousseau</Ligne>
+      <CodePostal>93100</CodePostal>
+      <NomCommune>Montreuil</NomCommune>
+      <Localisation>
+         <Latitude>48.850525</Latitude>
+         <Longitude>2.427888</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : 12 centimes d'euro  la minute plus le prix d'un appel. Écoutez le tarif en début d'appel.&#xA;&#xA;Services en ligne : 0 811 011 637 (prix d'un appel local depuis un poste&#xA;fixe) du lundi au vendredi de 9h à 17h.&#xA;&#xA;Auto-entrepreneurs : 0 821 08 60 28 (0,12 € TTC/min).">3957</Téléphone>
+      <Email>contact.urssaf.fr</Email>
+      <Url>http://www.iledefrance.urssaf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Pour nous écrire :
+Urssaf Ile-de-France
+Siège social
+93518 Montreuil Cedex</Commentaire>
+</Organisme>

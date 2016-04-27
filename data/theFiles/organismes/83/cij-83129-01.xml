@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-83129-01" codeInsee="83129" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Six-Fours-les-Plages</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>135, avenue de la Cauquière</Ligne>
+      <CodePostal>83140</CodePostal>
+      <NomCommune>Six-Fours-les-Plages</NomCommune>
+      <Localisation>
+         <Latitude>43.0944239</Latitude>
+         <Longitude>5.8392088</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>BP 97</Ligne>
+      <CodePostal>83183</CodePostal>
+      <NomCommune>Six-Fours-les-Plages Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 34 93 70</Téléphone>
+      <Télécopie>+33 4 94 92 13 19</Télécopie>
+      <Email>pij@mairie-six-fours.fr</Email>
+      <Url>http://www.ville-six-fours.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

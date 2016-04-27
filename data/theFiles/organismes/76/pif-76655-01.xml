@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-76655-01" codeInsee="76655" dateMiseAJour="2015-09-09" pivotLocal="pif">
+   <Nom>Point info famille de l'espace public Vallée et Littoral de la communauté de communes de la Côte d’Albâtre de Saint-Valery-en-Caux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Gare</Ligne>
+      <Ligne>Espace public du Littoral</Ligne>
+      <CodePostal>76460</CodePostal>
+      <NomCommune>Saint-Valery-en-Caux</NomCommune>
+      <Localisation>
+         <Latitude>49.8621349</Latitude>
+         <Longitude>0.7132262</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 57 92 00</Téléphone>
+      <Télécopie>+33 2 35 57 92 01</Télécopie>
+      <Email>espace.public@cote-albatre.com</Email>
+      <Url>http://www.cote-albatre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="06157" dateMiseAJour="2015-11-03" id="permanence_juridique-06157-01" idPresta="4cac9e5e293594648a00009e" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de Vence</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>place Georges Clémenceau</Ligne>
+        <CodePostal>06140</CodePostal>
+        <NomCommune>VENCE</NomCommune>
+        <Localisation>
+            <Latitude>43.7227294</Latitude>
+            <Longitude>7.1132756</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 92 29 40 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

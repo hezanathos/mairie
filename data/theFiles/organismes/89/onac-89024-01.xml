@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-89024-01" codeInsee="89024" dateMiseAJour="2014-12-16"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Yonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>136, rue de Paris</Ligne>
+      <CodePostal>89000</CodePostal>
+      <NomCommune>Auxerre</NomCommune>
+      <Localisation>
+         <Latitude>47.7999964</Latitude>
+         <Longitude>3.568498</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 94 24 74</Téléphone>
+      <Télécopie>+33 3 86 46 14 26</Télécopie>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique uniquement le matin de 09h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

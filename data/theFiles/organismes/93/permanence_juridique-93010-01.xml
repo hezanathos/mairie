@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93010" dateMiseAJour="2015-11-03" id="permanence_juridique-93010-01" idPresta="4cac9e61293594648a00054d" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Bondy</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Hôpital Jean Verdier - Service des Urgences Médico-Judiciaires</Ligne>
+        <Ligne>avenue du 14 Juillet</Ligne>
+        <CodePostal>93140</CodePostal>
+        <NomCommune>BONDY</NomCommune>
+        <Localisation>
+            <Latitude>48.910387</Latitude>
+            <Longitude>2.49114</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 48 02 65 08</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-03127-01" codeInsee="03127" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie d'Hérisson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 avenue Marcellin-Simonnet</Ligne>
+      <CodePostal>03190</CodePostal>
+      <NomCommune>Hérisson</NomCommune>
+      <Localisation>
+         <Latitude>46.5092184</Latitude>
+         <Longitude>2.7110409</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 06 80 59</Téléphone>
+      <Email>t003023@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

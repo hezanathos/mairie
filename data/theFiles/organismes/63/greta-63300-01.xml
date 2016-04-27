@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="greta-63300-01" codeInsee="63300" dateMiseAJour="2014-12-04"
+           pivotLocal="greta">
+   <Nom>Greta - Riom-Volvic</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lycée Pierre-Joël-Bonté</Ligne>
+      <Ligne>2, avenue Averroes</Ligne>
+      <CodePostal>63200</CodePostal>
+      <NomCommune>Riom Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.8859718</Latitude>
+         <Longitude>3.131179</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 38 62 40</Téléphone>
+      <Télécopie>+33 4 73 38 16 07</Télécopie>
+      <Email>greta.riom.volvic@ac-clermont.fr</Email>
+      <Url>http://www.greta-auvergne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

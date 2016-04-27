@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-44109-08" codeInsee="44109" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Point information jeunesse Université de Nantes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Service de la Vie étudiante</Ligne>
+      <Ligne>BP 41214</Ligne>
+      <Ligne>Pôle étudiant</Ligne>
+      <Ligne>Chemin de la Censive du Tertre</Ligne>
+      <CodePostal>44312</CodePostal>
+      <NomCommune>NANTES CEDEX 3</NomCommune>
+      <Localisation>
+         <Latitude>47.2453757</Latitude>
+         <Longitude>-1.5518377</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 72 64 04 40</Téléphone>
+      <Télécopie>+33 2 72 64 04 56</Télécopie>
+      <Email>pole@univ-nantes.fr</Email>
+      <Url>http://www.univ-nantes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

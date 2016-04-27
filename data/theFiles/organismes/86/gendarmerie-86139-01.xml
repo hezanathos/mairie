@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-86139-01" codeInsee="86139" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Lusignan</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité de Puyberger 1, rue d'Aquitaine</Ligne>
+      <CodePostal>86600</CodePostal>
+      <NomCommune>Lusignan</NomCommune>
+      <Localisation>
+         <Latitude>46.4388829</Latitude>
+         <Longitude>0.1333217</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 43 31 11</Téléphone>
+      <Télécopie>+33 5 49 43 81 66</Télécopie>
+      <Email>cob.vivonne@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

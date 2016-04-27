@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-83091-01" codeInsee="83091" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Pierrefeu-du-Var</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Impasse Frédéric Mistral</Ligne>
+      <CodePostal>83390</CodePostal>
+      <NomCommune>Pierrefeu-du-Var</NomCommune>
+      <Localisation>
+         <Latitude>43.2194615</Latitude>
+         <Longitude>6.1461519</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 28 60 27</Téléphone>
+      <Télécopie>+33 4 94 13 86 20</Télécopie>
+      <Email>cob.pierrefeu-du-var@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

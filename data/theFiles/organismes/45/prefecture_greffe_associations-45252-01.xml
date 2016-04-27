@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="prefecture_greffe_associations-45252-01" codeInsee="45252"
+           dateMiseAJour="2013-04-25"
+           pivotLocal="prefecture_greffe_associations">
+   <Nom>Greffe des associations de Pithiviers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>45307</CodePostal>
+      <NomCommune>Pithiviers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.1717856</Latitude>
+         <Longitude>2.2549621</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 30 94 49</Téléphone>
+      <Télécopie>+33 2 38 30 47 61</Télécopie>
+      <Email>jacqueline.seperoumal@loiret.gouv.fr</Email>
+      <Url>http://www.loiret.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:45:00"/>
+         <Note>Uniquement sur rendez-vous de 14h à 16h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

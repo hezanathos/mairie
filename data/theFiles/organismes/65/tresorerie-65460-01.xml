@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-65460-01" codeInsee="65460" dateMiseAJour="2016-02-19"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Vic-Rabastens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue des Écoles</Ligne>
+      <CodePostal>65503</CodePostal>
+      <NomCommune>Vic-en-Bigorre Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.387019</Latitude>
+         <Longitude>0.0536078</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 96 71 79</Téléphone>
+      <Télécopie>+33 5 62 96 78 86</Télécopie>
+      <Email>t065032@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

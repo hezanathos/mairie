@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="26198" dateMiseAJour="2014-01-28" id="prudhommes-26198-01" idPresta="4cac9e5f293594648a000229" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Montélimar</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>BP 271</Ligne>
+        <CodePostal>26207</CodePostal>
+        <NomCommune>MONTELIMAR CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>44.556384</Latitude>
+            <Longitude>4.755834</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 75 00 66 40</Téléphone>
+        <Télécopie>+33 4 75 90 99 91</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:15:00" fin="16:30:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

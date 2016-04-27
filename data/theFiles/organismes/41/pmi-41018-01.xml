@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-41018-01" codeInsee="41018" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Blois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Porte D</Ligne>
+      <Ligne>34 avenue du Maréchal-Maunoury</Ligne>
+      <CodePostal>41020</CodePostal>
+      <NomCommune>Blois Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.5932502</Latitude>
+         <Longitude>1.3374806</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 58 41 41</Téléphone>
+      <Télécopie>+33 2 54 58 42 13</Télécopie>
+      <Email>contact@cg41.fr</Email>
+      <Url>http://www.le-loir-et-cher.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

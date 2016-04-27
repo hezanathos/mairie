@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-06048-01" codeInsee="06048" dateMiseAJour="2015-03-17"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade territoriale autonome de gendarmerie de Contes</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 allée des Escaïouns</Ligne>
+      <Ligne>Quartier Le Pilon</Ligne>
+      <CodePostal>06390</CodePostal>
+      <NomCommune>Contes</NomCommune>
+      <Localisation>
+         <Latitude>43.815268</Latitude>
+         <Longitude>7.31775</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 79 00 07</Téléphone>
+      <Télécopie>+33 4 93 79 00 49</Télécopie>
+      <Email>bta.contes@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

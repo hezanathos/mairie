@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="52121" dateMiseAJour="2015-11-03" id="permanence_juridique-52121-02" idPresta="4e2e92d529359479cb00000e" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit (PAD) en milieu pénitentiaire</Nom>
+    <EditeurSource>Ministère de la Justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Maison d&#39;Arrêt</Ligne>
+        <Ligne>27, rue Val Barizien</Ligne>
+        <CodePostal>52000</CodePostal>
+        <NomCommune>CHAUMONT</NomCommune>
+        <Localisation>
+            <Latitude>48.107128</Latitude>
+            <Longitude>5.132704</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 35 30 08</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="lundi">
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

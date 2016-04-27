@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="38185" dateMiseAJour="2014-01-28" id="ti-38185-01" idPresta="4cac9e6a293594648a0017e6" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Grenoble</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>place Firmin Gautier BP 130</Ligne>
+        <CodePostal>38019</CodePostal>
+        <NomCommune>GRENOBLE CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>45.190638</Latitude>
+            <Longitude>5.711419</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 38 21 21 21</Téléphone>
+        <Télécopie>+33 4 38 21 23 23</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:30:00" fin="12:00:00"/>
+            <PlageH début="13:30:00" fin="16:30:00"/>
+            <Note>IMPERATIF : prendre rendez-vous pour s&#39;annoncer</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

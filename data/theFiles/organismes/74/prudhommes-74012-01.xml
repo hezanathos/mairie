@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="74012" dateMiseAJour="2014-07-07" id="prudhommes-74012-01" idPresta="4cac9e5f293594648a0002fe" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes d&#39;Annemasse</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>20 rue Léandre Vaillat</Ligne>
+        <Ligne>BP 253</Ligne>
+        <CodePostal>74106</CodePostal>
+        <NomCommune>ANNEMASSE CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>46.190381</Latitude>
+            <Longitude>6.237807</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 50 38 39 32</Téléphone>
+        <Télécopie>+33 4 50 87 28 79</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

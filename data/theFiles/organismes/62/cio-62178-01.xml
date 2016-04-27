@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cio-62178-01" codeInsee="62178" dateMiseAJour="2015-01-15" pivotLocal="cio">
+   <Nom>Centre d’information et d’orientation (CIO) de Bruay-la-Buissière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>137, rue Île-de-France</Ligne>
+      <CodePostal>62700</CodePostal>
+      <NomCommune>Bruay-la-Buissière</NomCommune>
+      <Localisation>
+         <Latitude>50.4788017273</Latitude>
+         <Longitude>2.54889988899</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 62 46 85</Téléphone>
+      <Télécopie>+33 3 21 68 57 09</Télécopie>
+      <Email>ce.0620207n@ac-lille.fr</Email>
+      <Url>http://www.education.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Fermeture durant les congés scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil uniquement sur rendez-vous. Pendant les congés scolaires ouverture de 9h à 12h et de 13h30 à 16h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

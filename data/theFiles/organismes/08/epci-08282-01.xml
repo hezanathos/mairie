@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-08282-01" codeInsee="08282" dateMiseAJour="2015-08-13"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Ardennes Thiérache</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 impasse de la Fontaine</Ligne>
+      <CodePostal>08260</CodePostal>
+      <NomCommune>Maubert-Fontaine</NomCommune>
+      <Localisation>
+         <Latitude>49.867932</Latitude>
+         <Longitude>4.428444</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 26 13 31</Téléphone>
+      <Télécopie>+33 3 24 32 50 22</Télécopie>
+      <Email>http://www.ardennes-thierache.com/index.php?p=contact</Email>
+      <Url>http://www.ardennes-thierache.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

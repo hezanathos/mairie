@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-85128-01" codeInsee="85128" dateMiseAJour="2015-04-29"
+           pivotLocal="clic"
+           idPresta="clic-759">
+   <Nom>Point d'information local dédié aux personnes âgées - Luçon</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>61 chemin des Loges</Ligne>
+      <Ligne>Centre local d'information et de coordination REPER'AGE</Ligne>
+      <CodePostal>85400</CodePostal>
+      <NomCommune>Luçon</NomCommune>
+      <Localisation>
+         <Latitude>46.45095</Latitude>
+         <Longitude>-1.177887</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 28 45 45</Téléphone>
+      <Email>reper-age.clic@wanadoo.fr</Email>
+      <Url>https://www.facebook.com/pages/CLIC-Repèr?âge/255751687949216</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

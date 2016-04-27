@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-19073-01" codeInsee="19073" dateMiseAJour="2015-09-09"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Centre d'Égletons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Sarran</Ligne>
+      <CodePostal>19300</CodePostal>
+      <NomCommune>Égletons</NomCommune>
+      <Localisation>
+         <Latitude>45.401494</Latitude>
+         <Longitude>2.0322779</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré. Écoutez le tarif en début d'appel.">3936</Téléphone>
+      <Télécopie>+33 5 55 93 48 20</Télécopie>
+      <Url>http://www.limousin.afpa.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

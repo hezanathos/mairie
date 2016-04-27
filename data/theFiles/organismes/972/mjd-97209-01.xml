@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="97209" dateMiseAJour="2007-05-01" id="mjd-97209-01" idPresta="51b08c97b473e41478000433" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de Fort-de-France</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>8 rue du 23 Mai 1848</Ligne>
+        <Ligne>Terres Sainville</Ligne>
+        <CodePostal>97200</CodePostal>
+        <NomCommune>FORT DE FRANCE</NomCommune>
+        <Localisation>
+            <Latitude>14.612033</Latitude>
+            <Longitude>-61.070845</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 96 70 76 20</Téléphone>
+        <Télécopie>+33 5 96 73 86 97</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

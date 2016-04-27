@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-49099-01" codeInsee="49099" dateMiseAJour="2015-01-06"
+           pivotLocal="epci">
+   <Nom>Communauté d’agglomération du Choletais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Saint-Bonaventure</Ligne>
+      <Ligne>BP 62 111</Ligne>
+      <CodePostal>49321</CodePostal>
+      <NomCommune>Cholet Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.0593888</Latitude>
+         <Longitude>-0.8769092</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 44 09 25 00</Téléphone>
+      <Email>cac@agglo-choletais.fr</Email>
+      <Url>http://www.agglo-choletais.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

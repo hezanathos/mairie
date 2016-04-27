@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="25388" dateMiseAJour="2012-06-15" id="bav-25388-01" idPresta="51b08cd9b473e4147800129b" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Montbéliard</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>cité judiciaire</Ligne>
+        <Ligne>rue Mozart</Ligne>
+        <CodePostal>25209</CodePostal>
+        <NomCommune>MONTBELIARD CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>47.500206</Latitude>
+            <Longitude>6.798918</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 81 90 70 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

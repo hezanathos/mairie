@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="afpa-97307-01" codeInsee="97307" dateMiseAJour="2016-03-17"
+           pivotLocal="afpa">
+   <Nom>Association de formation professionnelle des adultes (Afpa) - Direction régionale Guyane</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>49 lotissement Dalmazir</Ligne>
+      <CodePostal>97351</CodePostal>
+      <NomCommune>Matoury</NomCommune>
+      <Localisation>
+         <Latitude>4.8112791</Latitude>
+         <Longitude>-52.3607116</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 594  30 08 08</Téléphone>
+      <Email>afpaguyane@afpa-guyane.com</Email>
+   </CoordonnéesNum>
+</Organisme>

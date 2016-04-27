@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="93008" dateMiseAJour="2012-06-21" id="bav-93008-01" idPresta="4d5e63c22935941fe900003c" pivotLocal="bav">
+    <Nom>Bureau d&#39;aide aux victimes du tribunal de grande instance de Bobigny</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>173 ave Paul Vaillant Couturier</Ligne>
+        <CodePostal>93008</CodePostal>
+        <NomCommune>BOBIGNY CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.9091194</Latitude>
+            <Longitude>2.4497232</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 48 95 13 93</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="13:00:00" fin="19:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

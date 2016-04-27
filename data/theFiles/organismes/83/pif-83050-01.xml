@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pif-83050-01" codeInsee="83050" dateMiseAJour="2007-03-07" pivotLocal="pif">
+   <Nom>Le Café Droits de Cité</Nom>
+   <EditeurSource>Le Café Droits de Cité</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 rue du Combat</Ligne>
+      <CodePostal>83300</CodePostal>
+      <NomCommune>DRAGUIGNAN</NomCommune>
+      <Localisation>
+         <Latitude>43.5383987427</Latitude>
+         <Longitude>6.46421003342</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 68 12 86</Téléphone>
+      <Email>droits.de.cite@free.fr</Email>
+      <Url>http://www.point-infofamille.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="hypotheque-93008-03" codeInsee="93008" dateMiseAJour="2014-09-22"
+           pivotLocal="hypotheque">
+   <Nom>Service de publicité foncière (ex-Conservation des hypothèques) de Bobigny 3</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, promenade Jean-Rostand</Ligne>
+      <CodePostal>93022</CodePostal>
+      <NomCommune>Bobigny Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.9094328</Latitude>
+         <Longitude>2.4543646</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 49 15 52 30</Téléphone>
+      <Télécopie>+33 1 49 15 62 07</Télécopie>
+      <Email>spf.bobigny3@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

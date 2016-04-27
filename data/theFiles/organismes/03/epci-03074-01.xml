@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-03074-01" codeInsee="03074" dateMiseAJour="2015-08-19"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays de Chevagnes en Sologne Bourbonnaise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 route Nationale</Ligne>
+      <CodePostal>03220</CodePostal>
+      <NomCommune>Chevagnes</NomCommune>
+      <Localisation>
+         <Latitude>46.609425</Latitude>
+         <Longitude>3.5482135</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 42 48 37</Téléphone>
+      <Télécopie>+33 4 70 43 14 80</Télécopie>
+      <Email>comcom.chevagnes@wanadoo.fr</Email>
+      <Url>http://www.cc-chevagnes.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

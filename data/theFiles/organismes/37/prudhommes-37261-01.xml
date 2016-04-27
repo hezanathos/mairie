@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="37261" dateMiseAJour="2014-01-28" id="prudhommes-37261-01" idPresta="4cac9e5f293594648a000259" pivotLocal="prudhommes">
+    <Nom>Conseil de prud&#39;hommes de Tours</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Cité Adminis. Champs Girault</Ligne>
+        <Ligne>2 rue A. Dennery BP 2605</Ligne>
+        <CodePostal>37026</CodePostal>
+        <NomCommune>TOURS CEDEX 1</NomCommune>
+        <Localisation>
+            <Latitude>47.394189</Latitude>
+            <Longitude>0.694506</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 2 47 70 46 00</Téléphone>
+        <Télécopie>+33 2 47 64 96 55</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="vendredi">
+            <PlageH début="08:45:00" fin="12:30:00"/>
+            <PlageH début="13:45:00" fin="17:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

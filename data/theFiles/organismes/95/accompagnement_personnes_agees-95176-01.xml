@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="accompagnement_personnes_agees-95176-01" codeInsee="95176"
+           dateMiseAJour="2015-04-30"
+           pivotLocal="accompagnement_personnes_agees"
+           idPresta="clic-976">
+   <Nom>Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Cormeilles-en-Parisis</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>81 rue de Saint-Germain</Ligne>
+      <Ligne>Maison de l?entraide</Ligne>
+      <CodePostal>95240</CodePostal>
+      <NomCommune>Cormeilles-en-Parisis</NomCommune>
+      <Localisation>
+         <Latitude>48.962922</Latitude>
+         <Longitude>2.191052</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 78 54 51</Téléphone>
+      <Email>maisondelentraide@zemgor.com</Email>
+   </CoordonnéesNum>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

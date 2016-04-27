@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-88151-01" codeInsee="88151" dateMiseAJour="2016-03-22"
+           pivotLocal="clic"
+           idPresta="clic-803">
+   <Nom>Point d'information local dédié aux personnes âgées - Dompaire</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>70 rue des Anciens Combattants</Ligne>
+      <Ligne>Centre local d'information et de coordination Centre Vosges</Ligne>
+      <CodePostal>88270</CodePostal>
+      <NomCommune>Dompaire</NomCommune>
+      <Localisation>
+         <Latitude>48.219587</Latitude>
+         <Longitude>6.226903</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 29 19 45</Téléphone>
+      <Email>clicdompaire@vosges.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

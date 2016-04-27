@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="67482" dateMiseAJour="2014-01-28" id="ti-67482-01" idPresta="4cac9e62293594648a00066d" pivotLocal="ti">
+    <Nom>Tribunal d&#39;instance de Strasbourg</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>45 rue du Fossé des Treize</Ligne>
+        <Ligne>CS 60444</Ligne>
+        <CodePostal>67008</CodePostal>
+        <NomCommune>STRASBOURG CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.590284</Latitude>
+            <Longitude>7.746039</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 88 15 59 00</Téléphone>
+        <Télécopie>+33 3 88 75 91 29</Télécopie>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+        </PlageJ>
+        <PlageJ début="vendredi" fin="vendredi">
+            <PlageH début="08:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="16:00:00"/>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

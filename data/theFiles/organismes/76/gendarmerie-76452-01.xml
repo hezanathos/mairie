@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-76452-01" codeInsee="76452" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Montville</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>597, rue du Docteur Martel</Ligne>
+      <CodePostal>76710</CodePostal>
+      <NomCommune>Montville</NomCommune>
+      <Localisation>
+         <Latitude>49.5435488</Latitude>
+         <Longitude>1.0615052</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 33 71 85</Téléphone>
+      <Télécopie>+33 2 35 33 35 55</Télécopie>
+      <Email>cob.montville@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

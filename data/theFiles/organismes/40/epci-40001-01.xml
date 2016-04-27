@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-40001-01" codeInsee="40001" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes d'Aire sur l'Adour</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue du Souvenir-Français</Ligne>
+      <CodePostal>40800</CodePostal>
+      <NomCommune>Aire-sur-l'Adour</NomCommune>
+      <Localisation>
+         <Latitude>43.7072597</Latitude>
+         <Longitude>-0.2625969</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 45 19 05</Téléphone>
+      <Télécopie>+33 5 58 45 45 05</Télécopie>
+      <Email>cdc@cdcaire.org</Email>
+      <Url>http://www.cdcaire.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

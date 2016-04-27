@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="11069" dateMiseAJour="2016-02-03" id="maison_arret-11069-01" idPresta="4eb263342935944ef50001ce" pivotLocal="maison_arret">
+    <Nom>Maison d&#39;arrêt de Carcassonne</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 avenue Général Leclerc</Ligne>
+        <Ligne>BP 12011</Ligne>
+        <CodePostal>11850</CodePostal>
+        <NomCommune>CARCASSONNE CEDEX 9</NomCommune>
+        <Localisation>
+            <Latitude>43.210645</Latitude>
+            <Longitude>2.362777</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 68 25 12 26</Téléphone>
+        <Télécopie>+33 4 68 47 56 64</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

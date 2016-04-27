@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-29119-01" codeInsee="29119" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes du Pays d'Iroise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 10078</Ligne>
+      <Ligne>Immeuble l'Archipel</Ligne>
+      <Ligne>Zone de Kerdrioual</Ligne>
+      <CodePostal>29290</CodePostal>
+      <NomCommune>Lanrivoaré</NomCommune>
+      <Localisation>
+         <Latitude>48.4713693</Latitude>
+         <Longitude>-4.6484484</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 84 28 65</Téléphone>
+      <Télécopie>+33 2 98 32 43 37</Télécopie>
+      <Email>accueil@ccpi.fr</Email>
+      <Url>http://www.pays-iroise.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

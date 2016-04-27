@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-40331-01" codeInsee="40331" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Villeneuve-de-Marsan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>85 avenue d'Aquitaine</Ligne>
+      <CodePostal>40190</CodePostal>
+      <NomCommune>Villeneuve-de-Marsan</NomCommune>
+      <Localisation>
+         <Latitude>43.8945877</Latitude>
+         <Longitude>-0.3062713</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 45 21 01</Téléphone>
+      <Email>t040018@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="ddcs-56260-01" codeInsee="56260" dateMiseAJour="2013-08-12"
+           pivotLocal="ddcs">
+   <Nom>Direction départementale de la cohésion sociale (DDCS) du Morbihan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 62541</Ligne>
+      <Ligne>Impasse d'Armorique</Ligne>
+      <CodePostal>56019</CodePostal>
+      <NomCommune>Vannes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.6462769</Latitude>
+         <Longitude>-2.777672</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 22 07 20 20</Téléphone>
+      <Télécopie>+33 2 97 40 92 10</Télécopie>
+      <Email>ddcs@morbihan.gouv.fr</Email>
+      <Url>http://www.morbihan.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

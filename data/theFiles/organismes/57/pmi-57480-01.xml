@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="pmi-57480-01" codeInsee="57480" dateMiseAJour="2016-03-10" pivotLocal="pmi">
+   <Nom>Centre de protection maternelle et infantile (PMI) de Montigny-lès-Metz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place Joseph-Schaff</Ligne>
+      <Ligne>Centre médico-social de Montigny-lès-Metz</Ligne>
+      <CodePostal>57950</CodePostal>
+      <NomCommune>Montigny-lès-Metz</NomCommune>
+      <Localisation>
+         <Latitude>49.1011314392</Latitude>
+         <Longitude>6.15607976913</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 66 13 02</Téléphone>
+      <Télécopie>+33 3 87 66 13 09</Télécopie>
+      <Url>http://www.cg57.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

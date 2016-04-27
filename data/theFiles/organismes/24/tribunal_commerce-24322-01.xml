@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="24322" dateMiseAJour="2014-01-28" id="tribunal_commerce-24322-01" idPresta="4eb263312935944ef5000194" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Périgueux</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>3 place Yves Guéna</Ligne>
+        <CodePostal>24009</CodePostal>
+        <NomCommune>PERIGUEUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>45.187245</Latitude>
+            <Longitude>0.72155</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 53 45 60 00</Téléphone>
+        <Télécopie>+33 5 53 45 60 03</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mission_locale-13100-01" codeInsee="13100" dateMiseAJour="2009-11-19"
+           pivotLocal="mission_locale">
+   <Nom>Mission locale de Saint Rémy de Provence</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP12</Ligne>
+      <Ligne>Service Relais Emploi</Ligne>
+      <Ligne>1 chemin de la Combette</Ligne>
+      <CodePostal>13531</CodePostal>
+      <NomCommune>ST REMY DE PROVENCE CEDEX</NomCommune>
+      <Localisation>
+         <Latitude>43.7878</Latitude>
+         <Longitude>4.82934</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 92 75 60</Téléphone>
+      <Télécopie>+33 4 90 92 75 64</Télécopie>
+      <Email>mldelta.siege@worldonline.fr</Email>
+      <Url>http://www.cnml.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

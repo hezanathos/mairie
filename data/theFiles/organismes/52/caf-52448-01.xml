@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-52448-01" codeInsee="52448" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de Haute-Marne - accueil de Saint-Dizier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>23 rue de la République</Ligne>
+      <CodePostal>52100</CodePostal>
+      <NomCommune>Saint-Dizier</NomCommune>
+      <Localisation>
+         <Latitude>48.6374015808</Latitude>
+         <Longitude>4.94540977478</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de Haute-Marne</Ligne>
+      <Ligne>34 rue du Commandant-Hugueny</Ligne>
+      <Ligne>CS 12122</Ligne>
+      <CodePostal>52904</CodePostal>
+      <NomCommune>Chaumont Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>48.1164016724</Latitude>
+         <Longitude>5.14480018616</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 52 10</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h30 à 16h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

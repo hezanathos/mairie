@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="77407" dateMiseAJour="2015-11-03" id="permanence_juridique-77407-01" idPresta="4cac9e60293594648a00049a" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Saint-Fargeau-Ponthierry</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Espace Odyssée</Ligne>
+        <Ligne>98 avenue de Fontainebleau</Ligne>
+        <CodePostal>77310</CodePostal>
+        <NomCommune>ST FARGEAU PONTHIERRY</NomCommune>
+        <Localisation>
+            <Latitude>48.5369579</Latitude>
+            <Longitude>2.525314</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 64 89 50 37</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

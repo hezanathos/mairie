@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="66049" dateMiseAJour="2015-11-03" id="permanence_juridique-66049-01" idPresta="4cac9e60293594648a0003df" pivotLocal="permanence_juridique">
+    <Nom>Point d&#39;accès au droit de Céret</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>Hôtel de Ville</Ligne>
+        <Ligne>6 boulevard Maréchal Joffre</Ligne>
+        <CodePostal>66403</CodePostal>
+        <NomCommune>CERET CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>42.4858535</Latitude>
+            <Longitude>2.747808</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 68 87 00 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

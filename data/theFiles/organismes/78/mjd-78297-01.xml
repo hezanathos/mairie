@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="78297" dateMiseAJour="2010-02-03" id="mjd-78297-01" idPresta="51b08cc5b473e41478000e2c" pivotLocal="mjd">
+    <Nom>Maison de justice et du droit  de St-Quentin-en-Yvelines-Antenne de Guyancourt</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>place François Rabelais</Ligne>
+        <CodePostal>78280</CodePostal>
+        <NomCommune>GUYANCOURT</NomCommune>
+        <Localisation>
+            <Latitude>48.784747</Latitude>
+            <Longitude>2.050472</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 39 30 32 40</Téléphone>
+        <Télécopie>+33 1 39 30 32 41</Télécopie>
+        <Email>mailto:maison.justice.guy@agglo-sqy.fr</Email>
+        <Url>http://www.justice.gouv.fr/</Url>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+    <Ouverture>
+        <PlageJ début="lundi" fin="jeudi">
+            <PlageH début="09:00:00" fin="12:00:00"/>
+            <PlageH début="14:00:00" fin="17:00:00"/>
+            <Note>Permanence téléphonique le vendredi de 13h00 à 16h00.</Note>
+        </PlageJ>
+    </Ouverture>
+</Organisme>

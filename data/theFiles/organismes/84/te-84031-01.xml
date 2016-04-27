@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="84031" dateMiseAJour="2014-01-28" id="te-84031-01" idPresta="4cac9e87293594648a004cbf" pivotLocal="te">
+    <Nom>Tribunal pour enfants de Carpentras</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>impasse du Siècle</Ligne>
+        <Ligne>41 place du Général de Gaulle</Ligne>
+        <CodePostal>84200</CodePostal>
+        <NomCommune>CARPENTRAS</NomCommune>
+        <Localisation>
+            <Latitude>44.0520769</Latitude>
+            <Longitude>5.0476928</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 4 90 36 23 31</Téléphone>
+        <Télécopie>+33 4 90 36 59 80</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="caf-97415-03" codeInsee="97415" dateMiseAJour="2016-02-08" pivotLocal="caf">
+   <Nom>Caisse d'allocations familiales (Caf) de La Réunion - accueil de Saint-Gilles-les-Bains - Ouest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Mairie annexe</Ligne>
+      <Ligne>197 rue Jean-Albany</Ligne>
+      <CodePostal>97422</CodePostal>
+      <NomCommune>La Saline-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>-21.0815209</Latitude>
+         <Longitude>55.2704172</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>Caisse d'allocations familiales de La Réunion</Ligne>
+      <Ligne>CS 61038</Ligne>
+      <Ligne>412 rue Fleur-de-Jade</Ligne>
+      <CodePostal>97833</CodePostal>
+      <NomCommune>Sainte-Marie Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-20.9200265</Latitude>
+         <Longitude>55.5296352</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.">08 10 25 97 40</Téléphone>
+      <Url>http://www.caf.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

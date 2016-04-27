@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-49007-02" codeInsee="49007" dateMiseAJour="2011-10-13" pivotLocal="cij">
+   <Nom>Centre information jeunesse d'Angers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Université catholique de l'Ouest</Ligne>
+      <Ligne>Service d'orientation et d'information</Ligne>
+      <Ligne>BP 10808</Ligne>
+      <Ligne>17 rue Merlet de la Boulaye</Ligne>
+      <CodePostal>49008</CodePostal>
+      <NomCommune>ANGERS CEDEX 01</NomCommune>
+      <Localisation>
+         <Latitude>47.461442719</Latitude>
+         <Longitude>-0.54607629776</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 81 65 85</Téléphone>
+      <Télécopie>+33 2 41 81 65 08</Télécopie>
+      <Email>soi@uco.fr</Email>
+      <Url>http://www.uco.fr/93897365/0/fiche___pagelibre</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

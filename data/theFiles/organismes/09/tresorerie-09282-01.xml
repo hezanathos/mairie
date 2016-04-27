@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-09282-01" codeInsee="09282" dateMiseAJour="2015-09-09"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Saverdun - Mazères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cours Guillaut</Ligne>
+      <CodePostal>09700</CodePostal>
+      <NomCommune>Saverdun</NomCommune>
+      <Localisation>
+         <Latitude>48.33057</Latitude>
+         <Longitude>-1.612888</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 60 33 64</Téléphone>
+      <Email>t009027@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

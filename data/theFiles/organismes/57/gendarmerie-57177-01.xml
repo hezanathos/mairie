@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="gendarmerie-57177-01" codeInsee="57177" dateMiseAJour="2013-07-10"
+           pivotLocal="gendarmerie">
+   <Nom>Brigade de proximité de gendarmerie de Dieuze</Nom>
+   <EditeurSource>Ministère de l'Intérieur</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du 125e Escadron du Train</Ligne>
+      <CodePostal>57260</CodePostal>
+      <NomCommune>Dieuze</NomCommune>
+      <Localisation>
+         <Latitude>48.810313</Latitude>
+         <Longitude>6.71757</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 86 05 78</Téléphone>
+      <Télécopie>+33 3 87 05 63 12</Télécopie>
+      <Email>cob.dieuze@gendarmerie.interieur.gouv.fr</Email>
+      <Url>http://www.gendarmerie.interieur.gouv.fr</Url>
+      <Sve>http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police</Sve>
+   </CoordonnéesNum>
+</Organisme>

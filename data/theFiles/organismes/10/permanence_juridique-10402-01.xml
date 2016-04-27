@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="10402" dateMiseAJour="2015-11-03" id="permanence_juridique-10402-01" idPresta="4cac9e5e293594648a000102" pivotLocal="permanence_juridique">
+    <Nom>Permanence d’information et d’orientation juridiques de La Vendue Mignot</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Mairie</Ligne>
+        <Ligne>31 Grande rue</Ligne>
+        <CodePostal>10800</CodePostal>
+        <NomCommune>LA VENDUE MIGNOT</NomCommune>
+        <Localisation>
+            <Latitude>48.156935</Latitude>
+            <Longitude>4.1087966</Longitude>
+            <Précision>8</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 3 25 41 89 07</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

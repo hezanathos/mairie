@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cg-26362-01" codeInsee="26362" dateMiseAJour="2015-07-09" pivotLocal="cg">
+   <Nom>Conseil départemental - Drôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 avenue du Président-Herriot</Ligne>
+      <Ligne>Hôtel du département</Ligne>
+      <CodePostal>26026</CodePostal>
+      <NomCommune>Valence Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>44.9350814819</Latitude>
+         <Longitude>4.89490413666</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 79 26 26</Téléphone>
+      <Télécopie>+33 4 75 42 08 40</Télécopie>
+      <Url>http://www.ladrome.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

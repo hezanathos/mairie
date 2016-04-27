@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="12202" dateMiseAJour="2014-01-28" id="tribunal_commerce-12202-01" idPresta="4eb2622a2935944ef500002d" pivotLocal="tribunal_commerce">
+    <Nom>Tribunal de commerce de Rodez</Nom>
+    <EditeurSource>Ministère de la justice</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>Bd Pierre Benoît</Ligne>
+        <CodePostal>12000</CodePostal>
+        <NomCommune>RODEZ</NomCommune>
+        <Localisation>
+            <Latitude>44.349192</Latitude>
+            <Longitude>2.571917</Longitude>
+            <Précision>6</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 5 65 73 56 10</Téléphone>
+        <Télécopie>+33 5 65 73 56 11</Télécopie>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

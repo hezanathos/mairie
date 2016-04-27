@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="clic-26113-01" codeInsee="26113" dateMiseAJour="2015-08-11"
+           pivotLocal="clic"
+           idPresta="clic-193">
+   <Nom>Point d'information local dédié aux personnes âgées - Die</Nom>
+   <EditeurSource>Caisse nationale de solidarité pour l'autonomie</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Cordeliers</Ligne>
+      <Ligne>Centre local d'information et de coordination du Diois</Ligne>
+      <CodePostal>26150</CodePostal>
+      <NomCommune>Die</NomCommune>
+      <Localisation>
+         <Latitude>44.753287</Latitude>
+         <Longitude>5.369471</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 22 31 59</Téléphone>
+      <Email>clicdiois@ladrome.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.</Commentaire>
+</Organisme>

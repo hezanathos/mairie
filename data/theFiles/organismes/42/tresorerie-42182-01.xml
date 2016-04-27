@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="tresorerie-42182-01" codeInsee="42182" dateMiseAJour="2016-02-24"
+           pivotLocal="tresorerie">
+   <Nom>Trésorerie de Renaison</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>152 rue des Gruyères</Ligne>
+      <Ligne>BP 7</Ligne>
+      <CodePostal>42370</CodePostal>
+      <NomCommune>Renaison</NomCommune>
+      <Localisation>
+         <Latitude>46.0511706</Latitude>
+         <Longitude>3.9237873</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 64 41 58</Téléphone>
+      <Email>t042208@dgfip.finances.gouv.fr</Email>
+      <Url>http://www.impots.gouv.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

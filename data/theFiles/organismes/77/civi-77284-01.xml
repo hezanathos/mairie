@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme codeInsee="77284" dateMiseAJour="2015-11-03" id="civi-77284-01" idPresta="4cac9e70293594648a002230" pivotLocal="civi">
+    <Nom>Commission d&#39;indemnisation des victimes d&#39;infractions de Meaux</Nom>
+    <EditeurSource>Direction de l’information légale et administrative</EditeurSource>
+    <EditeurEMail>support-donnees@comarquage.fr</EditeurEMail>
+    <Adresse type="géopostale">
+        <Ligne>Palais de Justice</Ligne>
+        <Ligne>44 avenue du Président Salvador Allende</Ligne>
+        <CodePostal>77109</CodePostal>
+        <NomCommune>MEAUX CEDEX</NomCommune>
+        <Localisation>
+            <Latitude>48.957705</Latitude>
+            <Longitude>2.881826</Longitude>
+            <Précision>4</Précision>
+        </Localisation>
+    </Adresse>
+    <CoordonnéesNum>
+        <Téléphone>+33 1 60 09 75 00</Téléphone>
+        <Sve>http://www.justice.gouv.fr/sve</Sve>
+    </CoordonnéesNum>
+</Organisme>

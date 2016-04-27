@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="cij-59360-01" codeInsee="59360" dateMiseAJour="2014-12-16" pivotLocal="cij">
+   <Nom>Point information jeunesse de Loos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>100, rue du Maréchal Foch</Ligne>
+      <CodePostal>59120</CodePostal>
+      <NomCommune>Loos</NomCommune>
+      <Localisation>
+         <Latitude>50.6150473</Latitude>
+         <Longitude>3.0152142</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 07 10 82</Téléphone>
+      <Télécopie>+33 3 20 10 40 09</Télécopie>
+      <Email>pointinformationjeunesse@ville-loos.fr</Email>
+      <Url>http://www.ville-loos.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-32249-01" codeInsee="32249" dateMiseAJour="2015-05-12"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Bastides de Lomagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>ZA</Ligne>
+      <Ligne>Route d'Auch</Ligne>
+      <CodePostal>32120</CodePostal>
+      <NomCommune>Mauvezin</NomCommune>
+      <Localisation>
+         <Latitude>43.7305868</Latitude>
+         <Longitude>0.8783871</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 06 84 67</Téléphone>
+      <Télécopie>+33 5 62 64 89 76</Télécopie>
+      <Email>contact@ccbl32.fr</Email>
+      <Url>http://www.ccbl32.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

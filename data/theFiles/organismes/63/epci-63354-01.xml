@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="epci-63354-01" codeInsee="63354" dateMiseAJour="2014-04-30"
+           pivotLocal="epci">
+   <Nom>Communauté de communes Coeur-de-Combrailles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de l'Égalité</Ligne>
+      <CodePostal>63390</CodePostal>
+      <NomCommune>Saint-Gervais-d'Auvergne</NomCommune>
+      <Localisation>
+         <Latitude>46.0297463547</Latitude>
+         <Longitude>2.81558990479</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 85 84 58</Téléphone>
+      <Télécopie>+33 4 73 85 84 08</Télécopie>
+      <Email>coeur-de-combrailles@wanadoo.fr</Email>
+      <Url>http://www.coeurdecombrailles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="onac-29232-01" codeInsee="29232" dateMiseAJour="2013-04-24"
+           pivotLocal="onac">
+   <Nom>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac) - Finistère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>14, rue du Couédic</Ligne>
+      <CodePostal>29000</CodePostal>
+      <NomCommune>Quimper</NomCommune>
+      <Localisation>
+         <Latitude>47.9957132</Latitude>
+         <Longitude>-4.11059460000001</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>2, rue de Salonique</Ligne>
+      <CodePostal>29000</CodePostal>
+      <NomCommune>Quimper</NomCommune>
+      <Localisation>
+         <Latitude>47.9958182</Latitude>
+         <Longitude>-4.11040779999996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 55 45 74</Téléphone>
+      <Télécopie>+33 2 98 53 83 60</Télécopie>
+      <Email>sec.sd29@onacvg.fr</Email>
+      <Url>http://www.onac-vg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>
