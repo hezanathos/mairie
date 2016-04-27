@@ -7,6 +7,7 @@ String pageSuivante="erreur.jsp";
 try{
 
 //BONJOUR
+// Salut
 
 if("AfficherMessages".equals(action)) {
 	
