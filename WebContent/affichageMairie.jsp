@@ -54,6 +54,7 @@
 	<div id="preloader">
 		<div id="status"></div>
 	</div>
+	
 	<nav class="navbar-default" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
@@ -68,40 +69,65 @@
 		</div>
 	</nav> 
 
-	<!-- Contact -->
-	<div id="contact" class="content-section-a">
+	
+	<div id="whatis" class="content-section-b" style="border-top: 0">
 		<div class="container">
+
+			<div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<h3>Nom de la Mairie</h3>
+				<h4>Code Postal</h4>
+			</div>
+			
 			<div class="row">
 			
-			<div class="lead">
-				<h4>Bonjour et bienvenue sur le site de référencement des mairies de France !</h4>
-			</div>
-			
-			<form role="form" action="" method="post" >
-				<div class="col-md-6">
-					<div class="form-group">
-						<label for="InputName">Rechercher une mairie par Ville</label>
-						<div class="input-group">
-							<input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nom de la Ville" required>
-							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
-						</div>
-					</div>
-					
-					<div class="form-group">
-						<label for="InputEmail">Rechercher une mairie par Code Postal</label>
-						<div class="input-group">
-							<input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Code Postal" required  >
-							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
-						</div>
-					</div>
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <br><br><p class="lead">Adresse Postale : 10 rue des rues<br><br>
+				  Adresse Mail : mail<br><br>
+				  Telephone : 000000<br><br>
+				  Site Web : <a href="">site</a><br><br></p>
 
-					<input type="submit" name="submit" id="submit" value="Submit" class="btn wow tada btn-embossed btn-primary pull-right">
-				</div>
-			</form>
-			
-			<hr class="featurette-divider hidden-lg">
+				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+				<div class="col-sm-4 wow fadeInDown text-center">
+				   <br>
+				   <p class="lead">Carte Google Map</p>
 
-			</div>
+				<!-- 
+				<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
+				<div style='overflow:hidden;height:320px;width:500px;'>
+					<div id='gmap_canvas' style='height:320px;width:500px;'>
+					</div>
+					<div>
+					<small>
+						<a href="http://embedgooglemaps.com">google maps carte							
+						</a>
+					</small>
+					</div>
+					<div>
+						<small>
+							<a href="http://www.youtubeembedcode.com">generate youtube code</a>
+						</small>
+					</div>
+					<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
+				</div><script type='text/javascript'>function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(49.44323199999999,1.0999709999999823),mapTypeId: google.maps.MapTypeId.HYBRID};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(49.44323199999999,1.0999709999999823)});infowindow = new google.maps.InfoWindow({content:'<strong>Rouen</strong><br>Rouen<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>				   
+				-->  
+				   <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+				<div class="col-sm-4 wow fadeInDown text-center">
+					<br><br><p class="lead">Horraires<br><br>		  
+					Lu : <br>
+				  	Ma : <br>
+				  	Me : <br>
+				  	Je : <br>
+				  	Ve : <br>
+				  	Sa : <br>
+				  	Di : <br></p>
+				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+			</div><!-- /.row -->
 		</div>
 	</div>
 	
