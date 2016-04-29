@@ -55,13 +55,13 @@ public class CodesDAO {
 	 * Permet de récupérer le code Insee d'une commune à partir de son code
 	 * postal
 	 * 
-	 * @param postal
+	 * @param string
 	 *            le code postal de la commune
 	 * @return 
 	 * @return un objet Possibilities avec un attribut inseeList contenant les codes insee corespondants
 	 *        
 	 */
-	public List<Possibility> getPossFromPostal(int postal)
+	public List<Possibility> getPossFromPostal(String string)
 	{
 		
 		Connection con = null;
@@ -74,8 +74,8 @@ public class CodesDAO {
 		try {
 			
 			con = DriverManager.getConnection(URL, LOGIN, PASS);
-			ps = con.prepareStatement("SELECT Distinct * FROM `ville` WHERE `CodePostal` like ?");
-			ps.setString(1,postal+"%");
+			ps = con.prepareStatement("SELECT * FROM `ville` WHERE `CodePostal` like ? GROUP BY INSEE");
+			ps.setString(1,string+"%");
 						
 			//on execute la requete 
 			rs=ps.executeQuery();
@@ -102,7 +102,47 @@ public class CodesDAO {
 		return retour;
 	
 	}
+	public List<Possibility> getPossFromName(String name)
+	{
+		
+		Connection con = null;
+		PreparedStatement ps = null;
+		ResultSet rs=null;
+		List<Possibility> retour=null;
 
+	
+		//connexion a la base de données
+		try {
+			
+			con = DriverManager.getConnection(URL, LOGIN, PASS);
+			ps = con.prepareStatement("SELECT  * FROM `ville` WHERE `Nom` like ? GROUP BY INSEE");
+			ps.setString(1,name+"%");
+						
+			//on execute la requete 
+			rs=ps.executeQuery();
+		
+
+				retour= new ArrayList<Possibility>();
+
+			
+			
+			while(rs.next()){
+				retour.add(new Possibility( rs.getString("INSEE"),rs.getString("CodePostal"),rs.getString("nom")));
+			
+			}
+
+
+		} catch (Exception ee) {
+			ee.printStackTrace();
+		} finally {
+			//fermeture du rs,preparedStatement et de la connexion
+			try {if (rs != null)rs.close();} catch (Exception t) {}
+			try {if (ps != null)ps.close();} catch (Exception t) {}
+			try {if (con != null)con.close();} catch (Exception t) {}
+		}
+		return retour;
+	
+	}
 	// main permettant de tester la classe
 	public static void main(String[] args){
 		CodesDAO codesDAO=new CodesDAO();
@@ -110,10 +150,11 @@ public class CodesDAO {
 		//test de la méthode getCode
 
 
-		List<Possibility> poss =codesDAO.getPossFromPostal(27);
+		List<Possibility> poss =codesDAO.getPossFromPostal("27");
 		System.out.println(poss);
 		
-		
+		List<Possibility> poss2 =codesDAO.getPossFromName("Rouen");
+		System.out.println(poss2);
 		
 		
 	}

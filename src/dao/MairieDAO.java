@@ -39,59 +39,24 @@ public class MairieDAO {
 		String longitude = "";
 		String codePostal = "";
 		String telephone = "";
-		ArrayList horaires = new ArrayList();
-		String chemin = "";
+		List<String> horaires = null;
+		String chemin = "data/theFiles/organismes/cleanDatas/";
 
-		chemin += "data/theFiles/organismes/";
-
-		String dos = INSEE.substring(0, 2);
-		if (dos.equals("97") || dos.equals("98"))
-			dos = INSEE.substring(0, 3);
-
-		if (dos.equals("75")) {
-			chemin += dos + "/paris_mairie_arrondissement-" + INSEE + "-01";
-			if (dos.equals("75056")) {
-				chemin += dos + "/paris_mairie-" + INSEE + "-01";
-			}
-		} else
-			chemin += dos + "/mairie-" + INSEE + "-01.xml";
+		chemin += INSEE + ".xml";
 		System.out.println(chemin);
+		
 		final DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 
 		try {
-
-			/*
-			 * Etape 2 : création d'un parseur
-			 */
-
+			
 			final DocumentBuilder builder = factory.newDocumentBuilder();
-
-			/*
-			 * Etape 3 : création d'un Document
-			 */
-
 			final Document document = builder.parse(new File(chemin));
-
-			/*
-			 * Etape 4 : récupération de l'Element racine
-			 */
-
 			final Element racine = document.getDocumentElement();
-
-			// Affichage de l'élément racine
-
-			// System.out.println(racine.getNodeName());
-
-			/*
-			 * 
-			 * Etape 5 : récupération des personnes
-			 * 
-			 */
-
 			final NodeList racineNoeuds = racine.getChildNodes();
 
-			//final int nbRacineNoeuds = racineNoeuds.getLength();
 
+			System.out.println(racine.getChildNodes());
+			
 			if(!racine.getElementsByTagName("Nom").item(0).getTextContent().isEmpty())
 				nom =  racine.getElementsByTagName("Nom").item(0).getTextContent();
 			
@@ -158,9 +123,7 @@ public class MairieDAO {
 	}
 
 	public static void main(final String[] args) {
-		/*Mairie mairie = new getMairieFromINSEE("02021");
-		affiche();*/
-		getMairieFromINSEE("27240");
+		getMairieFromINSEE("74315");
 	}
 
 }

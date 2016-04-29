@@ -56,7 +56,7 @@
 <!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
 	<![endif]-->
-
+<script src="js/autocompletion.js"></script>
 </head>
 
 <body id="home">
@@ -91,26 +91,20 @@
 				<form role="form" action="" method="post">
 					<div class="col-md-6">
 						<div class="form-group">
-							<label for="InputName">Rechercher une mairie par Ville</label>
+							<label for="InputName">Rechercher une mairie ( entrez un code postal ou un nom de ville )</label>
 							<div class="input-group">
-								<input type="text" class="form-control" name="InputName"
-									id="InputName" placeholder="Nom de la Ville" required>
+								<input type="text" class="form-control" name="userInput" autocomplete="off"
+									id="userInput" placeholder="Nom de la Ville" required>
 								<span class="input-group-addon"><i
 									class="glyphicon glyphicon-ok form-control-feedback"></i></span>
 							</div>
 						</div>
 
-						<div class="form-group">
-							<label for="InputEmail">Rechercher une mairie par Code
-								Postal</label>
-							<div class="input-group">
-								<input type="email" class="form-control" id="InputEmail"
-									name="InputEmail" placeholder="Code Postal" required> <span
-									class="input-group-addon"><i
-									class="glyphicon glyphicon-ok form-control-feedback"></i></span>
-							</div>
-						</div>
+						
 
+    <div id="results"></div>
+						
+<script src="js/autocompletion.js"></script>
 						<input type="submit" name="submit" id="submit" value="Submit"
 							class="btn wow tada btn-embossed btn-primary pull-right">
 					</div>
