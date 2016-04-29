@@ -3,15 +3,23 @@ package dto;
 import java.util.List;
 
 public class Mairie {
+	private String nom;
 	private String adresse;
 	private String mail;
 	private String site;
 	private String INSEE;
 	private String codePostal;
 	private String telephone;
+	private String ville;
+	private String latitude;
+	private String longitude;
 	private List<String> horaires;
 	
-	public Mairie(String adresse, String mail, String site, String iNSEE, String codePostal, String telephone,  List<String> horaires) {
+	public Mairie(String nom, String adresse, String mail, String site, String iNSEE, String codePostal, String telephone,  List<String> horaires, String ville, String latitude, String longitude) {
+		this.latitude = latitude;
+		this.longitude = longitude;
+		this.ville = ville;
+		this.nom = nom;
 		this.adresse = adresse;
 		this.mail = mail;
 		this.site = site;
@@ -20,7 +28,15 @@ public class Mairie {
 		this.telephone = telephone;
 		this.horaires = horaires;
 	}
-
+	
+	public String getNom() {
+		return nom;
+	}
+	
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+	
 	public String getAdresse() {
 		return adresse;
 	}
@@ -75,6 +91,12 @@ public class Mairie {
 
 	public void setHoraires(List<String> horaires) {
 		this.horaires = horaires;
+	}
+	
+	public void affichage(Mairie mairie){
+		mairie.getNom();
+		mairie.getAdresse();
+		
 	}
 
 }
