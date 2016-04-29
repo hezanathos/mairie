@@ -6,12 +6,11 @@ String pageSuivante="erreur.jsp";
 
 try{
 
-//BONJOUR
-// Salut
+
 
 if("AfficherMessages".equals(action)) {
-	
-	List<Message> liste=MessageDAO.getInstance().getListeMessages();
+	String name=request.getParameter("name");
+	List<Possibility> liste=CodesDAO.getInstance().getPossFromName(name);
 	request.setAttribute("liste",liste);
 	pageSuivante="listeMessages.jsp";
 }
