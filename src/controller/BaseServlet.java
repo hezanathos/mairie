@@ -24,13 +24,13 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class RechercheServlet
  */
 @WebServlet("/Base")
-public class RechercheServlet extends HttpServlet {
+public class BaseServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
     private MairieDAO mairieDao;
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public RechercheServlet() {
+    public BaseServlet() {
         super();
         mairieDao = MairieDAO.getInstance();
     }
@@ -39,7 +39,8 @@ public class RechercheServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		request.setAttribute("Mairie", mairieDao.get(request.getParameter("insee")));
+		request.setAttribute("Mairie", mairieDao.getMairieFromINSEE(request.getParameter("insee")));
+
 	}
 
 	/**
