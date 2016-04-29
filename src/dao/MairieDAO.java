@@ -4,6 +4,7 @@ import java.util.List;
 import dto.Mairie;
 import java.io.*;
 import java.util.List;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.io.File;
 import java.io.IOException;
@@ -38,7 +39,7 @@ public class MairieDAO {
 		String longitude = "";
 		String codePostal = "";
 		String telephone = "";
-		List<String> horaires = null;
+		ArrayList horaires = new ArrayList();
 		String chemin = "";
 
 		chemin += "data/theFiles/organismes/";
@@ -93,20 +94,41 @@ public class MairieDAO {
 
 			if(!racine.getElementsByTagName("Nom").item(0).getTextContent().isEmpty())
 				nom =  racine.getElementsByTagName("Nom").item(0).getTextContent();
-			if(!racine.getElementsByTagName("Nom").item(0).getTextContent().isEmpty())
+			
+			if(!racine.getElementsByTagName("Ligne").item(0).getTextContent().isEmpty())
 				adresse =  racine.getElementsByTagName("Ligne").item(0).getTextContent();
+			
+			if(!racine.getElementsByTagName("CodePostal").item(0).getTextContent().isEmpty())
 				codePostal =  racine.getElementsByTagName("CodePostal").item(0).getTextContent();
+			
+			if(!racine.getElementsByTagName("Url").item(0).getTextContent().isEmpty())
 				site =  racine.getElementsByTagName("Url").item(0).getTextContent();
+			
+			if(!racine.getElementsByTagName("NomCommune").item(0).getTextContent().isEmpty())
 				ville =  racine.getElementsByTagName("NomCommune").item(0).getTextContent();
+			
+			if(!racine.getElementsByTagName("Latitude").item(0).getTextContent().isEmpty())
 				latitude =  racine.getElementsByTagName("Latitude").item(0).getTextContent();
+			
+			if(!racine.getElementsByTagName("Longitude").item(0).getTextContent().isEmpty())
 				longitude =  racine.getElementsByTagName("Longitude").item(0).getTextContent();
+			
+			if(!racine.getElementsByTagName("Téléphone").item(0).getTextContent().isEmpty())
 				telephone =  racine.getElementsByTagName("Téléphone").item(0).getTextContent();
+			
+			if(!racine.getElementsByTagName("Email").item(0).getTextContent().isEmpty())
 				mail =  racine.getElementsByTagName("Email").item(0).getTextContent();
+			
 			System.out.println(nom);
 			System.out.println(adresse);
 			System.out.println(codePostal);
+			System.out.println(site);
 			System.out.println(ville);
+			System.out.println(longitude);
 			System.out.println(latitude);
+			System.out.println(telephone);
+			System.out.println(mail);
+			
 			
 			/*
 			List<String> horaires = null;*/
@@ -138,7 +160,7 @@ public class MairieDAO {
 	public static void main(final String[] args) {
 		/*Mairie mairie = new getMairieFromINSEE("02021");
 		affiche();*/
-		getMairieFromINSEE("92004");
+		getMairieFromINSEE("27240");
 	}
 
 }
