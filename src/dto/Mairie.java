@@ -11,8 +11,7 @@ public class Mairie {
 	private String telephone;
 	private List<String> horaires;
 	
-	public Mairie(String adresse, String mail, String site, String iNSEE, String codePostal, String telephone,
-			List<String> horaires) {
+	public Mairie(String adresse, String mail, String site, String iNSEE, String codePostal, String telephone,  List<String> horaires) {
 		this.adresse = adresse;
 		this.mail = mail;
 		this.site = site;
