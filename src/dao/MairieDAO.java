@@ -27,9 +27,7 @@ public class MairieDAO {
 		return singleton;
 	}
 
-	// Mairie(String adresse, String mail, String site, String iNSEE, String
-	// codePostal, String telephone, List<String> horaire
-	public static void getMairieFromINSEE(String INSEE) {
+	public static Mairie getMairieFromINSEE(String INSEE) {
 		String nom = "";
 		String adresse = "";
 		String mail = "";
@@ -44,7 +42,6 @@ public class MairieDAO {
 		String chemin = "data/theFiles/organismes/cleanDatas/";
 
 		chemin += INSEE + ".xml";
-		//System.out.println(chemin);
 		
 		final DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 
@@ -54,9 +51,6 @@ public class MairieDAO {
 			final Document document = builder.parse(new File(chemin));
 			final Element racine = document.getDocumentElement();
 			final NodeList racineNoeuds = racine.getChildNodes();
-
-
-			//System.out.println(racine.getChildNodes());
 			
 			if(racine.getElementsByTagName("Nom").getLength() !=0)
 				nom =  racine.getElementsByTagName("Nom").item(0).getTextContent();
@@ -96,41 +90,16 @@ public class MairieDAO {
 			
 			if(racine.getElementsByTagName("PlageJ").getLength() !=0){
 				racine.getAttribute("PlageJ");
-				/*for (Node plage : racine.getElementsByTagName("PlageJ")) {
-					
-				}*/
-				System.out.println(racine.getElementsByTagName("PlageJ").getLength());
+
 				for (int i = 0; i < racine.getElementsByTagName("PlageJ").getLength(); i++) {
 					Element myElement = (Element) racine.getElementsByTagName("PlageJ").item(i);
 					plages.add("Ouverture du "+myElement.getAttribute("début")+" au "+myElement.getAttribute("fin"));
-					//System.out.println(plages.get(i*2));
-					//System.out.println(myElement.getTagName());
 					for (int j = 0; j < myElement.getElementsByTagName("PlageH").getLength(); j++){
 						Element hElement = (Element) myElement.getElementsByTagName("PlageH").item(j);
-						//System.out.println(hElement.getTagName());
 						plages.add("  "+hElement.getAttribute("début")+" - "+hElement.getAttribute("fin"));
 					}
-					//System.out.println("********");
-					
 				}
-				for(int i=0 ;  i<plages.size(); i++){
-					System.out.println(plages.get(i));
-				}
-				//System.out.println(racine.getElementsByTagName("PlageJ"));
 			}
-/*			System.out.println(nom);
-			System.out.println(adresse);
-			System.out.println(codePostal);
-			System.out.println(site);
-			System.out.println(ville);
-			System.out.println(longitude);
-			System.out.println(latitude);
-			System.out.println(telephone);
-			System.out.println(mail);*/
-			
-			
-			/*
-			List<String> horaires = null;*/
 		}
 
 		catch (final ParserConfigurationException e) {
@@ -153,12 +122,14 @@ public class MairieDAO {
 
 		Mairie mairie = new Mairie(nom, adresse, mail, site, INSEE, codePostal, telephone, plages, ville, latitude, longitude);
 		
-		//return mairie;
+		return mairie;
 	}
 
 	public static void main(final String[] args) {
-		getMairieFromINSEE("58142");
-		//getMairieFromINSEE("58179");
+		Mairie mairie = getMairieFromINSEE("58142");
+		System.out.println(mairie.toString());		
+		Mairie mairie2 = getMairieFromINSEE("58210");
+		System.out.println(mairie2.toString());
 	}
 
 }
