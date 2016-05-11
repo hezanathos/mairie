@@ -92,11 +92,17 @@ public class Mairie {
 	public void setHoraires(List<String> horaires) {
 		this.horaires = horaires;
 	}
-	
-	public void affichage(Mairie mairie){
-		mairie.getNom();
-		mairie.getAdresse();
-		
+	/*	this.latitude = latitude;
+		this.longitude = longitude;
+
+		this.horaires = horaires;*/
+	public String toString(Mairie mairie){
+		String myString = "Ville : " + ville + "Nom : " + nom + "Adresse : " + adresse + "Mail : " + mail + "site : " + "codePostal : " + codePostal + "Telephone : " + telephone + "Site : " + site + "INSEE : " + INSEE;
+		myString += "Latitude : " + latitude + "Longitude : " + longitude;
+		for(int i=0 ;  i<horaires.size(); i++){
+			myString += " "+horaires.get(i);
+		}
+		return  myString;
 	}
 
 }
