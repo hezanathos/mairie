@@ -19,7 +19,8 @@
 <meta name="author" content="">
 
 <title>QuelleMairie.com</title>
-
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -57,6 +58,7 @@
 		<script src="js/html5shiv.js"></script>
 	<![endif]-->
 <script src="js/autocompletion.js"></script>
+
 </head>
 
 <body id="home">
@@ -93,18 +95,19 @@
 						<div class="form-group">
 							<label for="InputName">Rechercher une mairie ( entrez un code postal ou un nom de ville )</label>
 							<div class="input-group">
-								<input type="text" class="form-control" name="userInput" autocomplete="off"
+								<input id="villes" type="text" class="form-control" name="villes" id="villes"
+				onkeydown="if(event.keyCode==13) return getMairie($('#villes').val());"
 									id="userInput" placeholder="Nom de la Ville" required>
 								<span class="input-group-addon"><i
 									class="glyphicon glyphicon-ok form-control-feedback"></i></span>
 							</div>
 						</div>
-
+<div id="mairie"></div>
 						
 
     <div id="results"></div>
 						
-<script src="js/autocompletion.js"></script>
+
 						<input type="submit" name="submit" id="submit" value="Submit"
 							class="btn wow tada btn-embossed btn-primary pull-right">
 					</div>

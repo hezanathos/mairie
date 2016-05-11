@@ -51,7 +51,7 @@ public class Possibility {
 	 */
 	@Override
 	public String toString() {
-		return "Possibilité [INSEE=" + INSEE + ", nom=" + nom + ", CodePostal=" + postalCode + "]";
+		return "[INSEE=" + INSEE + ", nom=" + nom + ", CodePostal=" + postalCode + "]";
 
 	}
 }

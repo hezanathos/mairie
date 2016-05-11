@@ -1,173 +1,70 @@
-(function() {
-
-	var searchElement = document.getElementById('userInput'),
-
-	results = document.getElementById('results'),
-
-	selectedResult = -1, // Permet de savoir quel résultat est sélectionné :
-							// -1 signifie "aucune sélection"
-
-	previousRequest, // On stocke notre précédente requête dans cette
-						// variable
-
-	previousValue = searchElement.value; // On fait de même avec la
-											// précédente valeur
-
-	function getResults(keywords) { // Effectue une requête et récupère les
-									// résultats
-
-		var xhr = new XMLHttpRequest();
-
-		xhr.open('GET', '/projetJEE/complete?tocomplete=' + encodeURIComponent(keywords));
-
-		xhr.addEventListener('readystatechange', function() {
-
-			if (xhr.readyState == XMLHttpRequest.DONE && xhr.status == 200) {
-
-				displayResults(xhr.responseText);
-
-			}
-
-		});
-
-		xhr.send(null);
-
-		return xhr;
-
-	}
-
-	function displayResults(response) { // Affiche les résultats d'une requête
-
-		results.style.display = response.length ? 'block' : 'none'; // On cache
-																	// le
-																	// conteneur
-																	// si on n'a
-																	// pas de
-																	// résultats
-
-		if (response.length) { // On ne modifie les résultats que si on en a
-								// obtenu
-
-			response = response.split('|');
-
-			var responseLen = response.length;
-
-			results.innerHTML = ''; // On vide les résultats
-
-			for (var i = 0, div; i < responseLen; i++) {
-
-				div = results.appendChild(document.createElement('div'));
-
-				div.innerHTML = response[i];
-
-				div.addEventListener('click', function(e) {
-
-					chooseResult(e.target);
-
-				});
-
-			}
-
-		}
-
-	}
-
-	function chooseResult(result) { // Choisi un des résultats d'une requête et
-									// gère tout ce qui y est attaché
-
-		searchElement.value = previousValue = result.innerHTML; // On change le
-																// contenu du
-																// champ de
-																// recherche et
-																// on enregistre
-																// en tant que
-																// précédente
-																// valeur
-
-		results.style.display = 'none'; // On cache les résultats
-
-		result.className = ''; // On supprime l'effet de focus
-
-		selectedResult = -1; // On remet la sélection à "zéro"
-
-		searchElement.focus(); // Si le résultat a été choisi par le biais d'un
-								// clique alors le focus est perdu, donc on le
-								// réattribue
-
-	}
-
-	searchElement.addEventListener('keyup', function(e) {
-
-		var divs = results.getElementsByTagName('div');
-
-		if (e.keyCode == 38 && selectedResult > -1) { // Si la touche pressée
-														// est la flèche "haut"
-
-			divs[selectedResult--].className = '';
-
-			if (selectedResult > -1) { // Cette condition évite une
-										// modification de childNodes[-1], qui
-										// n'existe pas, bien entendu
-
-				divs[selectedResult].className = 'result_focus';
-
-			}
-
-		}
-
-		else if (e.keyCode == 40 && selectedResult < divs.length - 1) { // Si la
-																		// touche
-																		// pressée
-																		// est
-																		// la
-																		// flèche
-																		// "bas"
-
-			results.style.display = 'block'; // On affiche les résultats
-
-			if (selectedResult > -1) { // Cette condition évite une
-										// modification de childNodes[-1], qui
-										// n'existe pas, bien entendu
-
-				divs[selectedResult].className = '';
-
-			}
-
-			divs[++selectedResult].className = 'result_focus';
-
-		}
-
-		else if (e.keyCode == 13 && selectedResult > -1) { // Si la touche
-															// pressée est
-															// "Entrée"
-
-			chooseResult(divs[selectedResult]);
-
-		}
-
-		else if (searchElement.value != previousValue) { // Si le contenu du
-															// champ de
-															// recherche a
-															// changé
-
-			previousValue = searchElement.value;
-
-			if (previousRequest
-					&& previousRequest.readyState < XMLHttpRequest.DONE) {
-
-				previousRequest.abort(); // Si on a toujours une requête en
-											// cours, on l'arrête
-
-			}
-
-			previousRequest = getResults(previousValue); // On stocke la
-															// nouvelle requête
-
-			selectedResult = -1; // On remet la sélection à "zéro" à chaque
-									// caractère écrit
-
-		}
-
+$(document)
+    .ready(
+        function() {
+	        var termTemplate = "<span class='ui-autocomplete-term'>%s</span>";
+	        $("#villes")
+	            .autocomplete(
+	                {
+	                  source : function(request, response) {
+		                  $.ajax({
+		                    url : "complete",
+		                    type : "GET",
+		                    dataType : "text",
+		                    data : {
+			                    term : request.term
+		                    },
+		                    success : function(data) {
+			                    data = data.split("[");
+
+			                    response($.map(data, function(items) {
+				                    var list = items.split(",");
+				                    var item = {
+				                      name : list[0],
+				                      value : list[1]
+				                    }
+				                    if (item.name == "")
+					                    return;
+				                    console.log(item)
+				                    return {
+				                      label : item.name.trim(),
+				                      value : item.value,
+				                    }
+			                    }));
+		                    },
+		                    error : function(error) {
+			                    alert('error: ' + error);
+		                    }
+		                  });
+	                  },
+	                  open : function(e, ui) {
+	                    var acData = $(this).data('ui-autocomplete');
+	                    acData
+	                    .menu
+	                    .element
+	                    .find('li')
+	                    .each(function () {
+	                        var me = $(this);
+	                        var keywords = acData.term.split(' ').join('[');
+	                        me.html(me.text().replace(new RegExp("(" + keywords + ")", "gi"), '<b>$1</b>'));
+	                     });
+	                  },
+	                  minLength : 3
+	                });
+        });
+function getMairie() {
+	$.ajax({
+	  url : "/projetJEE/complete",
+	  type : "GET",
+	  dataType : "text",
+	  data : {
+		  INSEE : $("#villes").val()
+	  },
+	  success : function(data) {
+		  $("#mairie").empty();
+		  $("#mairie").append(data);
+	  },
+	  error : function(error) {
+		  alert('error: ' + error);
+	  }
 	});
-
-})();
+}
