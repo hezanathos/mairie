@@ -27,6 +27,14 @@ public class MairieDAO {
 		return singleton;
 	}
 
+	public static String getInsee(){
+		String code = "";
+		
+		
+		
+		return code;
+	}
+	
 	public static Mairie getMairieFromINSEE(String INSEE) {
 		String nom = "";
 		String adresse = "";
@@ -126,10 +134,10 @@ public class MairieDAO {
 	}
 
 	public static void main(final String[] args) {
-		Mairie mairie = getMairieFromINSEE("58142");
+		/*Mairie mairie = getMairieFromINSEE("58142");
 		System.out.println(mairie.toString());		
 		Mairie mairie2 = getMairieFromINSEE("58210");
-		System.out.println(mairie2.toString());
+		System.out.println(mairie2.toString());*/
 	}
 
 }

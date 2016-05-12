@@ -89,6 +89,12 @@ public class Mairie {
 		return horaires;
 	}
 
+	public void affichageHoraires(){
+		for(int i=0 ;  i<horaires.size(); i++){
+			System.out.println(horaires.get(i));
+		}
+	}
+	
 	public void setHoraires(List<String> horaires) {
 		this.horaires = horaires;
 	}
