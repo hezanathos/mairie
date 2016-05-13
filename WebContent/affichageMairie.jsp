@@ -1,4 +1,9 @@
- <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ page import="java.util.List" %>
+<%@ page import="dao.*" %>
+<%@ page import="dto.*" %>
+<%@ page import="controller.*" %>
 
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
@@ -72,19 +77,19 @@
 	
 	<div id="whatis" class="content-section-b" style="border-top: 0">
 		<div class="container">
-
+		<% Mairie m = (Mairie) request.getAttribute("userInput"); %>
 			<div class="col-md-6 col-md-offset-3 text-center wrap_title">
-				<h3>Nom de la Mairie</h3>
-				<h4>Code Postal</h4>
+				<h3><% out.println(m.getNom()); %></h3>
+				<h4><% out.println(m.getCodePostal()); %></h4>
 			</div>
 			
 			<div class="row">
 			
 				<div class="col-sm-4 wow fadeInDown text-center">
-				  <br><br><p class="lead">Adresse Postale : 10 rue des rues<br><br>
-				  Adresse Mail : mail<br><br>
-				  Telephone : 000000<br><br>
-				  Site Web : <a href="">site</a><br><br></p>
+				  <br><br><p class="lead">Adresse Postale : <% out.println(m.getAdresse()); %><br><br>
+				  Adresse Mail : <% out.println(m.getMail()); %><br><br>
+				  Telephone : <% out.println(m.getTelephone()); %><br><br>
+				  Site Web : <a href=""><% out.println(m.getSite()); %></a><br><br></p>
 
 				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
@@ -116,14 +121,18 @@
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-sm-4 wow fadeInDown text-center">
-					<br><br><p class="lead">Horraires<br><br>		  
-					Lu : <br>
+					<br><br><p class="lead">Horaires<br><br>	
+					
+					<% out.println(m.getSite()); %>	  
+					<!-- Lu : <br>
 				  	Ma : <br>
 				  	Me : <br>
 				  	Je : <br>
 				  	Ve : <br>
 				  	Sa : <br>
-				  	Di : <br></p>
+				  	Di : <br>-->
+				  	
+				  	</p>
 				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
 				

@@ -39,7 +39,7 @@ public class BaseServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		request.setAttribute("Mairie", mairieDao.getMairieFromINSEE(request.getParameter("insee")));
+		//request.setAttribute("Mairie", mairieDao.getMairieFromINSEE(request.getParameter("insee")));
 
 	}
 

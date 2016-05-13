@@ -1,6 +1,10 @@
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
+<%@ page import="java.util.List" %>
+<%@ page import="dao.*" %>
+<%@ page import="dto.*" %>
+<%@ page import="controller.*" %>
 
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
@@ -77,7 +81,7 @@
 						mairies de France !</h4>
 				</div>
 
-				<form role="form" action="" method="post">
+				<form role="form" action="/projetJEE/AffichageServlet" method="post">
 					<div class="col-md-6">
 						<div class="form-group">
 							<label for="InputName">Rechercher une mairie ( entrez un code postal ou un nom de ville )</label>
