@@ -6,35 +6,33 @@ $(document)
 	            .autocomplete(
 	                {
 	                  source : function(request, response) {
-		                  $.ajax({
-		                    url : "complete",
-		                    type : "GET",
-		                    dataType : "json",
-		                    data : {
-			                    tocomplete : request.term
-		                    },
-		                    success : function(data) {
-		                   	console.log(data);
-		                    	console.log("coucou");
-		                    	var json = JSON.parse(data);
-		                    	console.log(json);
-			                   
-/*
-			                    response($.map(data, function(items) {
-				                    var list = items.split(",");
-				                    var item = {
-				                      name : list[0],
-				                      value : list[1]
-				                    }
-				                    if (item.name == "")
-					                    return;
-				                    console.log(item)
-				                    return {
-				                      label : item.name.trim(),
-				                      value : item.value,
-				                    }
-			                    }));*/
-		                    },
+	                	  $.ajax({
+			                    url : "complete",
+			                    type : "GET",
+			                    dataType : "text",
+			                    data : {
+			                    	tocomplete : request.term
+			                    },
+			                    success : function(data) {
+			                    	console.log(data);
+				                    data = data.split("!");
+
+				                    response($.map(data, function(items) {
+					                    var list = items.split(",");
+					                    var item = {
+					                      name : list[0],
+					                      value : list[1]
+					                    }
+					                    if (item.name == "")
+						                    return;
+					                    console.log(item)
+					                    return {
+					                      label : item.name.trim(),
+					                      value : item.value,
+					                    }
+				                    }));
+			                    },  
+	                	 
 		                    error : function(error) {
 
 			                    console.log(error);
