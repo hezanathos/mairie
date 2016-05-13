@@ -49,9 +49,9 @@ public class Possibility {
 	 * Redéfinition de la méthode toString permettant de définir la traduction
 	 * de l'objet en String pour affichage par exemple
 	 */
-	@Override
-	public String toString() {
-		return "[INSEE=" + INSEE + ", nom=" + nom + ", CodePostal=" + postalCode + "]";
-
-	}
+	//@Override
+//	public String toString() {
+//		return "{INSEE=" + INSEE + ", nom=" + nom + ", CodePostal=" + postalCode + "}";
+//
+//	}
 }

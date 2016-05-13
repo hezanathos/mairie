@@ -9,13 +9,17 @@ $(document)
 		                  $.ajax({
 		                    url : "complete",
 		                    type : "GET",
-		                    dataType : "text",
+		                    dataType : "json",
 		                    data : {
-			                    term : request.term
+			                    tocomplete : request.term
 		                    },
 		                    success : function(data) {
-			                    data = data.split("[");
-
+		                   	console.log(data);
+		                    	console.log("coucou");
+		                    	var json = JSON.parse(data);
+		                    	console.log(json);
+			                   
+/*
 			                    response($.map(data, function(items) {
 				                    var list = items.split(",");
 				                    var item = {
@@ -29,10 +33,11 @@ $(document)
 				                      label : item.name.trim(),
 				                      value : item.value,
 				                    }
-			                    }));
+			                    }));*/
 		                    },
 		                    error : function(error) {
-			                    alert('error: ' + error);
+
+			                    console.log(error);
 		                    }
 		                  });
 	                  },

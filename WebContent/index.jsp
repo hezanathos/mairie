@@ -19,8 +19,8 @@
 <meta name="author" content="">
 
 <title>QuelleMairie.com</title>
-  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+  
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -45,19 +45,6 @@
 <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="css/magnific-popup.css">
 
-<script src="js/modernizr-2.8.3.min.js"></script>
-<!-- Modernizr /-->
-<!--[if IE 9]>
-		<script src="js/PIE_IE9.js"></script>
-	<![endif]-->
-<!--[if lt IE 9]>
-		<script src="js/PIE_IE678.js"></script>
-	<![endif]-->
-
-<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-	<![endif]-->
-<script src="js/autocompletion.js"></script>
 
 </head>
 
@@ -95,9 +82,9 @@
 						<div class="form-group">
 							<label for="InputName">Rechercher une mairie ( entrez un code postal ou un nom de ville )</label>
 							<div class="input-group">
-								<input id="villes" type="text" class="form-control" name="villes" id="villes"
+								<input id="villes" type="text" class="form-control" name="villes"
 				onkeydown="if(event.keyCode==13) return getMairie($('#villes').val());"
-									id="userInput" placeholder="Nom de la Ville" required>
+								 placeholder="Nom de la Ville" required>
 								<span class="input-group-addon"><i
 									class="glyphicon glyphicon-ok form-control-feedback"></i></span>
 							</div>
@@ -127,6 +114,10 @@
 	</footer>
 	<!-- JavaScript -->
 	<script src="js/jquery-1.10.2.js"></script>
+	  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	
+	<script src="js/autocompletion.js"></script>
+	
 	<script src="js/bootstrap.js"></script>
 	<script src="js/owl.carousel.js"></script>
 	<script src="js/script.js"></script>
@@ -142,6 +133,20 @@
 	</script>
 	<!-- Magnific Popup core JS file -->
 	<script src="js/jquery.magnific-popup.js"></script>
+
+  <script src="js/modernizr-2.8.3.min.js"></script>
+<!-- Modernizr /-->
+<!--[if IE 9]>
+		<script src="js/PIE_IE9.js"></script>
+	<![endif]-->
+<!--[if lt IE 9]>
+		<script src="js/PIE_IE678.js"></script>
+	<![endif]-->
+
+<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+	<![endif]-->
+	
 </body>
 
 </html>
