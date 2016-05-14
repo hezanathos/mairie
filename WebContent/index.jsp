@@ -1,10 +1,10 @@
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@ page import="java.util.List" %>
-<%@ page import="dao.*" %>
-<%@ page import="dto.*" %>
-<%@ page import="controller.*" %>
+<%@ page import="java.util.List"%>
+<%@ page import="dao.*"%>
+<%@ page import="dto.*"%>
+<%@ page import="controller.*"%>
 
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
@@ -24,7 +24,7 @@
 
 <title>QuelleMairie.com</title>
 
-  
+
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -48,7 +48,8 @@
 
 <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="css/magnific-popup.css">
-
+<!-- Custom footer -->
+<link rel="stylesheet" href="css/footer.css">
 
 </head>
 
@@ -84,20 +85,22 @@
 				<form role="form" action="/projetJEE/AffichageServlet" method="post">
 					<div class="col-md-6">
 						<div class="form-group">
-							<label for="InputName">Rechercher une mairie ( entrez un code postal ou un nom de ville )</label>
+							<label for="InputName">Rechercher une mairie ( entrez un
+								code postal ou un nom de ville )</label>
 							<div class="input-group">
-								<input id="villes" type="text" class="form-control" name="villes"
-				onkeydown="if(event.keyCode==13) return getMairie($('#villes').val());"
-								 placeholder="Nom de la Ville" required>
-								<span class="input-group-addon"><i
+								<input id="villes" type="text" class="form-control"
+									name="villes"
+									onkeydown="if(event.keyCode==13) return getMairie($('#villes').val());"
+									placeholder="Nom de la Ville" required> <span
+									class="input-group-addon"><i
 									class="glyphicon glyphicon-ok form-control-feedback"></i></span>
 							</div>
 						</div>
-<div id="mairie"></div>
-						
+			
 
-    <div id="results"></div>
-						
+
+						<div id="results"></div>
+
 
 						<input type="submit" name="submit" id="submit" value="Submit"
 							class="btn wow tada btn-embossed btn-primary pull-right">
@@ -110,18 +113,20 @@
 		</div>
 	</div>
 
-	<footer>
-		<center>
-			<p>Copyright &copy; QuelleMairie.com 2016 , Nicolas Cailleux -
+	<footer class="footer">
+		<div class="container">
+
+			<p class="text-muted">Copyright &copy; QuelleMairie.com 2016 , Nicolas Cailleux -
 				Alex Lecoq</p>
-		</center>
+		</div>
+
 	</footer>
 	<!-- JavaScript -->
 	<script src="js/jquery-1.10.2.js"></script>
-	  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-	
+	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
 	<script src="js/autocompletion.js"></script>
-	
+
 	<script src="js/bootstrap.js"></script>
 	<script src="js/owl.carousel.js"></script>
 	<script src="js/script.js"></script>
@@ -138,19 +143,19 @@
 	<!-- Magnific Popup core JS file -->
 	<script src="js/jquery.magnific-popup.js"></script>
 
-  <script src="js/modernizr-2.8.3.min.js"></script>
-<!-- Modernizr /-->
-<!--[if IE 9]>
+	<script src="js/modernizr-2.8.3.min.js"></script>
+	<!-- Modernizr /-->
+	<!--[if IE 9]>
 		<script src="js/PIE_IE9.js"></script>
 	<![endif]-->
-<!--[if lt IE 9]>
+	<!--[if lt IE 9]>
 		<script src="js/PIE_IE678.js"></script>
 	<![endif]-->
 
-<!--[if lt IE 9]>
+	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
 	<![endif]-->
-	
+
 </body>
 
 </html>

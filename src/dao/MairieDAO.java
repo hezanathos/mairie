@@ -35,7 +35,7 @@ public class MairieDAO {
 		return code;
 	}
 	
-	public static Mairie getMairieFromINSEE(String INSEE) {
+	public static Mairie getMairieFromINSEE(String INSEE,String racineProj) {
 		String nom = "";
 		String adresse = "";
 		String mail = "";
@@ -45,36 +45,40 @@ public class MairieDAO {
 		String longitude = "";
 		String codePostal = "";
 		String telephone = "";
-		List plages = new ArrayList<String>();
-		
-		String chemin = "data/theFiles/organismes/cleanDatas/";
+		List<String> plages = new ArrayList<String>();
+		String temp = "";
 
-		chemin += INSEE + ".xml";
+
 		
+		if (INSEE != null){
 		final DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 
 		try {
 			
 			final DocumentBuilder builder = factory.newDocumentBuilder();
-			final Document document = builder.parse(new File(chemin));
+			
+		
+			final Document document = builder.parse(new File(racineProj+"WEB-INF"+File.separator+"lib"+File.separator+"cleanDatas"+File.separator+ INSEE + ".xml"));
+		//		System.out.println(racineProj+"WEB-INF"+File.separator+"lib"+File.separator+"cleanDatas"+File.separator+ INSEE + ".xml");
+			
 			final Element racine = document.getDocumentElement();
-			final NodeList racineNoeuds = racine.getChildNodes();
+		
 			
 			if(racine.getElementsByTagName("Nom").getLength() !=0)
 				nom =  racine.getElementsByTagName("Nom").item(0).getTextContent();
-			//else nom = "";
+		
 			
 			if(racine.getElementsByTagName("Ligne").getLength() !=0)
 				adresse =  racine.getElementsByTagName("Ligne").item(0).getTextContent();
-			//else adresse = "";
+	
 			
 			if(racine.getElementsByTagName("CodePostal").getLength() !=0)
 				codePostal =  racine.getElementsByTagName("CodePostal").item(0).getTextContent();
-			//else codePostal = "";
+			
 			
 			if(racine.getElementsByTagName("Url").getLength() !=0)
 				site =  racine.getElementsByTagName("Url").item(0).getTextContent();
-			//else site = "";
+		
 			
 			if(racine.getElementsByTagName("NomCommune").getLength() !=0)
 				ville =  racine.getElementsByTagName("NomCommune").item(0).getTextContent();
@@ -131,13 +135,15 @@ public class MairieDAO {
 		Mairie mairie = new Mairie(nom, adresse, mail, site, INSEE, codePostal, telephone, plages, ville, latitude, longitude);
 		
 		return mairie;
+		}
+		else return null;
 	}
 
 	public static void main(final String[] args) {
-		/*Mairie mairie = getMairieFromINSEE("58142");
-		System.out.println(mairie.toString());		
-		Mairie mairie2 = getMairieFromINSEE("58210");
-		System.out.println(mairie2.toString());*/
+//		Mairie mairie = getMairieFromINSEE("58142");
+//		System.out.println(mairie.toString());		
+//		Mairie mairie2 = getMairieFromINSEE("58210");
+//		System.out.println(mairie2.toString());
 	}
 
 }

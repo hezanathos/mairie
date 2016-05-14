@@ -51,7 +51,8 @@
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
 	<![endif]-->
-
+<!-- Custom footer -->
+<link rel="stylesheet" href="css/footer.css">
 </head>
 
 <body id="home">
@@ -140,9 +141,12 @@
 		</div>
 	</div>
 	
-    <footer>
-             <center><p>Copyright &copy;  QuelleMairie.com  2016 ,   Nicolas Cailleux - Alex Lecoq</p></center>
-    </footer>
+	<footer class="footer">
+		<div class="container">
+
+			<p class="text-muted">Copyright &copy; QuelleMairie.com 2016 , Nicolas Cailleux -
+				Alex Lecoq</p>
+		</div>
     <!-- JavaScript -->
     <script src="js/jquery-1.10.2.js"></script>
     <script src="js/bootstrap.js"></script>
