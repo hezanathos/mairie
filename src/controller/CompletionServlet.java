@@ -43,7 +43,7 @@ public class CompletionServlet extends HttpServlet {
 		 */
 		//request.setAttribute("Poss", poss);
 		for (Possibility possibility : poss) {
-			response.getWriter().print(possibility.toStringMaison());
+			response.getWriter().print(possibility.toString());
 		}
 		
 

@@ -44,13 +44,8 @@ public class Possibility {
 	public void setNom(String nom) {
 		this.nom = nom;
 	}
-
-	/**
-	 * Redéfinition de la méthode toString permettant de définir la traduction
-	 * de l'objet en String pour affichage par exemple
-	 */
 	@Override
-	public String toStringMaison() {
+	public String toString() {
 		return "!" + nom  + "," + INSEE ;
 
 	}

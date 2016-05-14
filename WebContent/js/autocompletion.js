@@ -21,7 +21,7 @@ $(document)
 					                    var list = items.split(",");
 					                    var item = {
 					                      name : list[0],
-					                      value : list[1]
+					                      value : list[0]
 					                    }
 					                    if (item.name == "")
 						                    return;
