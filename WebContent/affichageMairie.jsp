@@ -78,7 +78,8 @@
 	
 	<div id="whatis" class="content-section-b" style="border-top: 0">
 		<div class="container">
-		<% Mairie m = (Mairie) request.getAttribute("userInput"); %>
+		<% Mairie m = (Mairie) request.getAttribute("userInput");
+		System.out.println(m);%>
 			<div class="col-md-6 col-md-offset-3 text-center wrap_title">
 				<h3><% out.println(m.getNom()); %></h3>
 				<h4><% out.println(m.getCodePostal()); %></h4>
@@ -123,16 +124,11 @@
 				
 				<div class="col-sm-4 wow fadeInDown text-center">
 					<br><br><p class="lead">Horaires<br><br>	
-					
+					<% 		for(String horraire : m.getHoraires()){
+						out.println(horraire+"<br>");
+					} %>	 
 					<% out.println(m.getSite()); %>	  
-					<!-- Lu : <br>
-				  	Ma : <br>
-				  	Me : <br>
-				  	Je : <br>
-				  	Ve : <br>
-				  	Sa : <br>
-				  	Di : <br>-->
-				  	
+					
 				  	</p>
 				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
