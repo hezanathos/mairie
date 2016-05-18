@@ -22,7 +22,7 @@ public class CodesDAO {
 	 * singleton attribut permettant de mettre en oeuvre le design pattern
 	 * singleton
 	 */
-	private static CodesDAO singleton;
+	private static volatile CodesDAO singleton;
 
 	/**
 	 * Constructeur (privé) de la classe Privé car utilisation du design pattern
@@ -45,9 +45,15 @@ public class CodesDAO {
 	 * 
 	 * @return
 	 */
-	public static CodesDAO getInstance() {
-		if (CodesDAO.singleton == null)
+	public static  CodesDAO getInstance() {
+		if (CodesDAO.singleton == null){
+			synchronized (CodesDAO.singleton) {
+				if (CodesDAO.singleton == null) {
+
 			singleton = new CodesDAO();
+				}
+			}
+		}
 		return singleton;
 	}
 
