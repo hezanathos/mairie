@@ -100,7 +100,7 @@
 				   <br>
 				   <p class="lead">Carte Google Map</p>
 
-				<!-- 
+				
 				<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
 				<div style='overflow:hidden;height:320px;width:500px;'>
 					<div id='gmap_canvas' style='height:320px;width:500px;'>
@@ -113,12 +113,13 @@
 					</div>
 					<div>
 						<small>
+
 							<a href="http://www.youtubeembedcode.com">generate youtube code</a>
 						</small>
 					</div>
 					<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
 				</div><script type='text/javascript'>function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(49.44323199999999,1.0999709999999823),mapTypeId: google.maps.MapTypeId.HYBRID};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(49.44323199999999,1.0999709999999823)});infowindow = new google.maps.InfoWindow({content:'<strong>Rouen</strong><br>Rouen<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>				   
-				-->  
+				  
 				   <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
 				
