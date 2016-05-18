@@ -47,7 +47,7 @@ public class CodesDAO {
 	 */
 	public static  CodesDAO getInstance() {
 		if (CodesDAO.singleton == null){
-			synchronized (CodesDAO.singleton) {
+			synchronized (CodesDAO.class) {
 				if (CodesDAO.singleton == null) {
 
 			singleton = new CodesDAO();

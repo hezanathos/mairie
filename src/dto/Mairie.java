@@ -36,7 +36,12 @@ public class Mairie {
 	public void setNom(String nom) {
 		this.nom = nom;
 	}
-	
+	public String getlatitude() {
+		return latitude;
+	}	
+	public String getlongitude() {
+		return longitude;
+	}
 	public String getAdresse() {
 		return adresse;
 	}
