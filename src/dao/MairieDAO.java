@@ -18,14 +18,21 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 public class MairieDAO {
-
+	/**
+	 * singleton attribut permettant de mettre en oeuvre le design pattern
+	 * singleton
+	 */
 	private static volatile MairieDAO singleton;
-
+	/**
+	 * Permet de récupérer l'instance unique de la classe MessageDAO cf design
+	 * pattern singleton
+	 * 
+	 * @return
+	 */
 	public static MairieDAO getInstance() {
 		if (MairieDAO.singleton == null) {
 			synchronized (MairieDAO.singleton) {
 				if (MairieDAO.class == null) {
-
 					singleton = new MairieDAO();
 				}
 			}
@@ -35,10 +42,17 @@ public class MairieDAO {
 
 	public static String getInsee() {
 		String code = "";
-
 		return code;
 	}
-
+	/**
+	 * Permet de créer l'objet Mairie à partir des fichiers xml
+	 * @param String 
+	 * 			code INSEE
+	 * @param String
+	 * 			racine du projet
+	 * @retun Mairie
+	 * 	Retourne un objet de type mairie corespondant au caractéristiques d'une ville
+	 */
 	public static Mairie getMairieFromINSEE(String INSEE, String racineProj) {
 		String nom = "";
 		String adresse = "";
@@ -51,18 +65,15 @@ public class MairieDAO {
 		String telephone = "";
 		List<String> plages = new ArrayList<String>();
 		String temp = "";
-
 		if (INSEE != null) {
 			final DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 
 			try {
-
+				//On recupère les données du xml concerné celon le code INSEE entré en parametre
 				final DocumentBuilder builder = factory.newDocumentBuilder();
 
-				final Document document = builder.parse(new File(racineProj + "WEB-INF" + File.separator + "lib"
+				final Document document = builder.parse(new File(racineProj + "WEB-INF" + File.separator + "Ressources"
 						+ File.separator + "cleanDatas" + File.separator + INSEE + ".xml"));
-				// System.out.println(racineProj+"WEB-INF"+File.separator+"lib"+File.separator+"cleanDatas"+File.separator+
-				// INSEE + ".xml");
 
 				final Element racine = document.getDocumentElement();
 
@@ -80,23 +91,18 @@ public class MairieDAO {
 
 				if (racine.getElementsByTagName("NomCommune").getLength() != 0)
 					ville = racine.getElementsByTagName("NomCommune").item(0).getTextContent();
-				// else ville = "Non communiqué";
 
 				if (racine.getElementsByTagName("Latitude").getLength() != 0)
 					latitude = racine.getElementsByTagName("Latitude").item(0).getTextContent();
-				// else latitude = "Non communiqué";
 
 				if (racine.getElementsByTagName("Longitude").getLength() != 0)
 					longitude = racine.getElementsByTagName("Longitude").item(0).getTextContent();
-				// else longitude = "Non communiqué";
 
 				if (racine.getElementsByTagName("Téléphone").getLength() != 0)
 					telephone = racine.getElementsByTagName("Téléphone").item(0).getTextContent();
-				// else telephone = "Non communiqué";
 
 				if (racine.getElementsByTagName("Email").getLength() != 0)
 					mail = racine.getElementsByTagName("Email").item(0).getTextContent();
-				// else mail = "Non communiqué";
 
 				if (racine.getElementsByTagName("PlageJ").getLength() != 0) {
 					racine.getAttribute("PlageJ");
@@ -130,7 +136,7 @@ public class MairieDAO {
 				e.printStackTrace();
 
 			}
-
+			//On construit l'objet mairie a retourné
 			Mairie mairie = new Mairie(nom, adresse, mail, site, INSEE, codePostal, telephone, plages, ville, latitude,
 					longitude);
 
@@ -138,12 +144,4 @@ public class MairieDAO {
 		} else
 			return null;
 	}
-
-	public static void main(final String[] args) {
-		// Mairie mairie = getMairieFromINSEE("58142");
-		// System.out.println(mairie.toString());
-		// Mairie mairie2 = getMairieFromINSEE("58210");
-		// System.out.println(mairie2.toString());
-	}
-
 }

@@ -28,17 +28,15 @@ public class CodesDAO {
 	 * Constructeur (privé) de la classe Privé car utilisation du design pattern
 	 * singleton
 	 */
-	private CodesDAO() {
-		// chargement du pilote Mysql
+	public CodesDAO() {
+		// Chargement du pilote Mysql
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
 		} catch (ClassNotFoundException e2) {
 			System.out.println(
 					"Impossible de charger le pilote de BDD, ne pas oublier d'importer le fichier mysql-connector-java-XXXX.jar dans le projet");
 		}
-
 	}
-
 	/**
 	 * Permet de récupérer l'instance unique de la classe MessageDAO cf design
 	 * pattern singleton

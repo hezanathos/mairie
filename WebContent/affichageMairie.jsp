@@ -117,7 +117,9 @@
  %><br> <br> Telephone :
 						<%
  	out.println(m.getTelephone());
- %><br> <br> Site Web : <a href=""> <%
+ %><br> <br> Site Web : <a href="<%
+ 	out.println(m.getSite());
+ %>"> <%
  	out.println(m.getSite());
  %>
 						</a><br> <br>

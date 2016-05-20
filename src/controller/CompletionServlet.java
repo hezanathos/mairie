@@ -31,22 +31,15 @@ public class CompletionServlet extends HttpServlet {
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse
-	 *      response)
+	 *      response)s
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		List<Possibility> poss = codesDAO.getPossFromName(request.getParameter("tocomplete"));
 		poss.addAll(codesDAO.getPossFromPostal(request.getParameter("tocomplete")));
-		/*
-		 * PrintWriter out = response.getWriter(); for(Possibility p : poss){
-		 * out.append(p.toString()+"|"); }
-		 */
-		//request.setAttribute("Poss", poss);
 		for (Possibility possibility : poss) {
 			response.getWriter().print(possibility.toString());
 		}
-		
-
 	}
 
 	/**

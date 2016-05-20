@@ -12,8 +12,6 @@ import javax.servlet.http.HttpServletResponse;
 import dao.*;
 import dto.*;
 
-
-
 @WebServlet("/AffichageServlet")
 public class AffichageServlet extends HttpServlet{
 	private static final long serialVersionUID = -8724195532620288137L;
@@ -21,24 +19,22 @@ public class AffichageServlet extends HttpServlet{
 	public AffichageServlet() {
 	codesDAO = CodesDAO.getInstance();
 	}
-	@Override
+	/**
+	 * @see HttpServlet(HttpServletRequest req, HttpServletResponse resp)
+	 */
 	protected void service(HttpServletRequest req, HttpServletResponse resp) 
 			throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		//String L =System.getProperty("line.separator");
 		PrintWriter out = resp.getWriter();
 		String search = req.getParameter("villes");
 		try{
-			//get INSEE
+			
 			Possibility poss = codesDAO.getPossFromName(search).get(0);
-
-		Mairie mairie = MairieDAO.getMairieFromINSEE(poss.getINSEE(),getServletContext().getRealPath("/"));
-		req.setAttribute("userInput", mairie);
-		this.getServletContext().getRequestDispatcher("/affichageMairie.jsp").forward(req,resp);
+			Mairie mairie = MairieDAO.getMairieFromINSEE(poss.getINSEE(),getServletContext().getRealPath("/"));
+			req.setAttribute("userInput", mairie);
+			this.getServletContext().getRequestDispatcher("/affichageMairie.jsp").forward(req,resp);
 		}finally {
 			out.println("");
 		}
-		//this.getServletContext().getRequestDispatcher("/affichageMairie.jsp").forward(req,resp);
 	}
 	
 	

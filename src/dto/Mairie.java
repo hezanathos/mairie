@@ -15,6 +15,9 @@ public class Mairie {
 	private String longitude;
 	private List<String> horaires;
 	
+	/**
+	 * Construteur avec paramètres
+	 */
 	public Mairie(String nom, String adresse, String mail, String site, String iNSEE, String codePostal, String telephone,  List<String> horaires, String ville, String latitude, String longitude) {
 		this.latitude = latitude;
 		this.longitude = longitude;
@@ -93,7 +96,7 @@ public class Mairie {
 	public List<String> getHoraires() {
 		return horaires;
 	}
-
+	//fonction pour afficher la list d'horaires proprement
 	public void affichageHoraires(){
 		for(int i=0 ;  i<horaires.size(); i++){
 			System.out.println(horaires.get(i));
@@ -103,7 +106,7 @@ public class Mairie {
 	public void setHoraires(List<String> horaires) {
 		this.horaires = horaires;
 	}
-
+	//affichage pour test dans la console
 	public String toString(){
 		String myString = "Ville : " + ville + " Nom : " + nom + " Adresse : " + adresse + " Mail : " + mail + " Site : " + " CodePostal : " + codePostal + " Telephone : " + telephone + " Site : " + site + " INSEE : " + INSEE;
 		myString += " Latitude : " + latitude + " Longitude : " + longitude;
